@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "S1",
+    "title": "O‘zbek tili Surxondaryo shevalari (Fonetika, leksika)",
+    "authors": "Saidmuso Rahimov",
+    "year": 1985,
+    "pdf_path": "/workspace/attachments/5a93d0cd-5ce1-44e9-865d-1f930c3e5e33/Saidmuso Rahimov. O'zbek tili Surxondaryo shevalari (1).pdf",
+    "file_name": "Saidmuso Rahimov. O'zbek tili Surxondaryo shevalari (1).pdf",
+    "pdf_pages": 96,
+    "sha256": "d6cd63ee5b1a9d8f44607abeea0e94014ec8b1094a31ae88194d7135a2c85ae6",
+    "extraction": "OCR; not fully proofread",
+    "notes": "PDF 58/59 and 82/83 are inverted and swapped; printed page numbers mapped separately. Cover confirms 1985."
+  },
+  {
+    "source_id": "S2",
+    "title": "Qashqadaryo va Surxondaryo qipchoq dialekt va etnografizmlarini yaxlit o‘rganish muammolari",
+    "authors": "Raxmanov Botir; Boypo‘latova Sevinchxon; Qo‘ziboyeva Saboxat",
+    "year": null,
+    "pdf_path": "/workspace/attachments/82e4a1a8-a0ac-4a05-aa63-24cabf068e2f/228-232.pdf",
+    "file_name": "228-232.pdf",
+    "pdf_pages": 5,
+    "sha256": "7b253faaf1eaf6ecc4e1aa2e68307f4d2e8908a76be5d06c1766769ca7d4c3a0",
+    "extraction": "native PDF text; figures and transcription may need visual checking",
+    "notes": "Year not explicitly established from supplied article; DOI 10.5281/zenodo.10067310."
+  },
+  {
+    "source_id": "S3",
+    "title": "Surxondaryo shevalari korpusiga sheva matnlarini ichki tizimga kiritish prinsiplari",
+    "authors": "Xolova Muyassar",
+    "year": 2023,
+    "pdf_path": "/workspace/attachments/a334ee98-ad14-4aff-8f18-d62f230f9885/2277-Текст статьи-6272-1-10-20230418.pdf",
+    "file_name": "2277-Текст статьи-6272-1-10-20230418.pdf",
+    "pdf_pages": 7,
+    "sha256": "fac16981fcde615d7e42f57476506142908e41cdad110e4ddb3ae40e2e2ae4e9",
+    "extraction": "native PDF text; figures and transcription may need visual checking",
+    "notes": ""
+  },
+  {
+    "source_id": "S4",
+    "title": "Surxondaryo etnografizmlarining lingvomadaniy tadqiqi — avtoreferat",
+    "authors": "Raxmanov Botir",
+    "year": 2024,
+    "pdf_path": "/workspace/attachments/dbdd292d-0b16-452c-acd3-c9948a888ea6/4761078a-848a-43b4-af50-91c8a3e410cf.pdf",
+    "file_name": "4761078a-848a-43b4-af50-91c8a3e410cf.pdf",
+    "pdf_pages": 56,
+    "sha256": "c89b74ab3e8ce596219409a1399fa6a16dcc96a5ecea9a5e8ce0ea853473e0b5",
+    "extraction": "native PDF text; figures and transcription may need visual checking",
+    "notes": "56-page abstract, not the full 131-page dissertation. Uzbek, Russian and English sections repeat findings."
+  },
+  {
+    "source_id": "S5",
+    "title": "Surxondaryo o‘zbek shevalariga doir ayrim paremalar tahlili",
+    "authors": "Xamidov Mansur",
+    "year": 2022,
+    "pdf_path": "/workspace/attachments/ee811d7e-b35e-41dd-8705-bfcd310a633c/88_Xamidov_Mansur_Abdumannobovich_676-684.pdf",
+    "file_name": "88_Xamidov_Mansur_Abdumannobovich_676-684.pdf",
+    "pdf_pages": 9,
+    "sha256": "e68c4ba300380586556108c5a2b3686312d026a2ee29ccbe07c2a222cffeb719",
+    "extraction": "native PDF text; figures and transcription may need visual checking",
+    "notes": "Qiziriq field material."
+  },
+  {
+    "source_id": "S6",
+    "title": "Surxondaryo shevalarining nazariy asoslari",
+    "authors": "Bobomuradova Madina",
+    "year": 2025,
+    "pdf_path": "/workspace/attachments/f7d56327-7473-4882-a9fd-00bc466d3e27/surxondaryo-shevalarining-nazariy-asoslari.pdf",
+    "file_name": "surxondaryo-shevalarining-nazariy-asoslari.pdf",
+    "pdf_pages": 5,
+    "sha256": "3bfc1640f6a255ca9d544b1d769525fa06a36ec97459aa6ac954bd96664dc357",
+    "extraction": "native PDF text; figures and transcription may need visual checking",
+    "notes": "Classification and examples require cross-checking; see report."
+  }
+]

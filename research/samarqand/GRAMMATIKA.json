@@ -1,0 +1,166 @@
+{
+  "description": "Guruhga xos darslik misollari; gap ma’nosini saqlagan holda hududga mos qo‘llanishi tekshiriladi.",
+  "rules": [
+    {
+      "standard": "xotin",
+      "dialect_reading": "xotun",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Ikkinchi bo‘g‘inda i → u.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "dori",
+      "dialect_reading": "doru",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Ikkinchi bo‘g‘inda i → u.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "uyqu",
+      "dialect_reading": "oyqu",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Darslikning maxsus unli sifatlari oddiy yozuvga soddalashtirilgan.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "suhbat",
+      "dialect_reading": "sohbat",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Undoshlar oldidagi unli o‘zgarishi; umumiy barcha u larni almashtirish qoidasi emas.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "guruh",
+      "dialect_reading": "guroh",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Leksik misol doirasi.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "mix",
+      "dialect_reading": "mex",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Ayrim so‘zlarda i → e.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "umid",
+      "dialect_reading": "umed",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Ayrim so‘zlarda i → e.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "oldim",
+      "dialect_reading": "allim",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "ld → ll assimilatsiyasi.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "keldim",
+      "dialect_reading": "kellim",
+      "source_id": "M1",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "ld → ll assimilatsiyasi.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "kelyapman",
+      "dialect_reading": "kelappan",
+      "source_id": "M1",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Davom fe’li -ap; guruh bayonidagi misol.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "kelar edim",
+      "dialect_reading": "kelayidim",
+      "source_id": "M1",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Sifatdoshdagi r → y.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    },
+    {
+      "standard": "kelmas edim",
+      "dialect_reading": "kelmayidim",
+      "source_id": "M1",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "scope": "Samarqand-Buxoro guruhi; darslik Qarshi, Koson, Chust, Xo‘jandni ham sanaydi. Butun viloyatga universal emas.",
+      "explanation": "Bo‘lishsiz sifatdoshdagi s → y.",
+      "writing_status": "Tahririy sodda o‘qilish; fonetik diakritikalar to‘liq saqlanmagan."
+    }
+  ],
+  "additional_observations": [
+    {
+      "source_id": "M5",
+      "pdf_page": 29,
+      "printed_pages": [
+        54,
+        55
+      ],
+      "observation": "Samarqand-Buxoro guruhida jo‘nalish va o‘rin-payt shakllari almashinishi; darslik -ga/-da, borish/yashash ma’nosi va Qarshi misollarini alohida beradi. Har bir -da ni -ga ga aylantirish qoidasi olinmadi."
+    },
+    {
+      "source_id": "M1",
+      "pdf_pages": [
+        106,
+        107
+      ],
+      "printed_pages": [
+        105,
+        106
+      ],
+      "region": "Samarqand viloyati Qulota qishlog‘i",
+      "genre": "Xalq qo‘shig‘i",
+      "observation": "Yaxshi/jaxshi, yomon/jaman, yigit/jigit, yer/jer kabi so‘z boshidagi farqlar qo‘shiq matnida qayd etilgan; oddiy chatga tayyor dialog sifatida olinmaydi."
+    }
+  ],
+  "rejected_direct_substitutions": [
+    {
+      "source_id": "M3",
+      "pdf_page": 2,
+      "printed_page": 436,
+      "claim": "aytdi → aytyatir",
+      "reason": "O‘tgan zamon va davom etayotgan harakat ma’nolari teng emas."
+    },
+    {
+      "source_id": "M3",
+      "pdf_page": 2,
+      "printed_page": 436,
+      "claim": "bordim/keldim → boribedim/kelibedim",
+      "reason": "Murakkab o‘tgan zamon ma’nosi ham qo‘shilishi mumkin; birma-bir neytral almashtirish emas."
+    }
+  ]
+}

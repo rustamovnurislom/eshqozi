@@ -1,0 +1,36 @@
+{
+  "description": "Bu qiyoslar umumiylashuv va manba farqini ko‘rsatadi; viloyatning barcha so‘zlari uchun mexanik o‘zgartirish qoidasi emas.",
+  "comparisons": [
+    {
+      "concept": "Guruh grammatikasi",
+      "samarkand_source": "M1:60–61",
+      "qashqadaryo_source": "/workspace/research/qashqadaryo/GRAMMATIKA.json",
+      "finding": "Bir xil Ashirboyev darsligi ikkala hudud tahlilida ishlatilgan; ikki mustaqil dalil deb sanalmasin."
+    },
+    {
+      "concept": "Qo‘shni",
+      "samarkand_form": "xamsiya",
+      "samarkand_source": "M3:436, qo‘shimcha tekshirish kerak",
+      "qashqadaryo_form": "hamsoya",
+      "qashqadaryo_source": "Q4:285",
+      "finding": "Fonetik va hududiy farq mumkin; Samarqand shakli shu maqola bilan cheklangan."
+    },
+    {
+      "concept": "Xo‘pmi",
+      "samarkand_form": "xaymi",
+      "samarkand_source": "M3:436, qo‘shimcha tekshirish kerak",
+      "qashqadaryo_form": "hayme",
+      "qashqadaryo_source": "Q4:276",
+      "finding": "Yaqin shakllar; eksklyuziv viloyat belgisi deb olinmasin."
+    },
+    {
+      "concept": "Ozgina",
+      "samarkand_forms": [
+        "gartak",
+        "gitek"
+      ],
+      "samarkand_source": "M4-A:22",
+      "finding": "Maqola xidireli/urganji va boshqa lahjalardagi variantlarni birga muhokama qiladi. Hudud ichidagi jamoa muhim."
+    }
+  ]
+}

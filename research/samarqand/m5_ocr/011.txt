@@ -1,0 +1,117 @@
+. - ( nuqta) , : ( ikki nuqta) va ... ( ko`p nuqta) belgidan keyin qoʻy ilib ,
+unlilarning cho`ziqligini bildiradi.
+
+, - lenis , gi undoshining yoniga qo'yilib, bu undoshning ( g“, )
+talaffuzida portlashni anglatadi.
+
+ъ — asper, “g” ning yoniga qo`yilib (gb ). spirantizatsiyani, yatni shu
+tovushning sirg`aluvchi ekanligini ifodalaydi.
+
+/ - akut, belgining o`ng tomoniga qoʻyilib, ( 1/ ), palatalazatsiya ( yum-
+shalishini) koʻrsatadi.
+
+» belgisi — nutq tovushining boshqa nutq tovushiga oʻtish hodisasini
+bildiradi.
+
+= belgisi — nutq tovushining boshqa nutq tovushi ta'sirida oʻzgarish
+hodisasini ko`rsatadi.
+
+// belgisi — tovushlarning almashinishi va ikki faktning parallel
+qo`llanishini anglatadi.
+
+( ) -— kichik qavs — shart bo`lmagan, nutqda tushib qoladigan elementni
+koʻrsatadi.
+
+(1 - oʻrta qavs – umumiy matndan Transkripsiya qilingan so`zlarni ajratib
+koʻrsatish uchun ishlatiladi.
+
+—- turli darajadagi qisqarish va kuchsizlanishni ifodalaydi.
+
+Transkripsiyada ma'lum bir sheva materiallarini yozib olishda
+quyidagilarga jiddiy e'tibor beriladi:
+
+1. Har bir tovush bir belgi bilan koʻrsatiladi, ya`ni adabiy tildagi kabi
+ikki tovushni bir belgi bilan koʻrsatish amalda qo`llanmaydi. Masalan,
+ya,yu,ya,yo. Bu harflar adabiy tilda qo`llanadigan harflar boʻlib, rus-krill
+yozuvida grafemalar hisoblanadi.
+
+2. Bir belgi doim bir tovushni bildiradi. U adabiy tildagi kabi ikki belgi bir
+tovushni bildirmasligi kerak. Masalan: пе(п,) kabi.
+
+3. Turli diakritik belgilar (qoʻshimcha belgilar) ham qoʻllaniladi. Bunday
+belgilar asosan ostki va ustki belgilardir, lekin ba'zan oʻrtada ham bo`ladi.
+Masalan: 3/am, 4, gʻ, o, o', h va boshqalar.
+
+4. Unlilarning yumshoqligini bildirish uchun ustiga ikki nuqta qoʻyiladi
+yoki a unlisi oʻrnida э harfi qo'yiladi, yoziladi. Masalan: pakana, gap va
+boshqalar.
+
+5. Undoshning yumshoqligini bildirish uchun yuqoridan uning oʻng
+tarafiga kichik belgi qoʻyiladi. Masalan: b'ir, k'im va boshqalar.
+
+6. Unlining ustidagi toʻgʻri chiziq uzunlikni, botiq chiziq esa qisqalikni
+bildiradi. Agar bu belgilar boʻlmasa, unli, odatdagidek, me'yoriy, o`rta holatda
+boʻladi. Masalan: kem, etm, эът.
+
+7. Nutq tovushlarning qattiqligi ham koʻrsatiladi: i - s1; a - a. Masalan,
+Бъиает, qaviq, qasmaq(ovqatning qozonga yopishgani), 4522 (qiz), go'sht va
+boshqalar. Й
+
+8. “Tovushlarning tushishi ham kichik qavs bilan ifodalanadi. Masalan:
+
+bolala (r), sh: ar (h).
+
+9. Urg`u ham odatdagidek ko`rsatiladi: Masalan: ғап2а;ътъг.
+
+Hozirgi alifibo (rus-krill alifibosi asosidagi o`zbek yozuvi va yangi oʻzbek
+yozuvi) asosida tuzilgan amaliy yozuvdagi belgilar bu fanda qo`llanadigan
+trans-kriptsiya uchun xizmat qiladi. Shu bilan birgalikda o`zbek shevalariga xos
+bo`lgan ba'zi bir nutq tovushlarini aniq ifodalash uchun qoʻshimcha belgilar
+ishlatiladi.
+
+Transkripsiyada (rus-krill yozuvidagi) “yo”lashgan harflar quyidagicha
+tarzda beriladi: ю-уш: 4 - ya, ye: e- e(ye,ye): ё- уз (yo).
+
+O`zbek adabiy tili va o`zbek xalq shevalari
+
+O`zbek tili singarmonizmning qisman borligi, kam saqlanib qolganligi
+bilan barcha turkiy tillardan farqlanadi. Shuningdek, boshqa turkiy tillarda
+9(to`qqiz)ta unli bo`lsa, oʻzbek adabiy tilida esa 6(olti)ta unli mavjud. Adabiy til
+hamma shevalar uchun umumiy bo`lgan tildir. U таЧит qoida va mezonga -
+maromlarga ega bo`ladi, shuningdek, jonli tildagi holatlarni yozuv orqali ham
+bera oladi (jonli til esa yozuvga ega emas). Adabiy tilning asosida yotadi.
+Adabiy til shevalardagi har xilliklarga yo“l qo`yilmaydi, uni til qoidalari asosida
+tartibga soladi. Lekin shevalar adabiy til uchun asos hisoblanadi.
+
+Masalan: Fe'lning -diganm formasi shevalarda turlicha talaffuz etilishiga
+qaramay, uning adabiy tilda yagona shakli mavjud (boradigan) :
+
+Baradigin (Toshkent shevasi), b3ratugan (Samarqand-Buxoro
+shevalari),
+
+baraevgan (Qo`qon shevasi), b3rafaugen (O`rta Xorazm shevalari)
+
+baratn (Qipchoq shevalari), baratagun (Urganch shevasi)
+
+Hozirgi adabiy til kelib chiqishi jihatidan eski oʻzbek tili bilan
+chambarchas bog`liq, shunga koʻra ular bir-biridan keskin farq qilmaydi, balki
+bir-birini man-tiqiy jihatdan toʻldiradi. Shuni ham hisobga olish kerakki, har bir
+davrning oʻziga xos grammatik qoidalari, soʻz ishlatish me'yorlari mavjud.
+Bunday o`zgarishlar birinchi navbatda tilning leksikasida yaqqol sezilib turadi:
+jamiyatdagi ijtimoiy hayotning o`zgarishi, fan-texnikaning taraqqiyoti va boshqa
+omillar natijasida tilda juda koʻp yangi tushunchani bildiruvchi soʻzlar paydo
+bo`ladi - shunga ehtiyoj tug`iladi: mashina, trakt 3r, bint va Б.
+
+Adabiy til shevalardan oʻzining leksik xususiyatlari bilan farqlanibgina
+qol-maydi, balki adabiy tilning grammatik qurilishi shevalarning grammatik
+quri-lishiga nisbatan murakkab bo`ladi. Masalan, adabiy tilda murakkab fikrni
+ifodalash uchun tarkibi juda ham keng bo`lgan qoʻshma gapdan foydalaniladi,
+shuningdek, sifatdoshli oborotlar, ergash gapli qo`ishma gaplar orqali fikrni
+ifodalash adabiy tilda shevalarga nisbatan ancha murakkab va keng tarqalgan
+boʻladi. Bundan tash-qari, adabiy tilning grammatik tizimi o`zining shevalar
+materiallarini birlashtirgan holda me“yorlashganligi bilan ham har qanday
+shevadan ajralib turadi. Demak, adabiy tilning qonun-qoidalarini to`la egallagan
+kishigina 0"2 fikr-mulohazasini yozuv orqali ifoda eta oladi. Yozuvning paydo
+
+19
+

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "M1",
+    "pdf_path": "/workspace/attachments/4b3a24d0-2285-435c-b645-2919869e7b5b/O'zbek dialektikasi. Ashirboyev S.pdf",
+    "pages": 139,
+    "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+    "same_as_qashqadaryo_source": "Q3",
+    "text_path": "/workspace/research/samarqand/M1.txt",
+    "characters": 258772
+  },
+  {
+    "id": "M2",
+    "pdf_path": "/workspace/attachments/3fda5ec7-4b77-4f4c-9873-9f497fdd19f2/5b015f0357f16.pdf",
+    "pages": 88,
+    "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+    "same_as_qashqadaryo_source": "Q2",
+    "text_path": "/workspace/research/samarqand/M2.txt",
+    "characters": 245931
+  },
+  {
+    "id": "M3",
+    "pdf_path": "/workspace/attachments/60d757ce-f6aa-4ea0-ad8b-6a073f672460/152_i_20260502_181859_4 (37).pdf",
+    "pages": 3,
+    "sha256": "49e8df4bdf4b3a37b40acdf5e3fd4bf0574e002aad9b85f4c16044248add4bb6",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M3.txt",
+    "characters": 10313
+  },
+  {
+    "id": "M4",
+    "pdf_path": "/workspace/attachments/4bbdf1db-1e81-4987-a507-a79629f0cd5d/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+    "pages": 216,
+    "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M4.txt",
+    "characters": 540582
+  },
+  {
+    "id": "M5",
+    "pdf_path": "/workspace/attachments/d51d751c-1e2a-43b0-a079-a3e4a0486e5f/1740379786.pdf",
+    "pages": 97,
+    "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M5.txt",
+    "characters": 97,
+    "ocr_text_path": "/workspace/research/samarqand/M5_ocr.txt",
+    "ocr_characters": 398619
+  }
+]

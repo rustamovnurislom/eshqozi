@@ -1,0 +1,47 @@
+{
+  "profiles": [
+    {
+      "name": "Samarqand shahar qarluq nutqi",
+      "sources": [
+        "M1:60–61",
+        "M4-B:204–206"
+      ],
+      "notes": "Tojik tili bilan uzoq aloqalar qayd etilgan. Taom nomlari butun kundalik grammatika tavsifi emas."
+    },
+    {
+      "name": "Samarqand viloyati qipchoq nutqi",
+      "sources": [
+        "M1:106–107 (Qulota)",
+        "M4-C:85–87 (Mehrjon va sharqiy qipchoq qiyoslari)"
+      ],
+      "notes": "Aniq tuman/qishloq darajasidagi dalil talab qilinadi; viloyatning hammasi bitta j-lovchi profil emas."
+    },
+    {
+      "name": "Samarqanddagi o‘g‘uz jamoalari",
+      "sources": [
+        "M4-A:20–23"
+      ],
+      "subgroups": [
+        "eroni",
+        "urganji",
+        "xidireli/turkman"
+      ],
+      "notes": "Maqola ichidagi nomlar va variantlar saqlandi. «Eroni» jamoa nomi umumiy «eronlashgan» tarixiy tasnif atamasi bilan bir xil emas."
+    },
+    {
+      "name": "M3 dagi Qo‘shrabot/Pastdarg‘om kundalik birliklar",
+      "sources": [
+        "M3:436"
+      ],
+      "notes": "Nomzod material; ichki lahja va bugungi tabiiylik mustaqil tekshirilmagan."
+    }
+  ],
+  "source_conflicts": [
+    {
+      "source_id": "M3",
+      "pdf_page": 2,
+      "claim": "Tumanlarni butunlay qipchoq/qarluq guruhlariga ajratish",
+      "issue": "O‘sha maqolaning o‘zi Qo‘shrabotda j-lovchilar va Pastdarg‘omda chandir o‘g‘uz shevasini ham tasvirlaydi. M1/M4 ko‘p profilni tasdiqlaydi; qat’iy tuman = bitta lahja jadvali olinmadi."
+    }
+  ]
+}

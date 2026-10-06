@@ -1,0 +1,225 @@
+[
+  {
+    "id": "M1",
+    "pdf_path": "/workspace/attachments/4b3a24d0-2285-435c-b645-2919869e7b5b/O'zbek dialektikasi. Ashirboyev S.pdf",
+    "pages": 139,
+    "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+    "same_as_qashqadaryo_source": "Q3",
+    "text_path": "/workspace/research/samarqand/M1.txt",
+    "characters": 258772,
+    "title": "O‘zbek dialektologiyasi",
+    "author": "Samixon Ashirboyev",
+    "year": 2016,
+    "publisher": "Navro‘z, Toshkent",
+    "read_pages": [
+      9,
+      20,
+      38,
+      54,
+      55,
+      60,
+      61,
+      86,
+      87,
+      106,
+      107
+    ],
+    "scope": "Umumiy darslik; Samarqandga tegishli qismlar qayta o‘qildi. Qashqadaryo Q3 nusxasi bilan SHA-256 aynan bir xil.",
+    "visual_pages": [
+      38,
+      54,
+      55,
+      60,
+      61,
+      106,
+      107
+    ]
+  },
+  {
+    "id": "M2",
+    "pdf_path": "/workspace/attachments/3fda5ec7-4b77-4f4c-9873-9f497fdd19f2/5b015f0357f16.pdf",
+    "pages": 88,
+    "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+    "same_as_qashqadaryo_source": "Q2",
+    "text_path": "/workspace/research/samarqand/M2.txt",
+    "characters": 245931,
+    "title": "O‘zbek dialektologiyasi fanidan o‘quv-uslubiy majmua",
+    "author": "Sh. Xudoyqulova",
+    "year": 2008,
+    "publisher": "Guliston davlat universiteti",
+    "read_pages": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      42,
+      45
+    ],
+    "scope": "Umumiy kurs; tasnif va Samarqand qiyoslari o‘qildi. Qashqadaryo Q2 bilan SHA-256 aynan bir xil.",
+    "visual_pages": [
+      42
+    ]
+  },
+  {
+    "id": "M3",
+    "pdf_path": "/workspace/attachments/60d757ce-f6aa-4ea0-ad8b-6a073f672460/152_i_20260502_181859_4 (37).pdf",
+    "pages": 3,
+    "sha256": "49e8df4bdf4b3a37b40acdf5e3fd4bf0574e002aad9b85f4c16044248add4bb6",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M3.txt",
+    "characters": 10313,
+    "title": "Samarqand shevasining adabiy muhitdagi o‘rni",
+    "authors": [
+      "Jumashov Davlatyor",
+      "Abdurahmonova Marjona Farhod qizi"
+    ],
+    "year": 2026,
+    "doi": "10.5281/zenodo.19945184",
+    "printed_pages": [
+      435,
+      436,
+      437
+    ],
+    "read_pages": [
+      1,
+      2,
+      3
+    ],
+    "scope": "3 sahifali maqola to‘liq o‘qildi. Hudud tasnifi va ayrim grammatik/ma’noviy tenglashtirishlar tekshirishni talab qiladi."
+  },
+  {
+    "id": "M4",
+    "pdf_path": "/workspace/attachments/4bbdf1db-1e81-4987-a507-a79629f0cd5d/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+    "pages": 216,
+    "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M4.txt",
+    "characters": 540582,
+    "title": "O‘zbek shevalari tadqiqotlari: amaliyot, metodologiya va yangicha yondashuv",
+    "editor": "Sh. Sirojiddinov",
+    "year": 2022,
+    "publisher": "Donishmand ziyosi, Toshkent",
+    "conference_date": "2022-05-21",
+    "read_pages": [
+      20,
+      21,
+      22,
+      23,
+      85,
+      86,
+      87,
+      204,
+      205,
+      206
+    ],
+    "context_reviewed_pages": [
+      81,
+      82,
+      83,
+      84,
+      88,
+      89
+    ],
+    "scope": "216 sahifali to‘plamdan Samarqandga bag‘ishlangan ikki maqola to‘liq va hududga taalluqli uch qiyosiy sahifa o‘qildi; barcha maqolalar Samarqandga oid emas.",
+    "visual_pages": [
+      21,
+      22,
+      205,
+      206
+    ],
+    "articles": [
+      {
+        "id": "M4-A",
+        "title": "Samarqand o‘g‘uzlari nutqidagi so‘z hosil bo‘lishining ayrim xususiyatlariga doir",
+        "authors": [
+          "M. Abdiyev",
+          "S. Rahmonov"
+        ],
+        "pdf_pages": [
+          20,
+          21,
+          22,
+          23
+        ],
+        "fieldwork": "2019–2021 dialektologik ekspeditsiya materiallari"
+      },
+      {
+        "id": "M4-B",
+        "title": "Samarqand shahar o‘zbek shevalarida qo‘llaniladigan taom nomlari to‘g‘risida",
+        "author": "Zilola Raxmatillayevna Tillabayeva",
+        "pdf_pages": [
+          204,
+          205,
+          206
+        ],
+        "fieldwork": "2017–2021 dala materiallari"
+      },
+      {
+        "id": "M4-C",
+        "title": "O‘zbek shevalarida so‘z yasalishi (Navoiy viloyati shevalari misolida)",
+        "author": "Navro‘z Sattorovich Raxmonov",
+        "pdf_pages": [
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ],
+        "scope": "Faqat Samarqand/Narpay deb aniq belgilangan qiyoslar olindi."
+      }
+    ]
+  },
+  {
+    "id": "M5",
+    "pdf_path": "/workspace/attachments/d51d751c-1e2a-43b0-a079-a3e4a0486e5f/1740379786.pdf",
+    "pages": 97,
+    "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+    "same_as_qashqadaryo_source": null,
+    "text_path": "/workspace/research/samarqand/M5.txt",
+    "characters": 97,
+    "ocr_text_path": "/workspace/research/samarqand/M5_ocr.txt",
+    "ocr_characters": 398619,
+    "title": "O‘zbek shevashunosligi",
+    "authors": [
+      "T. J. Enazarov",
+      "V. A. Karimjonova",
+      "M. S. Enazarova",
+      "Sh. S. Mahmadiyev",
+      "K. G‘. Rixsiyeva"
+    ],
+    "year": 2012,
+    "publisher": "Universitet, Toshkent",
+    "read_pages": [
+      2,
+      3,
+      29,
+      31,
+      80,
+      81,
+      82,
+      95
+    ],
+    "context_reviewed_pages": [
+      11,
+      13,
+      14,
+      15,
+      16,
+      18
+    ],
+    "visual_pages": [
+      2,
+      3,
+      29,
+      31,
+      80,
+      81,
+      82,
+      95
+    ],
+    "scope": "Skan kitob. Ko‘pchilik PDF sahifasi ikki bosma sahifadan iborat. Tuzilishi, hududiy qidiruv natijalari, tegishli grammatika va lug‘at namunalari ko‘rildi. To‘liq OCR qidiruv indeksi; kitobning barcha sahifalari to‘liq o‘qilgan emas."
+  }
+]
