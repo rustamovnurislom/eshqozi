@@ -1,0 +1,105 @@
+[
+  {
+    "id": "JP1",
+    "region": "Jizzax shahri / shahar tipidagi sheva",
+    "classification": "Qarluq-chigil-uyg‘ur; Reshetov tasnifining Toshkent guruhi.",
+    "source_refs": [
+      {
+        "source": "J2",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "anchor_extracted": "Toshkent guruhi:",
+        "evidence_extracted": "dialekti; Marg’ilon - Qo’qon dialekti.\nToshkent guruhi: Toshkent dialekti; Jizzax dialekti.\nQarshi guruhi: Qarshi dialekti; Samarqand-Buxoro dialekti\n-Shimoliy o’zbek guruhi: Iqon - Qorabuloq dialekti; Turkiston-Chimkent dialekti.\n Nazorat topshiriqlari\n1.Olimlar tomonidan qilingan tasniflarni o’rganish va ularning bir-biridan farqlarini"
+      },
+      {
+        "source": "J2",
+        "pdf_page": 38,
+        "printed_page": 38,
+        "anchor_extracted": "2.Toshkent guruhi",
+        "evidence_extracted": "ichiga oladi.\n2.Toshkent guruhi – Toshkent (Pskent, Parkent, Qoraxitoy shevalari kiradi), Jizzax\ndialektlarini o’z ichiga oladi.\n3.Qarshi guruhi -Qarshi dialekti (Qarshi, Shahrisabz, U Kitob, Yakkabog’  shevalari\n), Samarqand-Buxoro dialekti (Samarqand-Buxoro, Xo’jand, Chust, Koson shevalari\n)ning o’z ichiga oladi."
+      }
+    ],
+    "coverage_limit": "Bu tasnif butun viloyatni bir xil sheva qilmaydi. Jizzax shahar suhbatining to‘liq korpusi berilmagan."
+  },
+  {
+    "id": "JP2",
+    "region": "Zomin «j»lovchi qishloq nutqi",
+    "classification": "Maqolada asosan qipchoq; kichik qism aholida qarluq ham qayd etilgan.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 1,
+        "printed_page": 887,
+        "anchor_extracted": "asosan qipchoq lahjasida",
+        "evidence_extracted": "  Zomin hududida o’zbeklardan tashqari, qirg’izlar, qisman, tojiklar yashaydi.  Bu\nhududda istiqomat qiluvchi o’zbeklar asosan qipchoq lahjasida so’zlashuvchi sheva\nvakillari bo’lib, kichik bir qism aholi qarluq shevasida so’zlashadi.\n  Qipchoq lahjasida so’zlashuvchi urug’ vakillari o’z sheva xususiyatlarini yaxshi\nsaqlash bilan birga qadimiy etnik ildizlarni unutmaslikka ham harakar qilishadi. Bu\nholat, ayniqsa, to’y-marakalarda, qiz olib, qiz berishda, xususan, keksa avlod"
+      }
+    ],
+    "coverage_limit": "Iboralar va 5 gap bor; aniq qishloq va suhbatdoshlar kesimida taqsimot yo‘q. Zominning barcha nutqi j-lovchi deb olinmaydi."
+  },
+  {
+    "id": "JP3",
+    "region": "Forish",
+    "classification": "Turfa shevalar mavjudligi aytilgan; bu to‘plam barcha Forish materialini bitta lahjaga biriktirmaydi.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 149,
+        "printed_page": 149,
+        "anchor_extracted": "turfa xil shevalari",
+        "evidence_extracted": "mon-xirmon”, “Podachi”, “Sartarosh”, “Kashtachi”, “Asir olish” kabilar.\n   Jizzax viloyatining Forish tumani nafaqat tabiati, balki turfa xil shevalari\nbilan ajralib turadigan maskan hisoblanadi. Mustaqillikdan keyin respublika­\n\n                               149"
+      },
+      {
+        "source": "J3",
+        "pdf_page": 63,
+        "printed_page": null,
+        "anchor_extracted": "Xorazm, Forish",
+        "evidence_extracted": "\nXorazm, Forish va shimoliy o’zbek shevalarida saqlanib qolgan: tu:sh, a:d,\n\nba:la va boshqalar. Aslida bu kabi  unlilar cho’ziqligi urg`uning dastlabki\n\nbo’g`inga tushishi xususiyati bilan boshangan. Bunday cho’ziqlik birlamchi"
+      }
+    ],
+    "coverage_limit": "O‘yin terminlari dala ekspeditsiyasidan; inmoq maqolada aniq belgilangan; oddiy so‘zlar asosan 1971-yil lug‘atidan. Cho‘ziq unli misollari Xorazm/Forish/shimoliy guruh uchun umumiy berilgan, alohida Forish yozuvi emas."
+  },
+  {
+    "id": "JP4",
+    "region": "Baxmal / G‘allaorol",
+    "classification": "J2 test variantida sharqiy qipchoq geografiyasi ichida sanalgan; J3 baxmal shevasini qipchoq dialekti misoliga qo‘shadi.",
+    "source_refs": [
+      {
+        "source": "J2",
+        "pdf_page": 62,
+        "printed_page": 62,
+        "anchor_extracted": "qipchoq shevalari, Baxmal",
+        "evidence_extracted": "A.* Samarqand shahrining sharq tomoni, Bekobod shahri va Bekobod tumani\nqipchoq shevalari, Baxmal, G`allaorol, Zomin, Sirdaryo vil. bir qismi.\n\n\n                                       62"
+      },
+      {
+        "source": "J3",
+        "pdf_page": 5,
+        "printed_page": null,
+        "anchor_extracted": "baxmal, ming",
+        "evidence_extracted": "\nqirq, saroy, jo’sh, nayman, qo’nirot, qipchoq qoraqalpoq, baxmal, ming, burgut\n\nkabi shevalar birlashib, o’zbek tilining qipchoq dialektini tashkil qiladi. Lekin\n\nba‘zan  dialekt  atamasining   tor  ma’noda,  ko’pincha  sheva  ma’nosida"
+      }
+    ],
+    "coverage_limit": "Lug‘at yoki hozirgi nutq namunasi bo‘lmaganligi sababli alohida tayyor so‘zlashuv profili tuzilmadi."
+  },
+  {
+    "id": "JP5",
+    "region": "Joy nomi aniqlashtiriladigan o‘g‘uz qaydlari",
+    "classification": "J2 Forishdagi «Bog‘ot»ni shimoliy o‘g‘uz guruhiga kiritadi; J3 Jizzax yaqinida «Bodan» qishlog‘ini aytadi.",
+    "source_refs": [
+      {
+        "source": "J2",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "anchor_extracted": "Forish tumanidagi Bog’ot",
+        "evidence_extracted": "Sho’raxon shevasi alohida bir tip sifatida kiritilgan. 2-tip. Shimoliy o’g’iz guruh\nshevalari. (Iqon-Qorabuloq shevalari) Shu guruhga Forish tumanidagi Bog’ot shevasi\nham kiritilgan.\n    «Qipchoq lahjasi» uchinchi dialekt bo’lib, bu etti tip shevani o’z ichiga oladi:\n1-tip. O’rta Xorazm va Shimoliy Xorazm; (Gurlan, Bog’ot, Shoabboz, Xo’jayli,\nQipchoq,Qo’ng’irot, Mang’it tumanlari shevalari)."
+      },
+      {
+        "source": "J3",
+        "pdf_page": 84,
+        "printed_page": null,
+        "anchor_extracted": "Bodan qishloida",
+        "evidence_extracted": "\nBodan qishloida. O`g`uz urulari sirasiga olot, bayot, jiag`chi, darg`ali, qoravul,\n\nsayot, solir, yersari, chandir, eski, burjoq kabilar kiradi. O`g`uz lahjasining eng\n\nmuhim o’ziga xos xususiyatlari quyidagilardan iborat:"
+      }
+    ],
+    "coverage_limit": "Bog‘ot va Bodan aynan bir joy yoki Bog‘donning xatosi ekanligi tekshirilmagan. Nomlar dalilsiz birlashtirilmaydi."
+  }
+]

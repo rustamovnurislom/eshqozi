@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Q1",
+    "pdf_path": "/workspace/attachments/ebba1dea-b599-41bd-99e2-1277829b3e6d/10.59182-tudad.1619886-4520972.pdf",
+    "text_path": "/workspace/research/qashqadaryo/Q1.txt",
+    "pages": 8,
+    "characters": 28455
+  },
+  {
+    "id": "Q2",
+    "pdf_path": "/workspace/attachments/fb7497b6-1591-4ffb-9ebb-e2608c85150a/5b015f0357f16.pdf",
+    "text_path": "/workspace/research/qashqadaryo/Q2.txt",
+    "pages": 88,
+    "characters": 245931
+  },
+  {
+    "id": "Q3",
+    "pdf_path": "/workspace/attachments/7ea34766-d14d-4f64-90c1-cbb0d5f79e4d/O'zbek dialektikasi. Ashirboyev S.pdf",
+    "text_path": "/workspace/research/qashqadaryo/Q3.txt",
+    "pages": 139,
+    "characters": 258772
+  },
+  {
+    "id": "Q4",
+    "pdf_path": "/workspace/attachments/a3a82354-817b-48d5-9018-fa152b5a9f3f/Ўзбек халқ шевалари луғати.pdf",
+    "text_path": "/workspace/research/qashqadaryo/Q4.txt",
+    "pages": 410,
+    "characters": 866539
+  }
+]

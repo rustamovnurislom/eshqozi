@@ -1,0 +1,752 @@
+[
+  {
+    "id": "NN001",
+    "text_source": "berïšïm kerä:",
+    "meaning_uz": "borishim kerak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "berïšïm kerä:",
+        "evidence_extracted": "orishim                                           münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN002",
+    "text_source": "gürüŋläšmāq",
+    "meaning_uz": "gaplashmoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "gürüŋläšmāq",
+        "evidence_extracted": "   tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent q",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN003",
+    "text_source": "qöqämän",
+    "meaning_uz": "qo‘rqaman",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qöqämän",
+        "evidence_extracted": "                   münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n           ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN004",
+    "text_source": "kïnnïgänï bārmāq",
+    "meaning_uz": "hammomga bormoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kïnnïgänï",
+        "evidence_extracted": "nïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN005",
+    "text_source": "mäšajdä",
+    "meaning_uz": "mana shu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mäšajdä",
+        "evidence_extracted": "ana shu\n                                                                                  mäšajdä       buyoqqa kel    bäqäke:\n                                                                        yerda\nTable 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN006",
+    "text_source": "šejdä",
+    "meaning_uz": "shu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šejdä",
+        "evidence_extracted": " 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n                                                                  uyoqqa                     shu   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                 ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN007",
+    "text_source": "äqäkettï",
+    "meaning_uz": "uyoqqa ketdi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "äqäkettï",
+        "evidence_extracted": "u   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                   äqäkettï                      šettämän\n                                                                              ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN008",
+    "text_source": "mänïjdä",
+    "meaning_uz": "mana bu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mänïjdä",
+        "evidence_extracted": "āqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   q",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN009",
+    "text_source": "bäqqärä",
+    "meaning_uz": "buyoqqa qara",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bäqqärä",
+        "evidence_extracted": "   kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallar",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN010",
+    "text_source": "bäqäke:",
+    "meaning_uz": "buyoqqa kel",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bäqäke:",
+        "evidence_extracted": "                                                             mäšajdä       buyoqqa kel    bäqäke:\n                                                                        yerda\nTable 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN011",
+    "text_source": "mänïjgä ke:",
+    "meaning_uz": "mana bu yerga kel",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mänïjgä ke:",
+        "evidence_extracted": "sida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n                                                                  uyoqqa                     shu   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                   äqäkettï                      š",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN012",
+    "text_source": "šettämän",
+    "meaning_uz": "shu yerdaman",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šettämän",
+        "evidence_extracted": "   Adabiy tilda   Shevada                                   äqäkettï                      šettämän\n                                                                              ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN013",
+    "text_source": "närïrāqqä ketdï",
+    "meaning_uz": "narigi yoqqa ketdi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "närïrāqqä",
+        "evidence_extracted": "                                           mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                          ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN014",
+    "text_source": "qättäsän",
+    "meaning_uz": "qayerdasan",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "genre": "maqoladagi jadval ifodasi; mustaqil yozib olingan dialog emas",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qättäsän",
+        "evidence_extracted": "       qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallardir.\nhamda leksik xususiyati b",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN015",
+    "text_source": "сорэшэйнук:  тузумъсъз. Туну кун  тэвъцъз  йог деп ъшътъп  хълэ",
+    "meaning_uz": "Yaxshimisiz? / sog‘lig‘ingiz joyidami?",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "тузумъсъз",
+        "evidence_extracted": ") Йекьн КЬЛДЪЗ.\nВой кошнъ, шэшългэнъмнэн хэл сорэшэм есъмнэн чъп кэптъ, ендъ\nсорэшэйнук:  тузумъсъз. Туну кун  тэвъцъз  йог деп ъшътъп  хълэ\nйърэгьм эчъшмэсэ.\n      -Х,э, ендъ тузумэн. Духтур келъп кэрэп, дэръ-мэръ йэзъп берудъ\nъчъп знчэ езумгэ кеп кэддъм.\n    -Ълэйэ зйъллэръцьзъ бэхтъгэ тузу волун. Еткэндэй, оглъздэн хэт\nкелуттъмъ? Тънчэкэммъ?\n    -Хр,  келутгь, тънчъмуш,  ойнэп-кулуп  йургэнъмуш. Ъкучкун\nбодцъ рэсъм йувэръп",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN016",
+    "text_source": "-Х,э, ендъ тузумэн. Духтур келъп кэрэп, дэръ-мэръ йэзъп берудъ",
+    "meaning_uz": "Ha, endi yaxshiman.",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "Х,э, ендъ тузумэн",
+        "evidence_extracted": "\nсорэшэйнук:  тузумъсъз. Туну кун  тэвъцъз  йог деп ъшътъп  хълэ\nйърэгьм эчъшмэсэ.\n      -Х,э, ендъ тузумэн. Духтур келъп кэрэп, дэръ-мэръ йэзъп берудъ\nъчъп знчэ езумгэ кеп кэддъм.\n    -Ълэйэ зйъллэръцьзъ бэхтъгэ тузу волун. Еткэндэй, оглъздэн хэт\nкелуттъмъ? Тънчэкэммъ?\n    -Хр,  келутгь, тънчъмуш,  ойнэп-кулуп  йургэнъмуш. Ъкучкун\nбодцъ рэсъм йувэръптъ, гэлэтъ эркэсъдэ пэпугь вэр шэпкэлэдэн\nкъйвэптъ.\n    -Хэ тузу:, тьнч восэ боптъ. ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN017",
+    "text_source": "келуттъмъ? Тънчэкэммъ?",
+    "meaning_uz": "... kelyaptimi? (o‘g‘ildan xat haqidagi gap)",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "келуттъмъ",
+        "evidence_extracted": "нчэ езумгэ кеп кэддъм.\n    -Ълэйэ зйъллэръцьзъ бэхтъгэ тузу волун. Еткэндэй, оглъздэн хэт\nкелуттъмъ? Тънчэкэммъ?\n    -Хр,  келутгь, тънчъмуш,  ойнэп-кулуп  йургэнъмуш. Ъкучкун\nбодцъ рэсъм йувэръптъ, гэлэтъ эркэсъдэ пэпугь вэр шэпкэлэдэн\nкъйвэптъ.\n    -Хэ тузу:, тьнч восэ боптъ. Оглъз бомэсэ морйэгэкэндэ пэпулуг\nшэпкэ къйгэн босэ.\n     -Хэ, шунэкэймуш.\n    -Вэй елмэсэм, эшшъ къп, дзмлэп чъку:ддъм, ендъ лэнджэм боп\nкэддъ. 0ткэн",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN018",
+    "text_source": "- Сэломэт болуссун, хъч келэйэм демейсълэ.",
+    "meaning_uz": "Salomat bo‘lsin(lar).",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "Сэломэт болуссун",
+        "evidence_extracted": "йуръптълэмъ, укэлэръц”.\n       - Хэ, хэммэлэръ йэхшъ, кьрсэц сорэп кой дейъшудъ.\n       - Сэломэт болуссун, хъч келэйэм демейсълэ.\n       - Кермейсъмъ, ъшлэ джудэ коп, ендъ муннэн бэкэ кеп турэмъз.\n Хэй. ендъ бъз турэйлук, бър ъшмънэм бъджджэйгэ кетуткэндуг бейгз\n къръветэйлуг деп кэлдъм, Мэну: эшнэммъйэм бэшлэп кърэведдьм.\n       - Жудэ йэхшъ кьпсълэдэ. Джэ тез кэйтуссълэйэ, экзт-пэцэт кьсэ:\n бэлэддъ, эхър.\n\n\n                      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN019",
+    "text_source": "- Кермейсъмъ, ъшлэ джудэ коп, ендъ муннэн бэкэ кеп турэмъз.",
+    "meaning_uz": "Ishlar juda ko‘p.",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "ъшлэ джудэ коп",
+        "evidence_extracted": "орэп кой дейъшудъ.\n       - Сэломэт болуссун, хъч келэйэм демейсълэ.\n       - Кермейсъмъ, ъшлэ джудэ коп, ендъ муннэн бэкэ кеп турэмъз.\n Хэй. ендъ бъз турэйлук, бър ъшмънэм бъджджэйгэ кетуткэндуг бейгз\n къръветэйлуг деп кэлдъм, Мэну: эшнэммъйэм бэшлэп кърэведдьм.\n       - Жудэ йэхшъ кьпсълэдэ. Джэ тез кэйтуссълэйэ, экзт-пэцэт кьсэ:\n бэлэддъ, эхър.\n\n\n                                           92",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN020",
+    "text_source": "Хэй. ендъ бъз турэйлук, бър ъшмънэм бъджджэйгэ кетуткэндуг бейгз",
+    "meaning_uz": "Endi biz turaylik / ketishga ruxsat so‘rash.",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "турэйлук",
+        "evidence_extracted": "ейсълэ.\n       - Кермейсъмъ, ъшлэ джудэ коп, ендъ муннэн бэкэ кеп турэмъз.\n Хэй. ендъ бъз турэйлук, бър ъшмънэм бъджджэйгэ кетуткэндуг бейгз\n къръветэйлуг деп кэлдъм, Мэну: эшнэммъйэм бэшлэп кърэведдьм.\n       - Жудэ йэхшъ кьпсълэдэ. Джэ тез кэйтуссълэйэ, экзт-пэцэт кьсэ:\n бэлэддъ, эхър.\n\n\n                                           92",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN021",
+    "text_source": "- Хэ, хэммэлэръ йэхшъ, кьрсэц сорэп кой дейъшудъ.",
+    "meaning_uz": "Hammalari yaxshi.",
+    "area": "Namangan; kitobda faqat sheva sarlavhasi bor",
+    "genre": "darslikdagi Suhbat; PDF 92 oxiri–94 boshi",
+    "meaning_preserving_pair": true,
+    "notes": "Bosma dialogning parchasi. Respondent, mahalla, yozib olish sanasi va audio bu yerda ko‘rsatilmagan.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 93,
+        "printed_page": 92,
+        "anchor_extracted": "хэммэлэръ йэхшъ",
+        "evidence_extracted": "дъ гэппъ бэйътэверэмъз. Х®й, збад тузу:мъ, эчэнлэйэм\nйуръптълэмъ, укэлэръц”.\n       - Хэ, хэммэлэръ йэхшъ, кьрсэц сорэп кой дейъшудъ.\n       - Сэломэт болуссун, хъч келэйэм демейсълэ.\n       - Кермейсъмъ, ъшлэ джудэ коп, ендъ муннэн бэкэ кеп турэмъз.\n Хэй. ендъ бъз турэйлук, бър ъшмънэм бъджджэйгэ кетуткэндуг бейгз\n къръветэйлуг деп кэлдъм, Мэну: эшнэммъйэм бэшлэп кърэведдьм.\n       - Жудэ йэхшъ кьпсълэдэ. Джэ тез кэйтуссълэйэ, экз",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN022",
+    "text_source": "Хэй... дэрэп кетуссълэйэ, тэбэ, бэшкэ келъйнэ, бомэсэ.",
+    "meaning_uz": "Tez ketayapsizlar-a; boshqa safar kelinglar.",
+    "area": "Namangan",
+    "genre": "darslikdagi Suhbat",
+    "meaning_preserving_pair": true,
+    "notes": "So‘zma-so‘z normallashtirish emas, vaziyat mazmuni.",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 94,
+        "printed_page": 93,
+        "anchor_extracted": "бэшкэ келъйнэ",
+        "evidence_extracted": "   -Ъшъмъз зэрурэг, бэшкэ кунъ келэрмъз,\n   -Хэй... дэрэп кетуссълэйэ, тэбэ, бэшкэ келъйнэ, бомэсэ.\n\n\n               Kitob tumani Ayronchi qishlog‘i shevasi\n    Бъзэддъ къшлэх халкь кьйэнъ, бэлгалъ, хожэ уруглэръдэн. Бъзз\nе н н ъ  шу  уруглэдэн  ургьп  КЭГЭН-ДЭ.  Кддъм  экэлъ-укэлъ  мэлдэр\nкьшълэр богзн дъйдълэр, улэ туйэ СОВГЭН, КОЙ сэвгэн, эйрэн кыан.\n    Бъз эктъб боп кеплък, ъгьрмэ сэккъзънчъ йъл йер токэтъш болл",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN023",
+    "text_source": "Ovxirga o‘t tashladim.",
+    "meaning_uz": "Chorvaning o‘t/hashak joyiga o‘t tashladim.",
+    "area": "Mingbuloq",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 96,
+        "printed_page": 96,
+        "anchor_extracted": "Ovxirga o‘t tashladim.",
+        "evidence_extracted": "[ăvxir] – ot, sigir, qo‘ylarga o‘t, hashak berish uchun qilingan joyga\nnisbatan aytiladi. Ovxirga o‘t tashladim.\n   Malla [mällä] – yoyilgan xamirni dog‘ qilingan qozonda yaxshilab pishiril­\nganiga aytiladi. Adabiy tilimizda bunday taomga qatlama deyiladi. Qatlama –\noddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom [5:261].\n   Surguruch [sürgürünč] – sutga guruch solinib pishiriladigan taom. Surgu­\nrunch [sürgürüč] degan variantlarga",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN024",
+    "text_source": "Tavtingni peshonasiga bos-chi?",
+    "meaning_uz": "Kaftingni peshonasiga bos-chi?",
+    "area": "Mingbuloq",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Tavtingni peshonasiga",
+        "evidence_extracted": "ävt] – insonning barmoqlari joylashgan qo‘l qismining\nichkari tomoniga nisbatan aytiladi. Tavtingni peshonasiga bos-chi? Arini tapti\nbilan bosib o‘ldirdi. Izohli lug‘atda taft so‘ziga boshqacha ta’rif beriladi. Taft –\nissiqlik manbayi yoki qizib turgan narsadan urayotgan issiq, harorat. Tandir­\nning tafti [3:14]. Lab-tish, sirg‘aluvchi, jarangsiz undosh lab-lab, portlovchi,\njarangsiz undoshga, lab-tish, sirg‘aluvchi, jarangli undoshga al",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN025",
+    "text_source": "Öka dokonga xaddā: kϵlűtti",
+    "meaning_uz": "Aka, do‘konga xaridor keldi (manbadagi adabiy gap)",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": false,
+    "notes": "Keldi o‘tgan zamon, kϵlűtti hozirgi davom. Bu juftlik ma’noni to‘liq saqlamaydi.",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "Öka dokonga",
+        "evidence_extracted": "da regressiv)ga uchrashini ko‘plab\nuchratish mumkin.xaridor ~Aka do‘konga xaridor keldi ~ Öka dokonga xaddā: kϵlűtti;\n     yurdi –yuddi ~ Azamxon bugun piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nec",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN026",
+    "text_source": "Narxini āzzonlatb bessalā",
+    "meaning_uz": "Narxini arzonlatib bersalar.",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "Narxini āzzonlatb",
+        "evidence_extracted": " piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN027",
+    "text_source": "mā őnnummi biroplāga berib qojϵdiganlādänmasmä",
+    "meaning_uz": "Men o‘rnimni boshqalarga berib qo‘yadiganlardan emasman.",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "őnnummi",
+        "evidence_extracted": "bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar s",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN028",
+    "text_source": "Čaqiddi soat nϵččiga bolűtti",
+    "meaning_uz": "Chaqirdi soat nechaga bo‘lyapti (manba)",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": false,
+    "notes": "Gap tuzilishi noaniq; toza dialog namunasi qilib qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "Čaqiddi soat",
+        "evidence_extracted": "biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varintlari misol tariqasida berilgan.\n    Bu hudud sh",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN029",
+    "text_source": "Dedamlar issalar deb sut opkeluttimaan",
+    "meaning_uz": "Dadamlar ichsalar deb sut olib kelyapman.",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "Hurmat ko‘pligi; otaning shaxs-son ma’nosi saqlanadi.",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "Dedamlar",
+        "evidence_extracted": "lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varintlari misol tariqasida berilgan.\n    Bu hudud shevasi adabiy til normasidan, shuningdek, boshqa hudud shevalaridan quydagi\nxus",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NN030",
+    "text_source": "Opodda sizga itlar yaqinleshutti",
+    "meaning_uz": "Bobo, sizga itlar yaqinlashyapti.",
+    "area": "Namangan shahar",
+    "genre": "muallif keltirgan nutq misoli",
+    "meaning_preserving_pair": true,
+    "notes": "",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "Opodda",
+        "evidence_extracted": " ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varintlari misol tariqasida berilgan.\n    Bu hudud shevasi adabiy til normasidan, shuningdek, boshqa hudud shevalaridan quydagi\nxususiyatlari bilan farq qiladi;\n    Namangan shevasining adabiy normadan far",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

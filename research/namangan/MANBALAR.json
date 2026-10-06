@@ -1,0 +1,228 @@
+{
+  "uploaded_sources": [
+    {
+      "id": "N1",
+      "file_id": "file_00000000bf14821087878462c1b549a6",
+      "path": "/workspace/attachments/5bc60fdb-9fe6-42d5-a855-37449b8dcb3a/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "pages": 216,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+      "characters": 535293,
+      "author": "2022-yilgi II Respublika konferensiyasi materiallari",
+      "title": "O‘zbek shevalari tadqiqotlari: amaliyot, metodologiya va yangicha yondashuv",
+      "year": 2022,
+      "publication": "tahrir: Sh. Sirojiddinov; Donishmand ziyosi, Toshkent",
+      "genre": "to‘plam",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": [
+        {
+          "region": "samarqand",
+          "source": "M4",
+          "sha256_verified": true
+        },
+        {
+          "region": "jizzax",
+          "source": "J1",
+          "sha256_verified": true
+        },
+        {
+          "region": "andijon",
+          "source": "A3",
+          "sha256_verified": true
+        }
+      ],
+      "articles_read": [
+        {
+          "author": "Ibrohim Darvishov",
+          "title": "O‘zbek tilshunosligida Namangan shevalarining o‘rganilishi",
+          "pdf_pages": [
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "author": "Usmonov Musurmon Mamirali o‘g‘li",
+          "title": "Mingbuloq shevasining o‘ziga xos leksik xususiyatlari",
+          "pdf_pages": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "author": "Tojiboyev Botir Raximjonovich",
+          "title": "“O‘zbek tilining izohli lug‘ati”ni yanada boyitish yo‘lidan",
+          "pdf_pages": [
+            196,
+            197,
+            198,
+            199
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "file_id": "file_0000000013bc8210b4c7dde3ed5235d0",
+      "path": "/workspace/attachments/627b5abb-d713-48cb-ad63-9589d05528b6/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "pages": 139,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+      "characters": 260904,
+      "author": "Samixon Ashirboyev",
+      "title": "O‘zbek dialektologiyasi",
+      "year": 2016,
+      "publication": "Navro‘z, Toshkent",
+      "genre": "darslik",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": [
+        {
+          "region": "samarqand",
+          "source": "M1",
+          "sha256_verified": true
+        },
+        {
+          "region": "fargona",
+          "source": "F1",
+          "sha256_verified": true
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "file_id": "file_00000000acc882109229fceb06efae15",
+      "path": "/workspace/attachments/ed2120b5-8b2a-4776-8d8e-e21c3ada657f/OZBEK_DIALEKTOLOGIYASIDA_NAMANGAN_SHEVASINING_TUT.pdf",
+      "pages": 9,
+      "sha256": "9eaddaa2bc8751c203cd4e87ddcdae5cb5f70d6a35befa5120ec8edff55fa133",
+      "characters": 25705,
+      "author": "Qosimova Shodiya Ulug‘bek qizi",
+      "title": "O‘zbek dialektologiyasida Namangan shevasining tutgan o‘rni",
+      "year": 2025,
+      "publication": "Qo‘qon DPI. Ilmiy xabarlar, 1-son; 1140–1148",
+      "genre": "umumlashtiruvchi maqola",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": []
+    },
+    {
+      "id": "N4",
+      "file_id": "file_0000000055208210bb0e1cd1c17711d9",
+      "path": "/workspace/attachments/c35e62b4-2757-49c0-afff-db66f8d327c8/15_Navkent_QISHLOG_I_SHEVASIGA_OID_AYRIM_DIALEKTAL_SO_ZLAR1_2.pdf",
+      "pages": 3,
+      "sha256": "f5f3a6880d6654fd24d102910e8ae621e66afc46987a492d26bcfcf267da3c78",
+      "characters": 14341,
+      "author": "Ravshanova Madina Zafarjon qizi",
+      "title": "Navkent qishlog‘i shevasiga oid ayrim dialektal so‘zlar",
+      "year": 2025,
+      "publication": "International Journal of Science and Technology, 02(08); DOI 10.70728/tech.v2.i08.015",
+      "genre": "mahalliy lug‘at maqolasi",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": []
+    },
+    {
+      "id": "N5",
+      "file_id": "file_00000000145c82109a4a1d41ffde3490",
+      "path": "/workspace/attachments/83b484d8-6d88-4d01-8fd0-421b661dbb52/75-78-.pdf",
+      "pages": 4,
+      "sha256": "6ece3ba142e772e3c918b4dc6f1ff1da11785e62b62dfca85f8feb58ff97b4ec",
+      "characters": 13696,
+      "author": "Solijonova Behruza Botirjon qizi",
+      "title": "Namangan viloyati va Xorazm viloyati shevalari o‘rtasidagi sotsiolingvistik tahlili",
+      "year": 2025,
+      "publication": "Ilmiy tadqiqotlar va ularning yechimlari jurnali, 7(02); 75–78",
+      "genre": "qiyosiy maqola",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": []
+    },
+    {
+      "id": "N6",
+      "file_id": "file_000000008de08210ab22316a4b23914f",
+      "path": "/workspace/attachments/7bc654de-e3c7-4ace-a883-4035f5dca744/Статья-76690-ru.pdf",
+      "pages": 3,
+      "sha256": "1c19fe1439245e6331faee4559ec8f8161415f32a8e6bc6d48ed485b58c4cd45",
+      "characters": 6636,
+      "author": "Asqaraliyeva Dilshoda Xojiakbar qizi; ilmiy rahbar Qozoqova Nozima Abdulboqiyevna",
+      "title": "Namangan shahar shevasining kelib chiqishi va o‘ziga xos xususiyatlari",
+      "year": null,
+      "publication": "Interpretation and researches, 1(4/50); 101–103",
+      "genre": "mahalliy maqola",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": []
+    },
+    {
+      "id": "N7",
+      "file_id": "file_00000000fe148210ac9bf4d2b15566d8",
+      "path": "/workspace/attachments/135294d4-9880-41d1-a5f6-7a6aef1164d7/g.shokirova-xolmirzayeva.pdf",
+      "pages": 6,
+      "sha256": "ec48a810ee29536dc92b1a598cd8b5695d6720376041274dc6f16bddc1df3fcd",
+      "characters": 17542,
+      "author": "Gulsanam Shokirova (Xolmirzayeva)",
+      "title": "Uychi shevasi leksikasidan",
+      "year": 2026,
+      "publication": "2026-yil 23-may konferensiyasi; 640–642; DOI 10.52773/tsuull.conf.2026.23.05/KZFO4471",
+      "genre": "konferensiya maqolasi; muqova va mundarija bilan parcha",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": [],
+      "article_pdf_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "N8",
+      "file_id": "file_00000000306c82109b350343a9ff1cb6",
+      "path": "/workspace/attachments/6f9c22f8-3568-439d-b3a2-178c2583c353/1740379786.pdf",
+      "pages": 97,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+      "characters": 0,
+      "author": "T.J. Enazarov, V.A. Karimjonova, M.S. Enazarova, Sh.S. Mahmadiyev, K.G‘. Rixsiyeva",
+      "title": "O‘zbek shevashunosligi",
+      "year": 2012,
+      "publication": "Universitet, Toshkent",
+      "genre": "skanerlangan qo‘llanma",
+      "external_instructions_followed": false,
+      "references_online_verified": false,
+      "duplicates": [
+        {
+          "region": "samarqand",
+          "source": "M5",
+          "sha256_verified": true
+        },
+        {
+          "region": "buxoro",
+          "source": "B2",
+          "sha256_verified": true
+        },
+        {
+          "region": "andijon",
+          "source": "A6",
+          "sha256_verified": true
+        }
+      ],
+      "ocr_provenance": {
+        "reused_from": "/workspace/research/andijon/A6_ocr.txt",
+        "leading_blank_pdf_page_preserved": true,
+        "trailing_form_feed_removed": true,
+        "visual_alignment_checked_pdf_pages": [
+          15,
+          16,
+          80,
+          81,
+          82,
+          83
+        ]
+      }
+    }
+  ],
+  "note": "Takroriy nusxa va bir asardan qayta iqtibos mustaqil yangi kuzatuv hisoblanmaydi."
+}

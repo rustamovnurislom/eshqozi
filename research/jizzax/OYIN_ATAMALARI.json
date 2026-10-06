@@ -1,0 +1,442 @@
+[
+  {
+    "id": "JO01",
+    "name": "Jambil",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Tosh bilan o‘ynaladigan o‘yin sifatida sanalgan; batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“Jambil”",
+        "evidence_extracted": "ligini to‘plangan materiallar tahlili ko‘rsatdi.\n   Oddiy o‘yinlar: toshlar bilan o‘ynaladigan o‘yinlar (“Jambil” o‘yini, “Besh\ntosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo."
+      }
+    ]
+  },
+  {
+    "id": "JO02",
+    "name": "Besh tosh",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Besh dona tosh, ikki yoki ko‘proq ishtirokchi; maqolada o‘nta shart tasvirlangan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“Besh",
+        "evidence_extracted": "ligini to‘plangan materiallar tahlili ko‘rsatdi.\n   Oddiy o‘yinlar: toshlar bilan o‘ynaladigan o‘yinlar (“Jambil” o‘yini, “Besh\ntosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo."
+      }
+    ]
+  },
+  {
+    "id": "JO03",
+    "name": "Tosh ko‘tarar",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Tosh bilan o‘ynaladigan guruh; batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Tosh ko‘tarar",
+        "evidence_extracted": "   Oddiy o‘yinlar: toshlar bilan o‘ynaladigan o‘yinlar (“Jambil” o‘yini, “Besh\ntosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq"
+      }
+    ]
+  },
+  {
+    "id": "JO04",
+    "name": "Chillik o‘yini",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Yog‘och yoki suyak bilan bajariladigan guruhda sanalgan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Chillik o‘yini",
+        "evidence_extracted": "tosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi."
+      }
+    ]
+  },
+  {
+    "id": "JO05",
+    "name": "Oq suyak",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Yog‘och yoki suyak bilan bajariladigan guruhda sanalgan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Oq suyak",
+        "evidence_extracted": "tosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi."
+      }
+    ]
+  },
+  {
+    "id": "JO06",
+    "name": "Oshiq o‘yin",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Yog‘och yoki suyak bilan bajariladigan guruhda sanalgan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Oshiq o‘yin",
+        "evidence_extracted": "tosh” o‘yini, “Tosh ko‘tarar” o‘yini), yog‘och yoki suyaklar bilan bajariladi­\ngan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi."
+      }
+    ]
+  },
+  {
+    "id": "JO07",
+    "name": "Xo‘rozlar jangi",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Hayvon nomlari bilan bog‘liq guruh; qoidasi bu maqolada berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Xo‘rozlar jangi",
+        "evidence_extracted": "gan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi.\nBir shakldagi besh dona tosh tanlab olinadi. O‘yinni kim birinchi boshlashi"
+      }
+    ]
+  },
+  {
+    "id": "JO08",
+    "name": "Podachi",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Hayvon nomlari bilan bog‘liq guruh.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“Podachi”",
+        "evidence_extracted": "gan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi.\nBir shakldagi besh dona tosh tanlab olinadi. O‘yinni kim birinchi boshlashi"
+      }
+    ]
+  },
+  {
+    "id": "JO09",
+    "name": "Eshak mindi",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Hayvon nomlari bilan bog‘liq guruh.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Eshak mindi",
+        "evidence_extracted": "gan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi.\nBir shakldagi besh dona tosh tanlab olinadi. O‘yinni kim birinchi boshlashi"
+      }
+    ]
+  },
+  {
+    "id": "JO10",
+    "name": "Ilon dumi",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Hayvon nomlari bilan bog‘liq guruh.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "Ilon dumi",
+        "evidence_extracted": "gan o‘yinlar (“Chillik o‘yini”, “Oq suyak”, “Oshiq o‘yin”), hayvonlar nomi bilan\nbog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi.\nBir shakldagi besh dona tosh tanlab olinadi. O‘yinni kim birinchi boshlashi"
+      }
+    ]
+  },
+  {
+    "id": "JO11",
+    "name": "Poda lov-lov",
+    "kind": "oddiy o‘yin",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Hayvon nomlari bilan bog‘liq guruh.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "lov-lov",
+        "evidence_extracted": "bog‘liq o‘yinlar (“Xo‘rozlar jangi”, “Podachi”, “Eshak mindi”, “Ilon dumi”, “Poda\nlov-lov”) va hokazo.\n   “Besh tosh” o‘yini quyidagicha o‘tkaziladi: o‘yinda ikki yoki undan ortiq\nishtirokchi qatnashishi mumkin. O‘yin 10 ta shartga qadar davom ettiriladi.\nBir shakldagi besh dona tosh tanlab olinadi. O‘yinni kim birinchi boshlashi\nuchun ishtirokchilardan birining qo‘l kaftiga tosh yashiriladi. Yashirilgan"
+      }
+    ]
+  },
+  {
+    "id": "JO12",
+    "name": "Gashtak ko‘pkari",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Gashtak ko‘pkari",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,"
+      }
+    ]
+  },
+  {
+    "id": "JO13",
+    "name": "Darveshona",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Darveshona",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,"
+      }
+    ]
+  },
+  {
+    "id": "JO14",
+    "name": "Yil boshi",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Yil boshi",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,"
+      }
+    ]
+  },
+  {
+    "id": "JO15",
+    "name": "Urug‘ qadash",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Urug‘ qadash",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,\n   Xalq o‘yinini o‘ynang,"
+      }
+    ]
+  },
+  {
+    "id": "JO16",
+    "name": "Ko‘rpa qopladi",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Ko‘rpa qopladi",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,\n   Xalq o‘yinini o‘ynang,"
+      }
+    ]
+  },
+  {
+    "id": "JO17",
+    "name": "Cho‘nka shuvoq",
+    "kind": "marosim o‘yini",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Marosim o‘yinlari ro‘yxatida berilgan. Cho‘nka shuvoqning qo‘shiq matni ham keltirilgan; qolganlar uchun batafsil qoida berilmagan.",
+    "besh_tosh_stage": null,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Cho‘nka shuvoq",
+        "evidence_extracted": "   Marosim o‘yinlariga esa “Gashtak ko‘pkari”, “Darveshona”, “Yil boshi”,\n“Urug‘ qadash”, “Ko‘rpa qopladi”, “Cho‘nka shuvoq” singarilar kiradi. Mazkur\nguruhga kiruvchi “Cho‘nka shuvoq” qo‘shig‘i matniga e’tibor beraylik.\n\n   Tortishmachoq tortib qizlar,\n   Xalq o‘yinini o‘ynang,"
+      }
+    ]
+  },
+  {
+    "id": "JO18",
+    "name": "bo‘ri",
+    "kind": "Besh tosh sharti atamasi",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Bosh va o‘rta barmoq yerga, ko‘rsatkich barmoq ustga qo‘yiladi; tanlangan «bo‘ri» tosh bir zarb bilan o‘tkaziladi.",
+    "besh_tosh_stage": 6,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“bo‘ri”",
+        "evidence_extracted": "qo‘l kaftida turgan holda bir donasi havoga otilib, ko‘rsatkich barmoq yerga\ntekkiziladi. Oltinchi shart “bo‘ri” deb nomlanadi. Bunda bosh va o‘rta bar­\nmoqlar yerga tekkizilib, ko‘rsatkich barmoq ustiga chiqarilgan holatda yer­\nga qo‘yiladi. Toshlar ustidan bittasiga ikkinchi ishtirokchi tomonidan “bo‘ri”\nnomi beriladi va toshlar galma-galiga ichkariga kirgiziladi. Faqat “bo‘ri” deb\nnomlangan tosh bir zarb bilan o‘tkazilishi kerak bo‘ladi. Agar o‘tkazilmasa,"
+      }
+    ]
+  },
+  {
+    "id": "JO19",
+    "name": "ayri",
+    "kind": "Besh tosh sharti atamasi",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Ko‘rsatkich va o‘rta barmoq ayri shaklda yerga qo‘yiladi; oltinchi shart kabi bajariladi.",
+    "besh_tosh_stage": 7,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“ayri”",
+        "evidence_extracted": "nomlangan tosh bir zarb bilan o‘tkazilishi kerak bo‘ladi. Agar o‘tkazilmasa,\no‘yin to‘xtatiladi. Yettinchi shart “ayri” deb nomlanib, bu shartda ko‘rsatkich\nva o‘rta barmoq ayri shaklda yerga qo‘yiladi. Bu shart ham oltinchi shart kabi\nbajariladi. Sakkizinchi shart esa “qafas” deb nomlanadi. Hamma barmoqlar\nqafas shaklida yerga qo‘yiladi. Bunda toshlar har bir barmoq orasidan o‘tka­\nziladi. To‘qqizinchi shart “ko‘za” deb nomlanadi. Bunda bosh va ko‘rsatkich"
+      }
+    ]
+  },
+  {
+    "id": "JO20",
+    "name": "qafas",
+    "kind": "Besh tosh sharti atamasi",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Barmoqlar qafas shaklida qo‘yiladi; toshlar ularning oralaridan o‘tkaziladi.",
+    "besh_tosh_stage": 8,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“qafas”",
+        "evidence_extracted": "va o‘rta barmoq ayri shaklda yerga qo‘yiladi. Bu shart ham oltinchi shart kabi\nbajariladi. Sakkizinchi shart esa “qafas” deb nomlanadi. Hamma barmoqlar\nqafas shaklida yerga qo‘yiladi. Bunda toshlar har bir barmoq orasidan o‘tka­\nziladi. To‘qqizinchi shart “ko‘za” deb nomlanadi. Bunda bosh va ko‘rsatkich\nbarmoqlar bir-biriga birlashtirilib doira shakliga keltiriladi va toshlar gal­\nma-gal “ko‘za” ichiga tushiriladi. O‘ninchi shart “o‘ngmi-chap” deb nomlanadi."
+      }
+    ]
+  },
+  {
+    "id": "JO21",
+    "name": "ko‘za",
+    "kind": "Besh tosh sharti atamasi",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Bosh va ko‘rsatkich barmoq doira hosil qiladi; toshlar «ko‘za» ichiga tushiriladi.",
+    "besh_tosh_stage": 9,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“ko‘za”",
+        "evidence_extracted": "qafas shaklida yerga qo‘yiladi. Bunda toshlar har bir barmoq orasidan o‘tka­\nziladi. To‘qqizinchi shart “ko‘za” deb nomlanadi. Bunda bosh va ko‘rsatkich\nbarmoqlar bir-biriga birlashtirilib doira shakliga keltiriladi va toshlar gal­\nma-gal “ko‘za” ichiga tushiriladi. O‘ninchi shart “o‘ngmi-chap” deb nomlanadi.\nUshbu shartda barcha toshlar ikkala qo‘l kaftlariga olinadi. Hamma toshlar\nhavoga otilganda qo‘llarning ustki qismida toshlarni ilib olish kerak bo‘ladi."
+      }
+    ]
+  },
+  {
+    "id": "JO22",
+    "name": "o‘ngmi-chap",
+    "kind": "Besh tosh sharti atamasi",
+    "region": "Forish; maqolada aniq qishloq kesimida ajratilmagan",
+    "description": "Toshlar havoga otilib qo‘llarning ustki qismida ilib olinadi.",
+    "besh_tosh_stage": 10,
+    "context": "xalq o‘yinlari; oddiy kundalik gapga avtomatik kiritilmaydi",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 150,
+        "printed_page": 150,
+        "anchor_extracted": "“o‘ngmi-chap”",
+        "evidence_extracted": "barmoqlar bir-biriga birlashtirilib doira shakliga keltiriladi va toshlar gal­\nma-gal “ko‘za” ichiga tushiriladi. O‘ninchi shart “o‘ngmi-chap” deb nomlanadi.\nUshbu shartda barcha toshlar ikkala qo‘l kaftlariga olinadi. Hamma toshlar\nhavoga otilganda qo‘llarning ustki qismida toshlarni ilib olish kerak bo‘ladi.\nO‘yin davomida kirgizilmay qolgan toshlar ilib olinsa, tushirib yuborish hol­\nlari bo‘lsa, o‘yin to‘xtatiladi va navbatdagi ishtirokchi o‘yinni davom ettiradi."
+      }
+    ]
+  }
+]

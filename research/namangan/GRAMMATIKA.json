@@ -1,0 +1,557 @@
+[
+  {
+    "id": "NG001",
+    "label": "Hozirgi davom zamoni / I birlik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűtt(ȉ)ma:",
+      "ketűtt(ȉ)ma:",
+      "borűtt(ȉ)ma:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 5,
+        "printed_page": 1144,
+        "anchor_extracted": "kelűtt(ȉ)ma:",
+        "evidence_extracted": "hdagi misollar orqali ko‘rib chiqamiz.\n     Birlik\n    kelyapman, ketyapman, boryapman // kelűtt(ȉ)ma:, ketűtt(ȉ)ma:, borűtt(ȉ)ma:\n     kelyapsan, ketyapsan, boryapsan  // ketűttȉsā: >kelűssa:,  ketűssa:, ketűssa:n, ketűssa:,\nborűssa:\n     kelyapti, ketyapti // ketűttȉ, kelűttȉ, borűttȉ\n\n\n\n\n\n236 Ashirboyev S. O ‘zbek dialektologiyasi . -2021.― Toshkent .Nodirabegim‖ nashriyoti. – Т. 38. – B. 40-43.B. 347.\n237 Боровков А.К. Узбек",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG002",
+    "label": "Hozirgi davom zamoni / II birlik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűssa:",
+      "ketűssa:",
+      "borűssa:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 5,
+        "printed_page": 1144,
+        "anchor_extracted": "kelűssa:",
+        "evidence_extracted": "tt(ȉ)ma:, ketűtt(ȉ)ma:, borűtt(ȉ)ma:\n     kelyapsan, ketyapsan, boryapsan  // ketűttȉsā: >kelűssa:,  ketűssa:, ketűssa:n, ketűssa:,\nborűssa:\n     kelyapti, ketyapti // ketűttȉ, kelűttȉ, borűttȉ\n\n\n\n\n\n236 Ashirboyev S. O ‘zbek dialektologiyasi . -2021.― Toshkent .Nodirabegim‖ nashriyoti. – Т. 38. – B. 40-43.B. 347.\n237 Боровков А.К. Узбекские говоры Наманганской области.- 1963. – Ташкент. – Научные труды ТашГУ. Языкознание С.3",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG003",
+    "label": "Hozirgi davom zamoni / III birlik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűttȉ",
+      "ketűttȉ",
+      "borűttȉ"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 5,
+        "printed_page": 1144,
+        "anchor_extracted": "kelyapti, ketyapti",
+        "evidence_extracted": "yapsan, boryapsan  // ketűttȉsā: >kelűssa:,  ketűssa:, ketűssa:n, ketűssa:,\nborűssa:\n     kelyapti, ketyapti // ketűttȉ, kelűttȉ, borűttȉ\n\n\n\n\n\n236 Ashirboyev S. O ‘zbek dialektologiyasi . -2021.― Toshkent .Nodirabegim‖ nashriyoti. – Т. 38. – B. 40-43.B. 347.\n237 Боровков А.К. Узбекские говоры Наманганской области.- 1963. – Ташкент. – Научные труды ТашГУ. Языкознание С.3-\n39.\n238 Решетов В.В. О Наманганском говоре узбекского языка. Сб.",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG004",
+    "label": "Hozirgi davom zamoni / I ko‘plik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűtt(ȉ)mȉz",
+      "ketűtt(ȉ)mȉz",
+      "borűtt(ȉ)mȉz"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "kelűtt(ȉ)mȉz",
+        "evidence_extracted": " 2025-yil 1-son ____________________\n     Ko‘plik\n     kelyapmiz, ketyapmiz, boryapmiz // kelűtt(ȉ)mȉz, ketűtt(ȉ)mȉz, borűtt(ȉ)mȉz\n     kelyapsiz, ketyapsiz, boryapsiz, // kelűss(ȉ)z, ketűss(ȉ)z, borűss(ȉ)z\n     kelyaptilar, boryaptilar // kelűtt(ȉ)la:, borűtt(ȉ)la:\n\n     kelyapmiz, ketyapmiz, boryapmiz // kelűttȉmiz, ketűttȉmiz, borűttȉmiz\n     kelyapsiz, ketyapsiz, boryapsiz, // kelűttȉsȉz, ketűttȉsȉz, kelűssȉz , borűssȉz\n    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG005",
+    "label": "Hozirgi davom zamoni / II ko‘plik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűss(ȉ)z",
+      "ketűss(ȉ)z",
+      "borűss(ȉ)z"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "kelűss(ȉ)z",
+        "evidence_extracted": "pmiz // kelűtt(ȉ)mȉz, ketűtt(ȉ)mȉz, borűtt(ȉ)mȉz\n     kelyapsiz, ketyapsiz, boryapsiz, // kelűss(ȉ)z, ketűss(ȉ)z, borűss(ȉ)z\n     kelyaptilar, boryaptilar // kelűtt(ȉ)la:, borűtt(ȉ)la:\n\n     kelyapmiz, ketyapmiz, boryapmiz // kelűttȉmiz, ketűttȉmiz, borűttȉmiz\n     kelyapsiz, ketyapsiz, boryapsiz, // kelűttȉsȉz, ketűttȉsȉz, kelűssȉz , borűssȉz\n     kelyaptilar, boryaptilar // kelűttȉlā, borűttȉlā\n\n     Bo‘lishsiz shakli\n    qi",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG006",
+    "label": "Hozirgi davom zamoni / III ko‘plik",
+    "meaning_uz": "kel-/ket-/bor- harakatining hozir davom etishi",
+    "forms_source": [
+      "kelűtt(ȉ)la:",
+      "borűtt(ȉ)la:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Asl paradigmadagi takror, son va tartib xatosi tuzatilgan dalil sifatida yashirilmaydi. Har fe’l ildizi bo‘yicha ma’no moslanadi; hurmat va ko‘plik kontekstda farqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "kelűtt(ȉ)la:",
+        "evidence_extracted": "yapsiz, boryapsiz, // kelűss(ȉ)z, ketűss(ȉ)z, borűss(ȉ)z\n     kelyaptilar, boryaptilar // kelűtt(ȉ)la:, borűtt(ȉ)la:\n\n     kelyapmiz, ketyapmiz, boryapmiz // kelűttȉmiz, ketűttȉmiz, borűttȉmiz\n     kelyapsiz, ketyapsiz, boryapsiz, // kelűttȉsȉz, ketűttȉsȉz, kelűssȉz , borűssȉz\n     kelyaptilar, boryaptilar // kelűttȉlā, borűttȉlā\n\n     Bo‘lishsiz shakli\n    qilmayapman, aytmayapman // qȉlműtt(ȉ)ma:, ajtműtt(ȉ)ma:,\n     qilmayaps",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG007",
+    "label": "Hozirgi davom zamoni inkori / I birlik",
+    "meaning_uz": "qil-/ayt- yoki sanalgan harakat hozir davom etmayapti",
+    "forms_source": [
+      "qȉlműtt(ȉ)ma:",
+      "ajtműtt(ȉ)ma:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Inkordagi m saqlanadi; kelműttȉ ni kelűttȉ bilan tenglashtirmaslik zarur.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "qȉlműtt(ȉ)ma:",
+        "evidence_extracted": "ryaptilar // kelűttȉlā, borűttȉlā\n\n     Bo‘lishsiz shakli\n    qilmayapman, aytmayapman // qȉlműtt(ȉ)ma:, ajtműtt(ȉ)ma:,\n     qilmayapsan, aytmayapsan // qȉlműtt(ȉ)sa:, ajtműtt(ȉ)sa:\n     qilmayapti, aytmayapti // qȉlműtt(ȉ), ajtműtt(ȉ)\n\n     qilmayapsan, aytmayapsan // qȉlműttȉsā, ajtműttȉsā\n     qilmayapti, aytmayapti // qȉlműttȉ~qȉműttȉ, ajtműttȉ\n\n     Bo‘lishsiz ko‘plik shakli\n     ketmayaptilar, ko‘rmayaptilar // ketműtt(ȉ)la",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG008",
+    "label": "Hozirgi davom zamoni inkori / II birlik",
+    "meaning_uz": "qil-/ayt- yoki sanalgan harakat hozir davom etmayapti",
+    "forms_source": [
+      "qȉlműtt(ȉ)sa:",
+      "ajtműtt(ȉ)sa:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Inkordagi m saqlanadi; kelműttȉ ni kelűttȉ bilan tenglashtirmaslik zarur.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "qȉlműtt(ȉ)sa:",
+        "evidence_extracted": "ilmayapman, aytmayapman // qȉlműtt(ȉ)ma:, ajtműtt(ȉ)ma:,\n     qilmayapsan, aytmayapsan // qȉlműtt(ȉ)sa:, ajtműtt(ȉ)sa:\n     qilmayapti, aytmayapti // qȉlműtt(ȉ), ajtműtt(ȉ)\n\n     qilmayapsan, aytmayapsan // qȉlműttȉsā, ajtműttȉsā\n     qilmayapti, aytmayapti // qȉlműttȉ~qȉműttȉ, ajtműttȉ\n\n     Bo‘lishsiz ko‘plik shakli\n     ketmayaptilar, ko‘rmayaptilar // ketműtt(ȉ)la:, korműtt(ȉ)la:\n     kelmayaptilar, eshitmayaptilar // kelműtt",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG009",
+    "label": "Hozirgi davom zamoni inkori / III birlik",
+    "meaning_uz": "qil-/ayt- yoki sanalgan harakat hozir davom etmayapti",
+    "forms_source": [
+      "qȉlműtt(ȉ)",
+      "ajtműtt(ȉ)"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Inkordagi m saqlanadi; kelműttȉ ni kelűttȉ bilan tenglashtirmaslik zarur.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "qȉlműtt(ȉ)",
+        "evidence_extracted": "ryaptilar // kelűttȉlā, borűttȉlā\n\n     Bo‘lishsiz shakli\n    qilmayapman, aytmayapman // qȉlműtt(ȉ)ma:, ajtműtt(ȉ)ma:,\n     qilmayapsan, aytmayapsan // qȉlműtt(ȉ)sa:, ajtműtt(ȉ)sa:\n     qilmayapti, aytmayapti // qȉlműtt(ȉ), ajtműtt(ȉ)\n\n     qilmayapsan, aytmayapsan // qȉlműttȉsā, ajtműttȉsā\n     qilmayapti, aytmayapti // qȉlműttȉ~qȉműttȉ, ajtműttȉ\n\n     Bo‘lishsiz ko‘plik shakli\n     ketmayaptilar, ko‘rmayaptilar // ketműtt(ȉ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG010",
+    "label": "Hozirgi davom zamoni inkori / III ko‘plik",
+    "meaning_uz": "qil-/ayt- yoki sanalgan harakat hozir davom etmayapti",
+    "forms_source": [
+      "ketműtt(ȉ)la:",
+      "korműtt(ȉ)la:",
+      "kelműtt(ȉ)la:",
+      "ešȉtműtt(ȉ)la:",
+      "borműtt(ȉ)la:",
+      "čıqműtt(ȉ)la:"
+    ],
+    "area": "Namangan shahar; Uychi va Chortoqning ayrim hududlari",
+    "notes": "Inkordagi m saqlanadi; kelműttȉ ni kelűttȉ bilan tenglashtirmaslik zarur.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "ketműtt(ȉ)la:",
+        "evidence_extracted": "ȉ~qȉműttȉ, ajtműttȉ\n\n     Bo‘lishsiz ko‘plik shakli\n     ketmayaptilar, ko‘rmayaptilar // ketműtt(ȉ)la:, korműtt(ȉ)la:\n     kelmayaptilar, eshitmayaptilar // kelműtt(ȉ)la:, ešȉtműtt(ȉ)la:\n     bormayaptilar, chiqmayaptilar // borműtt(ȉ)la:, čıqműtt(ȉ)la:\n    Yuqorida keltirib o‘tilgan shevaga oid bo‘lgan misollar faqatgina Namangan shahar hamda\nUychi hamda Chortog‘ tumanining bazi hududlari yashovchi aholi  so‘zlashadigan  tillar",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG011",
+    "label": "Bo‘lishsiz III birlikdagi l reduksiyasi",
+    "meaning_uz": "qilmayapti",
+    "forms_source": [
+      "qȉlműttȉ",
+      "qȉműttȉ"
+    ],
+    "area": "Namangan shahar va N3 ko‘rsatgan ayrim hududlar",
+    "notes": "Variantni alohida zamon yoki boshqa mustaqil fe’l deb hisoblamaslik kerak.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "qȉlműttȉ~qȉműttȉ",
+        "evidence_extracted": ")\n\n     qilmayapsan, aytmayapsan // qȉlműttȉsā, ajtműttȉsā\n     qilmayapti, aytmayapti // qȉlműttȉ~qȉműttȉ, ajtműttȉ\n\n     Bo‘lishsiz ko‘plik shakli\n     ketmayaptilar, ko‘rmayaptilar // ketműtt(ȉ)la:, korműtt(ȉ)la:\n     kelmayaptilar, eshitmayaptilar // kelműtt(ȉ)la:, ešȉtműtt(ȉ)la:\n     bormayaptilar, chiqmayaptilar // borműtt(ȉ)la:, čıqműtt(ȉ)la:\n    Yuqorida keltirib o‘tilgan shevaga oid bo‘lgan misollar faqatgina Namangan shaha",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG012",
+    "label": "Hozirgi-kelasi zamon inkori va emfatik cho‘ziqlik",
+    "meaning_uz": "bilmayman/bo‘lmaydi; davom zamoni paradigmasidan boshqa shakl",
+    "forms_source": [
+      "bi:lmā:(j)mā:",
+      "bomā:(j)di"
+    ],
+    "area": "Namangan shahar",
+    "notes": "PDF rasmida transkripsiya tekshirildi; uzoq unli va (j) ixtiyoriy qisqarishi; ASCII yozuv talaffuzni to‘liq bermaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 26,
+        "printed_page": 25,
+        "anchor_extracted": "bilmayman",
+        "evidence_extracted": "m mumkin va bo'lishsizlik affiksidagi э/а unlisi ham ikkilangan\ndio'ziqlikka ega bo'ladi: bilmayman ~ би:лмэ:(й)тэ: ~ /bi:lma:(j)ma.•,\nho'lmaydi  ~  бомэ:(й)дъ  ~  boma:(f)di,  men  aytmayman  ~ ш :\n,тшя:(й)м9 ~ та: atma:(j)md,  sen bilmaysan ~  сэ: билмэ:сэ: ~ sa\nhi:lma:(j)s3:\n   Tovush  mosligi. O'zbek  shevalaridagi  so'zlarni boshqa sheva va\n\nadabiy til bilan qiyoslaganda, shunday fonetik holatlar ko'zga tashlanadiki,\n\nbi",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG013",
+    "label": "Ko‘plik/hurmat shakli -nä",
+    "meaning_uz": "uyinglar, qo‘yinglar shakllari",
+    "forms_source": [
+      "ujijnä",
+      "qojijnä"
+    ],
+    "area": "Namangan tip shevalari",
+    "notes": "PDF rasmida -nä ko‘rildi; manbadagi ega/hurmat/buyruq vazifalarini kontekstsiz aralashtirmaslik kerak.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 31,
+        "printed_page": 30,
+        "anchor_extracted": "-нэ",
+        "evidence_extracted": "ojla, qo‘yinglar ~ крйьйлз ~ qojijla, gullar ~\nгуллэ ~ gulla, kunlar ~ гуллэ ~ guild.\n    -нэ ~ na  affiksi Namangan  shevasida qayd  qilinadi:  uyinglar ~\nуйъйня ~ ujijnd, qo‘yingiar ~ крйъйиэ ~ qojijna.\n    -ла ~ la variant! esa Xorazm shevalarida uchraydi: qizlar ~ цы:зла ~\nqi. zla, ular ~ *ула ~ hula.\n     -з/эр ~ a/ar affiksi shahar va shahar tipidagi shevalarida qo‘llanadi:\nbizlar ~ бъз,у ~ biza, sizlar ~ сьзэ ~ s",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG014",
+    "label": "I ko‘plik buyruq-istak",
+    "meaning_uz": "ishlaylik / boraylik",
+    "forms_source": [
+      "islajnu",
+      "barajnuk"
+    ],
+    "area": "Namangan; barajnuk Xo‘jandda ham",
+    "notes": "Ishlaylik misolining Namangan belgisi 42-betga ko‘chgan; ikki sahifa birga o‘qildi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 41,
+        "printed_page": 40,
+        "anchor_extracted": "islajnu",
+        "evidence_extracted": "fikslari singarmonizmni\n yo'qatgan  shevalarda   qo'iianadi:   ishlaylik  ~  ъитэйну  ~   islajnu\n\n\n\n\n\n                                          40",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      },
+      {
+        "source": "N2",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_extracted": "barajnuk",
+        "evidence_extracted": "(Namahgan),  жьйлу  ~   alijlu  (Toshkent),  борэйнук  ~  barajnuk\n(Namahgan, Xo‘jand)\n    -эйлък/айльц  ~   ajlik/ajliq   affiksi   aksariyat   singarmonizmli\nshevalarda talaffuzda mavjud: tushaylik ~ чушэйлък ~ ctisajlik, qaraylik\n~  царайлък,  ~   qarajliq.  Bu  affiksning  -яйлък  ~   ам/г'А:  varianti\nsingarmonizmni yo‘qatgan shevalargagina xos: qoilaylik ~ крллайлък ~\nqollajlik.\n    -эйь",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG015",
+    "label": "III shaxs buyruq-istak -sun",
+    "meaning_uz": "ko‘rsin / bilsin",
+    "forms_source": [
+      "körsun",
+      "bilsun"
+    ],
+    "area": "Namangan",
+    "notes": "Asl sahifa rasmi ham ko‘rildi; matn qatlamidagi diakritika to‘liq ajralmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_extracted": "bilsun",
+        "evidence_extracted": "arianti Namangan  shevasida qayd  silinadi:  korsin ~\n корсун ~ korsun, bilsin ~ билсун ~ bilsun.\n\n\n                                            41",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG016",
+    "label": "Qaratqich/tushum shakli",
+    "meaning_uz": "qaratqich va tushum vazifasida -ni va fonetik variantlari",
+    "forms_source": [
+      "-ni"
+    ],
+    "area": "Toshkent, Namangan, Andijon, Marg‘ilon, Qo‘qon",
+    "notes": "Umumiy guruh belgisi; Namangan uchungina xos emas. N3 -di/-ti da’vosi Namangan uchun mustaqil kontekst bermaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N8",
+        "pdf_page": 16,
+        "printed_page": [
+          28,
+          29
+        ],
+        "anchor_extracted": "qaratqich",
+        "evidence_extracted": "n, Marg`ilon, Qo`qon shevalarining ham-\nmasida turlovchi qoʻshimchalardan -пъ affiksi ham qaratqich, ham tushum\nkelishigi ma“nolarini ifoda etadi: эй 5215; 3115 bashv (ning»ni)..\n\n9. Bu shevalar guruhi hozirgi zamon davom fe'lni ifodalovchi ikki\nmorfologik belgiga ega:\n\n1) -vat va uning fonetik variantlari: -vaf ,-uf. Toshkent va unga yaqin\nqishloqlar shevasi (Parkent) -v3/... Toshk.:-v2r, Uychi - vat; Namangan -ut.\n\n2) -yap ",
+        "extraction": "avvalgi aynan bir xil PDF nusxasidan OCR",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG017",
+    "label": "Uychi davom zamoni varianti",
+    "meaning_uz": "tarixiy qo‘llanmada Uychi -vat, Namangan -ut farqi",
+    "forms_source": [
+      "Uychi -vat",
+      "Namangan -ut"
+    ],
+    "area": "qo‘llanma ko‘rsatgan hududlar",
+    "notes": "N3 Uychi ayrim hududlarini -ut bilan beradi. Vaqt, qishloq va variantni aniqlamasdan birini noto‘g‘ri deb o‘chirmaslik kerak.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N8",
+        "pdf_page": 16,
+        "printed_page": [
+          28,
+          29
+        ],
+        "anchor_extracted": "Uychi - vat",
+        "evidence_extracted": "lari: -vaf ,-uf. Toshkent va unga yaqin\nqishloqlar shevasi (Parkent) -v3/... Toshk.:-v2r, Uychi - vat; Namangan -ut.\n\n2) -yap shakli Farg`ona vodiysidagi shahar va shu kabi shaharlarga yaqin\nqishloq shevalariga xos: qolyapman 2 qulyappan; baryapman 2Бзгуаррап.\n\nFarg'ona paradigmasiga (shevadagi hozirgi zamon davom fe'linihg\nkoʻrinishi) Samarqand va unga yaqin shahar va qishloqlar shevasi ham kiradi.\n\nQarluq-chigil-uyg`ur lahjas",
+        "extraction": "avvalgi aynan bir xil PDF nusxasidan OCR",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG018",
+    "label": "Qo‘sh ko‘plik -larlar da’vosi",
+    "meaning_uz": "kitoblar → kitoblarlar (muallif misoli)",
+    "forms_source": [
+      "kitoblarlar"
+    ],
+    "area": "Namangan; aniq punkt yo‘q",
+    "notes": "N2 qo‘sh ko‘plikni Qorabuloq/Iqon bulalar/shulalar bilan qayd etgan; bu kitoblarlar Namangan uchun tasdiq emas.",
+    "evidence_status": "tekshirish_talab",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "kitoblarlar",
+        "evidence_extracted": "lik qo‘shimchasi “lar” o‘rniga “larlar” tarzida ishlatiladi. Masalan, “kitoblar”\no‘rniga “kitoblarlar” deyishadi.Lekin boshqa qishloqlarida yoki shahrchalarida “lar” tarzida\nishlatiladi.Shuningdek   bu   “lar”   qo‘shimchasi   kattalarga   hurmat   ma’nosida  ham\nishlatiladi.Masalan, “dadam” emas “dadamlar”.\nXorazm shevasidagi grammatik xususiyatlar. Xorazm shevasida ba'zi fe'llar o‘zgarib ketadi,\nmasalan,  “bo‘lmoq”   fe'li  “",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NG019",
+    "label": "Infinitiv/niyat chalkash juftligi",
+    "meaning_uz": "yurmoq va yurmoqchi ma’nosi grammatik jihatdan farq qiladi",
+    "forms_source": [
+      "yurmoqchi",
+      "yuruvmoq"
+    ],
+    "area": "Namangan; aniq punkt yo‘q",
+    "notes": "Niyat qo‘shimchasini infinitivning shevaviy tarjimasi sifatida qo‘llash ma’noni o‘zgartiradi.",
+    "evidence_status": "tekshirish_talab",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "yuruvmoq",
+        "evidence_extracted": "mchalar bilan ifodalanadi. Masalan, “yurmoq”\nso‘zi Namangan  shevasida “yurmoqchi”  yoki “yuruvmoq”  tarzida  ishlatiladi. Namangan\nshevasida ko‘plik qo‘shimchasi “lar” o‘rniga “larlar” tarzida ishlatiladi. Masalan, “kitoblar”\no‘rniga “kitoblarlar” deyishadi.Lekin boshqa qishloqlarida yoki shahrchalarida “lar” tarzida\nishlatiladi.Shuningdek   bu   “lar”   qo‘shimchasi   kattalarga   hurmat   ma’nosida  ham\nishlatiladi.Masala",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

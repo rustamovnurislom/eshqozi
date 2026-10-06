@@ -1,0 +1,580 @@
+[
+  {
+    "id": "NT001",
+    "claim": "Namangan viloyati = bitta umlautli sheva",
+    "reason": "Darvishov shahar belgisini barcha viloyatga yoyish tasnifini tanqid qiladi; qipchoq areallari bor.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_extracted": "qo‘shilib bo‘lmaydi",
+        "evidence_extracted": "b, viloyatning barcha hudud shevalarini\n“umlautlashgan” shevalar toifasiga kiritganligiga qo‘shilib bo‘lmaydi. Chun­\nki viloyatning aksariyat shevalari qipchoq lahjasiga mansubdir. Bizningcha,\nolimning bunday xulosaga kelishining sababi ilmiy ekspeditsiya suronli urush\ndavrlariga to‘g‘ri kelganligi, viloyat markazidan olisdagi aholi yashash manzil­\nlariga yetib borish imkoniyati chegaralanganligida bo‘lsa kerak. Bu boradagi\nolimning il",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT002",
+    "claim": "Shahandni qarluq umlautli tipga kiritish",
+    "reason": "Muallif uni y/j-lovchi qipchoq urug‘lari yashaydigan qishloq sifatida munozarali deydi; bir tasnifni yagona haqiqat deb olmaymiz.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_extracted": "Shahand",
+        "evidence_extracted": "angan dia­\nlektiga kiruvchi Namangan shahar va unga yaqin joylashgan Chortoq, Uychi\nhamda Shahand (To‘raqo‘rg‘on tumanidagi qishloq) aholi punktlari shevala­\nrini eronlashgan shevalarning uyg‘urlashgan yoki umlautli 4-a tipiga kiritgan\n[Polivanov, 54]. Olimning Namangan shahri, Chortoq, Uychi tumanlari sheva­\nlarini eronlashgan tip shevalar guruhiga kirishi haqidagi fikrlariga qo‘shilish\nmumkin. Lekin qipchoq lahjasining ti",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT003",
+    "claim": "N3 umlaut misollarining yozuvi",
+    "reason": "N2 rasmida nāk→näki va tāj→täjiŋ; N3 nok~näk, toying~tājȉŋ yozadi. Variant/ko‘chirish xatosi aniqlashtirilishi kerak.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 5,
+        "printed_page": 1144,
+        "anchor_extracted": "nok ~ näk",
+        "evidence_extracted": "d shevalarida hozirda ham amal qiladi. Masalan: mol ~ māl, molim ~ mäƖȉm, solish\n~ sälȉš, nok ~ näk, noki ~ näkȉ, toy ~ tāj, toying ~ tājȉŋ singari misollar orqali keltirib o‘tadi.\n     Tarixiy jihatdan Namangan hududida yashaovchi aholi so‘zlashadigan til birliklari qarluq-\nchigil-uyg‘ur tilining birlikariga xos bo‘lib, uyg‘ur tiliga xos bo‘lgan bir qancha tipik birlik\nxususiyatlari qiman “umlaut”236ning mavjud bo‘lganligiga",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT004",
+    "claim": "N3 paradigmasidagi tartib/takror",
+    "reason": "II shaxsda ket/kel tartibi va takror; III shaxsda ikki adabiy fe’lga uch sheva fe’li. Ro‘yxatlar indeks bo‘yicha zip qilinmaydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 5,
+        "printed_page": 1144,
+        "anchor_extracted": "ketűttȉsā:",
+        "evidence_extracted": "pman // kelűtt(ȉ)ma:, ketűtt(ȉ)ma:, borűtt(ȉ)ma:\n     kelyapsan, ketyapsan, boryapsan  // ketűttȉsā: >kelűssa:,  ketűssa:, ketűssa:n, ketűssa:,\nborűssa:\n     kelyapti, ketyapti // ketűttȉ, kelűttȉ, borűttȉ\n\n\n\n\n\n236 Ashirboyev S. O ‘zbek dialektologiyasi . -2021.― Toshkent .Nodirabegim‖ nashriyoti. – Т. 38. – B. 40-43.B. 347.\n237 Боровков А.К. Узбекские говоры Наманганской области.- 1963. – Ташкент. – Научные труды ТашГУ. Языко",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT005",
+    "claim": "O‘tgan zamon va davom zamoni tenglashtirilgan gap",
+    "reason": "Adabiy keldi va sheva kelűtti zamon jihatdan teng emas.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "xaddā:",
+        "evidence_extracted": ")ga uchrashini ko‘plab\nuchratish mumkin.xaridor ~Aka do‘konga xaridor keldi ~ Öka dokonga xaddā: kϵlűtti;\n     yurdi –yuddi ~ Azamxon bugun piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT006",
+    "claim": "Keloman hozirgi davomning avtomatik ekvivalenti",
+    "reason": "Zamon/aspekt va vaziyat tekshirilmagan.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "keloman",
+        "evidence_extracted": "di(kelyapma~keluttiman).\n    3. Shevada so‘zlashyotganda so‘zlarning qisqarshi.(kelyapman~keloman).\n    4. adabiy tildagi - yap qo‘shimchasi –űt shaklida ishlatishi\n    5. Namangan shevasida adabiy tilga xo bo‘lmagan leksik birliklar saqlanib qolganligi.\n    6. Namangan shevasida urg‘u hamda intonatsiya adabiy normadan farq  qiladi, ya’ni,\nso‘zlahuv nutqida urg‘uning o‘rni o‘zgaradi. Bu esa shevaga xos talaffuzning ohangini",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT007",
+    "claim": "Namangan tushumining hammasi -di/-ti",
+    "reason": "Aniq Namangan punktidagi kontekstli misol yo‘q; N2 -di/-ti ni Andijon/Marg‘ilon/Qo‘qon bilan bog‘laydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 8,
+        "printed_page": 1147,
+        "anchor_extracted": "–di,-ti",
+        "evidence_extracted": " boshqa viloyatlardan farqli\nravishda qo‘llanishi(Qaratqich k.- nin,-ni//Tushum kelishigi –di,-ti)\n  11. Namangan shevasida o‘zbek tilining ilk tarixiy shakllarning saqlanib qolinganligi.\n   XULOSA. Bugungi kunda Namangan dialekti o‘zbek tilshunosligida o‘ziga xos  til\nxususiyatlari bilan alohida o‘rin tutadi. Uning o‘ziga xosligi, boshqa shevalardan farqli ravishda\nfonetik, leksik va grammatik jihatdan ajralib turishidadir",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT008",
+    "claim": "Namangan vodiyning janubida",
+    "reason": "Geografik xato; viloyat vodiyning shimoliy qismida. Maqolaning umumlashtirishlari ehtiyotkor baholanadi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "janubiy qismida",
+        "evidence_extracted": "9, ISSN: 3060-4818       Volume 7, issue 02, 2025\n\nNamangan viloyati Farg‘ona vodiysining janubiy qismida joylashgan bo‘lib, qadimgi temuriylar\ndavridan  boshlab,  O‘rta  Osiyo  madaniyati  bilan  uzviy  aloqada  bo‘lgan.  Xorazm  esa\nO‘zbekistonning g‘arbiy hududida, Amudaryo bo‘yida joylashgan, va u turkmanlar, arablar va\nforslar  bilan  tarixiy  aloqalar  orqali  o‘zining  madaniy  va  tilshunoslik  xususiyatlarini\nshakllantirga",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT009",
+    "claim": "Yurmoq = yurmoqchi",
+    "reason": "Infinitiv va niyat shakli semantik teng emas.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "yurmoqchi",
+        "evidence_extracted": " o‘ziga xos qo‘shimchalar bilan ifodalanadi. Masalan, “yurmoq”\nso‘zi Namangan  shevasida “yurmoqchi”  yoki “yuruvmoq”  tarzida  ishlatiladi. Namangan\nshevasida ko‘plik qo‘shimchasi “lar” o‘rniga “larlar” tarzida ishlatiladi. Masalan, “kitoblar”\no‘rniga “kitoblarlar” deyishadi.Lekin boshqa qishloqlarida yoki shahrchalarida “lar” tarzida\nishlatiladi.Shuningdek   bu   “lar”   qo‘shimchasi   kattalarga   hurmat   ma’nosida  ham\ni",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT010",
+    "claim": "Qish = qishda",
+    "reason": "Ot va o‘rin-payt shakli bir xil leksik ekvivalent emas.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "qishda",
+        "evidence_extracted": "ing qadimiy so‘zlari  ishlatiladi. Misol uchun, “yangi” o‘rniga “yong‘i”, “qish” o‘rniga\n“qishda” ishlatiladi.\nNamangan shevasida qadimiy so‘zlar ko‘proq uchraydi. Bu so‘zlar tarixiy jarayonlar, madaniy\nta’sirlar va  tarixiy  hududlar  bilan  bog‘liq.  Masalan, Namangan  shevasida  ishlatiladigan\n“ko‘rsatuvchi” so‘zlari ba’zan Xoramda yoki Toshkentda ishlatilmaydi, yoki boshqacha talqin\nqilinadi. Namangan shevasida  ijtimo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT011",
+    "claim": "Kitoblarlar Namangan ko‘pligi",
+    "reason": "Respondent, mahalla va aniq qo‘llanish yo‘q. N2 Qorabuloq/Iqonning qo‘sh ko‘pligi buni tasdiqlamaydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "kitoblarlar",
+        "evidence_extracted": "lik qo‘shimchasi “lar” o‘rniga “larlar” tarzida ishlatiladi. Masalan, “kitoblar”\no‘rniga “kitoblarlar” deyishadi.Lekin boshqa qishloqlarida yoki shahrchalarida “lar” tarzida\nishlatiladi.Shuningdek   bu   “lar”   qo‘shimchasi   kattalarga   hurmat   ma’nosida  ham\nishlatiladi.Masalan, “dadam” emas “dadamlar”.\nXorazm shevasidagi grammatik xususiyatlar. Xorazm shevasida ba'zi fe'llar o‘zgarib ketadi,\nmasalan,  “bo‘lmoq”   fe'li  “",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT012",
+    "claim": "Xudohafizning barchasi arabcha",
+    "reason": "Xudo komponenti forscha; umumiy ibora Namangan uchun eksklyuziv dalil emas.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 3,
+        "printed_page": 77,
+        "anchor_extracted": "Xudohafiz",
+        "evidence_extracted": "ohalar bilan bog‘liq bo‘lgan so‘zlar hisoblanadi. Mana, ularning ba'zilari va\nmisollari:\n“Xudohafiz” — “Xudo saqlasin” yoki “Xudoga ishonib salomlashish”.Misol: “Xudohafiz, sog‘-\nsalomat bo‘l.”\nShukr — “Rahmat” yoki “minnatdorchilik” bildirish.Misol: “Shukr, hammasi joyida.”\nJumma —  “Juma”  (diniy  haftaning  beshinchi  kuni).Misol:  “Bugun  juma,  masjidga\nbormoqchiman.\nHikmat — “Dunyoqarash, dono maslahat yoki ilm”.Misol: ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT013",
+    "claim": "Shahar aholisi doimo adabiyroq gapiradi",
+    "reason": "Yosh, vaziyat, ta’lim, respondentlar kesimidagi empirik tekshiruv yo‘q. N1/N3 shahar o‘ziga xosligini ko‘rsatadi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "markaziy o‘zbek",
+        "evidence_extracted": "oq aholisining an’anaviy, tabiiy va oddiy\nuslublarini aks ettirsa, shahar aholisi ko‘proq markaziy o‘zbek tiliga yaqinroq uslubda gaplashadi.\nNamangan shevasining ishlatilishi ko‘proq qishloq va shahar aholisi o‘rtasida farqlanadi. Shahar\naholisi ko‘proq markaziy o‘zbek  tilini  ishlatadi, lekin qishloq  aholisi o‘zining an’anaviy\n\n                                         76",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT014",
+    "claim": "Bülä = turmush o‘rtoq",
+    "reason": "Qarindoshlik darajasi va nikoh atamasining ma’nosi mahalliy kontekst bilan tekshiriladi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Bülä",
+        "evidence_extracted": "                                          ota              dïdä, dedä      turmushoʻrtoq  Bülä\nchora-tadbirlari  to‘g‘risida”gi  PF-6084-sonli  Farmonlarida\n                                                                 ona          Äbä           chaqaloq         čïčï\ndavlat tilini har tomonlama rivojlantirish bilan bir qatorda o‘zbek\n                                                                                     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT015",
+    "claim": "Pätïnǯān = pomidor",
+    "reason": "Predmet turi mustaqil tasdiqlanmagan; shahar yoki barcha viloyatga yoyilmaydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pätïnǯān",
+        "evidence_extracted": "rat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT016",
+    "claim": "Rām = ayvon va Güðär = bozor",
+    "reason": "Qurilma qismi va joyning ijtimoiy vazifasi kontekstda aniqlanishi kerak.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Rām",
+        "evidence_extracted": "                                                 qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                                uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yost",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT017",
+    "claim": "Mishig‘ transkripsiyasi",
+    "reason": "Boshso‘z va mыčиý aralash yozuvi farq qiladi; rasm ko‘rildi, ammo talaffuz audio bilan tasdiqlanmagan.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N6",
+        "pdf_page": 2,
+        "printed_page": 102,
+        "anchor_extracted": "Mishig'",
+        "evidence_extracted": "ilida voqe  bo'lgan  tovush\no'zgarishlari natijasida nardbon so'zi yuzaga kelgan.\n     4. Mishig' (mыčиý)\n    Mushuk so'zi shahar shevasida \"mыčиý\" tarzida talaffuz qilinadi.\n    Bundan tashqari shahar shevasida qarindoshlik atamalari ham o'zgacha. Unda\n\"bobo\"  so'zini  \"opodda\"  tarzida,  amaki,  ya'ni  dadaning  akasini  \"katta  dada\",\n\n\n\n\n\n                                            102",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT018",
+    "claim": "Tuproq→turpoq dissimilatsiya",
+    "reason": "Undoshlarning o‘rin almashishi metateza; tovush tasnifi tuzatildi, misol saqlandi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N6",
+        "pdf_page": 3,
+        "printed_page": 103,
+        "anchor_extracted": "Tuproq",
+        "evidence_extracted": "shlarning boshqa tovush ta'sirisiz tovush variantiga ega bo'lishi ham kuzatiladi:\n      • Tuproq~turpoq;\n     •To'rg'amoq~to'rg'amoq singari.\n    Xulosa: Demak, Namangan shahar shevasining nafaqat adabiy tildan, balki\nboshqa shevalardan ham anchagina farqli jihatlari bor. Bu jihatlarni to‘la tadqiq etish\nlozim. Namangan shahar shevasini o‘rganish va ko‘plab qirralarini kashf etish lozim.\nBu sheva o‘ziga xos leksik,grammati",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT019",
+    "claim": "To‘rg‘amoq→to‘rg‘amoq",
+    "reason": "Ikki tomon bir xil; asl niyat to‘g‘ramoq bo‘lishi mumkin, ammo dalilsiz tiklanmadi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N6",
+        "pdf_page": 3,
+        "printed_page": 103,
+        "anchor_extracted": "To'rg'amoq",
+        "evidence_extracted": "sh ta'sirisiz tovush variantiga ega bo'lishi ham kuzatiladi:\n      • Tuproq~turpoq;\n     •To'rg'amoq~to'rg'amoq singari.\n    Xulosa: Demak, Namangan shahar shevasining nafaqat adabiy tildan, balki\nboshqa shevalardan ham anchagina farqli jihatlari bor. Bu jihatlarni to‘la tadqiq etish\nlozim. Namangan shahar shevasini o‘rganish va ko‘plab qirralarini kashf etish lozim.\nBu sheva o‘ziga xos leksik,grammatik va fonetik xususiyatlar",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT020",
+    "claim": "Mehnatni fors-tojik o‘zlashma deyish",
+    "reason": "Etimologik qatlam xatosi: mehnat arabcha; bu Uychi uchun alohida nutq belgisi emas.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 6,
+        "printed_page": 642,
+        "anchor_extracted": "mehnat",
+        "evidence_extracted": "n ma’rifiy va diniy sohalarga oid boʻlsa, fors-tojik tilidan oʻzlashgan dasturxon,\nsabzi, mehnat kabi birliklar kundalik hayotda keng qoʻllanadi.\n      Rus tilidan kirib kelgan mashina, traktor, stol kabi soʻzlar esa zamonaviy hayot va texnika\nbilan bogʻliq tushunchalarni ifodalaydi. Bu soʻzlar koʻpincha shevaga moslashgan holda talaffuz\nqilinadi, masalan, mashina oʻrniga mashna tarzida  ishlatilishi mumkin. Bu jarayon til",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT021",
+    "claim": "Tappak = tez/shoshilinch",
+    "reason": "Bir dona yalang ta’rif; kontekstli mahalliy nutq bilan tekshirish kerak.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 6,
+        "printed_page": 642,
+        "anchor_extracted": "tappak",
+        "evidence_extracted": "iga\nxos jihatlarini ifodalaydi. Shuningdek, insonning holati yoki xarakterini bildiruvchi tappak (tez,\nshoshilinch), sergap (koʻp gapiradigan) kabi soʻzlar ham keng qoʻllanadi. Bu birliklar nutqqa\nhissiy-ekspressiv rang beradi.\n       Tabiat va qishloq xoʻjaligiga oid dialektal soʻzlar ham Uychi shevalarida muhim oʻrin\ntutadi. Masalan, gʻoʻr (hali pishmagan meva), ariqcha (kichik sugʻorish yoʻli) kabi soʻzlar\ndehqonchilik ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT022",
+    "claim": "Alvali/olvali har joyda olcha",
+    "reason": "Mingbuloq maqolasi olcha deydi, Peshqo‘rg‘on maqolasi olcha va olxo‘ridan ajratadi. Hududiy ma’nolar birlashtirilmaydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 197,
+        "printed_page": 197,
+        "anchor_extracted": "mutlaqo farqlanuvchi",
+        "evidence_extracted": "‘oqdek keladigan olxo‘ri daraxti ham bor.\nBoshqacha aytganda olvali – olcha va olxo‘ridan mutlaqo farqlanuvchi daraxt.\n“O‘zbek tilining izohli lug‘ati”da esa “olvali”ning ma’nosi “olcha yoki olxo‘ri”\ndeb ko‘rsatilgan. O‘zi “olvali”. U qanday qilib yana “olcha” yoki “olxo‘ri” bo‘lib\nqoladi? “O‘zbek tilining izohli lug‘ati”ga kirmay qolgan, kirgan bo‘lsa ham no­\nto‘g‘ri izoh berilgan so‘zlar qatorini yana davom ettirish mumkin. Masalan,\nm",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT023",
+    "claim": "N8ning barcha viloyatni Namangan dialektiga kiritishi",
+    "reason": "N2 PDF86 qipchoq shevalarini ochiq chiqaradi; N1 PDF39 ham viloyat ichki farqini asoslaydi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N8",
+        "pdf_page": 16,
+        "printed_page": [
+          28,
+          29
+        ],
+        "anchor_extracted": "Namangan dialekti",
+        "evidence_extracted": "iy oʻzbek shevalari guruhi.\n\nI. Fargʻona guruh shevalarida to`rtta dialekt mavjuddir:\n\n1. Namangan dialekti. Namangan shahar va Namangan viloyati shevalari\nayni shu dialektga kiradi.\n\n2. Andijon-Shahrixon dialekti. Unga Andijon shahri, Shahrixon, Andijon\nviloyatidagi shevalar kiradi.\n\n3. Oʻsh-Oʻzgan dialekti. Mazkur dialektga Oʻsh, O`zgan, Jalolobod\nshevalari kiradi.\n\n4. Магв Поп-Оо\"доп dialekti. Bunga Marg`ilon, Fargʻona shaharlari,",
+        "extraction": "avvalgi aynan bir xil PDF nusxasidan OCR",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT024",
+    "claim": "Uychi -vat va ayrim Uychi -ut farqi",
+    "reason": "Eski qo‘llanma va N3ning ayrim-hudud ta’rifi bir xil qamrov emas; zamon, joy va variant aniqlanadi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N8",
+        "pdf_page": 16,
+        "printed_page": [
+          28,
+          29
+        ],
+        "anchor_extracted": "Uychi - vat",
+        "evidence_extracted": "lari: -vaf ,-uf. Toshkent va unga yaqin\nqishloqlar shevasi (Parkent) -v3/... Toshk.:-v2r, Uychi - vat; Namangan -ut.\n\n2) -yap shakli Farg`ona vodiysidagi shahar va shu kabi shaharlarga yaqin\nqishloq shevalariga xos: qolyapman 2 qulyappan; baryapman 2Бзгуаррап.\n\nFarg'ona paradigmasiga (shevadagi hozirgi zamon davom fe'linihg\nkoʻrinishi) Samarqand va unga yaqin shahar va qishloqlar shevasi ham kiradi.\n\nQarluq-chigil-uyg`ur lahjas",
+        "extraction": "avvalgi aynan bir xil PDF nusxasidan OCR",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT025",
+    "claim": "Mingbuloq taft/tapt/tavt boshso‘zi",
+    "reason": "Manbada kaft ichi ta’riflanadi, adabiy taft esa issiqlik. Ta’rif va fonetik etimologiya farqlanadi.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Tapt",
+        "evidence_extracted": "]\nya’ni chuqur til orqa, sirg‘aluvchi, jarangsiz undosh tovush tushirib qoldi­\nrilgan.\n   Tapt, tavt [täpt, tävt] – insonning barmoqlari joylashgan qo‘l qismining\nichkari tomoniga nisbatan aytiladi. Tavtingni peshonasiga bos-chi? Arini tapti\nbilan bosib o‘ldirdi. Izohli lug‘atda taft so‘ziga boshqacha ta’rif beriladi. Taft –\nissiqlik manbayi yoki qizib turgan narsadan urayotgan issiq, harorat. Tandir­\nning tafti [3:14]. ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NT026",
+    "claim": "Mingbuloq joy nomlari",
+    "reason": "96-bet Rakasoviskiy, 99-bet Rakasovitskiy va Dehqonobod ishlatilgan. Ularning bir joy ekanligi manbada izohlanmagan.",
+    "decision": "botning avtomatik almashtirish qoidasi uchun ishlatilmaydi",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 96,
+        "printed_page": 96,
+        "anchor_extracted": "Rakasoviskiy",
+        "evidence_extracted": "lda uchramaydigan, faqat shevaga xos so‘z-terminlar:\n   Dog‘ocha [döγăča] – Mingbuloqning Rakasoviskiy qishlog‘ida kosa shak­\nlidagi ichi chuqur idishga nisbatan ishlatilgan so‘z. Adabiy tilimizda bunday\nidish tovoq deb ataladi. Tovoq – yuzi yoyiq, biroz yalpoq, kosa shaklidagi\nchuqurroq idish (turli o‘lchamda sopol, chinni, metall, ba’zan marmardan\ntayyorlanadi). Sopol tovoq. Chinni tovoq. Tunuka tovoq [1:130].\n   Bormovuch, bo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "N1": {
+    "full_document_read": false,
+    "articles_read_complete": [
+      [
+        37,
+        40
+      ],
+      [
+        95,
+        100
+      ],
+      [
+        196,
+        199
+      ]
+    ],
+    "selected_pages_read": [
+      74
+    ],
+    "search_hits_context_checked": [
+      36,
+      177,
+      178,
+      179,
+      211,
+      212,
+      213
+    ],
+    "note": "216 betli to‘plamning Namangan bo‘yicha uch maqolasi to‘liq o‘qildi; toponim/affiliatsiya/bibliografiya natijalari nutq dalili emas."
+  },
+  "N2": {
+    "full_document_read": false,
+    "selected_pages_read": [
+      9,
+      16,
+      17,
+      22,
+      23,
+      24,
+      26,
+      31,
+      41,
+      42,
+      59,
+      60,
+      81,
+      82,
+      83,
+      85,
+      86,
+      87,
+      92,
+      93,
+      94
+    ],
+    "visual_checked_pages": [
+      22,
+      23,
+      24,
+      26,
+      31,
+      42,
+      92,
+      93,
+      94
+    ],
+    "note": "Namangan sarlavhali Suhbat PDF92 oxiri–94 boshi to‘liq o‘qildi. PDF94 qolgan qism Kitob tumani Ayronchi shevasi; Namangan deb olinmadi. Test savollari javoblari nutq dalili sifatida olinmadi."
+  },
+  "N3": {
+    "full_document_read": true,
+    "pdf_pages_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "N4": {
+    "full_document_read": true,
+    "pdf_pages_read": [
+      1,
+      2,
+      3
+    ],
+    "visual_checked_pages": [
+      1,
+      2
+    ],
+    "table_pairs": 127,
+    "note": "Ikki ustunli matn qatlamini vizual jadval juftlash bilan tekshirish; Compiled on sanasi respondent yozib olish sanasi emas."
+  },
+  "N5": {
+    "full_document_read": true,
+    "pdf_pages_read": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "note": "Umumlashtirish va grammatik ma’no kamchiliklari alohida qayd etildi."
+  },
+  "N6": {
+    "full_document_read": true,
+    "pdf_pages_read": [
+      1,
+      2,
+      3
+    ],
+    "visual_checked_pages": [
+      2
+    ],
+    "note": "Nashrning aniq yili ushbu faylda topilmadi; taxminiy sana kiritilmadi."
+  },
+  "N7": {
+    "full_document_read": true,
+    "pdf_pages_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "note": "PDF1 muqova, PDF2 nashr ma’lumoti, PDF3 mundarija (bosma771). Maqola PDF4–6 / bosma640–642. Mundarijadagi Norin maqolasi bu parchaga kirmaydi."
+  },
+  "N8": {
+    "full_document_read": false,
+    "selected_pages_read": [
+      15,
+      16,
+      17,
+      80,
+      81,
+      82,
+      83
+    ],
+    "visual_checked_pages": [
+      15,
+      16,
+      80,
+      81,
+      82,
+      83
+    ],
+    "note": "97 skan PDF sahifa; OCR avvalgi bir xil nusxadan qayta ishlatildi. PDF1 bo‘sh; OCR sahifa raqamlari vizual tekshirildi. OCR bilan qidirish butun kitobni o‘qish degani emas."
+  }
+}

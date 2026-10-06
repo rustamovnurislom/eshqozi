@@ -1,0 +1,3431 @@
+[
+  {
+    "id": "NL001",
+    "form_source": "āpāddä / ätätä / kata ata",
+    "meaning_uz": "bobo",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "āpāddä",
+        "evidence_extracted": "ralmoqda. O‘zbekiston Respublikasi Prezidentining 2019-yil                             1) āpāddä, 2)\n                                                                  bobo             ätätä, 3) kata    singil         üka21- oktabrdagi “O‘zbek tilining davlat tili sifatidagi nufuzi va\n                                                                                               atamavqeyini tubdan oshirish chora-tadbirlari ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL002",
+    "form_source": "äčä / enä / ännä",
+    "meaning_uz": "buvi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "äčä",
+        "evidence_extracted": "                                                                                       1) äčä, 2) enä,\n5850-sonli, 2020-yil 20-oktabrdagi “Mamlakatimizda o‘zbek        buvi                         xolavachcha    Jiyan\n                                                                                                     3) ännä\ntilini yanada  rivojlantirish va  til siyosatini takomillashtirish\n                             ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL003",
+    "form_source": "dïdä / dedä",
+    "meaning_uz": "ota",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "dïdä",
+        "evidence_extracted": "                                                                         ota              dïdä, dedä      turmushoʻrtoq  Bülä\nchora-tadbirlari  to‘g‘risida”gi  PF-6084-sonli  Farmonlarida\n                                                                 ona          Äbä           chaqaloq         čïčï\ndavlat tilini har tomonlama rivojlantirish bilan bir qatorda o‘zbek\n                                                      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL004",
+    "form_source": "Äbä",
+    "meaning_uz": "ona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Äbä",
+        "evidence_extracted": "armonlarida\n                                                                 ona          Äbä           chaqaloq         čïčï\ndavlat tilini har tomonlama rivojlantirish bilan bir qatorda o‘zbek\n                                                                                      togʻa            kättä dedä      shafyor         Šāpïr\ntilining qadimiy va boy sheva va dialektlarni chuqur o‘rganish,\n                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL005",
+    "form_source": "kättä dedä",
+    "meaning_uz": "tog‘a",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Shahar maqolasidagi kättä dada=otaning akasi bilan ma’no farqi bor.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "kättä dedä",
+        "evidence_extracted": "                                                                         togʻa            kättä dedä      shafyor         Šāpïr\ntilining qadimiy va boy sheva va dialektlarni chuqur o‘rganish,\n                                                                             togʻaning va\ndialektlari  xaritasini  yaratish masalalariga alohida ahamiyat\n                                                                  amakining      kät",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL006",
+    "form_source": "kättä äbä",
+    "meaning_uz": "tog‘aning va amakining ayoli",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "kättä äbä",
+        "evidence_extracted": "ahamiyat\n                                                                  amakining      kättä äbä        militsiya        Mïlïsä\nqaratilgan.                                                                                    ayoli\n   Shevalar ona tilimizning asl mohiyatini dialektal so‘zlarini\nsaqlab,  talaffuzda  ifodalaydi.  O‘zbek  xalq  shevalari bugun\no‘rganilmagan, balki qadimdan, ya’ni Mahmud Qoshg‘ariylar\ndavridan o‘",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL007",
+    "form_source": "üka",
+    "meaning_uz": "singil",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Manbada ayol qarindoshga tegishli; uka=erkak qarindosh deb avtomatik almashtirilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "üka",
+        "evidence_extracted": "                                        bobo             ätätä, 3) kata    singil         üka21- oktabrdagi “O‘zbek tilining davlat tili sifatidagi nufuzi va\n                                                                                               atamavqeyini tubdan oshirish chora-tadbirlari to‘g‘risida”gi PF-\n                                                                                                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL008",
+    "form_source": "Jiyan",
+    "meaning_uz": "xolavachcha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Adabiy jiyan bilan qarindoshlik darajasi farq qiladi; faqat jadvaldagi ta’rif.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Jiyan",
+        "evidence_extracted": "l 20-oktabrdagi “Mamlakatimizda o‘zbek        buvi                         xolavachcha    Jiyan\n                                                                                                     3) ännä\ntilini yanada  rivojlantirish va  til siyosatini takomillashtirish\n                                                                             ota              dïdä, dedä      turmushoʻrtoq  Bülä\nchora-tadbirlari  to‘g‘",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL009",
+    "form_source": "Bülä",
+    "meaning_uz": "turmush o‘rtoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Bülä ma’nosi nikoh va qarindoshlik kontekstida qayta tekshiriladi; boshqa hudud ma’nosi ko‘chirilmaydi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Bülä",
+        "evidence_extracted": "                                          ota              dïdä, dedä      turmushoʻrtoq  Bülä\nchora-tadbirlari  to‘g‘risida”gi  PF-6084-sonli  Farmonlarida\n                                                                 ona          Äbä           chaqaloq         čïčï\ndavlat tilini har tomonlama rivojlantirish bilan bir qatorda o‘zbek\n                                                                                     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL010",
+    "form_source": "čïčï",
+    "meaning_uz": "chaqaloq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "čïčï",
+        "evidence_extracted": "                                              ona          Äbä           chaqaloq         čïčï\ndavlat tilini har tomonlama rivojlantirish bilan bir qatorda o‘zbek\n                                                                                      togʻa            kättä dedä      shafyor         Šāpïr\ntilining qadimiy va boy sheva va dialektlarni chuqur o‘rganish,\n                                                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL011",
+    "form_source": "Šāpïr",
+    "meaning_uz": "shafyor",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Šāpïr",
+        "evidence_extracted": "                                         togʻa            kättä dedä      shafyor         Šāpïr\ntilining qadimiy va boy sheva va dialektlarni chuqur o‘rganish,\n                                                                             togʻaning va\ndialektlari  xaritasini  yaratish masalalariga alohida ahamiyat\n                                                                  amakining      kättä äbä        militsiya    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL012",
+    "form_source": "Mïlïsä",
+    "meaning_uz": "militsiya",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 1,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "anchor_extracted": "Mïlïsä",
+        "evidence_extracted": "                                         amakining      kättä äbä        militsiya        Mïlïsä\nqaratilgan.                                                                                    ayoli\n   Shevalar ona tilimizning asl mohiyatini dialektal so‘zlarini\nsaqlab,  talaffuzda  ifodalaydi.  O‘zbek  xalq  shevalari bugun\no‘rganilmagan, balki qadimdan, ya’ni Mahmud Qoshg‘ariylar\ndavridan o‘rganilgan bo‘lsa-da, ammo sheva",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL013",
+    "form_source": "pänšäxï",
+    "meaning_uz": "beshlik",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pänšäxï",
+        "evidence_extracted": "ada               Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    beshlik         pänšäxï         telefon          tilpān                  lagʻmon       makran         sabzi           Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL014",
+    "form_source": "list",
+    "meaning_uz": "mantiqosqon tovog‘i",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "list",
+        "evidence_extracted": "          ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                       ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL015",
+    "form_source": "ābdästä",
+    "meaning_uz": "tahorat choynak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "ābdästä",
+        "evidence_extracted": "            kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                               ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL016",
+    "form_source": "xān",
+    "meaning_uz": "xontaxta",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "xān",
+        "evidence_extracted": "                  sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL017",
+    "form_source": "krävät",
+    "meaning_uz": "so‘ri",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "krävät",
+        "evidence_extracted": "                    goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan               ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL018",
+    "form_source": "räpïda",
+    "meaning_uz": "non yopadigan",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Adabiy ustunda predmet nomi to‘liq emas; non emas, non yopishda ishlatiladigan asbob konteksti.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "räpïda",
+        "evidence_extracted": "       shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                                                                                        qalamp",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL019",
+    "form_source": "körpäčä",
+    "meaning_uz": "yakando‘z",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "körpäčä",
+        "evidence_extracted": "                                                             qalampiri\n    yakandoʻz      körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. Navkent qishlogʻi shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čā",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL020",
+    "form_source": "chönta",
+    "meaning_uz": "cho‘ntak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "chönta",
+        "evidence_extracted": "    qalampiri\n    yakandoʻz      körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. Navkent qishlogʻi shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL021",
+    "form_source": "päštäŋ",
+    "meaning_uz": "ostona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "päštäŋ",
+        "evidence_extracted": "    Table 6. Navkent qishlogʻi shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL022",
+    "form_source": "pïlpājä",
+    "meaning_uz": "zinapoya",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pïlpājä",
+        "evidence_extracted": "n-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                                                                     orqa   jo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL023",
+    "form_source": "tāštkï",
+    "meaning_uz": "arava",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "tāštkï shakli va predmet turi mahalliy tasdiq talab qiladi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tāštkï",
+        "evidence_extracted": "                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                                                                     orqa   jom            lägänčä         tarozi           tārāðï                    hovli            havli                           Häjät\n ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL024",
+    "form_source": "lägänčä",
+    "meaning_uz": "jom",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "lägänčä",
+        "evidence_extracted": "                                                                    orqa   jom            lägänčä         tarozi           tārāðï                    hovli            havli                           Häjät\n                                                                                                 tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL025",
+    "form_source": "šišä",
+    "meaning_uz": "banka",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šišä",
+        "evidence_extracted": "                                                            tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                                                                         yer\n    chelak          Päqïr           quluf            qulf\n                                                                                                                            ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL026",
+    "form_source": "Päqïr",
+    "meaning_uz": "chelak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Päqïr",
+        "evidence_extracted": "                                                                  yer\n    chelak          Päqïr           quluf            qulf\n                                                                                                                                                   1) tölä, 2)\n                                                                    tovuqxona      kätäk          padval                                  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL027",
+    "form_source": "šäm",
+    "meaning_uz": "shag‘am",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šäm",
+        "evidence_extracted": "                                                                  jertölä    shagʻam      šäm                                                 ðakālka\n                                   (zagolka)\n                                                                        qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL028",
+    "form_source": "tüzdiš",
+    "meaning_uz": "tuz idish",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tüzdiš",
+        "evidence_extracted": "                        qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                                uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL029",
+    "form_source": "Jāstïy",
+    "meaning_uz": "bolish, yostiq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Jāstïy",
+        "evidence_extracted": " uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL030",
+    "form_source": "Äläčä",
+    "meaning_uz": "sholcha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Äläčä",
+        "evidence_extracted": "                                                             hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                                oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa   ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL031",
+    "form_source": "Ïššä",
+    "meaning_uz": "shisha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Ïššä",
+        "evidence_extracted": "                                                        oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL032",
+    "form_source": "pe:lä",
+    "meaning_uz": "piyola",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pe:lä",
+        "evidence_extracted": "rgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL033",
+    "form_source": "Čïnï",
+    "meaning_uz": "kosa",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Čïnï",
+        "evidence_extracted": "  kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš\n                                                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL034",
+    "form_source": "učöčïk",
+    "meaning_uz": "scho‘chik",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Adabiy ustun shakli izohlanmagan; hisoblagich deb qat’iy ta’rif kiritilmadi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "učöčïk",
+        "evidence_extracted": "                                                  bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš\n                                                                   Adabiy tilda   Shevada       Adabiy tilda   Shevada   sumka        päpkä        nimcha        kämðil\n                                                             xunuk        xünö         mast           älkäš    tarnov        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL035",
+    "form_source": "päpkä",
+    "meaning_uz": "sumka",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "päpkä",
+        "evidence_extracted": "                       Adabiy tilda   Shevada       Adabiy tilda   Shevada   sumka        päpkä        nimcha        kämðil\n                                                             xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL036",
+    "form_source": "tännāv",
+    "meaning_uz": "tarnov",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tännāv",
+        "evidence_extracted": "                         xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3.",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL037",
+    "form_source": "köjnäj",
+    "meaning_uz": "ko‘ylak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "köjnäj",
+        "evidence_extracted": "                                                  ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishlatiluvchi tana a’zolari bilan\n                                                                            bildiruvchi so‘",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL038",
+    "form_source": "tilpān",
+    "meaning_uz": "telefon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tilpān",
+        "evidence_extracted": "Shevada       Adabiy tilda   Shevada\n    beshlik         pänšäxï         telefon          tilpān                  lagʻmon       makran         sabzi           Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartosh",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL039",
+    "form_source": "māšnä",
+    "meaning_uz": "moshina",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "māšnä",
+        "evidence_extracted": "āp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL040",
+    "form_source": "tälinkä",
+    "meaning_uz": "likopcha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tälinkä",
+        "evidence_extracted": "škö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                              ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL041",
+    "form_source": "sāhat",
+    "meaning_uz": "soat",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "sāhat",
+        "evidence_extracted": " čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   n",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL042",
+    "form_source": "devāl",
+    "meaning_uz": "devor",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "devāl",
+        "evidence_extracted": "     Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                            ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL043",
+    "form_source": "töplï",
+    "meaning_uz": "tufli",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "töplï",
+        "evidence_extracted": "    rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                                                                                        qalampiri\n    yakandoʻz      körpäčä      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL044",
+    "form_source": "čashka",
+    "meaning_uz": "finjon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čashka",
+        "evidence_extracted": "                              qalampiri\n    yakandoʻz      körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. Navkent qishlogʻi shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy ti",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL045",
+    "form_source": "ajnäk",
+    "meaning_uz": "oynak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "ajnäk",
+        "evidence_extracted": "    körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. Navkent qishlogʻi shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL046",
+    "form_source": "römālčä",
+    "meaning_uz": "dastro‘mol",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "römālčä",
+        "evidence_extracted": "shevasida ishlatiluvchi o‘rin-joy otlari    ostona         päštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                                                  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL047",
+    "form_source": "čāčïq",
+    "meaning_uz": "sochiq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čāčïq",
+        "evidence_extracted": "äštäŋ          dastroʻmol     römālčä\n    zinapoya        pïlpājä         sochiq          čāčïq                  Adabiy tilda   Shevada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                                                                     orqa   jom            lägänčä         t",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL048",
+    "form_source": "peräčtka",
+    "meaning_uz": "qo‘lqop",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "peräčtka",
+        "evidence_extracted": "evada       Adabiy tilda   Shevada\n    arava             tāštkï           qoʻlqop         peräčtka                                               hovlining\n                                                                                                     orqa   jom            lägänčä         tarozi           tārāðï                    hovli            havli                           Häjät\n                                    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL049",
+    "form_source": "tārāðï",
+    "meaning_uz": "tarozi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tārāðï",
+        "evidence_extracted": "                                   orqa   jom            lägänčä         tarozi           tārāðï                    hovli            havli                           Häjät\n                                                                                                 tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                                                     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL050",
+    "form_source": "tïlïðör",
+    "meaning_uz": "televizor",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tïlïðör",
+        "evidence_extracted": "                         tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                                                                         yer\n    chelak          Päqïr           quluf            qulf\n                                                                                                                                                   1) tölä, 2)\n   ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL051",
+    "form_source": "qulf",
+    "meaning_uz": "quluf",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qulf",
+        "evidence_extracted": "                                 yer\n    chelak          Päqïr           quluf            qulf\n                                                                                                                                                   1) tölä, 2)\n                                                                    tovuqxona      kätäk          padval                                    qisqich                       ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL052",
+    "form_source": "ðakālka",
+    "meaning_uz": "qisqich (zagolka)",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "ðakālka",
+        "evidence_extracted": "              jertölä    shagʻam      šäm                                                 ðakālka\n                                   (zagolka)\n                                                                        qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                                uy                 ö:j            bozor         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL053",
+    "form_source": "töp",
+    "meaning_uz": "koptok",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "töp",
+        "evidence_extracted": "    rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                                                                                        qalampiri\n    yakandoʻz      körpäčä    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL054",
+    "form_source": "qog‘iččaq",
+    "meaning_uz": "qo‘g‘irchoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qog‘iččaq",
+        "evidence_extracted": "bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                   ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL055",
+    "form_source": "löngï",
+    "meaning_uz": "ro‘mol",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "löngï",
+        "evidence_extracted": "                            hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                                oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL056",
+    "form_source": "kölänkä",
+    "meaning_uz": "soya",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kölänkä",
+        "evidence_extracted": "                          oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n    schoʻchik       učöčïk         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL057",
+    "form_source": "engïl",
+    "meaning_uz": "ustki kiyim",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "engïl",
+        "evidence_extracted": "šä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš\n                                ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL058",
+    "form_source": "krän",
+    "meaning_uz": "krant",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "krän",
+        "evidence_extracted": " pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatiluvchi belgi-xususiyat\n                                                                            bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš\n                                                                   Adabiy tilda   Sheva",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL059",
+    "form_source": "g‘ïš",
+    "meaning_uz": "g‘isht",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "gʻïš",
+        "evidence_extracted": "            bildiruvchi so‘zlar\n    schoʻchik       učöčïk           gʻisht               gʻïš\n                                                                   Adabiy tilda   Shevada       Adabiy tilda   Shevada   sumka        päpkä        nimcha        kämðil\n                                                             xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          kö",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL060",
+    "form_source": "kämðil",
+    "meaning_uz": "nimcha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kämðil",
+        "evidence_extracted": "iy tilda   Shevada       Adabiy tilda   Shevada   sumka        päpkä        nimcha        kämðil\n                                                             xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n          ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL061",
+    "form_source": "köjnä:",
+    "meaning_uz": "ko‘ylak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "köjnä:",
+        "evidence_extracted": "     xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishl",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL062",
+    "form_source": "lāysuvāq",
+    "meaning_uz": "tomsuvoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 2,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "lāysuvāq",
+        "evidence_extracted": "                      ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishlatiluvchi tana a’zolari bilan\n                                                                            bildiruvchi so‘zlarbogʻliq so‘zlar\n          ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL063",
+    "form_source": "bašïm",
+    "meaning_uz": "boshim",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bašïm",
+        "evidence_extracted": "m,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                 ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL064",
+    "form_source": "tïnnā:",
+    "meaning_uz": "tirnoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tïnnā:",
+        "evidence_extracted": "                                                hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh   ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL065",
+    "form_source": "yālāntäjā:y",
+    "meaning_uz": "yalangoyoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Tana a’zolari jadvalidagi holat bildiruvchi birlik; tana a’zosi deb tasniflanmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "yālāntäjā:y",
+        "evidence_extracted": "           bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent qishlogʻi shevasida ishlatiluvchi yo‘nalish bildiruvchi\n                              eng                                    so‘zlar\n    yelka        üçäm          kichkina      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL066",
+    "form_source": "Källä",
+    "meaning_uz": "bosh",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Källä",
+        "evidence_extracted": "ā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent qishlogʻi shevasida ishlatiluvchi yo‘nalish bildiruvchi\n                              eng                                    so‘zlar\n    yelka        üçäm          kichkina        jimjilāq                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n              ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL067",
+    "form_source": "üçäm",
+    "meaning_uz": "yelka",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "üçäm",
+        "evidence_extracted": "                          eng                                    so‘zlar\n    yelka        üçäm          kichkina        jimjilāq                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n                             barmoq                                                        mana shu\n                                                                                  mäšajdä       buyoqqa kel    bäqäke:\n         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL068",
+    "form_source": "münnïm / bünnïm",
+    "meaning_uz": "burnim",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "münnïm",
+        "evidence_extracted": "                                       borishim                                           münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirs",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL069",
+    "form_source": "čekänä:",
+    "meaning_uz": "tirsak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čekänä:",
+        "evidence_extracted": "               hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL070",
+    "form_source": "Čöqqï",
+    "meaning_uz": "boshning chakkasi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Čöqqï",
+        "evidence_extracted": "                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent qishlogʻi shevasida ishlatiluvchi yo‘nalish bildiruvchi\n                              eng                                    so‘zlar\n    yelka        üçäm          kichkina        jimjilāq               ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL071",
+    "form_source": "Čāč",
+    "meaning_uz": "soch",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Čāč",
+        "evidence_extracted": "                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent qishlogʻi shevasida ishlatiluvchi yo‘nalish bildiruvchi\n                              eng                                    so‘zlar\n    yelka        üçäm          kichkina        jimjilāq                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n                             barmoq      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL072",
+    "form_source": "jimjilāq",
+    "meaning_uz": "eng kichkina barmoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 3,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "jimjilāq",
+        "evidence_extracted": "                                   so‘zlar\n    yelka        üçäm          kichkina        jimjilāq                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n                             barmoq                                                        mana shu\n                                                                                  mäšajdä       buyoqqa kel    bäqäke:\n                                           ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL073",
+    "form_source": "böðä:",
+    "meaning_uz": "buzoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "böðä:",
+        "evidence_extracted": "                                    ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL074",
+    "form_source": "bäbäčāq",
+    "meaning_uz": "qo‘zichoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bäbäčāq",
+        "evidence_extracted": "              mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltake",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL075",
+    "form_source": "mïšak",
+    "meaning_uz": "mushuk",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mïšak",
+        "evidence_extracted": "                   yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL076",
+    "form_source": "kälpïstä",
+    "meaning_uz": "kaltakesak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kälpïstä",
+        "evidence_extracted": "                                                              buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy g",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL077",
+    "form_source": "čïmälïq",
+    "meaning_uz": "chumoli",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čïmälïq",
+        "evidence_extracted": "                  qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallardir.\nhamda leksik xususiyati bilan ahamiyatlidir. Tilimiz",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL078",
+    "form_source": "gäðändä",
+    "meaning_uz": "chayon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "gäðändä",
+        "evidence_extracted": "        ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ke",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL079",
+    "form_source": "Käptär",
+    "meaning_uz": "kabutar",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Käptär",
+        "evidence_extracted": "                narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL080",
+    "form_source": "mükïčä",
+    "meaning_uz": "musicha",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mükïčä",
+        "evidence_extracted": "                       ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL081",
+    "form_source": "čalma",
+    "meaning_uz": "qo‘y tezagi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Hayvonlar jadvalida bo‘lsa ham ma’no tezak; hayvon nomi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čalma",
+        "evidence_extracted": "                              buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixida",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL082",
+    "form_source": "täppï",
+    "meaning_uz": "mol tezagi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Hayvonlar jadvalida bo‘lsa ham ma’no tezak; hayvon nomi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 4,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "täppï",
+        "evidence_extracted": "  bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallardir.\nhamda leksik xususiyati bilan ahamiyatlidir. Tilimizning shevaga     Biz maqolami",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL083",
+    "form_source": "makran",
+    "meaning_uz": "lag‘mon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "makran taom yoki mahsulot nomi ekanini aniqlash zarur; lag‘mon va makaron retsepti tenglashtirilmaydi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "makran",
+        "evidence_extracted": "   beshlik         pänšäxï         telefon          tilpān                  lagʻmon       makran         sabzi           Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syz",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL084",
+    "form_source": "čölāp",
+    "meaning_uz": "ayron",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čölāp",
+        "evidence_extracted": " Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       pal",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL085",
+    "form_source": "kätïškö",
+    "meaning_uz": "kartoshka",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kätïškö",
+        "evidence_extracted": "nä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL086",
+    "form_source": "pätïnǯān",
+    "meaning_uz": "pomidor",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "pätïnǯān predmetga mosligini mahalliy dalil bilan tekshirish zarur.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pätïnǯān",
+        "evidence_extracted": "rat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL087",
+    "form_source": "čisnāk",
+    "meaning_uz": "sarimsoq piyoz",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čisnāk",
+        "evidence_extracted": "oynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL088",
+    "form_source": "Göš",
+    "meaning_uz": "go‘sht",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Göš",
+        "evidence_extracted": "                                                                           goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL089",
+    "form_source": "šäptälï",
+    "meaning_uz": "shaftoli",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šäptälï",
+        "evidence_extracted": "                                                                        shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                              ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL090",
+    "form_source": "pečennïk",
+    "meaning_uz": "pechenye",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "pečennïk",
+        "evidence_extracted": "bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                                                                                        qalampiri\n    yakandoʻz      körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL091",
+    "form_source": "Sävðï",
+    "meaning_uz": "sabzi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Sävðï",
+        "evidence_extracted": "    telefon          tilpān                  lagʻmon       makran         sabzi           Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL092",
+    "form_source": "āqqänd",
+    "meaning_uz": "tuzqand",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Manbadagi sarlavha saqlandi; novvot deb qo‘shimcha ta’rif kiritilmadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "āqqänd",
+        "evidence_extracted": "                                              ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL093",
+    "form_source": "syzma",
+    "meaning_uz": "suzma",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "syzma",
+        "evidence_extracted": "                                                kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL094",
+    "form_source": "Āš",
+    "meaning_uz": "palov",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Āš",
+        "evidence_extracted": "       likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                      sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdori      atām\n     soʻri ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL095",
+    "form_source": "örämä manti",
+    "meaning_uz": "xonim",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Taom nomi; barcha manti turiga yoyilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "örämä manti",
+        "evidence_extracted": "                                                sarimsoqpiyoz  čisnāk        xonim        örämä manti\n    xontaxta      xān             soat            sāhat                                                                                 goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaf",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL096",
+    "form_source": "atām",
+    "meaning_uz": "garmdori",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "atām ma’nosi va yozuvi mustaqil mahalliy tasdiqlanmagan.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "atām",
+        "evidence_extracted": "                                               goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL097",
+    "form_source": "rejxān",
+    "meaning_uz": "rayxon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "rejxān",
+        "evidence_extracted": "                                         shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                                                            ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL098",
+    "form_source": "bālgār",
+    "meaning_uz": "bulg‘or qalampiri",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 5,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bālgār",
+        "evidence_extracted": "                                            pechenye      pečennïk                        bālgār                                                                                                        qalampiri\n    yakandoʻz      körpäčä         finjon         čashka\n    choʻntak       chönta        oynak          ajnäk\n                                                                  Table 6. Navkent qishlogʻi shevasida is",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL099",
+    "form_source": "havli",
+    "meaning_uz": "hovli",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "havli",
+        "evidence_extracted": "om            lägänčä         tarozi           tārāðï                    hovli            havli                           Häjät\n                                                                                                 tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                                                                         yer\n    chelak        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL100",
+    "form_source": "kätäk",
+    "meaning_uz": "tovuqxona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kätäk",
+        "evidence_extracted": "lä, 2)\n                                                                    tovuqxona      kätäk          padval                                    qisqich                                                                                                                                                  jertölä    shagʻam      šäm                                                 ðakālka\n                                   (zagol",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL101",
+    "form_source": "qörä",
+    "meaning_uz": "qo‘yxona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qörä",
+        "evidence_extracted": "a)\n                                                                        qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                                uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxon",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL102",
+    "form_source": "ö:j",
+    "meaning_uz": "uy",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "ö:j",
+        "evidence_extracted": "   töp\n                                                                uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           lön",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL103",
+    "form_source": "däšt",
+    "meaning_uz": "qabriston",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "däšt",
+        "evidence_extracted": "              Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                       ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL104",
+    "form_source": "etäk",
+    "meaning_uz": "hovlining oxirgi qismi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "etäk",
+        "evidence_extracted": "sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                                oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navke",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL105",
+    "form_source": "Häjät",
+    "meaning_uz": "hovlining orqa tomonidagi yer",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Häjät",
+        "evidence_extracted": "rozi           tārāðï                    hovli            havli                           Häjät\n                                                                                                 tomonidagi\n   banka           šišä             televizor         tïlïðör\n                                                                                                         yer\n    chelak          Päqïr           quluf         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL106",
+    "form_source": "tölä / jertölä",
+    "meaning_uz": "padval",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tölä",
+        "evidence_extracted": "                                                                                       1) tölä, 2)\n                                                                    tovuqxona      kätäk          padval                                    qisqich                                                                                                                                                  jertölä    shagʻam      šäm     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL107",
+    "form_source": "Rām",
+    "meaning_uz": "ayvon",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Rām qaysi qurilma/qismni bildirishini tekshirish kerak.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Rām",
+        "evidence_extracted": "                                                 qoʻyxona       qörä          ayvon       Rām\n    tuz idish        tüzdiš         koptok         töp\n                                                                uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yost",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL108",
+    "form_source": "Güðär",
+    "meaning_uz": "bozor",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "Güðär=bozor, guzar yoki mahalla markazi munosabati kontekstda tekshiriladi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Güðär",
+        "evidence_extracted": "                                          uy                 ö:j            bozor         Güðär\n    bolish,\n                       Jāstïy            qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           löngï                             ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL109",
+    "form_source": "āyïlxānä",
+    "meaning_uz": "molxona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "āyïlxānä",
+        "evidence_extracted": "    qoʻgʻirchoq      qog‘iččaq                qabriston       däšt          molxona       āyïlxānä\n    yostiq\n                                                                          hovlining\n    sholcha        Äläčä           roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                                oxirgi qismi\n    shisha",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL110",
+    "form_source": "gi öj",
+    "meaning_uz": "ichkarixona",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "gi öj shaklining boshlanishi va o‘qilishi tekshiriladi; tushib qolgan tovush taxminan tiklanmadi.",
+    "evidence_status": "tekshirish_talab",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 6,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "gi öj",
+        "evidence_extracted": "roʻmol           löngï                                     etäk           ichkarixona     gi öj\n                                                                                oxirgi qismi\n    shisha           Ïššä           soya           kölänkä\n    piyola           pe:lä            ustki kiyim     engïl\n    kosa            Čïnï           krant          krän                Table 7.  Navkent qishlogʻi shevasida ishlatilu",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL111",
+    "form_source": "xünö",
+    "meaning_uz": "xunuk",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 7,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "xünö",
+        "evidence_extracted": "a        kämðil\n                                                             xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL112",
+    "form_source": "ärïq",
+    "meaning_uz": "ozg‘in",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 7,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "ärïq",
+        "evidence_extracted": "                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishlatiluvchi tana a’zolari bilan\n                                                                 ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL113",
+    "form_source": "älkäš",
+    "meaning_uz": "mast",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "älkäš shaxsga nisbatan baholovchi/haqoratli tusga ega bo‘lishi mumkin; betaraf holat bilan erkin almashtirilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 7,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "älkäš",
+        "evidence_extracted": "                                                 xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi h",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "lug‘at juftligi"
+  },
+  {
+    "id": "NL114",
+    "form_source": "berïšïm kerä:",
+    "meaning_uz": "borishim kerak",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 8,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "berïšïm kerä:",
+        "evidence_extracted": "orishim                                           münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL115",
+    "form_source": "gürüŋläšmāq",
+    "meaning_uz": "gaplashmoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 8,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "gürüŋläšmāq",
+        "evidence_extracted": "   tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent q",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL116",
+    "form_source": "qöqämän",
+    "meaning_uz": "qo‘rqaman",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 8,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qöqämän",
+        "evidence_extracted": "                   münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n           ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL117",
+    "form_source": "kïnnïgänï bārmāq",
+    "meaning_uz": "hammomga bormoq",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 8,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "kïnnïgänï",
+        "evidence_extracted": "nïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL118",
+    "form_source": "mäšajdä",
+    "meaning_uz": "mana shu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mäšajdä",
+        "evidence_extracted": "ana shu\n                                                                                  mäšajdä       buyoqqa kel    bäqäke:\n                                                                        yerda\nTable 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                         ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL119",
+    "form_source": "šejdä",
+    "meaning_uz": "shu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šejdä",
+        "evidence_extracted": " 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n                                                                  uyoqqa                     shu   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                 ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL120",
+    "form_source": "äqäkettï",
+    "meaning_uz": "uyoqqa ketdi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "äqäkettï",
+        "evidence_extracted": "u   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                   äqäkettï                      šettämän\n                                                                              ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq     ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL121",
+    "form_source": "mänïjdä",
+    "meaning_uz": "mana bu yerda",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mänïjdä",
+        "evidence_extracted": "āqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   q",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL122",
+    "form_source": "bäqqärä",
+    "meaning_uz": "buyoqqa qara",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bäqqärä",
+        "evidence_extracted": "   kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallar",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL123",
+    "form_source": "bäqäke:",
+    "meaning_uz": "buyoqqa kel",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "bäqäke:",
+        "evidence_extracted": "                                                             mäšajdä       buyoqqa kel    bäqäke:\n                                                                        yerda\nTable 4. Navkent qishlogʻi shevasida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL124",
+    "form_source": "mänïjgä ke:",
+    "meaning_uz": "mana bu yerga kel",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mänïjgä ke:",
+        "evidence_extracted": "sida ishlatiluvchi hayvon nomlari bilan        shu yerda       šejdä        mana bu       mänïjgä ke:\nbogʻliq so‘zlar                                                                                        yerga kel\n                                                                  uyoqqa                     shu   Adabiy tilda   Shevada       Adabiy tilda   Shevada                                   äqäkettï                      š",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL125",
+    "form_source": "šettämän",
+    "meaning_uz": "shu yerdaman",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šettämän",
+        "evidence_extracted": "   Adabiy tilda   Shevada                                   äqäkettï                      šettämän\n                                                                              ketdi                      yerdaman\n   buzoq          böðä:         chayon        gäðändä\n                                                        mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL126",
+    "form_source": "närïrāqqä ketdï",
+    "meaning_uz": "narigi yoqqa ketdi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "närïrāqqä",
+        "evidence_extracted": "                                           mana bu                        narigi yoqqa    närïrāqqä\n    qoʻzichoq      bäbäčāq       kabutar        Käptär                               mänïjdä\n                                                                        yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                          ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  },
+  {
+    "id": "NL127",
+    "form_source": "qättäsän",
+    "meaning_uz": "qayerdasan",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "register": "neytral/maishiy; mahalliy qo‘llanish alohida tekshiriladi",
+    "table": 9,
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qättäsän",
+        "evidence_extracted": "       qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallardir.\nhamda leksik xususiyati b",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "unit_type": "yo‘nalish/savol/harakat ifodasi"
+  }
+]

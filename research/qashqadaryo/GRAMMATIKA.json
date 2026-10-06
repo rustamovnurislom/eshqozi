@@ -1,0 +1,204 @@
+{
+  "description": "Darslikdan tanlangan shakllar. Lotin yozuvi soddalashtirilgan; qoida qo‘llanish sohasi hudud va grammatik shakl bilan cheklangan.",
+  "rules": [
+    {
+      "standard": "oldi",
+      "dialect_reading": "alli",
+      "regions": [
+        "Qarshi",
+        "Shahrisabz"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 24,
+      "printed_page": 23,
+      "explanation": "ld → ll, to‘liq assimilatsiya",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "bo‘ldi",
+      "dialect_reading": "boddi",
+      "regions": [
+        "Shahrisabz"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 24,
+      "printed_page": 23,
+      "explanation": "ld → dd, to‘liq assimilatsiya",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "oldim",
+      "dialect_reading": "allim",
+      "regions": [
+        "Samarqand-Buxoro guruhi (Qarshi, Koson ham keltirilgan)"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "explanation": "Oldingi l keyingi d ga ta’sir qiladi.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "keldim",
+      "dialect_reading": "kellim",
+      "regions": [
+        "Samarqand-Buxoro guruhi (Qarshi, Koson ham keltirilgan)"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "explanation": "Xuddi shu assimilatsiya misoli.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "qilamiz",
+      "dialect_reading": "qilavuz",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 38,
+      "printed_page": 37,
+      "explanation": "I shaxs ko‘plik -vuz.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "kelasizlar",
+      "dialect_reading": "kelasila",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 39,
+      "printed_page": 38,
+      "explanation": "II shaxs ko‘plik -sila.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "urdik",
+      "dialect_reading": "urdi:y",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 40,
+      "printed_page": 39,
+      "explanation": "I shaxs ko‘plik -i:y; cho‘ziqlik belgisi saqlandi.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "bordingiz",
+      "dialect_reading": "bordizla",
+      "regions": [
+        "Qarshi"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "explanation": "II shaxs ko‘plik -zla; unli nozikligi soddalashtirilgan.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "oldinglar",
+      "dialect_reading": "oldiyla",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "explanation": "II shaxs ko‘plik -yla.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "kelinglar",
+      "dialect_reading": "keliyla",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 42,
+      "printed_page": 41,
+      "explanation": "Buyruq mayli, II shaxs ko‘plik -yla.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "olib boringlar",
+      "dialect_reading": "oboriyla",
+      "regions": [
+        "Qarshi",
+        "Toshkent"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 42,
+      "printed_page": 41,
+      "explanation": "Buyruq mayli; qisqargan fe’l va -yla.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "xurmaga",
+      "dialect_reading": "xurmaya",
+      "regions": [
+        "Qarshi"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 34,
+      "printed_page": 33,
+      "explanation": "Jo‘nalish -ya; maxsus transkripsiyadagi j bu yerda y tovushidir.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "kelyapman",
+      "dialect_reading": "kelappan",
+      "regions": [
+        "Samarqand-Buxoro guruhi (Qarshi, Koson ham keltirilgan)"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "explanation": "Davom fe’li -ap; butun Qashqadaryo uchun majburiy qoida emas.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "so‘rayapsan",
+      "dialect_reading": "so‘ropsan",
+      "regions": [
+        "Samarqand-Buxoro guruhi (Qarshi, Koson ham keltirilgan)"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "explanation": "Davom fe’li misoli; unlilar tahririy o‘qilishda.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "kelar edim",
+      "dialect_reading": "kelayidim",
+      "regions": [
+        "Qarshi-Buxoro guruhidagi shevalar"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "explanation": "Sifatdoshdagi r → y; barcha r tovushlariga qo‘llanmaydi.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    },
+    {
+      "standard": "kelmas edim",
+      "dialect_reading": "kelmayidim",
+      "regions": [
+        "Qarshi-Buxoro guruhidagi shevalar"
+      ],
+      "source_id": "Q3",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "explanation": "Bo‘lishsiz sifatdoshdagi s → y; boshqa s larni almashtirmaslik kerak.",
+      "current_usage": "Hozirgi nutqda alohida tekshirish kerak."
+    }
+  ]
+}

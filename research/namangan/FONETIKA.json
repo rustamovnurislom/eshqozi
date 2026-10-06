@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "NF001",
+    "literary_form": "mol → molim",
+    "form_source": "māl → mälim",
+    "process": "umlaut: affiks unlisining asos unlisiga regressiv ta’siri",
+    "area": "Namangan tip shevalari",
+    "notes": "Rasmda asl transkripsiya tekshirildi. Asos va affiks shartiga bog‘liq; barcha o/a unlilarini e ga aylantirish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 23,
+        "printed_page": 22,
+        "anchor_extracted": "molim",
+        "evidence_extracted": "n o‘zbek adabiy tilida\nham qayd qilinadi. Namangan shevalaridan misollar; mol ~ мол ~ mal\nmolim ~ мэ1ъм ~ mdlim, sol ~ сол ~ sal—►solish ~ сэлъш ~ satis, nok ~\n h o k ~ nak -*■ noki  ~  н э к ь ~ naki, toy ~ той ~ taj — ►toying ~ тэйъц ~\n tajirj (6-rasm).\n                                                              6-rasm\n\n        Singarmanizm va umlautda tovushlaming    j\n                   moslashish harakati\n\n\n\n\n\n    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF002",
+    "literary_form": "sol → solish",
+    "form_source": "sāl → säliš",
+    "process": "umlaut: affiks unlisining asos unlisiga regressiv ta’siri",
+    "area": "Namangan tip shevalari",
+    "notes": "Rasmda asl transkripsiya tekshirildi. Asos va affiks shartiga bog‘liq; barcha o/a unlilarini e ga aylantirish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 23,
+        "printed_page": 22,
+        "anchor_extracted": "solish",
+        "evidence_extracted": ". Namangan shevalaridan misollar; mol ~ мол ~ mal\nmolim ~ мэ1ъм ~ mdlim, sol ~ сол ~ sal—►solish ~ сэлъш ~ satis, nok ~\n h o k ~ nak -*■ noki  ~  н э к ь ~ naki, toy ~ той ~ taj — ►toying ~ тэйъц ~\n tajirj (6-rasm).\n                                                              6-rasm\n\n        Singarmanizm va umlautda tovushlaming    j\n                   moslashish harakati\n\n\n\n\n\n               i Singarmonizmda  »»«»•»*!*» c",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF003",
+    "literary_form": "nok → noki",
+    "form_source": "nāk → näki",
+    "process": "umlaut: affiks unlisining asos unlisiga regressiv ta’siri",
+    "area": "Namangan tip shevalari",
+    "notes": "Rasmda asl transkripsiya tekshirildi. Asos va affiks shartiga bog‘liq; barcha o/a unlilarini e ga aylantirish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 23,
+        "printed_page": 22,
+        "anchor_extracted": "noki",
+        "evidence_extracted": "al\nmolim ~ мэ1ъм ~ mdlim, sol ~ сол ~ sal—►solish ~ сэлъш ~ satis, nok ~\n h o k ~ nak -*■ noki  ~  н э к ь ~ naki, toy ~ той ~ taj — ►toying ~ тэйъц ~\n tajirj (6-rasm).\n                                                              6-rasm\n\n        Singarmanizm va umlautda tovushlaming    j\n                   moslashish harakati\n\n\n\n\n\n               i Singarmonizmda  »»«»•»*!*» chapdan o‘ngga;\n            I umlautda    ....",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF004",
+    "literary_form": "toy → toying",
+    "form_source": "tāj → täjiŋ",
+    "process": "umlaut: affiks unlisining asos unlisiga regressiv ta’siri",
+    "area": "Namangan tip shevalari",
+    "notes": "Rasmda asl transkripsiya tekshirildi. Asos va affiks shartiga bog‘liq; barcha o/a unlilarini e ga aylantirish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 23,
+        "printed_page": 22,
+        "anchor_extracted": "toying",
+        "evidence_extracted": "olish ~ сэлъш ~ satis, nok ~\n h o k ~ nak -*■ noki  ~  н э к ь ~ naki, toy ~ той ~ taj — ►toying ~ тэйъц ~\n tajirj (6-rasm).\n                                                              6-rasm\n\n        Singarmanizm va umlautda tovushlaming    j\n                   moslashish harakati\n\n\n\n\n\n               i Singarmonizmda  »»«»•»*!*» chapdan o‘ngga;\n            I umlautda    ............  o‘ngdan chapga qarab tovush mosligi\n",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF005",
+    "literary_form": "bo‘libdi",
+    "form_source": "boluptu",
+    "process": "lab garmoniyasi",
+    "area": "Namangan; muallif ko‘rsatgan doira",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "anchor_extracted": "болупту",
+        "evidence_extracted": "uyunchi ~ с£Й£нчъ ~  stijunci, ko‘rindi ~ корундъ ~\nkorundi. Namangan shevasida boMibdi ~ болупту ~ boluptu, ko'ribdi ~\nкор%пту_ ~ koruptu va boshqalar.\n\n    Singarmonizmdan chekinish hollari:\n\n      1. Shevalarda yuklamalar singarmonizmga bo‘ysunmaydi: qipchoq\nlahjasi shevalarda: bo‘ldi-ku ~ болдь-ку ~ boldi-qu, keldi-ku ~ келдъ-ку\n~ keldb-qu, kelding-a ~ келдъц-э ~  keldifj-a, barding-a ~ бардьц-а ~\nbarditj-a.\n     2. Ayr",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF006",
+    "literary_form": "ko‘ribdi",
+    "form_source": "körüptü",
+    "process": "lab garmoniyasi; transkripsiyani vizual qayta tekshirish kerak",
+    "area": "Namangan; muallif ko‘rsatgan doira",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "anchor_extracted": "кор%пту_",
+        "evidence_extracted": " ko‘rindi ~ корундъ ~\nkorundi. Namangan shevasida boMibdi ~ болупту ~ boluptu, ko'ribdi ~\nкор%пту_ ~ koruptu va boshqalar.\n\n    Singarmonizmdan chekinish hollari:\n\n      1. Shevalarda yuklamalar singarmonizmga bo‘ysunmaydi: qipchoq\nlahjasi shevalarda: bo‘ldi-ku ~ болдь-ку ~ boldi-qu, keldi-ku ~ келдъ-ку\n~ keldb-qu, kelding-a ~ келдъц-э ~  keldifj-a, barding-a ~ бардьц-а ~\nbarditj-a.\n     2. Ayrim  qo‘shimchalar singarmonizmg",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF007",
+    "literary_form": "suyak",
+    "form_source": "süyäg",
+    "process": "k → g jaranglashishi",
+    "area": "Namangan; muallif ko‘rsatgan doira",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor_extracted": "suyak",
+        "evidence_extracted": "tovush ta’sirida yuz\n\nher may di, balki shevaning tarixiy  rivojlanishi bilan bog‘liqdir: suyak ~\nс у юг ~ siijag (Namangan), qarg‘a ~ гарга ~ yarya (qipchoq).\n  M etateza. U  so‘z  tarkibida  undoshlarning  o‘rin  almashishidir.\n(Qipchoq shevalarida: faryod  пэйрэт ~pajrat, qo‘shni ~ цоцшь ~ qor\\si,\nqtimursqa ~ курмусца ~ qyrmysqa, tekshir ~ тешкэр ~ tester.\n\n    Reduksiya.   So‘z   tarkibida   ayrim   tovushlar   pozits",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF008",
+    "literary_form": "tegmas",
+    "form_source": "te:mas",
+    "process": "undosh tushishi va ikkilamchi cho‘ziqlik",
+    "area": "Namangan; muallif ko‘rsatgan doira",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 26,
+        "printed_page": 25,
+        "anchor_extracted": "tegmas",
+        "evidence_extracted": "rta: (Toshkent), bo‘l ~ 60: ~ bo:, ol ~\na: ~ a: (shim.o'z.  shev.), Namangan shevalarida: tegmas ~ те.мас ~\nif him, laylak - лз:лэ: ~ la:la:. Bunday cho'ziqlik ikkilamchi cho'ziqlik\n\nilcyiladi. Shevalarda bunday cho'ziqlik ko'pincha h undoshining tushib\nqulishi bilan yuz beradi: Ahmad ~ э:мэт ~ a:mat, dahliz ~ аЬ:лъз ~\n,ld. liz, mehr ~ме:р ~ me:r, qahr ~ ца:р ~ qa:r.\n    Uchlamchi  cho ‘zoqlik.   Emfatik   cho'ziqlik  Nama",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF009",
+    "literary_form": "laylak",
+    "form_source": "lā:lā:",
+    "process": "undosh tushishi va ikkilamchi cho‘ziqlik",
+    "area": "Namangan; muallif ko‘rsatgan doira",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N2",
+        "pdf_page": 26,
+        "printed_page": 25,
+        "anchor_extracted": "laylak",
+        "evidence_extracted": ": ~ bo:, ol ~\na: ~ a: (shim.o'z.  shev.), Namangan shevalarida: tegmas ~ те.мас ~\nif him, laylak - лз:лэ: ~ la:la:. Bunday cho'ziqlik ikkilamchi cho'ziqlik\n\nilcyiladi. Shevalarda bunday cho'ziqlik ko'pincha h undoshining tushib\nqulishi bilan yuz beradi: Ahmad ~ э:мэт ~ a:mat, dahliz ~ аЬ:лъз ~\n,ld. liz, mehr ~ме:р ~ me:r, qahr ~ ца:р ~ qa:r.\n    Uchlamchi  cho ‘zoqlik.   Emfatik   cho'ziqlik  Namangan   shahar\n\nshevasida q",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF010",
+    "literary_form": "xaridor",
+    "form_source": "xaddā:",
+    "process": "undosh moslashuvi va qisqarish",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "xaddā:",
+        "evidence_extracted": ")ga uchrashini ko‘plab\nuchratish mumkin.xaridor ~Aka do‘konga xaridor keldi ~ Öka dokonga xaddā: kϵlűtti;\n     yurdi –yuddi ~ Azamxon bugun piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF011",
+    "literary_form": "yurdi",
+    "form_source": "yuddi",
+    "process": "r+d → dd",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "yuddi",
+        "evidence_extracted": "tish mumkin.xaridor ~Aka do‘konga xaridor keldi ~ Öka dokonga xaddā: kϵlűtti;\n     yurdi –yuddi ~ Azamxon bugun piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵčči",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF012",
+    "literary_form": "bersa",
+    "form_source": "bessa",
+    "process": "r+s → ss",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "bessa",
+        "evidence_extracted": "ti;\n     yurdi –yuddi ~ Azamxon bugun piyoda yuddilar. Äzämxon bugun pijoda jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar i",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF013",
+    "literary_form": "o‘rnim",
+    "form_source": "o‘nnim",
+    "process": "r+n → nn",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "o‘nnim",
+        "evidence_extracted": " jʲdʲlā; bersa-bessa\n~ Narxini arzonlatib bersalar. Narxini āzzonlatb bessalā;\n    o‘rnim-o‘nnim ~ Men o‘rnimni boshqalarga  berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda siz",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF014",
+    "literary_form": "chaqirdi",
+    "form_source": "chaqiddi",
+    "process": "r+d → dd",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "chaqiddi",
+        "evidence_extracted": " berib qo‘yadiganlardan emasman; mā\nőnnummi biroplāga berib qojϵdiganlādänmasmä; chaqirdi-chaqiddi ~ Chaqirdi soat nechaga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varin",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF015",
+    "literary_form": "ichsa",
+    "form_source": "issa",
+    "process": "ch+s → ss",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "issa",
+        "evidence_extracted": "aga\nbo‘lyapti. Čaqiddi soat nϵččiga bolűtti; Chaqiddi soat nechchiga bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varintlari misol tariqasida berilgan.\n    Bu hudud shevasi adabiy til normasidan, shuningdek, boshqa hudud shevalaridan ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF016",
+    "literary_form": "yaqinlashyapti",
+    "form_source": "yaqinleshutti",
+    "process": "asos unlisi va davom zamon shakli",
+    "area": "Namangan shahar",
+    "notes": "Zamon/shaxsga doir to‘liq gaplar alohida saqlanadi; xaridor gapida keldi/kelűtti teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N3",
+        "pdf_page": 7,
+        "printed_page": 1146,
+        "anchor_extracted": "yaqinleshutti",
+        "evidence_extracted": "a bo‘lutti.\n     ichsa-issa ~ Dedamlar issalar deb sut opkeluttimaan\n     yaqinlashyapti –yaqinleshutti ~ Opodda sizga itlar yaqinleshutti\n    Quyida berilgan misollarda Namangan shahar shevasining 2 xil adabiy hamda shevaga\nxos bo‘lgan varintlari misol tariqasida berilgan.\n    Bu hudud shevasi adabiy til normasidan, shuningdek, boshqa hudud shevalaridan quydagi\nxususiyatlari bilan farq qiladi;\n    Namangan shevasining adabiy nor",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF017",
+    "literary_form": "taxlam",
+    "form_source": "taqläm / ta:läm",
+    "process": "x→q yoki x tushishi; y/j-lovchi farqi",
+    "area": "Mingbuloq; N1 qishloq taqsimoti",
+    "notes": "Hodisa tasviri butun viloyatga yoyilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Taqlam",
+        "evidence_extracted": "    III. Adabiy tildagi shakliga nisbatan kuchli fonetik o‘zgarishga uchragan\nso‘zlar:\n   Taqlam, talam [taqläm, ta:läm] – qattiq yoki yumshoq narsalarning ust­\nma-ust joylashganiga nisbatan aytiladi. Izohli lug‘atda taxlam deb berilgan.\nTaxlam – terib, taxlab qo‘yilgan narsa va uning bir to‘pi. Bir taxlam kitob\n[3.15]; Mingbuloq shevasining “y”lovchi vakillarida: [taqläm] ya’ni chuqur\ntil orqa, sirg‘aluvchi, jarangsiz und",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF018",
+    "literary_form": "qatlama",
+    "form_source": "qallämä",
+    "process": "t+l → ll regressiv assimilyatsiya",
+    "area": "Mingbuloq; N1 qishloq taqsimoti",
+    "notes": "Hodisa tasviri butun viloyatga yoyilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Qallama",
+        "evidence_extracted": ", portlovchi,\njarangsiz undoshga, lab-tish, sirg‘aluvchi, jarangli undoshga almashgan.\n   Qallama [qallämä] – yoyilgan xamirni dog‘ qilingan qozonda yaxshilab\npishirilganiga aytiladi. Adabiy tilimizda qatlama deyiladi. Qatlama – oddiy\nxamirdan yupqa yoyib, yog‘da pishiriladigan taom [5:261]. Bu so‘zimizda re­\ngressiv assimilatsiya hodisasi yuz bergan. Qatlama so‘zidagi til oldi jarangli\nsirg‘aluvchi tovush til oldi portlovc",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF019",
+    "literary_form": "holvaytar",
+    "form_source": "hălväjtäl",
+    "process": "oxirgi r → l",
+    "area": "Mingbuloq; N1 qishloq taqsimoti",
+    "notes": "Hodisa tasviri butun viloyatga yoyilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Holvaytal",
+        "evidence_extracted": "aluvchi tovush til oldi portlovchi jarangsiz tovushni o‘ziga to‘liq o‘xshatib\nolyapti.\n   Holvaytal [hălväjtäl] – holvaytarga nisbatan ishlatiladi. Shevada fonetik\nhodisalarga uchragan. Holvaytar – dog‘ qilingan yoqqa un solib, sal qizargun­\ncha qovurib, ustidan shakar eritilgan suv quyib tayyorlanadigan shirin taom\n[4:550]. So‘z oxiridagi titroq tovush til oldi jarangli sirg‘aluvchi tovushga al­\nmashdi.\n\n                    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF020",
+    "literary_form": "taft (boshso‘z bahsli)",
+    "form_source": "täpt / tävt",
+    "process": "f→p/v; kaft ma’nosini alohida tekshirish",
+    "area": "Mingbuloq; N1 qishloq taqsimoti",
+    "notes": "Hodisa tasviri butun viloyatga yoyilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Tapt",
+        "evidence_extracted": "]\nya’ni chuqur til orqa, sirg‘aluvchi, jarangsiz undosh tovush tushirib qoldi­\nrilgan.\n   Tapt, tavt [täpt, tävt] – insonning barmoqlari joylashgan qo‘l qismining\nichkari tomoniga nisbatan aytiladi. Tavtingni peshonasiga bos-chi? Arini tapti\nbilan bosib o‘ldirdi. Izohli lug‘atda taft so‘ziga boshqacha ta’rif beriladi. Taft –\nissiqlik manbayi yoki qizib turgan narsadan urayotgan issiq, harorat. Tandir­\nning tafti [3:14]. ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF021",
+    "literary_form": "telefon",
+    "form_source": "tilpān",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tilpān",
+        "evidence_extracted": "Shevada       Adabiy tilda   Shevada\n    beshlik         pänšäxï         telefon          tilpān                  lagʻmon       makran         sabzi           Sävðï\n   mantiqosqon                                                      ayron          čölāp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartosh",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF022",
+    "literary_form": "moshina",
+    "form_source": "māšnä",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "māšnä",
+        "evidence_extracted": "āp          tuzqand       āqqänd\n                             list           moshina      māšnä\n    tovogʻi                                                             kartoshka      kätïškö       suzma        syzma\n    tahorat                   ābdästä        likopcha        tälinkä                pomidor       pätïnǯān       palov          Āš\n   choynak                                                                    ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF023",
+    "literary_form": "devor",
+    "form_source": "devāl",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "devāl",
+        "evidence_extracted": "     Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                            ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF024",
+    "literary_form": "tarnov",
+    "form_source": "tännāv",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tännāv",
+        "evidence_extracted": "                         xunuk        xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3.",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF025",
+    "literary_form": "ko‘ylak",
+    "form_source": "köjnäj",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "köjnäj",
+        "evidence_extracted": "                                                  ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishlatiluvchi tana a’zolari bilan\n                                                                            bildiruvchi so‘",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF026",
+    "literary_form": "ko‘ylak",
+    "form_source": "köjnä:",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "köjnä:",
+        "evidence_extracted": "     xünö         mast           älkäš    tarnov         tännāv          koʻylak          köjnä:\n                                                                          ozg‘in          ärïq    koʻylak         köjnäj        tomsuvoq      lāysuvāq\n\n\n                                                                  Table 8. Navkent qishlogʻi shevasida ishlatiluvchi harakat va holatniTable 3. Navkent qishlogʻi shevasida ishl",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF027",
+    "literary_form": "tirnoq",
+    "form_source": "tïnnā:",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "tïnnā:",
+        "evidence_extracted": "                                                hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n                                                                                      bormoq       bārmāq\n                               boshning\n    yalangoyoq     yālāntäjā:y                    Čöqqï\n                                 chakkasi\n   bosh   ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF028",
+    "literary_form": "burnim",
+    "form_source": "münnïm / bünnïm",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "münnïm",
+        "evidence_extracted": "                                       borishim                                           münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirs",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF029",
+    "literary_form": "soch",
+    "form_source": "Čāč",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Čāč",
+        "evidence_extracted": "                                 chakkasi\n   bosh            Källä          soch          Čāč                Table 9. Navkent qishlogʻi shevasida ishlatiluvchi yo‘nalish bildiruvchi\n                              eng                                    so‘zlar\n    yelka        üçäm          kichkina        jimjilāq                Adabiy tilda   Shevada       Adabiy tilda   Shevada\n                             barmoq      ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF030",
+    "literary_form": "mushuk",
+    "form_source": "mïšak",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "mïšak",
+        "evidence_extracted": "                   yerda                           ketdi            ketdï\n   mushuk       mïšak         musicha       mükïčä\n                                                                  buyoqqa\n    kaltakesak      kälpïstä         qoʻytezagi     čalma                   qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                        ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF031",
+    "literary_form": "chumoli",
+    "form_source": "čïmälïq",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "čïmälïq",
+        "evidence_extracted": "                  qara           bäqqärä       qayerdasan     qättäsän\n    chumoli        čïmälïq        moltezagi       täppï\n\n                                                          qanday xalq o‘z shevasi leksik qatlamini tadqiq  qilish, shu\n   O‘zbek  tili dunyo  tillari orasida o‘zining boy grammatik    xalqning tarixidan dalolat beruvchi qimmatbaho materiallardir.\nhamda leksik xususiyati bilan ahamiyatlidir. Tilimiz",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF032",
+    "literary_form": "shaftoli",
+    "form_source": "šäptälï",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "šäptälï",
+        "evidence_extracted": "                                                                        shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                                        bulgʻor\n    yopadigan                                                       pechenye      pečennïk                        bālgār                                              ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF033",
+    "literary_form": "go‘sht",
+    "form_source": "Göš",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "Göš",
+        "evidence_extracted": "                                                                           goʻsht         Göš           garmdori      atām\n     soʻri            krävät         devor          devāl                                                                                    shaftoli          šäptälï         rayxon         rejxān\n   non\n                    räpïda            tufli              töplï                                  ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF034",
+    "literary_form": "qo‘rqaman",
+    "form_source": "qöqämän",
+    "process": "manbada qayd etilgan fonetik variant; muhit va qoida chegarasi tekshiriladi",
+    "area": "Namangan / Yangiqo‘rg‘on / Navkent",
+    "notes": "ð, ï, ä, ā, ö, : belgilari asl holda saqlanadi; chat uchun taxminiy yozuv asl transkripsiyaga teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N4",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "anchor_extracted": "qöqämän",
+        "evidence_extracted": "                   münnïm,                                 berïšïm kerä:    qoʻrqaman     qöqämän   boshim        bašïm        burnim                              kerak                                           bünnïm\n                                                                          hammomga    kïnnïgänï    tirnoq           tïnnā:           tirsak          čekänä:                gaplashmoq    gürüŋläšmāq\n           ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF035",
+    "literary_form": "aka",
+    "form_source": "oka",
+    "process": "muallif sanagan talaffuz varianti",
+    "area": "Uychi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 5,
+        "printed_page": 641,
+        "anchor_extracted": "oka",
+        "evidence_extracted": "rda bu soʻzlarning talaffuzida kichik fonetik\noʻzgarishlar kuzatiladi, masalan, aka soʻzi oka shaklida, oʻgʻil esa oʻgʻul tarzida ishlatilishi\nmumkin. Bu esa shevaning fonetik xususiyatlarini namoyon etadi.\n      Shuningdek, inson tana a’zolariga oid bosh, koʻz, quloq, qoʻl, oyoq kabi soʻzlar ham\numumturkiy qatlamga kiradi va Uychi shevalarida keng qoʻllanadi. Bu soʻzlar nafaqat oʻzining\nasosiy ma’nosida, balki koʻchma ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF036",
+    "literary_form": "o‘g‘il",
+    "form_source": "oʻgʻul",
+    "process": "muallif sanagan talaffuz varianti",
+    "area": "Uychi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 5,
+        "printed_page": 641,
+        "anchor_extracted": "oʻgʻul",
+        "evidence_extracted": "uzida kichik fonetik\noʻzgarishlar kuzatiladi, masalan, aka soʻzi oka shaklida, oʻgʻil esa oʻgʻul tarzida ishlatilishi\nmumkin. Bu esa shevaning fonetik xususiyatlarini namoyon etadi.\n      Shuningdek, inson tana a’zolariga oid bosh, koʻz, quloq, qoʻl, oyoq kabi soʻzlar ham\numumturkiy qatlamga kiradi va Uychi shevalarida keng qoʻllanadi. Bu soʻzlar nafaqat oʻzining\nasosiy ma’nosida, balki koʻchma ma’nolarda ham ishlatiladi. ",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF037",
+    "literary_form": "yomg‘ir",
+    "form_source": "yomir",
+    "process": "muallif sanagan talaffuz varianti",
+    "area": "Uychi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 5,
+        "printed_page": 641,
+        "anchor_extracted": "yomir",
+        "evidence_extracted": "mga mansub boʻlib, ular ba’zan fonetik jihatdan oʻzgargan\nholda, masalan, yomgʻir oʻrniga yomir tarzida qoʻllanishi mumkin.\n       Harakat va holatni bildiruvchi fe’llar ham umumturkiy leksikaning muhim qismini tashkil\netadi. Kelmoq, ketmoq, yurmoq, turmoq, olmoq, bermoq kabi fe’llar Uychi shevalarida nutqning\nasosiy harakat ifodalovchi vositalari sifatida keng qoʻllanadi. Umumturkiy leksikaning asosiy\nxususiyatlari  unin",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF038",
+    "literary_form": "mashina",
+    "form_source": "mashna",
+    "process": "muallif sanagan talaffuz varianti",
+    "area": "Uychi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N7",
+        "pdf_page": 6,
+        "printed_page": 642,
+        "anchor_extracted": "mashna",
+        "evidence_extracted": "Bu soʻzlar koʻpincha shevaga moslashgan holda talaffuz\nqilinadi, masalan, mashina oʻrniga mashna tarzida  ishlatilishi mumkin. Bu jarayon tilning\nmoslashuvchanligini va oʻzgaruvchanligini koʻrsatadi.\n     Umuman olganda, Uychi shevalari leksikasi turli qatlamlarning uygʻunlashuvi natijasida\nshakllangan boʻlib, u tilning tarixiy ildizlari, hududiy xususiyatlari va zamonaviy rivojlanish\njarayonlarini oʻzida mujassam etadi. U",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF039",
+    "literary_form": "tuproq",
+    "form_source": "turpoq",
+    "process": "metateza",
+    "area": "Namangan shahar",
+    "notes": "Manba buni dissimilatsiya deb ataydi; aslida undoshlar o‘rin almashgan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N6",
+        "pdf_page": 3,
+        "printed_page": 103,
+        "anchor_extracted": "Tuproq",
+        "evidence_extracted": "shlarning boshqa tovush ta'sirisiz tovush variantiga ega bo'lishi ham kuzatiladi:\n      • Tuproq~turpoq;\n     •To'rg'amoq~to'rg'amoq singari.\n    Xulosa: Demak, Namangan shahar shevasining nafaqat adabiy tildan, balki\nboshqa shevalardan ham anchagina farqli jihatlari bor. Bu jihatlarni to‘la tadqiq etish\nlozim. Namangan shahar shevasini o‘rganish va ko‘plab qirralarini kashf etish lozim.\nBu sheva o‘ziga xos leksik,grammati",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF040",
+    "literary_form": "to‘rg‘amoq",
+    "form_source": "to‘rg‘amoq",
+    "process": "ikki tomoni bir xil; o‘zgarish chiqarib bo‘lmaydi",
+    "area": "Namangan shahar",
+    "notes": "Avtomatik tuzatib to‘g‘ramoq deb berilmadi.",
+    "evidence_status": "tekshirish_talab",
+    "refs": [
+      {
+        "source": "N6",
+        "pdf_page": 3,
+        "printed_page": 103,
+        "anchor_extracted": "To'rg'amoq",
+        "evidence_extracted": "sh ta'sirisiz tovush variantiga ega bo'lishi ham kuzatiladi:\n      • Tuproq~turpoq;\n     •To'rg'amoq~to'rg'amoq singari.\n    Xulosa: Demak, Namangan shahar shevasining nafaqat adabiy tildan, balki\nboshqa shevalardan ham anchagina farqli jihatlari bor. Bu jihatlarni to‘la tadqiq etish\nlozim. Namangan shahar shevasini o‘rganish va ko‘plab qirralarini kashf etish lozim.\nBu sheva o‘ziga xos leksik,grammatik va fonetik xususiyatlar",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF041",
+    "literary_form": "jingalak",
+    "form_source": "gindjelek",
+    "process": "metateza misoli",
+    "area": "Uychi",
+    "notes": "OCR va sahifa rasmi qiyoslandi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source": "N8",
+        "pdf_page": 83,
+        "printed_page": [
+          162,
+          163
+        ],
+        "anchor_extracted": "gindjelek",
+        "evidence_extracted": "rnoq) - ayvon;\n\n2) metateza hodisasi tufayli kuchli fonetik o`zgarishga uchragan soʻzlar:\ngindjelek (Uychi) - jingalak; evere (Andijon) - arava; hayda-hadya; erves-obrez;\n\n3) soʻzlarning torayishi (qisqarishi) sababli izoh berilmasa, tushunish\nqiyin bo`lgan soʻzlar: kesh (Namangan) - kalish; e:de (Uycha) - ana u yerda;\nkochche - katta achabuvi; balsi - boyo`g`li (qush);\n\n4) oʻg'uz lahjasidagi birlamchi choʻziq unlilar va bosh",
+        "extraction": "avvalgi aynan bir xil PDF nusxasidan OCR",
+        "visual_checked": true,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "NF042",
+    "literary_form": "olma / bobom",
+    "form_source": "ulma / bubom",
+    "process": "muallifning o→u da’vosi",
+    "area": "Namangan; aniq punkt yo‘q",
+    "notes": "Dala kuzatuvi va fonetik muhit berilmagan; umumiy almashtirishga asos bo‘lmaydi.",
+    "evidence_status": "tekshirish_talab",
+    "refs": [
+      {
+        "source": "N5",
+        "pdf_page": 2,
+        "printed_page": 76,
+        "anchor_extracted": "ulma",
+        "evidence_extracted": "” ga, “a” tovushi esa “e” ga o‘xshab\ntalaffuz qilinadi. Masalan, “olma” so‘zi Namanganda “ulma”, “bobom” so‘zi esa “bubom”\ntarzida aytiladi.Undoshlarning talaffuzi. Namangan shevasida “k” va “g” undosh tovushlari\nba'zan yumshoq va tekis talaffuz qilinadi, bu esa Xorazm shevasidan farq qiladi.\nXorazm  shevasidagi  fonetik  xususiyatlar.Xorazm  shevasida ham  o‘ziga  xos  fonetik\nxususiyatlar mavjud. Xorazm shevasida “a” u",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

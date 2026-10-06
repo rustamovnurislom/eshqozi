@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JG01",
+    "standard_context_form": "yelka",
+    "attested_form_display": "jelka / jelke",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "So‘z boshidagi y→j; jelke gap varianti 4-sahifada.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“Jelka tomiri juvon",
+        "evidence_extracted": "zarar shunchalik katta bo’ladi.\n   “Jelka tomiri juvon- yelka tomiri yo’g’on”. Bu iborada qipchoq shevasi vakillarining\ndeyarli hammasiga tegishli bo’lgan “y” tovushining  “j” lashish hodisasi kuzatilgan\nso’zlar bir necha o’rinlarda mavjud.  Yuqorida zominliklar fe’lida qaysarlik, o’jarlik\nkabi xislatlar borligi haqida gapirgandik. Yuqoridagi ibora xuddi shunga ishora qiladi.\nShuningdek, bu sheva tilida “mo’yin adam” degan ibora ham birga ishlatilib kelinadi."
+      }
+    ]
+  },
+  {
+    "id": "JG02",
+    "standard_context_form": "yo‘g‘on",
+    "attested_form_display": "juvon / juvan",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "So‘z boshidagi j hamda g‘ o‘rnidagi v ayni birikmada. Juvonning adabiy tildagi boshqa ma’nosi bilan chalkashtirmaslik kerak.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“Jelka tomiri juvon",
+        "evidence_extracted": "zarar shunchalik katta bo’ladi.\n   “Jelka tomiri juvon- yelka tomiri yo’g’on”. Bu iborada qipchoq shevasi vakillarining\ndeyarli hammasiga tegishli bo’lgan “y” tovushining  “j” lashish hodisasi kuzatilgan\nso’zlar bir necha o’rinlarda mavjud.  Yuqorida zominliklar fe’lida qaysarlik, o’jarlik\nkabi xislatlar borligi haqida gapirgandik. Yuqoridagi ibora xuddi shunga ishora qiladi.\nShuningdek, bu sheva tilida “mo’yin adam” degan ibora ham birga ishlatilib kelinadi."
+      }
+    ]
+  },
+  {
+    "id": "JG03",
+    "standard_context_form": "yanchadi",
+    "attested_form_display": "jenchedi",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Muallif birikma tarjimasidagi qiyos; boshqa barcha y va unlilar uchun qoida emas.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“at basadi, shaqa jenchedi",
+        "evidence_extracted": "ham gapida turmaydimi?\n   Shunday iboralardan yana biri  “at basadi, shaqa jenchedi – ot bosadi, shoxa\nyanchadi”. Odatda, ot yordamida don yanchilganda atrofga sochilgan g’alla  poyasi ot\ntuyog’i ostiga beshlik shoxa bilan tashlab turiladi. Yanchilmagan donlar panshaxa bilan\not tuyog’i  tagini mo’ljallab tashlab turilmasa, xirmondagi g’alla chala yanchilishi\nmumkin. Asosiy ishni o’zi qilmasa ham, uning  to’liq  bajarilishiga sabab bo’lgan"
+      }
+    ]
+  },
+  {
+    "id": "JG04",
+    "standard_context_form": "gapda",
+    "attested_form_display": "gepte",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Maqolsimon ifodadagi butun shakl; mustaqil yalang‘och gep lemma bu yerda qayd etilmagan.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 2,
+        "printed_page": 888,
+        "anchor_extracted": "“Avruvda chanchuv jaman, gepte",
+        "evidence_extracted": "chandish,kesatish unsurlari mavjud. Zomin qishloq shevalaridagi bu xildagi kesatiq\n“qanquv” deyiladi. Shuning uchun zominliklarda “Avruvda chanchuv jaman, gepte\nqanquv” degan obrazli ifoda shakllangan. Kishi yuragini o’yib olishga qaratilgan\nqanquvni  ilg’ab  olishda  nozik  farosat  zarur  bo’ladi. “Qanquv”ni uqmay  qolish\nkishining unchalik  aqlli  emasligini  anglatadi.     Zominliklar azaldan  cho’rtkesar,\ndangalchi,  xazilni  bir-biri  bilan boshqa sheva  vakillariga qaraganda ancha  qaltis"
+      }
+    ]
+  },
+  {
+    "id": "JG05",
+    "standard_context_form": "yomon",
+    "attested_form_display": "jaman",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "So‘z boshidagi y→j va unli farqi ayni misolda.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 2,
+        "printed_page": 888,
+        "anchor_extracted": "“Avruvda chanchuv jaman, gepte",
+        "evidence_extracted": "chandish,kesatish unsurlari mavjud. Zomin qishloq shevalaridagi bu xildagi kesatiq\n“qanquv” deyiladi. Shuning uchun zominliklarda “Avruvda chanchuv jaman, gepte\nqanquv” degan obrazli ifoda shakllangan. Kishi yuragini o’yib olishga qaratilgan\nqanquvni  ilg’ab  olishda  nozik  farosat  zarur  bo’ladi. “Qanquv”ni uqmay  qolish\nkishining unchalik  aqlli  emasligini  anglatadi.     Zominliklar azaldan  cho’rtkesar,\ndangalchi,  xazilni  bir-biri  bilan boshqa sheva  vakillariga qaraganda ancha  qaltis"
+      }
+    ]
+  },
+  {
+    "id": "JG06",
+    "standard_context_form": "Karimning",
+    "attested_form_display": "Karimding",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Qaratqich qo‘shimchasi shu ism va gapda -ding. Hamma so‘zdagi ng harflarini d ga almashtirish dalili emas.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Karimding jelke tamiri",
+        "evidence_extracted": "Shunday egilmaydigan o’jar, qaysar odamlarga nisbatan ishlatiladigan iboralar bular.\nKarimding jelke tamiri juvan-da, uriship qapti – Karimning yelka tomiri yo’g’on-da,\nurishib qolibdi.\n   Zominliklar azaldan  uloq-ko’pkari o’yinini boshqacha sevib ijro etishadi hamda\ntomosha  qilishadi. Bu  an’ana  haligacha davom  etib kelmoqda. Bunday  o’yinlar\nZomining turli hududlarida yil davomida bir necha marta o’tkazilib turiladi. Ko’pkarida"
+      }
+    ]
+  },
+  {
+    "id": "JG07",
+    "standard_context_form": "uloqni",
+    "attested_form_display": "ulaqti",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Tushum qo‘shimchasi ayni kontekstda -ti.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Tilov ulaqti",
+        "evidence_extracted": "bilan belgilab qo’yilgan marraga tashlash kerak bo’ladi. Bu hol “sabang’a teshtesh”\ndeyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz.\n\n    REFERENCES"
+      }
+    ]
+  },
+  {
+    "id": "JG08",
+    "standard_context_form": "urishib qolibdi",
+    "attested_form_display": "uriship qapti",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Ravishdosh va ko‘makchi fe’lning qisqargan ko‘rinishi shu gapda.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Karimding jelke tamiri",
+        "evidence_extracted": "Shunday egilmaydigan o’jar, qaysar odamlarga nisbatan ishlatiladigan iboralar bular.\nKarimding jelke tamiri juvan-da, uriship qapti – Karimning yelka tomiri yo’g’on-da,\nurishib qolibdi.\n   Zominliklar azaldan  uloq-ko’pkari o’yinini boshqacha sevib ijro etishadi hamda\ntomosha  qilishadi. Bu  an’ana  haligacha davom  etib kelmoqda. Bunday  o’yinlar\nZomining turli hududlarida yil davomida bir necha marta o’tkazilib turiladi. Ko’pkarida"
+      }
+    ]
+  },
+  {
+    "id": "JG09",
+    "standard_context_form": "bugungi",
+    "attested_form_display": "bugungu",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Unli mosligi shu misolda; butun hudud uchun to‘liq garmoniya paradigmasi aniqlanmagan.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Bugungu mayliste",
+        "evidence_extracted": "deyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz.\n\n    REFERENCES\n1. Буряков Й.Ф., Гритсина А.А. Штрихи истории Заминского раёна. “Дребний"
+      }
+    ]
+  },
+  {
+    "id": "JG10",
+    "standard_context_form": "majlisda",
+    "attested_form_display": "mayliste",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Muallifning juft gapida o‘zak va qo‘shimcha farqi mavjud.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Bugungu mayliste",
+        "evidence_extracted": "deyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz.\n\n    REFERENCES\n1. Буряков Й.Ф., Гритсина А.А. Штрихи истории Заминского раёна. “Дребний"
+      }
+    ]
+  },
+  {
+    "id": "JG11",
+    "standard_context_form": "orqaga",
+    "attested_form_display": "arqag‘a",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Manba arqag’a yozadi; tahririy ko‘rsatishda apostrof standartlashtirilgan.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "Arqag’a qarab kuvshegen",
+        "evidence_extracted": "Quyida o’shanday iboralarning bir nechtasini tahlil qilib ko’ramiz.\n   Arqag’a qarab kuvshegen – orqaga qarab kavshagan. Yuqorida aytib o’tganimizdek\nzominliklar  azaldan  chorvachilik  bilan  shug’ullanib  kelishgan.  Shuning  uchun\niboralarda chorva bilan bog’liq o’rinlar ham uchrab turadi. Masalan, yuqoridagi iborada\nqatnashgan “kavshanoq” so’zi mollarga xos bo’lgan xislatni o’zida ifoda etadi. Bunda\nso’z metafora usulida ma’no ko’chishiga uchragan. Ya’ni hayvondagi hislat insonga"
+      }
+    ]
+  },
+  {
+    "id": "JG12",
+    "standard_context_form": "kavshagan",
+    "attested_form_display": "kuvshegen",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Leksik shakl qiyosi; alohida tovush o‘zgarishlarini hammaga yoyish uchun yetarli emas.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "Arqag’a qarab kuvshegen",
+        "evidence_extracted": "Quyida o’shanday iboralarning bir nechtasini tahlil qilib ko’ramiz.\n   Arqag’a qarab kuvshegen – orqaga qarab kavshagan. Yuqorida aytib o’tganimizdek\nzominliklar  azaldan  chorvachilik  bilan  shug’ullanib  kelishgan.  Shuning  uchun\niboralarda chorva bilan bog’liq o’rinlar ham uchrab turadi. Masalan, yuqoridagi iborada\nqatnashgan “kavshanoq” so’zi mollarga xos bo’lgan xislatni o’zida ifoda etadi. Bunda\nso’z metafora usulida ma’no ko’chishiga uchragan. Ya’ni hayvondagi hislat insonga"
+      }
+    ]
+  },
+  {
+    "id": "JG13",
+    "standard_context_form": "somonga",
+    "attested_form_display": "sabang‘a",
+    "region": "Zomin «j»lovchi; J4 misollari",
+    "evidence_level": "birikma/gapdagi qayd, umumiy qoida emas",
+    "automatic_global_replacement": false,
+    "note": "Leksik va kelishik shakli birga farqlanadi; barcha somon yozuvlarini avtomatik almashtirish yo‘q.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "“sabang’a tashtash",
+        "evidence_extracted": "ishlatiladigan so’z birikmalari shuning uchun bo’lsa kerakki, iboralarga ham aylangan.\nMasalan , “sabang’a tashtash-somonga tashlash”.        1. Ko’pkarida uloqni somon\nbilan belgilab qo’yilgan marraga tashlash kerak bo’ladi. Bu hol “sabang’a teshtesh”\ndeyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz."
+      }
+    ]
+  },
+  {
+    "id": "JG14",
+    "standard_context_form": "pastga tushishdi",
+    "attested_form_display": "inishdi",
+    "region": "Forish; J1-B",
+    "evidence_level": "maqolada Forish nomi bilan berilgan shakl",
+    "automatic_global_replacement": false,
+    "note": "Endi vaqt bildiruvchi adabiy so‘zning har bir holati tushdi deb tarjima qilinmaydi.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 154,
+        "printed_page": 154,
+        "anchor_extracted": "shevada (Forish) inishdi",
+        "evidence_extracted": "Putini ko‘tarib yotmoq;\n   – ïnïshdï – quyi tushishdi (DLT I, 199); shevada (Forish) inishdi yuqoridan\nquyiga, ya’ni pastga tushishdi; ayrim hollarda Forish shevasida “inmoq, inib\nkelmoq” biror joy borib kelmoq shaklida ham qo‘llanadi. Masalan, men bugun\nbozorga inib keldim;\n   – ïndï – pastga tushdi (DLT I, 181); shevada (Qipchoq, Forish) indi (endi)"
+      }
+    ]
+  },
+  {
+    "id": "JG15",
+    "standard_context_form": "pastga tushdi",
+    "attested_form_display": "indi (endi)",
+    "region": "Forish; J1-B",
+    "evidence_level": "maqolada Forish nomi bilan berilgan shakl",
+    "automatic_global_replacement": false,
+    "note": "Endi vaqt bildiruvchi adabiy so‘zning har bir holati tushdi deb tarjima qilinmaydi.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 154,
+        "printed_page": 154,
+        "anchor_extracted": "shevada (Qipchoq, Forish) indi",
+        "evidence_extracted": "bozorga inib keldim;\n   – ïndï – pastga tushdi (DLT I, 181); shevada (Qipchoq, Forish) indi (endi)\nyuqoridan quyiga, ya’ni pastga tushdi;\n   – jatladï II – yotsiradi (DLT III, 322); shevada (qipchoq) jatlamoq, jatsi­\nramoq;\n   – julun – bo‘yin so‘ngagi ichidagi oq ilik; xarom mag‘iz (DLT III, 30); sheva­"
+      }
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "JN01",
+    "dialect_extracted": "Erkek adamam arqag’a qarab kuvshayma ?",
+    "display": "Erkek adamam arqag’a qarab kuvshayma ?",
+    "standard_meaning": "Erkak odam ham gapida turmaydimi?",
+    "translation_kind": "muallif talqini",
+    "region": "Zomin «j»lovchi",
+    "note": "Tanqidiy ritorik savol. Erkak haqidagi ayni misol botning barcha foydalanuvchiga murojaat andozasi emas.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "Erkek adamam arqag’a qarab kuvshayma ?",
+        "evidence_extracted": "ko’chirilgan. Ibora mazmunga keladigan bo’lsak, gapidan ha deganda qaytaveradigan\nodamlarga nisbatan ishlatiladi. Erkek adamam arqag’a qarab kuvshayma ?-Erkak odam\nham gapida turmaydimi?\n   Shunday iboralardan yana biri  “at basadi, shaqa jenchedi – ot bosadi, shoxa\nyanchadi”. Odatda, ot yordamida don yanchilganda atrofga sochilgan g’alla  poyasi ot\ntuyog’i ostiga beshlik shoxa bilan tashlab turiladi. Yanchilmagan donlar panshaxa bilan"
+      }
+    ]
+  },
+  {
+    "id": "JN02",
+    "dialect_extracted": "Ongardinam baltasi tashqa  tiydi, endi barmas",
+    "display": "Ongardinam baltasi tashqa tiydi, endi barmas",
+    "standard_meaning": "O‘ng‘orning ham boltasi toshga tegdi, endi bormasa kerak.",
+    "translation_kind": "muallif tarjimasi; apostroflar tahrirlandi",
+    "region": "Zomin «j»lovchi",
+    "note": "Barmas → bormasa kerak muallifning kontekstual talqini; barcha -mas shakli uchun avtomatik taxmin ma’nosi emas.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "Ongardinam baltasi tashqa  tiydi, endi barmas",
+        "evidence_extracted": "bo’lgan odamning xafsalasi pir bo’lib, shashti qaytsa, shu iborani ishlatish  o’rinli\nbo’ladi. Ongardinam baltasi tashqa  tiydi, endi barmas – O’ng’orning ham boltasi\ntoshga  tegdi,  endi  bormasa  kerak. Bu  misolimizda  shaxsning  kimdandir  yoki\nnimadandir pand yeb, bu xatoni boshqa qaytarmasligini bildiradi. Ya’ni bu yerda bolta\nuchun toshga tegish natijasida ko’rilgan talafot qancha katta bo’lsa, inson uchun ham\nzarar shunchalik katta bo’ladi."
+      }
+    ]
+  },
+  {
+    "id": "JN03",
+    "dialect_extracted": "Karimding jelke tamiri juvan-da, uriship qapti",
+    "display": "Karimding jelke tamiri juvan-da, uriship qapti",
+    "standard_meaning": "Karimning yelka tomiri yo‘g‘on-da, urishib qolibdi.",
+    "translation_kind": "muallif tarjimasi; apostroflar tahrirlandi",
+    "region": "Zomin «j»lovchi",
+    "note": "Ibora qaysarlikni bildiradi; tanqidiy ohang.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Karimding jelke tamiri juvan-da, uriship qapti",
+        "evidence_extracted": "Shunday egilmaydigan o’jar, qaysar odamlarga nisbatan ishlatiladigan iboralar bular.\nKarimding jelke tamiri juvan-da, uriship qapti – Karimning yelka tomiri yo’g’on-da,\nurishib qolibdi.\n   Zominliklar azaldan  uloq-ko’pkari o’yinini boshqacha sevib ijro etishadi hamda\ntomosha  qilishadi. Bu  an’ana  haligacha davom  etib kelmoqda. Bunday  o’yinlar\nZomining turli hududlarida yil davomida bir necha marta o’tkazilib turiladi. Ko’pkarida"
+      }
+    ]
+  },
+  {
+    "id": "JN04",
+    "dialect_extracted": "Tilov ulaqti sabang’a tashtedi",
+    "display": "Tilov ulaqti sabang’a tashtedi",
+    "standard_meaning": "Tilov uloqni somonga tashladi.",
+    "translation_kind": "muallif tarjimasi",
+    "region": "Zomin «j»lovchi",
+    "note": "Uloq-ko‘pkari konteksti; somon bilan belgilangan marra.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Tilov ulaqti sabang’a tashtedi",
+        "evidence_extracted": "bilan belgilab qo’yilgan marraga tashlash kerak bo’ladi. Bu hol “sabang’a teshtesh”\ndeyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz.\n\n    REFERENCES"
+      }
+    ]
+  },
+  {
+    "id": "JN05",
+    "dialect_extracted": "Bugungu mayliste siz sabang’a\nteshtediniz",
+    "display": "Bugungu mayliste siz sabang’a teshtediniz",
+    "standard_meaning": "Bugungi majlisda siz hammani qoyil qoldirdingiz.",
+    "translation_kind": "muallif tarjimasi",
+    "region": "Zomin «j»lovchi",
+    "note": "Ko‘chma ma’no; maqtov.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Bugungu mayliste siz sabang’a",
+        "evidence_extracted": "deyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz.\n\n    REFERENCES\n1. Буряков Й.Ф., Гритсина А.А. Штрихи истории Заминского раёна. “Дребний"
+      }
+    ]
+  },
+  {
+    "id": "JN06",
+    "dialect_extracted": "men bugun\nbozorga inib keldim",
+    "display": "men bugun bozorga inib keldim",
+    "standard_meaning": "Men bugun bozorga borib keldim. (Kontekstga qarab «tushib keldim» ham mumkin.)",
+    "translation_kind": "tahririy mazmuniy talqin",
+    "region": "Forish",
+    "note": "Manba adabiy yozuvda bergan misol; to‘liq fonetik transkripsiya emas.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 154,
+        "printed_page": 154,
+        "anchor_extracted": "bozorga inib keldim",
+        "evidence_extracted": "kelmoq” biror joy borib kelmoq shaklida ham qo‘llanadi. Masalan, men bugun\nbozorga inib keldim;\n   – ïndï – pastga tushdi (DLT I, 181); shevada (Qipchoq, Forish) indi (endi)\nyuqoridan quyiga, ya’ni pastga tushdi;\n   – jatladï II – yotsiradi (DLT III, 322); shevada (qipchoq) jatlamoq, jatsi­\nramoq;"
+      }
+    ]
+  },
+  {
+    "id": "JN07",
+    "dialect_extracted": "Cho‘nka shuvoq-shuvoqqa,\n   Otang ketdi tuvoqqa,\n   Tuvoq sindi, kul bo‘ldi.\n   Cho‘nka shuvoq pul bo‘ldi.",
+    "region": "Forish maqolasidagi marosim qo‘shig‘i",
+    "genre": "qo‘shiq parchasi",
+    "note": "Kundalik suhbat yozuvi emas. Qofiya va qo‘shiq shakllaridan umumiy grammatika qoidasi chiqarilmaydi.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 151,
+        "printed_page": 151,
+        "anchor_extracted": "Cho‘nka shuvoq-shuvoqqa",
+        "evidence_extracted": "   Keltirma hech yaqinga.\n   Cho‘nka shuvoq-shuvoqqa,\n   Otang ketdi tuvoqqa,\n   Tuvoq sindi, kul bo‘ldi.\n   Cho‘nka shuvoq pul bo‘ldi.\n"
+      }
+    ]
+  }
+]

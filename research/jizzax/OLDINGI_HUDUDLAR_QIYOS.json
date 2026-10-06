@@ -1,0 +1,46 @@
+{
+  "exact_reuploads": [
+    {
+      "current": "J1",
+      "previous": "samarqand/M4"
+    },
+    {
+      "current": "J2",
+      "previous": "qashqadaryo/Q2; samarqand/M2"
+    }
+  ],
+  "shared_lexicon": [
+    {
+      "form": "obdish",
+      "regions_in_source": [
+        "Qashqadaryo",
+        "Jizzax",
+        "Qorabuloq"
+      ],
+      "ref": {
+        "source": "E1",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "anchor_extracted": "обдъш обдиш",
+        "evidence_extracted": "      щий, попрошайка, странствующий дервиш»,\nобдъш обдиш ( К ^ а ш ^ а д а р е , Ж и з з а х, К^ о р а б у-\n      л о ц)   обжъш//обдъш цайнаган сув «кипяченая\n      вода»: чойдъшдо обдъш ^огэн босэ, сув сомэй тур\n       (Ж и з з а х).\nэбиэзо обиазо (Б у х о р о)//овозоп овозоп         (Ю^ори"
+      }
+    },
+    {
+      "form": "pidina",
+      "regions_in_source": [
+        "Qarshi",
+        "Laqay",
+        "Forish"
+      ],
+      "ref": {
+        "source": "E1",
+        "pdf_page": 220,
+        "printed_page": 220,
+        "anchor_extracted": "пъдъна пидина",
+        "evidence_extracted": "      эктирэмэн (Я н г и а р и д).\nпъдъна пидина (К, а р ш и, Л а д а и, Ф о р и ш) б о т . ял-\n      пиз «мята».\nпъйэба//пъйэва пиёба//пиёва (Б у х о р о) // пъйэвэ пиёва\n       ( Ф а р г о н а ) дорашурва «суп без мяса, заправ-\n      ленный жареным луком»,"
+      }
+    }
+  ],
+  "notation_limit": "Har xil manbalardagi j belgisi avtomatik bir xil fonetik belgi deb olinmaydi. Ushbu Zomin maqolasida j-lashish yelka/jelka kabi juftlik bilan ko‘rsatilgan.",
+  "historical_boundaries": "E1 lug‘atidagi 1971-yilgi ma’muriy hudud nomlari hozirgi viloyat chegaralarini bildirmaydi."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "J1",
+    "pdf_path": "/workspace/attachments/539e371a-a478-4fe8-85b1-6cd8cc728c6f/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+    "pages": 216,
+    "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+    "characters": 535508
+  },
+  {
+    "id": "J2",
+    "pdf_path": "/workspace/attachments/7d784135-0923-4a4b-909d-f9e1e01b1434/5b015f0357f16.pdf",
+    "pages": 88,
+    "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+    "characters": 243842
+  },
+  {
+    "id": "J3",
+    "pdf_path": "/workspace/attachments/8e783af4-fde7-4eb9-8f4e-1092a28e78cd/12755_1_5540C3A45A63EBDDF5434D8DBD1994103A09E3C4.pdf",
+    "pages": 96,
+    "sha256": "54f93934ced85c1d9090a37cf8cb02830f7ad7558321e02d523d6539badc7951",
+    "characters": 162194
+  },
+  {
+    "id": "J4",
+    "pdf_path": "/workspace/attachments/15e89214-f33a-46bd-9405-78ff9996711c/zomin-tumani-j-lovchi-shevasida-uchraydigan-ayrim-iboralar-tahlili.pdf",
+    "pages": 4,
+    "sha256": "29ffb7d662379acfa023c7701fa55ff6d057b7eb8de6c391e92346e009ab09dc",
+    "characters": 10406
+  }
+]

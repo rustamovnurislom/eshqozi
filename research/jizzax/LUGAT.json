@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JL01",
+    "display_form": "qanquv",
+    "variants": [],
+    "meanings": [
+      "kesatiq; chandish mazmunidagi gap"
+    ],
+    "region": "Zomin qishloq shevalari; maqola «j»lovchi nutqqa bag‘ishlangan",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Kesatiq ohangini oddiy betaraf hazil bilan tenglashtirmaslik kerak.",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 2,
+        "printed_page": 888,
+        "anchor_extracted": "“qanquv” deyiladi",
+        "evidence_extracted": "chandish,kesatish unsurlari mavjud. Zomin qishloq shevalaridagi bu xildagi kesatiq\n“qanquv” deyiladi. Shuning uchun zominliklarda “Avruvda chanchuv jaman, gepte\nqanquv” degan obrazli ifoda shakllangan. Kishi yuragini o’yib olishga qaratilgan\nqanquvni  ilg’ab  olishda  nozik  farosat  zarur  bo’ladi. “Qanquv”ni uqmay  qolish\nkishining unchalik  aqlli  emasligini  anglatadi.     Zominliklar azaldan  cho’rtkesar,\ndangalchi,  xazilni  bir-biri  bilan boshqa sheva  vakillariga qaraganda ancha  qaltis"
+      }
+    ]
+  },
+  {
+    "id": "JL02",
+    "display_form": "inmoq",
+    "variants": [
+      "inib kelmoq",
+      "inishdi",
+      "indi (endi)"
+    ],
+    "meanings": [
+      "yuqoridan pastga tushmoq",
+      "ayrim kontekstlarda biror joyga borib kelmoq"
+    ],
+    "region": "Forish; aniq qishloq berilmagan",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Manbadagi bozor misoli adabiy yozuvga yaqin; to‘liq fonetik nutq yozuvi emas.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 154,
+        "printed_page": 154,
+        "anchor_extracted": "kelmoq” biror joy",
+        "evidence_extracted": "quyiga, ya’ni pastga tushishdi; ayrim hollarda Forish shevasida “inmoq, inib\nkelmoq” biror joy borib kelmoq shaklida ham qo‘llanadi. Masalan, men bugun\nbozorga inib keldim;\n   – ïndï – pastga tushdi (DLT I, 181); shevada (Qipchoq, Forish) indi (endi)\nyuqoridan quyiga, ya’ni pastga tushdi;\n   – jatladï II – yotsiradi (DLT III, 322); shevada (qipchoq) jatlamoq, jatsi­"
+      }
+    ]
+  },
+  {
+    "id": "JL03",
+    "display_form": "tirjiq",
+    "variants": [],
+    "meanings": [
+      "ozg‘in; salbiy munosabat bilan aytiladi"
+    ],
+    "region": "Zomin; lahja ichidagi kichik hudud berilmagan",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Ozg‘in so‘zining betaraf muqobili sifatida avtomatik ishlatilmaydi.",
+    "source_refs": [
+      {
+        "source": "J1",
+        "pdf_page": 191,
+        "printed_page": 191,
+        "anchor_extracted": "tirjiq dialek",
+        "evidence_extracted": "nadi, so‘zlovchi ijobiy munosabatini bildirmoqchi bo‘lsa, xursand so‘zini\nqo‘llaydi. Ozg‘in – tirjiq sinonimik qatordagi Zomin shevasiga xos tirjiq dialek­\ntal sinonimi ham salbiy konnotatsiyani bildiradi.\n   Dialektal sinonimiya yuzaga kelishining sabablari leksik sinonimiya sin­\ngari rang-barang. Ularni quyida ko‘rib chiqamiz.\n    1. Yuqorida qayd etganimizdek, o‘zbek tili shevalari murakkab genetik"
+      }
+    ]
+  },
+  {
+    "id": "JL04",
+    "display_form": "agnamoq",
+    "variants": [],
+    "meanings": [
+      "anglamoq; tushunmoq"
+    ],
+    "region": "Jizzax; Qashqadaryo bilan birga qayd etilgan",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Jizzax misoli ham bor; faqat Jizzaxga xos emas.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 13,
+        "printed_page": 13,
+        "anchor_extracted": "агнамоц агнамо",
+        "evidence_extracted": "     «после»: со:т у ш л э р д э н агьйэ одэм келзбошлэдъ.\nагнамоц агнамо^ ( К ^ а ш ^ а д а р ё , Ж и з з а х ) англа-\n     мо^, тушунмо^ «понимать» сиз арнэдизми, тойи к;а-\n     чзм болэйкзн ( ^ а ш ц а д а р ё ) ; нъмз дъгэнънъ\n     агнэмэдъм ( Ж и з з а х).\nаррам ( } \\ а ш ^ а д а р ё , Ж а н у б и й Х о р а з м ) огир-"
+      }
+    ]
+  },
+  {
+    "id": "JL05",
+    "display_form": "ochyurak",
+    "variants": [],
+    "meanings": [
+      "och qoringa; ovqat yemagan holda"
+    ],
+    "region": "Jizzax; Xazorasp bilan qiyoslangan",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Jizzax bosh shakli эчйурэк, gap misolida очйурэккэ. Ochko‘z degani emas; Xazoraspning ачюрак shakli Jizzaxniki qilib olinmadi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 22,
+        "printed_page": 22,
+        "anchor_extracted": "ачйурэк ачюрак",
+        "evidence_extracted": "       ло».\nачйурэк ачюрак (X а з о р а с п) // эчйурэк ( Ж и з з а х)\n       сч корпн «натощак»: ачйурэкэ ажжы айран                      а-\n       з о р а с п ) ; ертолонтоп очйурэккэ компът йъмэ йо-\n       моп болодъ (Жпззах).\nачцыламак ачкпламак (X о р а з м) варацламоц «лис-"
+      }
+    ]
+  },
+  {
+    "id": "JL06",
+    "display_form": "obdish",
+    "variants": [],
+    "meanings": [
+      "qaynagan suv"
+    ],
+    "region": "Jizzax; Qashqadaryo va Qorabuloq bilan birga",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Manbada objish//obdish variantlari ham berilgan. Hozir qaynayotgan suv degan ma’noga cheklanmaydi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "anchor_extracted": "обдъш обдиш",
+        "evidence_extracted": "      щий, попрошайка, странствующий дервиш»,\nобдъш обдиш ( К ^ а ш ^ а д а р е , Ж и з з а х, К^ о р а б у-\n      л о ц)   обжъш//обдъш цайнаган сув «кипяченая\n      вода»: чойдъшдо обдъш ^огэн босэ, сув сомэй тур\n       (Ж и з з а х).\nэбиэзо обиазо (Б у х о р о)//овозоп овозоп         (Ю^ори"
+      }
+    ]
+  },
+  {
+    "id": "JL07",
+    "display_form": "boshliq",
+    "variants": [],
+    "meanings": [
+      "yugan"
+    ],
+    "region": "Zomin",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Ot jihozi ma’nosida. Rahbar ma’nosidagi barcha boshliq so‘zlarini yugan deb talqin qilmaslik kerak.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 49,
+        "printed_page": 49,
+        "anchor_extracted": "бэшлыц бошлиц",
+        "evidence_extracted": "     лагиц шунчэйэм боттимме, хэ дэмэйсэн.\nбэшлыц бошлиц (3 о м и н) юган «узда, уздечка»,\nбошмэккэ бошмакка ( А н д и ж о н ) сута «початок ку-\n      курузы»: бэшмэкэсънъ ^айръвволдъм.\nво: ( ^ а ш ^ а д а р ё ) уста, устакор «мастер, знаток».\nбэ:вэнчэ бовонча          а ш ^ а д а р ё) нишона «первые"
+      }
+    ]
+  },
+  {
+    "id": "JL08",
+    "display_form": "bixtiy",
+    "variants": [],
+    "meanings": [
+      "yashirin"
+    ],
+    "region": "Jizzax",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Manbaning standart kirillcha shakli бихтий; talaffuz audioda tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 53,
+        "printed_page": 53,
+        "anchor_extracted": "бъхтъй бихтий",
+        "evidence_extracted": "       хоро).\n бъхтъй бихтий (Ж и з з а х) яширин «тайный, секрет-\n        ный».\n бъччэ бичча (Ф о р и ш) пича «немного, немножко»: кэ\n        бъччэ гэплэшэнъ.\n быцсыц бицсиц (К о р а м у р т) би^симо^ «дымить»,"
+      }
+    ]
+  },
+  {
+    "id": "JL09",
+    "display_form": "bichcha",
+    "variants": [],
+    "meanings": [
+      "picha; ozgina"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Manbada qisqa gaplashish misoli bor; latincha ko‘rsatish fonetik belgilarni to‘liq saqlamaydi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 53,
+        "printed_page": 53,
+        "anchor_extracted": "бъччэ бичча",
+        "evidence_extracted": "        ный».\n бъччэ бичча (Ф о р и ш) пича «немного, немножко»: кэ\n        бъччэ гэплэшэнъ.\n быцсыц бицсиц (К о р а м у р т) би^симо^ «дымить»,\n быртлас биртлас        а з о р а с п) сермуйлов «усатый»,\n  бычцы бичци ( У р г а н ч , Х и в а , Х о н р Д а з о р а с п )"
+      }
+    ]
+  },
+  {
+    "id": "JL10",
+    "display_form": "butancha",
+    "variants": [],
+    "meanings": [
+      "oshqovoq; ruscha izohda muskat oshqovog‘i"
+    ],
+    "region": "Zomin",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "O‘simlik nomi; aniq biologik tur manbadan tashqari tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 56,
+        "printed_page": 56,
+        "anchor_extracted": "бетэнчэ бутанча",
+        "evidence_extracted": "     прочий, чужой, отдельный»: бвтэнидэн бэр ( Х и в а ) ,\nбетэнчэ бутанча ( З о м и н ) б о т . ошцово^ «тыква мус-\n     катная».\nбува^ (М а н р и т) булут, туман «облако, туча, туман»,\nбувма ( Ж у ш ) хотин-^изларнинг ё^асиз куйлаги «жен-\n     ская рубашка без воротника»,"
+      }
+    ]
+  },
+  {
+    "id": "JL11",
+    "display_form": "gulishxoni",
+    "variants": [],
+    "meanings": [
+      "lag‘mon"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Taom nomi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 69,
+        "printed_page": 69,
+        "anchor_extracted": "гулъшхонъ гулишхони",
+        "evidence_extracted": "       макалдиро^ «гроза»,\n гулъшхонъ гулишхони (Ф о р и ш) лагман «лагман».\n гулсъръх гулсирих (Т о ш к е н т) ба^ор, гулларнинг ча-\n       мандек очнлган чогн «весеннее разцветье»: гул-\n       съръх болдъ, бъзэ томолэгэйэм келъйлэ.\n"
+      }
+    ]
+  },
+  {
+    "id": "JL12",
+    "display_form": "gilak",
+    "variants": [],
+    "meanings": [
+      "qiyma"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Taom masallig‘i.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 74,
+        "printed_page": 74,
+        "anchor_extracted": "гилак",
+        "evidence_extracted": "     анам корпэйо беш гыйва пахта салды.\nпылэк гилак ( Ф о р и ш ) кипма «фарш»,\nгылжаймац гилжаима1\\ ( Т у р т к у л) эркаламоц «бало-\n     вать, нежить»: гылжайэ, aran, миндиргонди сони\n      (UI у р а х о н ) ,\nгылча гилча (Н а и м а и) кузача «маленький кувшин»,"
+      }
+    ]
+  },
+  {
+    "id": "JL13",
+    "display_form": "dusaq",
+    "variants": [],
+    "meanings": [
+      "ikki yoshli qo‘y"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Har qanday qo‘y ma’nosida emas; chorvachilik atamasi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 91,
+        "printed_page": 91,
+        "anchor_extracted": "дусац",
+        "evidence_extracted": "     настоящему»: э-^э: дурус^урур оттурув оллиско.\nдусац (Ф о р и ш) икки ёшли куй «двухгодовалая овца»,\nдусънжа дусинжа ( Б у х о р о ) тахмон «большая ниша\n     в стене для складывания ватных одеял»,\nдухэп духоп ( Т о ш к е н т )        рупара «лицом к лицу»:\n     бъргэттъ рэйъскз духэп ^ълдъм."
+      }
+    ]
+  },
+  {
+    "id": "JL14",
+    "display_form": "elarmak",
+    "variants": [],
+    "meanings": [
+      "o‘qraymoq; xafa yoki jahlli qaramoq"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Betaraf qarash emas; salbiy hissiy tusga ega.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 94,
+        "printed_page": 94,
+        "anchor_extracted": "елармэк элармак",
+        "evidence_extracted": "      геччини алып 1^алады (X о н ^ а),\nелармэк элармак ( Ф о р и ш ) у^раймо^ «хмуро, серди-\n     то смотреть»: сэрымэймысзч, йурэгимо дорумой-\n      мусэн, нэрмэт елэрип ^орайсэн, олим корни тони-\n      моймисон?\nела:т//элат ( Х о р а з м ) 1. махалла, квартал «махалля,"
+      }
+    ]
+  },
+  {
+    "id": "JL15",
+    "display_form": "nemana",
+    "variants": [],
+    "meanings": [
+      "nima"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "OCR bosh shaklni xato ajratgan; sahifa tasvirida нэмэнэ, oddiy yozuvi немана.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 195,
+        "printed_page": 195,
+        "anchor_extracted": "немэиэ немана",
+        "evidence_extracted": "           сан бийтип, ток йуреэц бомыйма?\nнемэиэ немана (Ф о р и ш) нима «что»: бу немэнэ?\nнешэтмэк нешатмак (X о р а з м) нима ^илмо^ (ке*\n          рак) «что делать?»: пашша вэзи: ринэ ^араб: «бу-\n          лары нешэтмэк гэрэк?» — деди              (Х^азорасп);\n          ^олымда йузуким кумуш этэмэн, экэм эрмийэдэ"
+      }
+    ]
+  },
+  {
+    "id": "JL16",
+    "display_form": "paymana",
+    "variants": [],
+    "meanings": [
+      "tarozi"
+    ],
+    "region": "Zomin",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "O‘lchov jihozi; sig‘im o‘lchovi ma’nosi bu qaydda yo‘q.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 207,
+        "printed_page": 207,
+        "anchor_extracted": "паймана (Зомин)",
+        "evidence_extracted": "     мэи пайымы пайлаб алдым Д а з о р а с п ) .\nпаймана (Зомин) тарози «весы».\nпайхаслы пайхасли         ( Т у р т к у л) тушунчали, онгли\n     «знающий, сознательный»: баланыц ^эр нэрсэгэ\n     а^лы йетэди, бала пайхаслы ( Ш у р а х о н ) .\nпайча ( Т у р т к у л ) молнинг сони «ляжка»: сыгырны он"
+      }
+    ]
+  },
+  {
+    "id": "JL17",
+    "display_form": "pidina",
+    "variants": [],
+    "meanings": [
+      "yalpiz"
+    ],
+    "region": "Forish; Qarshi va Laqay bilan birga",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Bir necha hududga umumiy qayd; faqat Forishniki deb bo‘lmaydi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 220,
+        "printed_page": 220,
+        "anchor_extracted": "пъдъна пидина",
+        "evidence_extracted": "      эктирэмэн (Я н г и а р и д).\nпъдъна пидина (К, а р ш и, Л а д а и, Ф о р и ш) б о т . ял-\n      пиз «мята».\nпъйэба//пъйэва пиёба//пиёва (Б у х о р о) // пъйэвэ пиёва\n       ( Ф а р г о н а ) дорашурва «суп без мяса, заправ-\n      ленный жареным луком»,"
+      }
+    ]
+  },
+  {
+    "id": "JL18",
+    "display_form": "tavunmak",
+    "variants": [],
+    "meanings": [
+      "bo‘ysunmoq",
+      "sig‘inmoq"
+    ],
+    "region": "Zomin",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Manbada ikki alohida ma’no va ularning misollari bor; kontekst bilan farqlanadi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 244,
+        "printed_page": 244,
+        "anchor_extracted": "тавунмак",
+        "evidence_extracted": "      (X о н ц а).\nтавунмак ( З о м и н ) 1. буйсунмоц «подчиняться»: мэн\n      саган тавундым деп мойныма алдым, болды-да. 2.\n     сигинмок; «поклоняться»: быздиц ^ышла^ты хал^ы\n      шо ишэндэ тавунады, билмэдим вонын ^андай кэ-\n      рэмэти барабан?"
+      }
+    ]
+  },
+  {
+    "id": "JL19",
+    "display_form": "tigalamak",
+    "variants": [],
+    "meanings": [
+      "quyoshda isinmoq"
+    ],
+    "region": "Forish",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "Issiqlik manbai quyosh ekanligi ma’noning bir qismi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 258,
+        "printed_page": 258,
+        "anchor_extracted": "тыгаламак",
+        "evidence_extracted": "      олдън йетвэлдъймъ?\nтыгаламак тигаламоц (Ф о р и ш) цуёшда исинмоц «сог-\n      реться на солнце, обогреться на солнышке»,\nтыцын тицин (С а й р а м)//тъцонч тицонч (К а р ш и,\n      Бешкент)          тицин «пробка»: шъшэнъ тъцончъ\n      цэнъкой? (Б с ш к е и т)."
+      }
+    ]
+  },
+  {
+    "id": "JL20",
+    "display_form": "faqer",
+    "variants": [],
+    "meanings": [
+      "chelak"
+    ],
+    "region": "Forish, Safarota qishlog‘i",
+    "exclusive_to_region": null,
+    "evidence_type": "hudud nomi aniq berilgan yozma qayd",
+    "modern_usage_verified": false,
+    "audio_verified": false,
+    "normalization": "Soddalashtirilgan latincha ko‘rsatish shakli; aniq manba yozuvi source_refs ichida.",
+    "usage_note": "OCRdagi ^ tasvirdagi қ harfiga mos. Kattalashtirilgan sahifa parchasida tekshirildi.",
+    "source_refs": [
+      {
+        "source": "E1",
+        "pdf_page": 272,
+        "printed_page": 272,
+        "anchor_extracted": "фа^ер",
+        "evidence_extracted": "фалаж (Б у х о р о) шол касали «паралич»,\nфа^ер (Ф о р и ш—С а ф а р о т а        ^ишлоги)         чел а к\n     «ведро».\nфалэхмон фалохмон (Б у х о р о) сопкон «праща»: фалох-\n     мэн тошъ.\nфалла фалла (Б у х о р о, С а м а р к а н д )      огиз сути"
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "source_id": "S2",
+  "source_text": "/workspace/research/surxondaryo/source_2.txt",
+  "doi": "10.5281/zenodo.10067310",
+  "scope": "Maqola jadvalidagi qiyos; Qashqadaryo tomoni B. Jo‘rayevning Yuqori Qashqadaryo kitobiga tayangan. Barcha tumanlar uchun universal moslik emas.",
+  "pairs": [
+    {
+      "qashqadaryo": "oyg‘oq",
+      "surxondaryo": "ayg‘aq",
+      "meaning_uz": "shatta, janjalkash",
+      "pdf_page": 3,
+      "printed_page": 230
+    },
+    {
+      "qashqadaryo": "chuvoq",
+      "surxondaryo": "chuvaq",
+      "meaning_uz": "issiq",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "oxmoy",
+      "surxondaryo": "axmay",
+      "meaning_uz": "paxta yog‘i",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "ottaba",
+      "surxondaryo": "attaba",
+      "meaning_uz": "oftoba",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "tutandiriq",
+      "surxondaryo": "tutantiriq",
+      "meaning_uz": "quruq o‘tin",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "boybicha",
+      "surxondaryo": "baybicha",
+      "meaning_uz": "xotin-qizlarga murojaat",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "tobaq",
+      "surxondaryo": "tabaq",
+      "meaning_uz": "milliy kurashda polvon uchun sovrin",
+      "pdf_page": 4,
+      "printed_page": 231
+    },
+    {
+      "qashqadaryo": "shirvoz",
+      "surxondaryo": "shirboz",
+      "meaning_uz": "sutdan ayrilmagan qo‘zi",
+      "pdf_page": 3,
+      "printed_page": 230
+    }
+  ]
+}

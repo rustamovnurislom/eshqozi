@@ -1,0 +1,20 @@
+{
+  "uploaded_files": 8,
+  "pdf_pages": 477,
+  "fully_read_short_files": [
+    "N3",
+    "N4",
+    "N5",
+    "N6",
+    "N7"
+  ],
+  "fully_read_namangan_articles_in_N1": 3,
+  "lexicon_records": 195,
+  "navkent_table_pairs": 127,
+  "phonetics_records": 42,
+  "grammar_records": 19,
+  "speech_records": 30,
+  "claims_to_verify": 26,
+  "area_profiles": 6,
+  "model_training_performed": false
+}

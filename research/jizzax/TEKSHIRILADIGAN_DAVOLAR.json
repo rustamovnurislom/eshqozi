@@ -1,0 +1,68 @@
+[
+  {
+    "claim": "J4dagi iboralar faqat Zominda uchraydi.",
+    "status": "mustaqil tasdiqlanmagan",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 1,
+        "printed_page": 887,
+        "anchor_extracted": "faqat  zominliklar",
+        "evidence_extracted": "orqali o’sha xalqning yashash tarzi, fe’li, urf-odati, o’y-xayollari haqida ma’lumotlarga\nega  bo’lsa  bo’ladi. Ushbu maqolada  faqat  zominliklar  tilida uchraydigan ayrim\niboralarning tahlili berildi.\n      Kalit so’zlar: Zomin, zominliklar, sheva, lahja, qipchoq, ibora, frazema, xalq,\nqishloq, urug’.\n"
+      }
+    ],
+    "handling": "Mahalliy qayd saqlanadi; exclusivity tasdiqlanmaydi."
+  },
+  {
+    "claim": "J2dagi test yulduzchalari hammasi to‘g‘ri javobdir.",
+    "status": "ishonchsiz",
+    "source_refs": [
+      {
+        "source": "J2",
+        "pdf_page": 62,
+        "printed_page": 62,
+        "anchor_extracted": "A.* unlilarning cho",
+        "evidence_extracted": "   1. Labial garmoniya\nA.* unlilarning cho`ziq talaffuzi.\nB. unlilarning lablanish-lablanmasligiga ko`ra ohangdoshligi.\nV. O`zakdagi ohangdoshlik.\nG. labial garmoniya holati ko`rsatilmagan.\n   2. O`zbek xalq shevalarida unli fonemalar soni"
+      }
+    ],
+    "handling": "Labial garmoniya uchun unli cho‘ziqligi yulduzlangan; test variantidan ishonchli avtomatik qoida chiqarilmadi."
+  },
+  {
+    "claim": "Zomin etimologiyasidagi y→z butun shevaning almashtirish qoidasidir.",
+    "status": "etimologik taxmin; sinxron qoida sifatida olinmaydi",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 1,
+        "printed_page": 887,
+        "anchor_extracted": "“yam”",
+        "evidence_extracted": "savdo karvonlari uchun alohida ahamiyat kasb etgan.\n  “Zomin” so’zining kelib chiqishi ayrim tilchilarning tadqiqotlariga ko’ra, “yam”\nso’ziga borib taqaladi. Ularning  izohlashlaricha, so’zning boshidagi “y” undoshining\ntalaffuzda ba’zan “z” tovushiga, “m” tovushining “b” undoshiga aylanishi qipchoq\nlahjasiga xos lingvistik hodisa ekan. Shu hodisa amalga oshishi natijasida yerli xalq\ntomonidan “yom” so’zi “zom” yoki “zob” tarzida aytila boshlangan. O’zakka joy"
+      }
+    ],
+    "handling": "Botda umumiy almashtirishga aylanmaydi."
+  },
+  {
+    "claim": "Hududdagi odamlarning fe’li maqoladagi umumiy tavsifga bir xil mos.",
+    "status": "lingvistik qoidaga asos bo‘lmaydi",
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 2,
+        "printed_page": 888,
+        "anchor_extracted": "qo’pollik, qo’rslik",
+        "evidence_extracted": "dangalchi,  xazilni  bir-biri  bilan boshqa sheva  vakillariga qaraganda ancha  qaltis\nqiladigan xalq.  Shuning bilan bir qatorda, qo’pollik, qo’rslik  xislatlari ham bor.\nUlarning  ota-bobolari  azaldan   chorvadorlik  bilan  shug’ulanib,  emin-erkin  katta\n\nUzbekistan                 www.scientificprogress.uz                Page 888"
+      }
+    ],
+    "handling": "Iboraning tanqidiy ohangi saqlanadi; aholiga umumiy xarakter yoki botga qo‘pollik yuklanmaydi."
+  },
+  {
+    "claim": "1971-yilgi lug‘at birliklari bugungi yoshlar nutqida ham bir xil faol.",
+    "status": "hozirgi qo‘llanish tekshirilmagan",
+    "handling": "Har bir birlikda modern_usage_verified=false."
+  },
+  {
+    "claim": "J1dagi «jizza» hudud nomi Jizzaxdir.",
+    "status": "hududiy qidiruvning yolg‘on mosligi",
+    "handling": "Taom/mahsulot nomi mahalliy Jizzax dalili qilib olinmadi."
+  }
+]

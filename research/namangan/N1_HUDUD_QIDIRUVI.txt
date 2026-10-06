@@ -1,0 +1,915 @@
+PDF 36
+    7. Ишаев А. Ўзбек диалектал лексикографияси. –Тошкент: Фан, 1990. –
+3–67-betlar (140-b).
+    8. Бегматов Э., Улуқов Н. Ўзбек ономастикаси терминларининг изоҳ­
+ли луғати. –Наманган, 2006. – 103-б.
+    9. Бегматов Э. Ўзбек исмлари. 14600 исмлар изоҳи. – Тошкент: Ўзбе­
+кистон Миллий энциклопедияси давлат илмий нашриёти, 2007. – 606-b.
+
+
+
+
+
+                                36
+
+PDF 37
+             O‘ZBEK TILSHUNOSLIGIDA NAMANGAN
+                SHEVALARINING O‘RGANILISHI
+
+
+                                               Darvishov Ibrohim,
+                         Namangan davlat universiteti dotsenti, PhD
+                                                   Email: ibmofifar@bk.ru
+
+   Annotatsiya. Maqolada Namangan viloyati shevalarining o‘rganilishi ta­
+rixi va darajasi haqida fikrlar bildirilgan. Shevalarni o‘rgangan olimlar chiqar­
+gan xulosalarga munosabat va mulohazalar bayon qilingan.
+   Kalit so‘zlar: til, dialekt, lahja, sheva, shevalar tarixiy genezisi, sheva areali,
+sheva tasnifi, fonetik, leksik, grammatik unsurlar.
+   Annotation. The article presents views on the history and level of study of
+the dialects of the Namangan region. The views and comments of scientists who
+studied dialect are described.
+   Keywords: language, dialect, dialect, dialect, historical genesis of dialects,
+dialect area, dialect classification, phonetic, lexical, grammatical elements.
+
+   Ma’lumki, o‘zbek tili ko‘p shevalidir. Ayniqsa, Namangan shahar shevasi
+boshqa o‘zbek shevalaridan o‘ziga xos lisoniy jihatlari bilan tubdan farq qila­
+di. Namangan shahar dialekti haqida ayrim fonetik, leksik va grammatik bel­
+gilar, ayniqsa, jahon tillarida ham kam kuzatiladigan holatlar, “tilmi bu yoki
+shevami?” [Nalivkin, Nalivkina, 6] kabi savollarning qo‘yilishi tilshunoslarni
+qiziqtirib qoldi va uni jiddiy o‘rganishga kirishildi. Natijada Namangan sheva­
+si bo‘yicha bir qator ilmiy izlanishlar va tadqiqotlar amalga oshirildi.
+   Viloyatning ma’muriy markazi Namangan shahar shevasining o‘ziga xos
+shakllanish jarayonlarida nafaqat turkiy, balki fors-tojik tilining fonetik,
+leksik va grammatik belgilari muhim rol o‘ynagan. Shu jihatlari bilan bosh­
+qa o‘zbek shevalaridan farq qiluvchi Namangan shahar shevasining o‘ziga xos
+lisoniy xususiyatlarini yetuk dialektologlardan Y.D.Polivanov, A.K.Borovkov,
+V.V.Reshetov, G‘.O.Yunusov kabi olimlar o‘rgandilar, tasnifladilar va tahlil qil­
+dilar. Natijada shevaning lingvistik xususiyatlari haqida asosli to‘xtamlarga
+kelindi.
+  Namangan shahar shevasi va uning fonetik hamda morfologik xususiyat­
+lari tilshunos olimlar S.Otamirzayeva [4.18; 5.3-191] va S.Tulyakovlar [12.19]
+tomonidan, Uychi shevasi professor A.Y.Aliyev tomonidan o‘rganildi [1.18].
+A.Y.Aliyev o‘zining doktorlik dissertatsiyasida [2.52] Namangan viloyati she­
+valarining fonetik, leksik va morfologik jihatlariga umumiy tavsif bergan hol­
+da, Namangan shahar hududi va unga yaqin joylarda yashovchi aholi shevala­
+rini batafsil yoritishga harakat qilgan. H.Sharipov nomzodlik ishining [13.18]
+
+                                37
+
+PDF 38
+ayrim o‘rinlarida Qirg‘iziston janubiga qo‘shni bo‘lgan Yangiqo‘rg‘on tumani­
+ning ba’zi qishloq shevalari haqida qisman ma’lumotlar mavjud.
+   Ta’kidlash lozimki, Namangan viloyatidagi dialektlar haqidagi ilk ma’lu­
+motlar V.Nalivkin va M.Nalivkinalar tomonidan yaratilgan lug‘atda qayd etil­
+gan [2.52]. Bu lug‘at o‘zbek dialektologiyasi sohasida, xususan, Namangan
+shevasi bo‘yicha qilingan birinchi ish bo‘lgani uchun ahamiyatlidir. A.Aliyev
+va S.Tulyakovlarning ta’kidlashicha, Nalivkinlar lug‘atida sheva xususiyatlari
+aniq transkripsiya belgilari bilan berilmaganligi uchun Namangan shevasi­
+ga xos o‘rinlarni ajratib olish qiyin [Aliyev, 31-40]. Ishga o‘sha davr nuqtayi
+nazari bilan yondashish o‘rinlidir.
+   Shved turkshunosi Gunnar Yarringning Namangan dialektiga kiruvchi
+Qilich shevasiga bag‘ishlangan ingliz tilidagi kitobchasi 1937-yilda (Jarring
+G. The Uzbek Dialect of Qilich. (O‘zbek tilining Qilich shevasi) Leipzig, 1937)
+chop etiladi. Ishda, tilshunoslarning e’tiroficha, hozirgi Chust tumaniga qa­
+rashli Qilich (hozirgi Uzun qishlog‘i) shevasining ayrim fonetik, morfologik va
+leksik xususiyatlarining tasviriy bayoni keltirilgan.
+   “Gunnar Yarring O‘zbekistonda, jumladan, uning atrofidagi  joylarda,
+Namangan shahrida bo‘lgan emas, ‒ deydi A.Y.Aliyev. – Matnlar, muallif ma’lu­
+motiga ko‘ra, Qilich qishlog‘idan Afg‘onistonga qochib o‘tgan bir mullaning
+o‘g‘li Ahmadjon degan kishidan yozib olingan. Gunnar Yarring ana shu kishi­
+dan yozib olgan sheva materiallariga asoslanib, 1937-yilda “O‘zbek tilining
+Qilich shevasi” kitobchasini nashr qildirgan. Kitobda so‘z boshidan tashqari,
+o‘zbek shevalari xususiyatlarini ko‘rsatuvchi bo‘limlar bilan birga shevaga xos
+matnlar ham berilgan”. A.Y.Aliyevning yozishicha, G.Yarring sheva vakilidan
+yozib olgan “Bilaguzuk” qo‘shig‘i va “Uch yolg‘ondan qirq yolg‘on” ertagiga
+tayanib, o‘z izlanishlariga xulosa yasagan [3.37-42].
+   Professor A.K.Borovkov “umlautli” yoki “uyg‘urlashgan” shevalar tasni­
+figa doir” maqolasida Namangan, Uychi, Chortoq, Koroskon, Uchqo‘rg‘on,
+Qayqi kabi shevalardagi umlaut hodisasining vujudga kelish sabablarini mi­
+sollar bilan izohlaydi. Bundan tashqari, Uychi qishlog‘i vakillaridan yozib
+olgan bir necha maqollarni ilova qiladi [6. 29-31]. Olim 1944-yilda amal­
+ga oshirilgan dialektologik ekspeditsiya davrida to‘plangan materiallari
+asosida “Namangan viloyatidagi o‘zbek shevalari” nomli maqolasini yoza­
+di [Borovkov, 31-59]. Maqolada Namangan viloyatining bir qator hududla­
+ridagi o‘zbek shevalarining ayrim fonetik, morfologik va leksik xususiyatla­
+rini ko‘rsatib berilgan. Ish Namangan guruh shevalarining tarixiy genezisi,
+ularning tasnifi masalalari haqida kengroq tasavvur hosil qilish uchun juda
+ahamiyatli.
+   A.K.Borovkov tasnifi Namangan viloyatidagi barcha o‘zbek shevalarini
+to‘laligicha qamrab olmagan. Shunga qaramay, tasnifda ko‘rsatilgan ayrim she­
+valarni, ayniqsa, Namangan shahar va unga yaqin joylashgan hududlar qarluq
+
+                                38
+
+PDF 39
+shevalarini ham, kichik guruh qipchoq shevalarini ham shahar tip “umlaut­
+lashgan” shevalar tarkibiga kiritgan [Borovkov, 58-74]. Olimning Namangan
+shahar sheva xususiyatlariga asoslanib, viloyatning barcha hudud shevalarini
+“umlautlashgan” shevalar toifasiga kiritganligiga qo‘shilib bo‘lmaydi. Chun­
+ki viloyatning aksariyat shevalari qipchoq lahjasiga mansubdir. Bizningcha,
+olimning bunday xulosaga kelishining sababi ilmiy ekspeditsiya suronli urush
+davrlariga to‘g‘ri kelganligi, viloyat markazidan olisdagi aholi yashash manzil­
+lariga yetib borish imkoniyati chegaralanganligida bo‘lsa kerak. Bu boradagi
+olimning ilmiy jasorati va faoliyati e’tirofga loyiq.
+   Professor Y.D.Polivanov ham o‘zbek shevalari tasniflashda Namangan dia­
+lektiga kiruvchi Namangan shahar va unga yaqin joylashgan Chortoq, Uychi
+hamda Shahand (To‘raqo‘rg‘on tumanidagi qishloq) aholi punktlari shevala­
+rini eronlashgan shevalarning uyg‘urlashgan yoki umlautli 4-a tipiga kiritgan
+[Polivanov, 54]. Olimning Namangan shahri, Chortoq, Uychi tumanlari sheva­
+larini eronlashgan tip shevalar guruhiga kirishi haqidagi fikrlariga qo‘shilish
+mumkin. Lekin qipchoq lahjasining tipik vakillari istiqomat qiluvchi yirik Sha­
+hand qishlog‘i shevasining bu tipga kiritilishi munozaralidir. Chunki bu eng
+qadimiy aholi yashash joyida azaldan “y”lovchi va “j”lovchi qipchoq urug‘lari
+(saroy, olchin, qotog‘on, qurama kabi) yashab keladilar.
+   Professor G‘ozi Olim esa faqat Namangan shahar shevasini nazarda
+tutib, butun Namangan viloyatidagi shevalarni Turkbarlos lahjasiga kiritadi
+[Yunusov, 21]. Bu tasnif ham Namangan viloyati dialektlarini to‘la qamrab
+ololmaydi. Olim ishlarida Namangan shevalariga batafsil va sinchkovlik bilan
+to‘xtalmagan. Ma’lumki, o‘zbek shevalarining aksariyatida turkbarlos sheva­
+lari unsurlari mavjud.
+   Professor V.V.Reshetov “O‘zbek tilining Namangan shevasi haqida” maqo­
+lasida Namangan shahar shevasining tarixiy shakllanishi, uning fonetik va
+morfologik xususiyatlarini birinchilardan bo‘lib batafsil ilmiy asoslab berish­
+ga harakat qilgan [Reshetov, 216].
+   Olim Namangan dialektiga kiruvchi shevalarni sanab qo‘ya qolmay, ular­
+ning boshqa turkiy tillar va o‘zbek shevalaridagi tutgan o‘rnini, lingvistik
+xususiyatlarini tarixiy qiyoslab, boshqa tilshunoslar tasnifiga nisbatan ba­
+tafsilroq tahlil qilib bergan [Reshetov, 216]. Namangan shahri, Yangiqo‘rg‘on
+tuman markazi, Uychi, Chortoq tumanlari shevalarini qarluq lahjasining um­
+lautlashgan shevalar guruhiga kiritib, asosli tasniflagan. Namangan viloyati­
+ning boshqa dialektal areallari haqidagi fikrlarini shevalardagi lisoniy unsur­
+lar asosida umumlashtirib, misollar orqali qarluq yoki qipchoq tip lahjalarga
+ajratish mumkinligini tarixiy faktlar asosida tavsiflagan.
+   Shunday qilib, ildizlari uzoq o‘tmishga, turli etnogenezisga ega bo‘lgan
+Namangan viloyati shevalari bir qator tilshunoslarning diqqatini tortdi.
+Ularning o‘zbek shevalarni o‘rganish borasidagi izlanishlari o‘zbek dialek­
+
+                                39
+
+PDF 40
+tologiyasining shakllanishi va rivojlanishida muhim manba bo‘lib xizmat qil­
+gan va hozirda bu jarayon davom etmoqda.
+    To‘g‘ri, Namangan viloyatining ko‘plab dialektal areallari, ularning o‘ziga
+xos lisoniy jihatlari olimlarimizning yuqorida tilga olingan ilmiy izlanish­
+larida tilga olinmagan bo‘lsa-da, bugungi kunda viloyat dialektal areallarida
+istiqomat qilayotgan aholi o‘zining turli rang va jilosiga ega bo‘lgan o‘zbek
+shevalarida aloqa qilmoqdalar. Ular o‘z shevalarida eng qadimgi turkiy til
+unsurlarini saqlab kelmoqda. Shuning uchun ham Namangan dialektal areali
+bugungi kunda yana qayta monografik tadqiqotlar obyektiga aylanmoqda.
+
+  FOYDALANILGAN ADABIYOTLAR
+
+    1. Алиев А.Ю. Уйчинский говор узбекского языка. Автореф. дис.
+...канд. филол. наук. – Ташкент, 1960. – C. 24.
+    2. Алиев А.Ю. Наманганская группа говоров узбекского языка: Авто­
+реф. дисс. ...докт. фил. наук. – Тошкент, 1975. – C. 52.
+    3. Aliyev A.Y. Namangan dialekti haqida. O‘zbek tili va adabiyoti masalalari. –
+Toshkent: Fan, 1967. – 37–45-betlar.
+    4. Атамирзаева С. Звуковой состав Наманганского говора узбекского
+языка: Автореф. дис. ... канд. фил. наук. – Л., 1963. – C.19.
+    5. Атамирзаева С. Экспериментально-фонетическое исследование
+наманганского говора узбекского языка. – Ташкент, 1974. – C.195.
+    6. Боровков А.К. К характеристике узбекских “умляутных” или “уйгу­
+ризованных” говоров // Белек – Малову. – Фрунзе, 1946. – С. 29–31.
+    7. Боровков А.К. Узбекские говоры Наманганской области. – Ташкент,
+Ўзбек диалектологиясидан материаллар. – Тошкент, 1963.
+    8. Боровков А.К. Вопросы классификации узбекских говоров // Изв.
+АНУз ССР. – № 5. – 1953. – С. 58–74.
+    9. Наливкин В., Наливкина М. Русско-сартовский и сартовско-русский
+словарь общеупотребительных слов с приложением краткой граммати­
+ки по наречиям Наманганского уезда. – Казань, 1884. – С. 6.
+   10. Поливанов Е.Д. Узбекская диалектология и узбекский литератур­
+ный язык. – Ташкент: Узгосиздат, 1933.
+   11. Решетов В.В. О наманганском говоре узбекского языка. Сб. Акаде­
+мику В.А.Гордлевскому. – М., 1953. – С. 216.
+   12. Тулаков С. Морфологические особенности наманганского говора:
+Автореф. дис. ...канд. фил. наук. – Ташкент, 1965.
+   13. Sharipov H. Janubiy Qirg‘iziston o‘zbek shevalari: Автореф. дис.  ...
+канд. фил. наук. – Toshkent, 1967. – С. 21.
+   14. Yunusov G‘.O. O‘zbek lahjalarining tasnifida bir tajriba. – Toshkent:
+O‘quvo‘zdavnashr, 1936.
+
+                                40
+
+PDF 74
+bilan bog‘liqdir. Unlilarning bunday cho‘ziqligi hozirgi Xorazm, Forish va shi­
+moliy o‘zbek shevalarida uchraydi. Aslida bu kabi unlilarning cho‘ziqligi urg‘u
+bilan bog‘liq. Masalan: tu:š (tush), a:d (ot, ism), du:z (tuz)… Qadimgi turkiy
+tilda urg‘u so‘zning dastlabki bo‘g‘iniga tushgan.
+   Ikkilamchi cho‘ziqlik. So‘z tarkibida biror undosh tovushning nutqda ta­
+laffuz qilinmasligi natijasida unli tovush cho‘zilishi mumkin: sӓndu (sandiq),
+ortā: (o‘rtoq). Bunday cho‘ziqlik ikkilamchi cho‘ziqlik deyiladi. Shevalarda
+bunday cho‘ziq unlilar ko‘pincha h undoshining tushib qolishi bilan yuz be­
+radi: Ӓ:mӓt (Ahmad), dӓ:lїz, me:r (mehr), qӓ:r (qahr). Ikkilamchi cho‘ziqlik
+sinerezisga ham olib keladi. Ma’lumki, intervokal pozitsiyadagi undoshning
+nutqda iqtisodga uchrashi natijasida yonma-yon kelib qolgan ikki unli o‘zaro
+singishib, nutqda cho‘ziq unlini hosil qiladi. Bu fanda sinerezis hodisasi de­
+yiladi. Shevalarimizda bunga misollar ko‘plab topiladi: zӓ:r (zahar), šӓ:r (sha­
+har), u:l (o‘g‘il), sӓ:t (sihat).
+   Uchlamchi (emfatik) cho‘ziqlik. Bunday cho‘ziqlik Namangan shahar she­
+vasining hozirgi-kelasi zamon fe’lida yorqin ko‘rinadi, ya’ni bu fe’l shaklida
+qatnashadigan ravishdosh ko‘rsatkichi -ӓ unlisi va boshqa shakllarda ishtirok
+etgan -ӓ unlisi odatdagiga nisbatan cho‘ziq talaffuz etiladi yoki uning bo‘lish­
+siz shaklida -j(y) zamon qo‘shimchasi tushib qolishi ham mumkin va bo‘lish­
+sizlik affiksidagi -ӓ unlisi ham ikkilangan cho‘ziqlikka ega bo‘ladi: bїlmӓ:(j)
+mӓ:, bomӓ:(j)di [Ashirboyev, 2016:30-31]. S. Ashirboyevning cho‘ziq unlilar­
+ning bu kabi tasnifidan uchinchi turi – emfatik cho‘ziqlik andijon shevasida
+deyarli kuzatilmaydi, shunday bo‘lsa ham Paxtaobod tumani aholisi shevasi­
+da ba’zan uchrab turadi. Bu holat uyg‘ur xalqi nutqida uchraydi (o‘zbekcha
+so‘zlaganida). S. Ibrohimov andijon shevasida ba’zi bir so‘zlarda bir qadar
+cho‘ziq va o‘rni bilan yarim cho‘ziq unlilar uchraydi, deydi. Te:rї (ter so‘zining
+III shaxs egalik qo‘shimchasi bilan turlangan shakli), qӓ:ri, to:ri (uyning to‘ri­
+si) kabi so‘zlar bunga misol bo‘la oladi. Andijon shevasida ikkilamchi cho‘ziq
+unlilar gapda ekspressiv ma’nolarni ifodalashda, chetdan o‘zlashgan so‘zlar
+tarkibidagi urg‘uli bo‘g‘inlarda, sheva so‘zlarining ichki o‘zgarishi natijasida
+yuzaga kelishini aytib o‘tgan. Andijon viloyati dardoq shevasida cho‘ziq un­
+lilarni quyidagi hollarda uchratishimiz mumkin:
+    - birlamchi turkiy cho‘ziq unlilar: bӓ:rї, qӓ:rї, mo:rї, tӧ:rї, sӧ:rї, nӓ:munӓ,
+cho:rї, te:rї, be:rї, nӓ:rї, i:mon, i:mom, qo:ri (qalb qo‘ri), bā:ri, qori (diniy ma­
+salalar bilan shug‘ullanuvchi), dā:ri (tibbiyotdagi dori-darmon)…
+    - his-tuyg‘uni (shodlik, quvonch, qo‘rquv, hayratlanish, norozilik, ajabla­
+nish, taajjublanish) ifodalashda unlilar cho‘zib talaffuz qilinadi. Masalan, E::
+(o‘ta cho‘ziq), räsvā qïpsänu kijïmlärijnï, bāläm. O:: (o‘ta cho‘ziq), minčä čïrā:­
+jlij qïp bezab qojïpsïlar kelïn kelädïɣā: ujdï. Bu turdagi cho‘ziqlikda unlilar­
+ning qay darajada cho‘ziq talaffuz qilinishi, avvalo, his-hayajonning kuchliligi­
+ga bog‘liq va urg ‘u bilan ham aloqadordir;
+
+                                74
+
+PDF 95
+   MINGBULOQ SHEVASINING O‘ZIGA XOS LEKSIK XUSUSIYATLARI
+
+
+                            Usmonov Musurmon Mamirali o‘g‘li,
+                          Namangan davlat universiteti o‘qituvchisi
+                                musulmonusmonov3004@gmail.com
+
+   Annotatsiya. Maqolada Mingbuloq tuman shevasi leksik birliklarining o‘zi­
+ga xos leksik-semantik jihatlari yoritilgan va ularning qo‘llanish areallari bel­
+gilangan.
+   Kalit so‘zlar: leksik birlik, semantik xususiyat, fonetik hodisalar, transkrip­
+siya, dialekt, fonetik xususiyatlar, vokalizm, konsonantizm, kontrast unli
+   Annotation. The article describes the specific lexical-semantic aspects of the
+lexical units of Mingbulak district dialect and identifies the areas of their use.
+   Keywords: lexical unit, semantic feature, phonetic phenomena, transcrip­
+tion, dialect, phonetic features, vocalism, consonantism, contrast vowel
+
+   Ma’lumki, shevalar har bir milliy tilning asosini tashkil etadi hamda u
+milliy-ma’naviy qadriyatlardan biri hisoblanadi. Aslida ham ona  tili de­
+ganda, sheva tushunilishi haqiqatga yaqindir. Shuning uchun ham uni as­
+rab-avaylash, qadrlash zarurati ortib boraveradi. Zero, Birinchi Preziden­
+timiz I.A.Karimov: “Jamiki ezgu fazilatlar inson qalbiga, avvalo, ona allasi,
+ona tilining betakror jozibasi bilan singadi. Ona tili – bu millatning ruhidir”,
+degan so‘zlarni bejiz ta’kidlamagan edi [3:123]. Shubhasiz, o‘zbek shevala­
+rini o‘rganishda shevalarga xos xususiyatlarni birgina tasviriy-tavsifiy jihat­
+dan emas, balki aniq tarixiy-etimologik, turkiy va boshqa tillarning faktik
+elementlari asosida qiyosan tadqiq qilinishi va shu nuqtayi nazardan baho­
+lanishi ko‘plab tarixiy-lingvistik, dialektologik, lingvogeografik, arealogik va
+hozirgi adabiy tildagi nazariy va amaliy muammolarning yechimini topish­
+da juda katta yordam beradi [2:16].
+  Namangan viloyati, ayniqsa, Namangan shahar shevasi o‘zining turfa xil­
+ligi va o‘zgacha jilosi bilan yurtimizdagi boshqa o‘zbek shevalardan fonetik,
+leksik, grammatik jihatdan tubdan farqlanadi. Shu bois ham tilshunoslardan
+A.K.Borovkov, E.D.Polivanov, G‘ozi Olim Yunusov, V.V.Reshetov A.Aliyev, S.Ota­
+mirzayeva, S.Tulyakov, I.Darvishovlarning Namangan shevalari tadqiqiga
+bag‘ishlangan ishlari maydonga keldi.
+   Amalga oshirilgan ilmiy tadqiqotlar o‘rganilishi natijasida ma’lum bo‘ladi­
+ki, Namangan shahar va Uychi, Uchqo‘rg‘on, Yangiqo‘rg‘on, Chortoq va Pop tu­
+man shevalarining lingvistik xususiyatlari boshqa hududlarga nisbatan keng­
+roq o‘rganilgan [6:54]. Viloyatning aksariyat sheva areallari batafsil o‘rganil­
+maganligi uchun ular haqida fikrlar kam.
+
+                                95
+
+PDF 96
+   Mingbuloq tuman shevalari ham o‘zining fonetik, leksik, grammatik, xu­
+susiyatlari bilan boshqa shevalardan farqlanib turadi. Sheva areali shimoli­
+dan Chust va To‘raqo‘rg‘on, shimoli-sharqdan Namangan, shimoli-g‘arbdan
+Pop tumanlari, janubi-sharqdan Andijon viloyatining Ulug‘nor, janubiy va
+janubi-g‘arbdan Farg‘ona viloyati Buvayda tumani bilan chegaradosh. Hudud­
+da 130000 ga yaqin aholi istiqomat qiladi [5:1].
+   Mingbuloq  shevasi  o‘zbek  shevalarining  kichik  bir  bo‘lagi  sifatida
+umumturkiy va umumo‘zbek shevalarining leksik strukturasidagi mavjud un­
+surlarning o‘xshashligi kuzatiladi, biroq ayrim leksik-semantik xususiyatlari
+quyidagi jihatlari bilan farqlanadi:
+     I. Adabiy tilda uchramaydigan, faqat shevaga xos so‘z-terminlar:
+   Dog‘ocha [döγăča] – Mingbuloqning Rakasoviskiy qishlog‘ida kosa shak­
+lidagi ichi chuqur idishga nisbatan ishlatilgan so‘z. Adabiy tilimizda bunday
+idish tovoq deb ataladi. Tovoq – yuzi yoyiq, biroz yalpoq, kosa shaklidagi
+chuqurroq idish (turli o‘lchamda sopol, chinni, metall, ba’zan marmardan
+tayyorlanadi). Sopol tovoq. Chinni tovoq. Tunuka tovoq [1:130].
+   Bormovuch, bormoguch [bărmăvüč, bărmăgüč] – bormaydigan bo‘lib
+qolmoq. Boramiz deb kimnidir (masalan, shopirni) ishontirgan, lekin boradi­
+gan paytga kelganda bormaydigan bo‘lib qolingan vaziyatga nisbatan aytiladi.
+Bormovuch, bormoguch [bărmăvüč, bărmăgüč] so‘zi ishlatilganda borishiga
+ishontirilib qo‘yilgan shaxs bormaydigan bo‘lib qolgan shaxsga nisbatan xafa
+bo‘lmaydi.
+   Ovxir [ăvxir] – ot, sigir, qo‘ylarga o‘t, hashak berish uchun qilingan joyga
+nisbatan aytiladi. Ovxirga o‘t tashladim.
+   Malla [mällä] – yoyilgan xamirni dog‘ qilingan qozonda yaxshilab pishiril­
+ganiga aytiladi. Adabiy tilimizda bunday taomga qatlama deyiladi. Qatlama –
+oddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom [5:261].
+   Surguruch [sürgürünč] – sutga guruch solinib pishiriladigan taom. Surgu­
+runch [sürgürüč] degan variantlarga ham ega. Shirguruch – guruchni sutda
+pishirib tayyorlangan shavlasimon quyuq taom [4:579].
+   Engsa [jϵŋsä] – tandirga non yopishda qo‘li kuymasligi uchun kiyib oli­
+nadigan kiyim. Yengcha – yenglik. Onasi tandir oldida qo‘liga yengcha kiyib,
+loladek qip-qizil kulcha betiga suv sepyapti [2:14].
+   Katta dada, opadada, oppoq dada [kättä dädä, ăpädädä, ăppăqdädä] – ota­
+sining akasiga nisbatan ishlatiladi. Opadada so‘zi oppoq dada so‘zining fone­
+tik hodisaga uchragan shakli. Amaki – otaning akasi yoki ukasi. Katta amaki,
+kichik amaki [1:76].
+   Oppoqaya, katta aya [ăppăqayä, kättä ayä] – katta amakisining xotini she­
+vada shunday nomlaydi. Adabiy tilda kelinoyi deyiladi. Kelinoyi – akaning xo­
+tini. Yoshi o‘zidan katta bo‘lgan qarindosh yoki yaqin kishining xotini va shu
+xotinga murojaatni bildiradi [2.346].
+
+                                96
+
+PDF 97
+   So‘ppi [soppi] – oq rangli do‘ppi. So‘filar kiyadigan oq rangli do‘ppiga nis­
+batan olingan. Boshqa sheva vakillarida so‘fi do‘ppi deb ham yuritiladi. Ming­
+buloq shevasida fonetik o‘zgarishga uchragan.
+   Solcha, sholcha, doroshka [sălčä, šălčä, dărăškä] – gilamdan yupqa, oyoq
+ostiga solinadi. Doroshka so‘zi o‘zining ma’nosini yoqotgan.
+    Japs, jamati [ǯäps, ǯämäti] – qarindosh, urug‘. Qarindosh-urug‘chilik mu­
+nosabatlari. Japs [ǯäps] so‘ziga jips yoki yaps (yopish) so‘zi asos bo‘lib fone­
+tik o‘zgarishlarga uchragan. Jamati [ǯämäti] so‘ziga jam, jamlik so‘zlari asos
+bo‘lib fonetik o‘zgarishlarga uchragan.
+   Bosolda [băsăldä] – chamasi, taxminan, ehtimol degan ma’nolarni ang­
+latadi.
+   Tindoq, tinnoq [tindăq, tinnăq] – tirnoq. Fonetik o‘zgarishga uchragan.
+Tirnoq – barmoqlar uchining orqa tomonidagi etga yopishgan, barmoqlarni
+himoya qiluvchi, shoxsimon moddadan iborat tuzilma, qoplama [3:113].
+   Chovdish, chovgin, ovdasta [čăvdiš, čăvin, ăvdästä] – qo‘l yuvish va choy
+qaynatish uchun ishlatiladigan idish – obdasta. Obdasta – ro‘zg‘or buyumi;
+yuz-qo‘l yuvish uchun ishlatiladigan uzun va ingichka jo‘mrakli, qorni keng,
+bo‘g‘zi tor idish [3:71]. Ovdasta fonetik o‘zgarishga uchragan. Chovgun – o‘tda
+choy qaynatish uchun moslangan idish, choydish, qumg‘on [4:502]. Chovdish,
+chovgin so‘zlari fonetik hodisaga uchragan choydish, chovgun so‘zlaridir.
+   Do‘mba, do‘mpa, tepalik [dombä, dompä, tepäliq] – tekis yerga nisbatan
+balandroq bo‘lgan joyga nisbatan aytiladi. Tepa – yer sathidan baland, do‘ng
+joy. Tepalik, balandlik [3:66]. Do‘mba va do‘mpa so‘zlarida fonetik o‘zgarish
+bor. Asosi “do‘m” bo‘lyapti. Do‘m – do‘mboq, do‘mpaymoq so‘zlari bilan aloqa­
+si bo‘lishi mumkin. Do‘mboq – 1. Do‘mpaygan, do‘mpayib chiqqan. 2. Do‘mpa­
+yib, ko‘tarilib turgan joy yoki narsa [1:674]. Do‘mpaymoq – do‘mbaymoq.
+Katta tut yog‘och ko‘lankasida do‘mpaygan yangi qabrni quchib, soatlarcha
+yig‘lab, tinkalari qurigandan so‘ng qaytishdi [1:674].
+     II. Nomemasi adabiy tildagi so‘zlardan farq qilmasa-da, lekin shevada
+boshqa ma’no anglatuvchi so‘zlar:
+   Ko‘tarma [kötärmä] – mol, qo‘y, ot, eshak boqiladigan va turadigan
+binoga nisbatan, ya’ni molxona, qo‘yxona, otxonaga aytiladi. Izohli lug‘at­
+da: Ko‘tarma – ko‘tariladigan, ko‘tarib qo‘yiladigan qilib qurilgan. Ko‘tarma
+ko‘prik [2:474].
+   Bostirma [băstirmä] – mol, qo‘y, ot, eshak boqiladigan va turadigan binoga
+nisbatan, ya’ni molxona, qo‘yxona, otxonaga aytiladi. Bostirma asosan yoz kun­
+larida uy hayvonlarini saqlash uchun qurilgan joy hisoblanadi. Izohli lug‘atda:
+Bostirma – to‘rt tomoni yoki ikki yoni va old tomoni ochiq, usti yengilgina
+yopilgan qurilma [1:325].
+   Lagan [lägän] – Mingbuloq shevasining qipchoqlar yashaydigan hududla­
+rida ichi chuqur idishga nisbatan qo‘llanilgan bo‘lsa, Mingbuloq tumanining
+
+                                97
+
+PDF 98
+janubi va janubi-g‘arbiy hududlarida ichi sayoz idishga nisbatan ishlatiladi.
+Izohli lug‘atimizda quyidagicha berilgan: Lagan – tog‘ora, idish; shamdon
+[quyuq taomlar solish uchun mo‘ljallangan, likopchadan katta yassi idish.
+Mis lagan. Sopol lagan. Chinni lagan. Anvar o‘rtaga dasturxon yozib, ikki lagan
+manti chiqarib qo‘ydi.
+   Toyloq [tăjlăq] – oyoq toyadigan va sirpanadigan joyga nisbatan aytiladi.
+Dala yomg‘irdan so‘ng siyg‘onchiq bo‘lib qoldi. Izohli lug‘atda Toyloq – kichki­
+na toy, toycha [3:134] ma’nosini anglatadi.
+   Opa [ăpä] – onaga nisbatan ishlatiladi. Opa – bir ota-onadan tug‘ilgan far­
+zandlar ichida o‘zidan kichiklariga nisbatan katta qiz [3:128].
+   Ariq [ariq] – ekin ekish uchun tuproqni ikki yonidan uzun qilib uyib chiqil­
+gan joyga nisbatan aytiladi. Izohli lug‘atda ariq so‘zi boshqa ma’no anglatadi.
+Ariq – sun’iy ravishda hosil qilingan suv yo‘li, o‘zani va undagi suv [1:98]. She­
+vada esa ariq so‘zi marza, pushta so‘zlariga sinonim tarzda ishlatilmoqda.
+     III. Adabiy tildagi shakliga nisbatan kuchli fonetik o‘zgarishga uchragan
+so‘zlar:
+   Taqlam, talam [taqläm, ta:läm] – qattiq yoki yumshoq narsalarning ust­
+ma-ust joylashganiga nisbatan aytiladi. Izohli lug‘atda taxlam deb berilgan.
+Taxlam – terib, taxlab qo‘yilgan narsa va uning bir to‘pi. Bir taxlam kitob
+[3.15]; Mingbuloq shevasining “y”lovchi vakillarida: [taqläm] ya’ni chuqur
+til orqa, sirg‘aluvchi, jarangsiz undosh tovush o‘rniga chuqur til orqa, port­
+lovchi, jarangsiz undosh tovush almashgan bo‘lsa, “j”lovchilarda: [ta:läm]
+ya’ni chuqur til orqa, sirg‘aluvchi, jarangsiz undosh tovush tushirib qoldi­
+rilgan.
+   Tapt, tavt [täpt, tävt] – insonning barmoqlari joylashgan qo‘l qismining
+ichkari tomoniga nisbatan aytiladi. Tavtingni peshonasiga bos-chi? Arini tapti
+bilan bosib o‘ldirdi. Izohli lug‘atda taft so‘ziga boshqacha ta’rif beriladi. Taft –
+issiqlik manbayi yoki qizib turgan narsadan urayotgan issiq, harorat. Tandir­
+ning tafti [3:14]. Lab-tish, sirg‘aluvchi, jarangsiz undosh lab-lab, portlovchi,
+jarangsiz undoshga, lab-tish, sirg‘aluvchi, jarangli undoshga almashgan.
+   Qallama [qallämä] – yoyilgan xamirni dog‘ qilingan qozonda yaxshilab
+pishirilganiga aytiladi. Adabiy tilimizda qatlama deyiladi. Qatlama – oddiy
+xamirdan yupqa yoyib, yog‘da pishiriladigan taom [5:261]. Bu so‘zimizda re­
+gressiv assimilatsiya hodisasi yuz bergan. Qatlama so‘zidagi til oldi jarangli
+sirg‘aluvchi tovush til oldi portlovchi jarangsiz tovushni o‘ziga to‘liq o‘xshatib
+olyapti.
+   Holvaytal [hălväjtäl] – holvaytarga nisbatan ishlatiladi. Shevada fonetik
+hodisalarga uchragan. Holvaytar – dog‘ qilingan yoqqa un solib, sal qizargun­
+cha qovurib, ustidan shakar eritilgan suv quyib tayyorlanadigan shirin taom
+[4:550]. So‘z oxiridagi titroq tovush til oldi jarangli sirg‘aluvchi tovushga al­
+mashdi.
+
+                                98
+
+PDF 99
+    Alvali [älväli] – shevada olchaga nisbatan aytiladi. Izohli lug‘atda olcha va
+olxo‘riga nisbatan olvoli deyilgan. Olvoli – olcha, olxo‘ri [3:109]. Orqa qator,
+quyi keng unli o‘rniga oldi qator quyi keng unli almashgan.
+   Har bir ma’muriy-hududiy birlikda shevaga xos so‘zlar leksik-semantik ji­
+hatdan quyidagi o‘ziga xosliklarga ega:
+   Mingbuloq tumanining Dehqonobod qishlog‘ida tovoq (ichi chuqur idish)
+döγăča deb nomlansa, Alami, Gulbog‘, Tegirmonboshi, Tegirmon, Gigant kabi
+qishloqlarda “tovoq” deyiladi.
+   Molxona – ăγil, kötärmä, băstirmä. Alami, Gulbog‘da mölxănä, ăγil so‘zlari
+faol ishlatiladi. Qorashahar, Jiydaqishloq, Momoxon, Qirqchek, Yakkatolda
+molxona, ăγil, kötärmä, băstirmä so‘zlari ishlatiladi.
+   Bormaydigan – bărmăvüč. Dovduq, Gurtepa, Ingichka, Terak, Tolliovul,
+Uzuntepa, Mulkobod, Sho‘rsuvda bormaydigan so‘zi bărmăvüč, bărmăvöč tar­
+zida ishlatilsa, Yangi Gulbog‘, Tegirmon, Momoxon, Qorashahar, Qolg‘andaryo,
+Jomoshov, Jiydaqishloq, Gulbog‘, Alamilarda bărmiydigän, bărmiydiγän sifati­
+da qo‘llaniladi.
+   Taxlam – taxläm, taqläm, taläm; Yangi Gulbog‘, Tegirmon, Momoxon, Qo­
+rashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alamilarda taxläm,
+taläm; Dovduq, Gurtepa, Ingichka, Terak, Tolliovul, Uzuntepa, Mulkobod,
+Sho‘rsuvda taxläm, taqläm, taläm.
+   Taft – täft, täpt, tävt; Yangi Gulbog‘, Tegirmon, Momoxon, Qorashahar,
+Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alamilarda täft, täpt; Dovduq,
+Gurtepa, Ingichka, Terak, Tolliovul, Uzuntepa, Mulkobod, Sho‘rsuvda täft, täpt,
+tävt.
+   Sirpanchiq – sirpänch(i)q, sirqančiq, tăjlăq. Yangi Gulbog‘, Tegirmon, Mo­
+moxon, Qorashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alamilar­
+da sirpänch(i)q, sirqančiq, tăjlăq; Dovduq, Gurtepa, Ingichka, Terak, Tolliovul,
+Uzuntepa, Mulkobod, Sho‘rsuvda sirpänch(i)q, tăjlăq.
+   Holvaytar – hălväjtäl. Rakasovitskiyda hălväjtäl. Yangi Gulbog‘, Tegirmon,
+Momoxon, Qorashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alami­
+larda hălvätär.
+   Sigirga o‘t tashlanadigan joy – oxir, ăγil. Yangi Gulbog‘, Tegirmon, Momo­
+xon, Qorashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alamida oxir,
+ăγil.
+   Gilamcha – sălčä, šălčä, dărăškä. Yangi Gulbog‘, Tegirmon, Momoxon, Qo­
+rashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘, Alamida – sălčä,
+šălčä, dărăškä.
+   Qatlama – qallämä, mällä. Alamida qallämä, mällä.
+   Amaki – kättä dädä, ăpädädä, ăppăqdädä (otasidan kattasiga nisbatan).
+Alamida kätä: dädä, ăpädädä; Yangi Gulbog‘, Tegirmon, Yakkatol, Momoxon,
+
+                                99
+
+PDF 100
+Qorashahar, Qolg‘andaryo, Jomoshov, Jiydaqishloq, Gulbog‘da kättä dädä, ăp­
+păqdädä, ämäki.
+   Kelinoyi – ăppăqaya, käta:ya (otasidan katta amakisining xotiniga nis­
+batan). Alamida käta:ya; Yakkatolda ăppăqaya
+   Ona – opä, aya, ϵnä. Yangi Gulbog‘, Tegirmon, Yakkatol, Momoxon, Qorasha­
+har, Qolg‘andaryo, Jiydaqishloq, Alamida opä, aya, ϵnä.
+   Qarindoshlik – ǯäps, ǯämäti. Yakkatolda ǯämäti, Gurtepada ǯäps.
+   Pushta (marza, jo‘yak) – ǯojak, ariq, mărzä; Alami, Gulbog‘da ariq.
+   Mingbuloq shevasi leksikasi tarkibida boshqa bir qancha shu kabi so‘zlar­
+ning ko‘rinishlar bilan turli belgilarga ega ekanligini kuzatishimiz mumkin.
+   Xulosa qilib shuni ta’kidlash lozimki, o‘zbek shevalari hozirgi adabiy tilda
+uchramaydigan ayrim grammatik shakllar, leksik birlik elementlarini saqlab
+qolganki, ularni asosli ravishda ilmiy o‘rganish juda muhim tarixiy-lingvistik
+xulosalarni chiqarishga imkon tug‘diradi. Yaratilajak yangi qarash va ilmiy
+nazariyalarning maydonga kelishiga poydevor bo‘ladi. Qat’iy bir qonuniyat
+asosida tilning uzoq zamonlardagi holatini aniqlayotgan izlanuvchiga juda
+qimmatli material beruvchi manba bo‘lishi shubhasiz va shu bilan bir qator­
+da, bunday fonetik, leksik-grammatik faktlar – asoslar qadimgi yodgorliklarni
+tushunish va lingvistik tahlil qilishda amaliy qo‘llanma vazifasini o‘taydi.
+
+
+  FOYDALANILGAN ADABIYOTLAR
+
+    1. O‘zbek tilining izohli lug‘ati. – Toshkent: O‘zbekiston milliy ensiklopedi­
+yasi, 2006. I–V jildlar.
+    2. Алиев А.Й. Уйчинский говор узбекского языка. Автореф. дис.  ...
+канд. фил. наук. – Ташкент, 1960.
+    3. Darvishov I. Areal tilshunoslik: janubi-g‘arbiy Namangan shevalarining
+fonetik-fonologik xususiyatlari. – Toshkent, 2019.
+    4. Ashirboyev S. O‘zbek dialektologiyasi. – Toshkent, 2016.
+
+
+
+
+
+                               100
+
+PDF 177
+   Archa – Farg‘ona vil. Farg‘ona t., mahalla nomi. Joy nomi vujudga kelishida
+daraxt nomiga nisbat berilgan [1, 19].
+   Do‘lana – Andijon vil. Buloqboshi t., mahalla nomi. Do‘lana – tog‘li hudud­
+larda o‘suvchi yovvoyi butasimon o‘simlik nomi bilan atalgan [1, 55].
+   Jiyda – Farg‘ona vil. Beshariq t., Namangan vil. Kosonsoy t., mahalla nomi.
+Mazkur mevali daraxt nomi Farg‘ona vodiysida quyidagi joy nomlarida ham
+uchraydi: Jiydakapa, Jiydaqishloq, Qorajiyda, Chilgi-jiyda.
+   No‘xatak – Andijon vil. Andijon t., mahalla nomi. Bu joy nomi yovvoyi
+no‘xat nomiga nisbat berilib nomlangan bo‘lishi mumkin [2].
+   Olmurut – Namangan vil. Uychi t., mahalla nomi. Olmurut mevali daraxt
+nomi bo‘lib, nokning bir xili.
+  Rayhon – Farg‘ona vil. Qo‘qon sh., mahalla nomi. Joy nomidan ko‘rinib tu­
+ribdiki, mahallaga rayhon o‘simligi nomiga nisbat berilib nomlangan.
+   Sada – Farg‘ona vodiysi tumanlarida keng tarqalgan nom bo‘lib, bu ser­
+soya daraxt asosida joy nomlangan. Sada nomi o‘zi bilan birga salqin, bahavo va
+muzdek suv oqib turgan joyni anglatadi. E’tibor beriladigan jihati shundaki, sada
+daraxti o‘sgan joyda odamlar dam olish uchun supalar, skameykalar, besedkalar
+tashkillashgan, hattoki artezian suvlari oqib turuvchi joylarda ham sada daraxti
+ekilgan. Vodiyda Sadacha, Sadatagi, To‘psada kabi nomlar ham uchraydi.
+   Chilon – Farg‘ona vil. Quva t., Andijon vil. Andijon t., mahalla nomi. Hudud­
+da chilonjiyda mevali daraxti tez-tez uchrab turganligi sabali bu joy nomi shu
+o‘simlik nomi bilan bog‘langan bo‘lishi mumkin. Bundan tashqari, vodiyda
+Chilonzor, Chilonmozor kabi joy nomlari ham mavjud.
+   Chinor – Farg‘ona vil. Oltiariq t., Namangan vil. Pop t., mahalla nomi. Bu
+mevasiz o‘simlik turi bilan vodiyda joy nomlari uchrab turadi, masalan, Ming­
+chinor, Chinortagi kabilar. Shuningdek, topoobyektlarga -tagi qo‘shimchasini
+qo‘shish orqali biror daraxt tagida odamlar to‘planishi yoki turishlari nazarda
+tutiladi. Masalan, Toltagi (Farg‘ona sh.) toponimini oladigan bo‘lsak, aynan
+tol daraxtining tagida odamlarni uchratish mumkin bo‘ladi. -tagi qo‘shim­
+chasiga e’tibor qaratadigan bo‘lsak, bu odamlarning vaqtincha to‘xtab turish
+joyini anglatadi. Buni Farg‘ona viloyati misolida Toltagi, Mozortagi, Teraktagi
+toponimlarini olishimiz mumkin. Qayrag‘ochtagi toponimi ham taxminimizga
+ko‘ra shunday ma’noni anglatadi.
+   Shaftoli – Andijon vil. Bo‘z t., qishloq nomi. Shu bilan birga Shaftolizor to­
+ponimi ham uchraydi. Shaftoli mevali daraxt bo‘lib, -zor qo‘shimchasi orqali
+daraxtning hududda ko‘pligiga nisbat berilgan [1, 161].
+   Qayrag‘och – Qayrag‘och oykonimi “qayrag‘och o‘sgan joydagi qishloq”
+ma’nosini ifoda qiladi. Bundan tashqari, vodiyda Qayrag‘ochzor, Qayrag‘och­
+ovul, Qayrag‘ochguzar, Qayrag‘ochtagi, Mulla Qayrag‘och, Nayza Qayrag‘och
+deb ataluvchi qishloq va ko‘chalar ham qayd etilgan [1, 184]. Bundan tashqari,
+Quva tumanida Bolalik qayrag‘och qishlog‘i ham mavjud. Bolalik qayrag‘och
+qishlog‘ida haqiqatan ham qayrag‘ochlar o‘sadigan alohida ziyoratgoh mav­
+
+                               177
+
+PDF 178
+jud. Mahalliy xalq etimologiyasiga ko‘ra o‘sgan qayrag‘ochlar ildizidan bolalab
+ketganligi uchun bu daraxtlarni “bolali qayrag‘ochlar” deb nomlashgan, bosh­
+qa manbaga ko‘ra, Mirzo Bobur o‘z askarlari bilan dushmandan uzoqlashib,
+Marg‘ilon tomonga o‘tib ketayotganida jangchilaridan birining homilador
+xotini ko‘zi yoriydi va ular bolani bir hamyon tilla bilan qayrag‘och shoxiga
+ilib ketishgan majbur bo‘lishgan ekan [3, 18]. Bolali qayrag‘och nomi shun­
+dan qolgan. Hozirda bu joy ziyoratgohga aylangan va farzand talabida bo‘lgan
+yoshlar ziyorat uchun kelishadi.
+   2. Zootoponimlar. Zootoponimlar hayvon nomlariga nisbat berilgan
+holda nomlangan topoobyektlar bo‘lib, toponimning informativligiga ko‘ra,
+shu obyektda nomi keltirilgan hayvon turi yashashi aniqlashadi. Bunday to­
+ponimlar sirasiga Alqor, Baliqko‘l, Bo‘lon, Kaptarxona kabi obyektlar nom­
+larini ko‘rsatish mumkin.
+   Alqor – Farg‘ona vil. Buvayda t., qishloq nomi. Alqor yovvoyi tog‘ qo‘yi
+nomi bo‘lib, bu hayvon turi tog‘li zonalarda yashaydi. Bu hayvonning muflon,
+arhar yoki alqor deb nomlangan turlari mavjud. Buvayda tumani tog‘li hudud
+bo‘lmaganligi sababli bu yovvoyi qo‘ylar yashashini taxmin qilish noto‘g‘ri
+bo‘lishi mumkin. Bundan tashqari, dorivor alqor o‘simligi ham mavjud.
+   Baliqko‘l – Namangan vil. Chortoq t., qishloq nomi. Joy nomini ikki xil
+talqin qilish mumkin:
+   a) Baliqliko‘l deb nomlanganligi ko‘lda baliq ko‘pligini anglatadi. Hudud­
+dagi buloqqa qo‘yilgan zoogidronim keyinchalik qishloqqa ham berilgan;
+   b) baliq ko‘l, baliq ko‘l ko‘p ko‘l emas, balki ko‘l kosaning shakliga nisbatan
+qo‘yilgan bo‘lishi mumkin [1, 23].
+    Bo‘lon – Namangan vil. Chortoq t., mahalla nomi. Bu nom hayvon nomi
+asosida vujudga kelgan. Toponim shu hududda yashagan, ammo hozirda yo‘q
+bo‘lib ketgan hayvon – bulon (los) to‘g‘risida ma’lumot beradi [1, 41].
+   Kaptarxona – Farg‘ona vil. Farg‘ona t., qishloq nomi. Xalq etimologiyasiga
+ko‘ra, qishloqda kaptarlar ko‘p bo‘lganligi sababli qishloq Kaptarxona nomini
+olgan. Lekin hozirda qishloqda birorta kaptar boqiladigan yoki kaptarlar ya­
+shaydigan joy mavjud emas. Farg‘ona shevasida vaqtincha qo‘nim topiladigan
+joy ham “kaptarxona” deyiladi. Qishloqning joylashuviga e’tibor qaratadigan
+bo‘lsak, u Qirg‘iziston bilan chegaradosh hududda joylashgan bo‘lib, qishloq
+tog‘ yonbag‘irlariga juda yaqin. Taxminimizcha, chorvachilik bu hududda yax­
+shi rivojlanganligi sababli chorvador ko‘chmanchilar qishlash uchun qishloq
+hududiga qish oylarida kirib kelishgan. Qishloq nomi shundan kelib chiqqan
+bo‘lishi ham mumkin. Qishloq mahalliy aholisining millati esa tojik.
+   3. Informativ gidronimlar. Bunday gidronimlar jamoaviy nomlanish ja­
+rayonida suv havzasining sifati, ta’mi, hidi va suvining inson sog‘lig‘i uchun
+qanchalik muhimligini o‘zida mujassamlashtirgan nomni oladi va axborot be­
+radi.
+
+                               178
+
+PDF 179
+   Sassiqko‘l – Farg‘ona vil. Yozyovon t., ko‘l nomi. Farg‘ona va Marg‘ilon
+shaharlarining kanalizatsiya suvlari shu ko‘lga yig‘ilganligi sababidan bad­
+bo‘y hid chiqaradi, suvi ichishga yaroqsiz. Ko‘l nomi suv hidiga nisbat berilib
+nomlangan.
+   Achchiqko‘l – Farg‘ona vil. O‘zbekiston  t., qishloq nomi. Achchiqko‘l –
+asli suv havzalaridan biri – ko‘lning nomi. Ko‘l suvining achchiqligi, o‘ta sho‘r
+ekanligi, iste’mol uchun yaroqsizligi ko‘lning shu tarzda nomlanishiga sabab
+bo‘lgan [4, 7]. Ko‘l nomi uning atrofidagi aholi punktiga o‘tgan.
+   Bo‘zariq – Andijon vil. Asaka t., mahalla nomi. Ko‘kish rangli, sovuq suv
+oqadigan ariqqa qo‘yilgan nom keyinchalik aholi maskaniga berilgan bo‘lishi
+mumkin [1, 41].
+   Damko‘l – Farg‘ona vil. Farg‘ona t., qishloq nomi. Ko‘l nomiga nisbat beril­
+gan oykonim. Dam geografik termin bo‘lib, bu yеrda oqmas ko‘l ma’nosida
+qo‘llanilgan [1, 51].
+   Oydinbuloq – Farg‘ona vil. O‘zbekiston t., qishloq nomi. Ushbu joy nomi
+tarkibidagi oydin so‘zi toza, tip-tiniq ma’nosidadir. Oydinbuloq – suvi tiniq bu­
+loq, toza buloqli joy deb izohlanadi. Buvayda tumanidagi Oydinko‘l toponimi
+ham xuddi shunday ma’noni bildiradi. Qishloqning atalishiga ko‘l nomi asos
+bo‘lgan [4, 37].
+   Shirmonbuloq – Andijon vil. Xo‘jaobod t., qishloq. Toponimning birinchi
+komponenti Chermon so‘zining fonetik variantidir. ch va sh tovushlarining
+o‘zgarishi o‘zbek tiliga xos xususiyatdir. Chermon “o‘tloq, yaylov” ma’nosini
+bildiradi. Demak, Shirmonbuloq “yaylovdagi buloq” ma’nosida [5, 149].
+   Sho‘rariq – Andijon vil. Uchqo‘rg‘on t., qishloq nomi. Sho‘r “sho‘r joy, sho‘r
+yеr” ma’nosini bildiradi. Umuman, bu so‘z O‘zbekistonda ko‘plab toponimlar
+yasaydi, masalan, Sho‘rkent, Sho‘rqishloq, Sho‘rsuv, Sho‘rchi kabi nomlar,
+Sho‘rariq “sho‘r yеrda oqadigan ariq” demakdir [5, 150].
+   Shirinbuloq – Namangan vil. Kosonsoy t., mahalla nomi. Suvning maza­
+si-ta’miga nisbatan olingan gidronimdan hosil bo‘lgan joy nomi [1, 162].
+
+
+  FOYDALANILGAN ADABIYOTLAR
+
+    1. Аҳмадалиев Ю.И., Отақулов П.С., Маматисаков Ж.Ж. Фарғона во­
+дийси: шаҳар, қишлоқ ва маҳалла номлари. – Фарғона, 2017. – 215-б.
+    2. Дўсимов З., Эгамов Х. Жой номларининг қисқача изоҳли луғати. –
+Тошкент: Ўқитувчи, 1977. – 174-б.
+    3. Ибриқ Қувойи. Болали қайрағоч. – Тошкент, 2013. – 39-б.
+    4. Қораев С. Географик жой номлари маъноси. –Тошкент: Ўзбекистон,
+1978.
+    5. Охунов Н. Жой номлари таъбири. – Тошкент: Ўзбекистон, 1994. –
+85-б.
+
+                               179
+
+PDF 196
+           “O‘ZBEK TILINING IZOHLI LUG‘ATI”NI YANADA
+                     BOYITISH YO‘LIDAN
+
+
+                                        Tojiboyev Botir Raximjonovich,
+                                           ToshDO‘TAU dotsenti, PhD
+                                            botirtajiboyev19@gmail.com
+
+   Annotatsiya. Ushbu maqolada Namangan viloyati Chortoq tumani Pesh­
+qo‘rg‘on qishlog‘ida ko‘p davrlardan beri faol qo‘llanishda bo‘lgan, ammo
+“O‘zbek tilining izohli lug‘ati”ga kiritilmagan so‘zlar haqida gap boradi. Ushbu
+shevada keng qo‘llanuvchi so‘zlarning izohli lug‘atga kiritish zarurligi amaliy
+jihatdan tahlil qilingan.
+   Kalit so‘zlar: o‘ngar, tiriz, tirja, cho‘g‘aloq, olvali, so‘ta, olcha, olxo‘ri, sheva,
+lahja, qipchoq, singarmonizm.
+   Annotation. The words which are used actively in Chartak District from
+Namangan region in the Peshkorgon village of many times, but a word about
+the words that are not included in the Uzbek language dictionary conducted in
+this article. In this dialect, the words widely used in practice is practically ana­
+lyzed the need for an explanatory dictionary.
+   Keywords: kipchak, singormonism, o‘ngar, tiriz, tirja, cho‘g‘aloq, olvali,
+so‘ta, olcha, olxo‘ri, sheva, lahja,
+
+   Sanoat va fan­-texnika taraqqiyoti ta’sirida o‘zbek tiliga zavod, fabrika,
+traktor, mashina, poyezd, avtomat, metro, kompyuter, telefon kabi yuzlab,
+hatto minglab so‘zlar o‘zlashdi.
+  Ona tilimizda muqobili yo‘q bu so‘zlarni ma’naviy boyligimiz sifati­
+da qadr­laymiz va ularning barcha turdagi lug‘atlardan o‘rin olishi tabiiy
+hol. Shu tariqa o‘zbek tilining lug‘at boyligi ko‘payib boradi va har birimiz
+bu voqelikka emin­-erkin munosabatda bo‘lishimiz darkor. Afsuski, maz­
+kur ijobiy rivojlanish bilan bir qatorda sho‘ro tuzumi davrida ona tilim­
+iz taraqqiyotida ayrim muammolar yuzaga keldi. Jumladan, ona tilimiz­
+da viloyat, tuman, zaxira, guruh, kotib, hakam, haydovchi, shifokor, reja,
+hisobchi, iqtisodchi, shartnoma, buyurtma, usta, murabbiy kabi so‘zlar
+bo‘lgani holda majburiy ravishda oblast, rayon, zapas, gruppa, sekretar,
+sudya, shofyor, vrach, plan, buxgalter, ekonomist, dogovor, zakaz, mas­
+ter, trener kabi ruscha-­baynalmilal so‘zlardan foydalanishga odatlandik
+[5.124]. Sho‘ro tuzumi davrida chop etilgan ikki jildlik “O‘zbek tilining
+izohli lug‘ati” 2006-yilda besh jildlik ko‘rinishda bosmadan chiqdi. Albatta,
+bundan barchamizning boshimiz ko‘kka yetdi. Ona tilimizga e’tibor tufay­
+li “O‘zbek tilining izohli lug‘ati” orzumizdagi kabi nashr etildi. O‘shandan
+
+                               196
+
+PDF 197
+buyon bu noyob nashr ko‘pchilikning stoli ustida turadi. Ayniqsa, o‘qituv­
+chi va o‘quvchilar undan ko‘p foydalanadi.
+  Ammo shunday bo‘lsa-da, oradan 16 yil vaqt o‘tib ushbu lug‘atni ham qay­
+ta ishlab to‘ldirish kerak degan fikrlar o‘rtaga tusha boshladi. Biz bu holat­
+ni ham tabiiy qabul qilamiz. Chunki, barchamizga ma’lumki, jamiyatdagi har
+qan­day o‘zgarish birinchi navbatda o‘zbek tili lug‘at tarkibida o‘z aksini topa­
+di. Shunday ekan, lug‘atlar ham zamon bilan, jamiyat bilan qadam-baqadam
+yurmog‘i lozim.
+   Bilamizki, lug‘atlar ichki va tashqi manbalar hisobiga boyib boradi. Fikri­
+mizcha, qaysidir narsa-predmetni yoki voqea-hodisani ifodalash uchun yangi
+so‘zga ehtiyoj tug‘ilsa, shevalarimizga ko‘proq tayanilsa, maqsadga muvofiq
+bo‘ladi. Bordi-yu shevalarimizda bunday imkoniyat bo‘lmasa, tashqi manba­
+ga, ya’ni chet tillaridan so‘z o‘zlashtirishga majbur bo‘lamiz. Ayrim paytlarda
+shevalarda shu tushunchani ifodalovchi so‘z bo‘la turib chetdan so‘z o‘zlash­
+tirish yoki bir necha narsa-predmetni, boshqa-boshqa voqea-hodisalarni
+bir so‘z bilan atash holatlariga ham duch kelmoqdamiz. Masalan, Naman­
+gan viloyati Chortoq tumanining Peshqo‘rg‘on qish­log‘ida pishgan mevasi
+qizil­-qora rangda bo‘ladigan daraxtni olvali deb atashadi [4.114]. Olvalining
+yonida pishgan mevasi sariq­-qizg‘ish tusli olcha daraxti ham o‘sadi. Ko‘plab
+hamqishloqlarimiz hovlisida olvali va olcha bilan birga pishgan mevasi qizil
+rangli va kattaligi yong‘oqdek­-yong‘oqdek keladigan olxo‘ri daraxti ham bor.
+Boshqacha aytganda olvali – olcha va olxo‘ridan mutlaqo farqlanuvchi daraxt.
+“O‘zbek tilining izohli lug‘ati”da esa “olvali”ning ma’nosi “olcha yoki olxo‘ri”
+deb ko‘rsatilgan. O‘zi “olvali”. U qanday qilib yana “olcha” yoki “olxo‘ri” bo‘lib
+qoladi? “O‘zbek tilining izohli lug‘ati”ga kirmay qolgan, kirgan bo‘lsa ham no­
+to‘g‘ri izoh berilgan so‘zlar qatorini yana davom ettirish mumkin. Masalan,
+makkajo‘xorining donli va donsiz ko‘rinishiga bir xil, ya’ni “so‘ta” deb izoh
+beriladi4. Qanday qilib ikki xil predmetni bir so‘z bilan ifodalanishi mumkin?
+Donsiz holatdagi o‘zakni ifodalovchi so‘z o‘zbek tilida yo‘qmi?
+   Bor! Topsa bo‘ladi! Faqat buning uchun mashaqqat chekish, izlanish lozim.
+Bizning qishloqda5 so‘taning donsiz o‘zagi “cho‘g‘oloq” deyiladi. Balki boshqa
+shevalarda bu so‘zning yana muqobili bordir.
+  Nima bo‘lganda ham so‘taning donsiz o‘zagini ifodalovchi so‘z “O‘zbek ti­
+lining izohli lug‘ati”dan o‘rin olgani ma’qul.
+  Bu “cho‘g‘oloq” bo‘ladimi yoki boshqa so‘z lug‘atchilarning ixtiyorida.
+   Ko‘pchilik izohli lug‘atda shevaga xos so‘zlar berilmaydi, degan muloha­
+zada yuradi. Aslida esa bunday emas. “O‘zbek tilining izohli lug‘ati”da ham
+ma’nosi izohlangan shevaga xos so‘zlar uchraydi.
+
+
+     4 O‘zbek tilining izohli lug‘ati. 2006-yilgi nashri.
+     5 Namangan viloyati Chortoq tumani Peshqo‘rg‘on qishlog‘ida.
+
+                               197
+
+PDF 198
+   Masalan, “zak” (zax), “zambur” (qovoq­ari). Bizningcha, “zak”ning shevaga
+xos so‘z sifatida berilishi biroz bahsli. Chunki bu so‘z shunchaki “zax” so‘zining
+buzilgan shakli. Xalqimiz nutqida “zambur” so‘zi ham u qadar ommalashma­
+gan. “O‘zbek tilining izohli lug‘ati” adabiy so‘zligimizga asoslangan ekan, bu
+kabi shevaga xos so‘zlarning unga kiritilishi foydalanuvchilar orasida bahs­
+munozara uyg‘otib, ikkilanishlarga sabab bo‘lishi mumkin. Lug‘atga kiritili­
+shi shart bo‘lmagan shevaga xos so‘zlar o‘rniga xalq nutqi va adabiy asarlarda
+uchraydigan boshqa so‘z namunalariga o‘rin ajratilishi maqsadga muvofiq.
+   Endi yana boshqa bir so‘zga e’tiboringizni qaratmoqchimiz. Barchamiz
+Turdi Farog‘iyning “Tor ko‘ngillik beklar” deb boshlanuvchi g‘azalini yaxshi
+bilamiz. G‘azaldagi “Bir yaqodin bosh chiqorib, barcha bir to‘ng‘a kirib, Bir
+o‘ngurlik, bir tirizlik, bir yaqo­ yenglik qiling” baytida ishlatilgan “o‘ngurlik”
+so‘zi bir paytlar olimlar o‘rtasida bahs­-munozaraga sabab bo‘lgani ko‘pchilik­
+ning yodida bo‘lsa kerak. O‘shanda baytdagi “o‘ngur” so‘ziga 10­-sinf “O‘zbek
+adabiyoti” majmuasida “chuqurlik” deb izoh berilgandi. Holbuki, bu so‘z cho­
+ponning bir qismi ekani ko‘pchilikka ma’lum. Keyinchalik 7-­sinf “Adabiyot”
+darsligida “o‘ngur” (choponning etak qismi) va “tiriz” (choponning yelka qis­
+mi) so‘zlari o‘quvchiga tushunarli tarzda izohlandi. Qarangki, “O‘zbek tilining
+izohli lug‘ati”ga aynan mana shu so‘zlar kiritilmagan. Vaholanki, bu so‘zlar­
+ning lug‘atdan o‘rin olishiga ehtiyoj bor. Hozir ham Chortoq tumanining
+­Peshqo‘rg‘on qishlog‘i ahli choponning etak qismini “o‘ngar” shaklida ishlata­
+di [4.52]. Mazkur qishloq aholisi, shuningdek, paykalga suv tarashda ishlatil­
+adigan o‘qariqning egatlarga suv taqsimlovchi qismi, ya’ni kichik ariqni “tirja”
+deb ataydi. Biz bunday atamani “O‘zbek tilining izohli lug‘ati”da uchratmadik.
+   Ko‘rinib turibdiki, “O‘zbek tilining izohli lug‘ati” shevalarda mavjud bo‘lib,
+adabiy tilda muqobili bo‘lmagan so‘zlar bilan to‘ldirilishi kerak. “O‘zbek tili­
+ning izohli lug‘ati”ning yangi nashriga qadar6 ushbu lug‘at imkon qadar mu­
+kammallashtirilishi kerak. Shu jarayonda bir qator so‘zlar lug‘atdan o‘rin olish
+bilan bir vaqtda ko‘plab so‘zlar chiqib ketishi ham mumkin. Bu jarayonga jid­
+diy e’tibor qaratish lozim. “O‘zbek tilining izohli lug‘ati”dagi so‘zlar miqdori
+sakson mingdan kamayib ketmaydi aslo. Ta’kidlaganimizdek, o‘zbek tili she­
+valarida izohli lug‘atdan o‘rin olishi lozim bo‘lgan so‘zlar juda ko‘p. Ularni to­
+pish va joy-joyiga qo‘yish – har bir tilshunos, filolog va ziyolining asosiy bur­
+chidir!
+   Xulosa o‘rnida shuni aytish mumkinki, lug‘at ishi chinakam zahmat! Shu
+ma’noda, lug‘at mualliflari mehnatini qadrlamaslik fikridan mutlaqo yiroqmiz.
+Yana bir bor ta’kidlaymiz: izohli lug‘at nashri uchun katta mehnat sarflangan.
+Buni inkor etmagan holda lug‘atning yangi nashrini tayyorlashda oddiy ish­
+chi aholidan tortib barcha fan fidoyilarigacha bo‘lgan keng ommaning fikri­
+
+
+   6 “O‘zbek tilining izohli lug‘ati” lotin yozuvida qayta nashrga tayyorlanmoqda.
+
+                               198
+
+PDF 199
+ga ­quloq solib ko‘rilsa, biz orzu qilgan mukammal lug‘at yaraladi. Yana bir
+fikr, shiddat bilan rivojlanib borayotgan bugungi globallashuv davrida izohli
+lug‘atni doimo to‘ldirib borish imkonini beruvchi elektron shaklni yaratish­
+ning o‘zi ham kifoya qiladi.
+
+
+  FOYDALANILGAN ADABIYOTLAR
+
+    1. Ashirboyev S. O‘zbek dialektologiyasi. – Toshkent: Nodirabegim, 2021. –
+113–114-betlar.
+    2. Алиев А.Ю. Уйчинский говор узбекского языка. Автореф. дис.
+...канд. филол. наук. – Ташкент, 1960. – C. 24.
+    3. Алиев А.Ю. Наманганская группа говоров узбекского языка: Авто­
+реф. дисс. ...докт. фил. наук. – Ташкент, 1975. – C. 52.
+    4. Aliyev A.Y. Namangan dialekti haqida. O‘zbek tili va adabiyoti masalalari. –
+Toshkent: Fan. 1967. – 37–45-betlar.
+    5. Атамирзаева С. Звуковой состав Наманганского говора узбекского
+языка: Автореф. дис. ... канд. фил. наук. – Л., 1963. – C. 19.
+    6. Атамирзаева С. Экспериментально-фонетическое исследование
+наманганского говора узбекского языка. – Ташкент, 1974. – C. 195.
+    7. Боровков А.К. К характеристике узбекских “умляутных” или “уйгу­
+ризованных” говоров // Белек – Малову. – Фрунзе, 1946. – С. 29–31.
+    8. Ўзбек диалектологиясидан материаллар. – Тошкент, 1963.
+
+
+
+
+
+                               199
+
+PDF 211
+  Bodom (ft.) – o‘simlik nomidan shakllangan nom, ya’ni fitoantroponim,
+bodom gullaganda tug‘ilgan bola yoki bodom kabi mustahkam, mahkam.
+  Bodomgul (ft.) – bodom gulidek go‘zal, zebo qiz yoki bodom gullaganda
+tug‘ilgan qiz.
+  Bodomcha (ft.-o‘z.) – bodom ismli jajji, kenja qiz. Qar. Bodom.
+  Bodomqul (ft.-o‘z.) – qar. Bodom (Bodom+qul) (Ma’rufov, 1981: 65).
+  Bu shakllarning turlicha ko‘rinishda ekanligi ham tasavvurning mah­
+suli. Ayniqsa, folklor dialektologiyasiga oid bunday dialektal so‘zlar o‘zbek,
+fors-tojik, arab singari xalqlarga tegishli bo‘lsa-da, har biri turli tasavvurning
+ifodasi sifatida antoponimik madaniyatni shakllantirgan, deyish mumkin. “Bu
+ismlarning diqqatni o‘ziga jalb qiluvchi tomoni shundaki, ularning ko‘pchiligi­
+da shu ismlarning qo‘yilish tarixining ma’lum izi saqlanib qolgan” (Doniyorov,
+1979: 98-101).
+   Eposda qo‘llanilgan erkak va ayollar ismini bildiruvchi dialektal so‘zlar
+mazmun-mohiyati xalq tasavvuridagi qadriyatlarga borib taqaladi. “Demak,
+ismlar ma’nosi deganda etnografik ma’no tushuniladi” (Begmatov, 2007: 4).
+   Ismlarning yana bir shevaviylik xususiyati shundaki, bu ismlar xalq to­
+monidan qo‘yilganligi uchun dialektal ma’no kasb etgan. “Chunonchi, ism
+qo‘yish ham o‘ziga xos urf bo‘lib, ismlarda har bir narsaning, voqea-hodisa­
+ning asosiy jihatlari o‘z aksini topadi” (To‘ychiboyev, 2001: 24).
+   Bizningcha, dialektizmning turi sifatida dostondagi erkak va ayollar is­
+mini anglatuvchi dialektal so‘zlar xususiyatlarini inobatga olib, ularni folklor
+asarlar dialektal lug‘atiga kiritish har jihatdan o‘rinli bo‘ladi. Shuningdek, shu
+doston leksikasidan antroponimik lug‘atni tayyorlash mumkin. Chunki dos­
+ton leksikasidagi erkak va ayollar ismini anglatuvchi dialektal so‘zlar o‘zbek
+antroponimikasi dialektal leksikonini tashkil qilib, dialektal onomastikaga
+oid qarashlarni oydinlashtirish hamda antroponimik madaniylashish masala­
+si haqida xulosa qilish imkoniyatini kengaytiradi.
+
+  FOYDALANILGAN ADABIYOTLAR
+
+    1. Ashurov D. “Аlpomish” dostonidagi ayrim antroponimlarning lingvokul­
+turologik xususiyatlari. Onomastik birliklarning sotsiolingvistik, etnolingvis­
+tik, lingvopoetik, lingvokulturologik tadqiqi masalalari mavzusidagi xalq­
+aro ilmiy-amaliy konferensiya materiallari. – Namangan. 2020. 15–16-aprel.
+279-b.
+    2. Begmatov E. O‘zbek ismlari ma’nosi. – Toshkent: O‘zbekiston Milliy en­
+siklopediyasi, 2007. – 551-b.
+    3. Begmatov E. O‘zbek tili antroponimikasi. – Toshkent: Fan, 2013. – 8-b.
+    4. Doniyorov X. Qipchoq dialektlarining leksikasi. – Toshkent: Fan, 1979. –
+98–101-betlar.
+
+                                211
+
+PDF 212
+    5. Enazarov T., Abdullayev X. Dialektologik amaliyot so‘roqligi. – Toshkent:
+Adabiyot uchqunlari, 2018.
+    6. Eshqobil Shukur Bobo so‘z izidan. –Toshkent: Mashhur-press, 2018.
+    7. Fozil Yo‘ldosh o‘g‘li. “Alpomish” dostoni. – Toshkent: Sharq, 2010.
+    8. Mirziyoyev Sh. Milliy taraqqiyot yo‘limizni qat’iyat bilan davom ettirib,
+yangi bosqichga ko‘taramiz. I jild. – Тоshkent: O‘zbekiston, 2017.
+    9. O‘zbek tilining izohli lug‘ati. Ma’rufov Z. tahriri ostida. II jild. –Moskva,
+1981.
+   10. Poyonov A. “Alpomish” dostoni. – Toshkent: Akademnashr, 2018.
+   11. Rahimov S. O‘zbek tili Surxondaryo shevalari. – Toshkent, 1985.
+   12. To‘ychiboyev B. “Alpomish” va xalq tili. –Toshkent, 2001. – 26-b.
+   13. Yunusova B. “Аlpomish” dostoni onomastik birliklarining leksik-se­
+mantik uslubiy tadqiqi. Filologiya fanlari bo‘yicha falsafa doktori (PhD) dis­
+sertatsiyasi avtoreferati. – Namangan, 2021. – 18-b.
+
+
+
+
+
+                               212
+
+PDF 213
+                      MUNDARIJA
+
+Sirojiddinov Sh. O‘zbek shevalarini o‘rganish yangi bosqichda ..........................3
+
+                      1-qism. Ilmiy izlanishlar
+1-shu’ba. O‘ZBEK ADABIY TILI VA SHEVA MUNOSABATLARI
+Ashirboyev S. O‘zbek shevalarini o‘rganishning to‘ng‘ich kaliti ..........................6
+Azimov I. Jadidlarning shevalarga munosabati .......................................................14
+Abdiyev M., Rahmonov S. Samarqand oʻg‘uzlari nutqidagi soʻz
+hosil boʻlishining ayrim xususiyatlariga doir ............................................................20
+Xolmanova Z. Shevalardagi lakunar birliklar – til boyligini
+ko‘rsatuvchi manba ..............................................................................................................24
+Enazarov T.D. O‘zbek xalq shevalarining dialektal leksikasi va
+leksikografiyasiga doir ........................................................................................................29
+Darvishov I. O‘zbek tilshunosligida Namangan shevalarining
+o‘rganilishi ................................................................................................................................37
+Ahmedova N.Sh. Xorazm shevasidagi dialektal sememalar tahlili ..................41
+Hasanov A.M. O‘zbek shevalarining adabiy til leksikasidagi
+bo‘shliqlarni to‘ldirish imkoniyatlari ............................................................................45
+Xolova M.A. Boysun tumani shevasida fonetik dialektizmlar ............................54
+Alimardonov E.I. Xorazm dialektal zonasining turkman tilli
+areallarida qaratqich kelishigining qoʻllanilishi
+(Qo‘shko‘pir tumani misolida) .........................................................................................62
+Turdialiyev A. Denov shevasining tasniflardagi oʻrni ...........................................65
+Alimbekova V.X. Dardoq shevasida unlilarning cho‘ziq
+talaffuz qilinishi .....................................................................................................................73
+
+2-shu’ba. SHEVALARNING STRUKTURA XUSUSIYATLARI
+Ibragimov Y.M., Musayeva E. Shevalar leksikasining taraqqiy
+etishida kasb-hunar terminlarining o‘rni ...................................................................77
+Suvonova R.A. Qipchoq shevalarida harakat fe’llari ..............................................81
+Raxmonov N.S. O‘zbek shevalarida so‘z yasalishi
+(Navoiy viloyati shevalari misolida) .............................................................................83
+Xidraliyeva Z. Iqon shevasida olmoshlar xususida ...............................................91
+Usmonov M.M. Mingbuloq shevasining o‘ziga xos
+leksik xususiyatlari ...............................................................................................................95
+Сайфуллаев Б.Н. Жоғары Шыршық қазақ говорларының
+фонетикалық ерекшеліктері ....................................................................................101
+
+
+                               213

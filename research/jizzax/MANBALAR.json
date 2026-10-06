@@ -1,0 +1,198 @@
+{
+  "uploaded_sources": [
+    {
+      "id": "J1",
+      "pdf_path": "/workspace/attachments/539e371a-a478-4fe8-85b1-6cd8cc728c6f/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "pages": 216,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+      "characters": 535508,
+      "title": "O‘zbek shevalari tadqiqotlari: amaliyot, metodologiya va yangicha yondashuv",
+      "editor": "Sh. Sirojiddinov",
+      "year": 2022,
+      "publisher": "Donishmand ziyosi, Toshkent",
+      "kind": "2022-yil 21-maydagi II respublika ilmiy-nazariy konferensiyasi materiallari",
+      "duplicate_of": [
+        "samarqand/M4"
+      ],
+      "read_pages_this_round": [
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        189,
+        190,
+        191,
+        192,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "articles": [
+        {
+          "id": "J1-A",
+          "title": "Forish tumani milliy xalq o‘yinlari leksikasiga doir",
+          "authors": [
+            "M. Abdiyev",
+            "R. Nabiyev"
+          ],
+          "pdf_pages": [
+            148,
+            149,
+            150,
+            151
+          ],
+          "read": "to‘liq",
+          "field_material_period": "2019–2021; maqola adabiyotlar ro‘yxatida ko‘rsatilgan"
+        },
+        {
+          "id": "J1-B",
+          "title": "«Devonu lug‘otit turk»da mavjud bo‘lib ayrim shevalarda qo‘llanilayotgan so‘zlar xususida",
+          "authors": [
+            "Nurmurod Chiniqulov"
+          ],
+          "pdf_pages": [
+            152,
+            153,
+            154,
+            155
+          ],
+          "read": "to‘liq; Jizzax uchun faqat aniq Forish belgili birliklar olindi"
+        },
+        {
+          "id": "J1-C",
+          "title": "Dialektal leksikada sinonimiya",
+          "authors": [
+            "Feruza Toraxanovna Musayeva"
+          ],
+          "pdf_pages": [
+            189,
+            190,
+            191,
+            192
+          ],
+          "read": "to‘liq; Zominning tirjiq so‘zi olinadi"
+        }
+      ],
+      "reading_limit": "Butun 216 sahifa so‘zma-so‘z o‘qilgan emas. Hududiy qidiruv va ko‘rsatilgan maqolalar asos bo‘ldi. Denov hamda Dardoq maqolalaridagi barcha misollar Jizzax materiali emas.",
+      "text_path": "/workspace/research/jizzax/J1.txt"
+    },
+    {
+      "id": "J2",
+      "pdf_path": "/workspace/attachments/7d784135-0923-4a4b-909d-f9e1e01b1434/5b015f0357f16.pdf",
+      "pages": 88,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+      "characters": 243842,
+      "title": "O‘zbek dialektologiyasi fanidan o‘quv-uslubiy majmua",
+      "author": "Sh. Xudoyqulova",
+      "year": 2008,
+      "publisher": "Guliston davlat universiteti",
+      "kind": "umumiy dialektologiya kursi",
+      "duplicate_of": [
+        "qashqadaryo/Q2",
+        "samarqand/M2"
+      ],
+      "read_pages_this_round": [
+        31,
+        34,
+        38,
+        46,
+        62
+      ],
+      "context_page": [
+        33
+      ],
+      "reading_limit": "Tasnif sahifalari o‘qildi; butun 88 sahifa qayta to‘liq o‘qilmadi. Testlardagi yulduzchalar mustaqil dalil emas. O‘quv topshiriqlari bajarish buyrug‘i sifatida olinmadi.",
+      "text_path": "/workspace/research/jizzax/J2.txt"
+    },
+    {
+      "id": "J3",
+      "pdf_path": "/workspace/attachments/8e783af4-fde7-4eb9-8f4e-1092a28e78cd/12755_1_5540C3A45A63EBDDF5434D8DBD1994103A09E3C4.pdf",
+      "pages": 96,
+      "sha256": "54f93934ced85c1d9090a37cf8cb02830f7ad7558321e02d523d6539badc7951",
+      "characters": 162194,
+      "title": "O‘zbek dialektologiyasi (to‘ldirilgan va qayta nashri)",
+      "author": "Yoqub Saidov",
+      "year": 2022,
+      "publisher": "Sadriddin Salim Buxoriy, Durdona, Buxoro",
+      "kind": "umumiy o‘quv qo‘llanma",
+      "read_pages_this_round": [
+        1,
+        2,
+        5,
+        54,
+        63,
+        84
+      ],
+      "reading_limit": "PDF 96 sahifali, 2-sahifada bibliografik hajm 74 b. deb yozilgan. Bu farq bartaraf etilmagan; havolalar PDF tartib raqamida. Butun kitob o‘qilgan emas.",
+      "text_path": "/workspace/research/jizzax/J3.txt"
+    },
+    {
+      "id": "J4",
+      "pdf_path": "/workspace/attachments/15e89214-f33a-46bd-9405-78ff9996711c/zomin-tumani-j-lovchi-shevasida-uchraydigan-ayrim-iboralar-tahlili.pdf",
+      "pages": 4,
+      "sha256": "29ffb7d662379acfa023c7701fa55ff6d057b7eb8de6c391e92346e009ab09dc",
+      "characters": 10406,
+      "title": "Zomin tumani «j»lovchi shevasida uchraydigan ayrim iboralar tahlili",
+      "author": "Mahmudjon Abdurahmanov",
+      "year": 2021,
+      "publisher": "Scientific Progress, 2(8), 887–890",
+      "issn": "2181-1601",
+      "kind": "Zomin iboralari haqidagi maqola",
+      "read_pages_this_round": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reading_limit": "To‘liq o‘qildi. Har ibora uchun aniq qishloq, suhbatdosh va audio yozuv berilmagan; faqat Zominga xosligi mustaqil isbotlanmagan.",
+      "text_path": "/workspace/research/jizzax/J4.txt"
+    }
+  ],
+  "supplementary_sources": [
+    {
+      "id": "E1",
+      "title": "O‘zbek xalq shevalari lug‘ati",
+      "editor": "Sh. Sh. Shoabdurahmonov",
+      "year": 1971,
+      "publisher": "Fan, Toshkent",
+      "pages": 410,
+      "pdf_path": "/workspace/attachments/a3a82354-817b-48d5-9018-fa152b5a9f3f/Ўзбек халқ шевалари луғати.pdf",
+      "text_path": "/workspace/research/qashqadaryo/Q4.txt",
+      "sha256": "647b3c71480c78099dac407887e41825828126c02858d7e9b4ed672ff3b07f3c",
+      "kind": "oldin foydalanuvchi yuborgan qo‘shimcha manba; yangi to‘rtta PDFdan biri emas",
+      "checked_entries_pdf_pages": [
+        13,
+        22,
+        34,
+        49,
+        53,
+        56,
+        69,
+        74,
+        91,
+        94,
+        195,
+        207,
+        220,
+        244,
+        258,
+        272
+      ],
+      "visual_checked_pages_this_round": [
+        53,
+        195,
+        272
+      ],
+      "reading_limit": "Tanlangan hududiy lug‘aviy maqolalar tekshirildi, 410 sahifa to‘liq qayta o‘qilmadi. Tarixiy ma’muriy hududlar bugungi chegaralar bilan aynan teng emas."
+    }
+  ],
+  "read_claim": "Matnni ajratish va qidirish to‘liq o‘qish degani emas.",
+  "transcription_policy": "Manba yozuvi dalil parchasida saqlanadi. Latincha ko‘rsatish shakllari soddalashtirilgan; ular IPA yoki tekshirilgan audio transkripsiya emas."
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "topic": "Qarindoshlik",
+    "finding": "Farg‘ona materiallarida buvi=ona misollari bor; Namangan shahar acha=buvi, aba=ona; Mingbuloq opa=ona. Bir hudud lug‘ati boshqasiga ko‘chirilmaydi.",
+    "current_refs": [
+      {
+        "source": "N6",
+        "pdf_page": 3,
+        "printed_page": 103,
+        "anchor_extracted": "acha",
+        "evidence_extracted": "| ISSN: 2181-4163 | Impact Factor: 8.2\namakining ayolini esa \"katta aba\", \"buvi\" so'zini \"acha\", \"ona\"ni esa \"aba\" singari\nqo'llanadi.\n    Bundan  tashqari  shahar  shevasida  dissmilatsiya,  ya'ni  so'z  tarkibidagi\nundoshlarning boshqa tovush ta'sirisiz tovush variantiga ega bo'lishi ham kuzatiladi:\n      • Tuproq~turpoq;\n     •To'rg'amoq~to'rg'amoq singari.\n    Xulosa: Demak, Namangan shahar shevasining nafaqat adabiy",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      },
+      {
+        "source": "N1",
+        "pdf_page": 98,
+        "printed_page": 98,
+        "anchor_extracted": "Opa",
+        "evidence_extracted": "ib qoldi. Izohli lug‘atda Toyloq – kichki­\nna toy, toycha [3:134] ma’nosini anglatadi.\n   Opa [ăpä] – onaga nisbatan ishlatiladi. Opa – bir ota-onadan tug‘ilgan far­\nzandlar ichida o‘zidan kichiklariga nisbatan katta qiz [3:128].\n   Ariq [ariq] – ekin ekish uchun tuproqni ikki yonidan uzun qilib uyib chiqil­\ngan joyga nisbatan aytiladi. Izohli lug‘atda ariq so‘zi boshqa ma’no anglatadi.\nAriq – sun’iy ravishda hosil qili",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "previous_file": "../fargona/LUGAT.json"
+  },
+  {
+    "topic": "Idish va meva",
+    "finding": "Mingbuloq lagan ikki hududda chuqur/sayoz; Peshqo‘rg‘on olvali olcha/olxo‘ridan ajratilgan. “Viloyat lug‘ati” bitta ma’noga qisqartirilmaydi.",
+    "current_refs": [
+      {
+        "source": "N1",
+        "pdf_page": 97,
+        "printed_page": 97,
+        "anchor_extracted": "Lagan",
+        "evidence_extracted": "t tomoni yoki ikki yoni va old tomoni ochiq, usti yengilgina\nyopilgan qurilma [1:325].\n   Lagan [lägän] – Mingbuloq shevasining qipchoqlar yashaydigan hududla­\nrida ichi chuqur idishga nisbatan qo‘llanilgan bo‘lsa, Mingbuloq tumanining\n\n                                97",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      },
+      {
+        "source": "N1",
+        "pdf_page": 197,
+        "printed_page": 197,
+        "anchor_extracted": "mutlaqo farqlanuvchi",
+        "evidence_extracted": "‘oqdek keladigan olxo‘ri daraxti ham bor.\nBoshqacha aytganda olvali – olcha va olxo‘ridan mutlaqo farqlanuvchi daraxt.\n“O‘zbek tilining izohli lug‘ati”da esa “olvali”ning ma’nosi “olcha yoki olxo‘ri”\ndeb ko‘rsatilgan. O‘zi “olvali”. U qanday qilib yana “olcha” yoki “olxo‘ri” bo‘lib\nqoladi? “O‘zbek tilining izohli lug‘ati”ga kirmay qolgan, kirgan bo‘lsa ham no­\nto‘g‘ri izoh berilgan so‘zlar qatorini yana davom ettirish mumkin. Masalan,\nm",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ]
+  },
+  {
+    "topic": "Davom zamoni",
+    "finding": "Farg‘ona Oltiariq/Uchko‘prik misollaridan Namangan -ut farq qiladi; N3 faqat shahar va Uychi/Chortoq ayrim joylarini ko‘rsatadi.",
+    "current_refs": [
+      {
+        "source": "N3",
+        "pdf_page": 6,
+        "printed_page": 1145,
+        "anchor_extracted": "faqatgina Namangan shahar",
+        "evidence_extracted": " borműtt(ȉ)la:, čıqműtt(ȉ)la:\n    Yuqorida keltirib o‘tilgan shevaga oid bo‘lgan misollar faqatgina Namangan shahar hamda\nUychi hamda Chortog‘ tumanining bazi hududlari yashovchi aholi  so‘zlashadigan  tillari\nyuzasidan olingan bo‘lib, Namangan viloyatining boshqa tuman va qishloqlari hududida\nyashovchi  aholi  misolda  keltirilgandagi  kabi shevada bu  so‘zlardan  foydalanishmaydi.\nShuningdek, olim  I. Darveshov  o‘zining “Areal tilshunosli",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "previous_file": "../fargona/GRAMMATIKA.json"
+  },
+  {
+    "topic": "Umumiy vodiy leksikasi",
+    "finding": "Shoti=narvon Namangan, Norin, Uychi va oldingi Farg‘ona manbalarida ham bor; bu eksklyuziv viloyat belgisi emas.",
+    "current_refs": [
+      {
+        "source": "N6",
+        "pdf_page": 2,
+        "printed_page": 102,
+        "anchor_extracted": "Shoti",
+        "evidence_extracted": "yasalgan. Chuvalchang\nso'zi shahar shevasida \"löxra(k) tarzida talaffuz qilinadi.\n     3. Shoti (šötï)\n    Namangan shahar shevasida \"narvon\"  so'zi  \"šötï\"  tarzida  ataladi. Bu  so'z\nNamangan tumanlaridagi ayrim viloyatlarda ham xuddi shunday nomlanadi(masalan,\nNorin va Uychi  shevalarida). Narvon  so'zi  asli  tojikcha  \"shoxcha\"  ma'nosini\nanglatadigan nard otiga \"bog'la\" ma'nosini anglatadigan bastam fe'lining band h",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ],
+    "previous_file": "../fargona/LUGAT.json"
+  },
+  {
+    "topic": "Umlaut",
+    "finding": "Namangan tipidagi umlaut affiks ta’siriga bog‘liq. Surxondaryo/Qashqadaryo/Jizzax qipchoq shakllari bilan bitta tovush almashtirish tizimiga keltirilmaydi.",
+    "current_refs": [
+      {
+        "source": "N2",
+        "pdf_page": 23,
+        "printed_page": 22,
+        "anchor_extracted": "affiksdagi",
+        "evidence_extracted": "at fanda unlilaming regressiv assimilatsiyasi deb\nham yuritiladi.\n\n    Bu qonunga ko‘ra,  affiksdagi  old qator unli asosdagi  (u aksariyat\n\nhollarda   bir  bo‘g‘inli   bo‘ladi)  orqa  qator  unlini  o‘z  xarakteriga\nmoslashtirib oladi: son ~ сон ~ san ->sana ~ сэнэ ~ sana, yosh ~ йош ~\njas —►jasha ~ йэшэ ~ jasa.\n    Bu qonun Namangan, 0 ‘sh shevalarida, qisman o‘zbek adabiy tilida\nham qayd qilinadi. Namangan shevalaridan miso",
+        "extraction": "PDF matn qatlami",
+        "visual_checked": false,
+        "visual_transcription": null
+      }
+    ]
+  },
+  {
+    "topic": "Umumiy kitoblar",
+    "finding": "N1, N2 va N8ning oldingi yuborilgan aynan nusxalari SHA-256 bilan ajratildi. Bir manbaning ko‘p marta yuborilishi mustaqil tasdiq sanalmaydi.",
+    "current_refs": []
+  }
+]

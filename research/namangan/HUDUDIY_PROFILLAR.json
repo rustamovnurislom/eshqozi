@@ -1,0 +1,89 @@
+[
+  {
+    "id": "namangan_shahar",
+    "name": "Namangan shahar",
+    "evidence": [
+      "N2 PDF26,86,92–94",
+      "N3 PDF5–7",
+      "N6 PDF2–3"
+    ],
+    "traits": [
+      "-ut davom zamoni",
+      "umlautning shartli ko‘rinishlari",
+      "emfatik cho‘ziqlik",
+      "opodda/acha/aba; shoti"
+    ],
+    "scope": "Shahar nomi ostidagi dalil mahalla va barcha yosh guruhiga avtomatik umumlashtirilmaydi."
+  },
+  {
+    "id": "navkent",
+    "name": "Yangiqo‘rg‘on / Navkent",
+    "evidence": [
+      "N4 PDF1–2"
+    ],
+    "traits": [
+      "127 jadval juftligi",
+      "yo‘nalish va savol ifodalari",
+      "kättä dedä=tog‘a; üka=singil"
+    ],
+    "scope": "Bir qishloq; butun Yangiqo‘rg‘on yoki shahar bilan teng emas."
+  },
+  {
+    "id": "uychi",
+    "name": "Uychi",
+    "evidence": [
+      "N7 PDF4–6",
+      "N8 PDF16,83",
+      "N3 PDF6"
+    ],
+    "traits": [
+      "mikro-shevalar",
+      "oka/o‘g‘ul/yomir/mashna",
+      "gindjelek; -vat va ayrim -ut manba farqi"
+    ],
+    "scope": "Qishloq va zamon bo‘yicha variantlar aniqlanmaguncha bitta qat’iy paradigma berilmaydi."
+  },
+  {
+    "id": "peshqorgon",
+    "name": "Chortoq / Peshqo‘rg‘on",
+    "evidence": [
+      "N1 PDF196–199"
+    ],
+    "traits": [
+      "olvali/olcha/olxo‘ri farqi",
+      "cho‘g‘oloq",
+      "o‘ngar",
+      "tirja"
+    ],
+    "scope": "Chortoqning barcha hududi qarluq yoki -ut degan taxmin qilinmaydi."
+  },
+  {
+    "id": "mingbuloq_y_j",
+    "name": "Mingbuloqning y/j-lovchi hamda aralash hududlari",
+    "evidence": [
+      "N1 PDF95–100",
+      "N3 PDF6–7 ikkilamchi iqtibos"
+    ],
+    "traits": [
+      "qishloq kesimidagi leksik farqlar",
+      "bărmăvüč/bărmiydigän",
+      "lagan chuqur/sayoz",
+      "ariq=pushta"
+    ],
+    "scope": "Qishloq taqsimoti har so‘z uchun alohida; j-lovchi deb berilgan hududda barcha y ni j ga aylantirish yo‘q."
+  },
+  {
+    "id": "chust_and_uncovered",
+    "name": "Chust, Shahand va kam yoritilgan boshqa areallar",
+    "evidence": [
+      "N1 PDF38–40",
+      "N2 PDF87"
+    ],
+    "traits": [
+      "Chust ayrim tasnifda Samarqand–Buxoro guruhida",
+      "Qilich/Uzun tarixiy tadqiqoti ikkilamchi eslatilgan",
+      "Shahand tasnifi munozarasi"
+    ],
+    "scope": "Mavjud parchalar to‘liq zamonaviy Chust/Shahand nutq profili yaratish uchun yetmaydi."
+  }
+]

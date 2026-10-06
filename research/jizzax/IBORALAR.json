@@ -1,0 +1,192 @@
+[
+  {
+    "id": "JI01",
+    "display_form": "Arqag‘a qarab kuvshegen",
+    "variants": [],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "Gapidan qaytaveradigan, so‘zida turmaydigan kishi haqida.",
+    "literal": "Orqaga qarab kavshagan.",
+    "senses": [],
+    "tone": "tanqidiy",
+    "usage_note": "Chorva haqidagi metafora; odamga nisbatan malomat ohangi bor.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "Arqag’a qarab kuvshegen",
+        "evidence_extracted": "Quyida o’shanday iboralarning bir nechtasini tahlil qilib ko’ramiz.\n   Arqag’a qarab kuvshegen – orqaga qarab kavshagan. Yuqorida aytib o’tganimizdek\nzominliklar  azaldan  chorvachilik  bilan  shug’ullanib  kelishgan.  Shuning  uchun\niboralarda chorva bilan bog’liq o’rinlar ham uchrab turadi. Masalan, yuqoridagi iborada\nqatnashgan “kavshanoq” so’zi mollarga xos bo’lgan xislatni o’zida ifoda etadi. Bunda\nso’z metafora usulida ma’no ko’chishiga uchragan. Ya’ni hayvondagi hislat insonga"
+      }
+    ]
+  },
+  {
+    "id": "JI02",
+    "display_form": "At basadi, shaqa jenchedi",
+    "variants": [],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "Asosiy ishni bajarmagan yordamchining ish to‘liq bitishidagi hissasini ta’kidlash.",
+    "literal": "Ot bosadi, shoxa yanchadi.",
+    "senses": [],
+    "tone": "yordamchining hissasini e’tirof etish",
+    "usage_note": "Xirmonda otga yanchilmagan donni panshaxa bilan surib turish manzarasi asos bo‘lgan.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“at basadi, shaqa jenchedi",
+        "evidence_extracted": "ham gapida turmaydimi?\n   Shunday iboralardan yana biri  “at basadi, shaqa jenchedi – ot bosadi, shoxa\nyanchadi”. Odatda, ot yordamida don yanchilganda atrofga sochilgan g’alla  poyasi ot\ntuyog’i ostiga beshlik shoxa bilan tashlab turiladi. Yanchilmagan donlar panshaxa bilan\not tuyog’i  tagini mo’ljallab tashlab turilmasa, xirmondagi g’alla chala yanchilishi\nmumkin. Asosiy ishni o’zi qilmasa ham, uning  to’liq  bajarilishiga sabab bo’lgan"
+      }
+    ]
+  },
+  {
+    "id": "JI03",
+    "display_form": "Baltasi tashqa tiydi",
+    "variants": [],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "Pand yeb, xafsalasi pir bo‘lishi va shashti qaytishi.",
+    "literal": "Boltasi toshga tegdi.",
+    "senses": [],
+    "tone": "afsus yoki tanqid; kontekstga bog‘liq",
+    "usage_note": "Kengroq o‘zbek nutqida ham uchrashi mumkin; faqat Zomin uchun ajratilgan ibora deb da’vo qilinmaydi.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“Baltasi tashqa",
+        "evidence_extracted": "yuzaga kelgan.\n   “Baltasi tashqa  tiydi-boltasi toshga  tegdi”. Bu  iborani  to’g’ri ma’noda  tahlil\nqiladigan bo’lsak, bolta tosh, metall va boshqa turli qattiq jismlarga tegishi, ya’ni zarb\nbilan  urilishi  natijasida  ma’lum  miqdorda  zarar  ko’rishi  bor  gap. Bu  uning\no’tmaslashishiga olib keladi. O’z navbatida bu ishning to’xtab qolishiga, sekinlashishiga\nolib kelishi mumkin. Bu iborani ko’chma ma’noda insonlarga nisbatan qo’llaganizda"
+      }
+    ]
+  },
+  {
+    "id": "JI04",
+    "display_form": "Jelka tomiri juvon",
+    "variants": [
+      "jelke tamiri juvan"
+    ],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "O‘jar, qaysar, bo‘yin egmaydigan kishi haqida.",
+    "literal": "Yelka tomiri yo‘g‘on.",
+    "senses": [],
+    "tone": "tanqidiy",
+    "usage_note": "Sarlavhadagi jelka/tomiri/juvon bilan gapdagi jelke/tamiri/juvan farqi saqlanadi; tana tavsifi emas.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“Jelka tomiri juvon",
+        "evidence_extracted": "zarar shunchalik katta bo’ladi.\n   “Jelka tomiri juvon- yelka tomiri yo’g’on”. Bu iborada qipchoq shevasi vakillarining\ndeyarli hammasiga tegishli bo’lgan “y” tovushining  “j” lashish hodisasi kuzatilgan\nso’zlar bir necha o’rinlarda mavjud.  Yuqorida zominliklar fe’lida qaysarlik, o’jarlik\nkabi xislatlar borligi haqida gapirgandik. Yuqoridagi ibora xuddi shunga ishora qiladi.\nShuningdek, bu sheva tilida “mo’yin adam” degan ibora ham birga ishlatilib kelinadi."
+      },
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Karimding jelke tamiri",
+        "evidence_extracted": "Shunday egilmaydigan o’jar, qaysar odamlarga nisbatan ishlatiladigan iboralar bular.\nKarimding jelke tamiri juvan-da, uriship qapti – Karimning yelka tomiri yo’g’on-da,\nurishib qolibdi.\n   Zominliklar azaldan  uloq-ko’pkari o’yinini boshqacha sevib ijro etishadi hamda\ntomosha  qilishadi. Bu  an’ana  haligacha davom  etib kelmoqda. Bunday  o’yinlar\nZomining turli hududlarida yil davomida bir necha marta o’tkazilib turiladi. Ko’pkarida"
+      }
+    ]
+  },
+  {
+    "id": "JI05",
+    "display_form": "Mo‘yin adam",
+    "variants": [],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "O‘jar, qaysar, bo‘yin egmaydigan odam.",
+    "literal": null,
+    "senses": [],
+    "tone": "tanqidiy",
+    "usage_note": "Ma’no qo‘shni izohdan anglashiladi. Mo‘yin so‘zini bo‘yin bilan aynan tenglashtirish yoki alohida lemma tarjimasi dalillanmagan.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 3,
+        "printed_page": 889,
+        "anchor_extracted": "“mo’yin adam”",
+        "evidence_extracted": "kabi xislatlar borligi haqida gapirgandik. Yuqoridagi ibora xuddi shunga ishora qiladi.\nShuningdek, bu sheva tilida “mo’yin adam” degan ibora ham birga ishlatilib kelinadi.\nBilamiz sharmanda va uyatga qolgan hamda aybdor insonning bo’yni egiladi. Lekin\nxohlasa, o’sha bo’yin egilmasligi ham mumkin. Bu uning irodasiga, qat’iyatiga bog’liq.\n\nUzbekistan                 www.scientificprogress.uz                Page 889"
+      },
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "Shunday egilmaydigan",
+        "evidence_extracted": "\nShunday egilmaydigan o’jar, qaysar odamlarga nisbatan ishlatiladigan iboralar bular.\nKarimding jelke tamiri juvan-da, uriship qapti – Karimning yelka tomiri yo’g’on-da,\nurishib qolibdi.\n   Zominliklar azaldan  uloq-ko’pkari o’yinini boshqacha sevib ijro etishadi hamda\ntomosha  qilishadi. Bu  an’ana  haligacha davom  etib kelmoqda. Bunday  o’yinlar"
+      }
+    ]
+  },
+  {
+    "id": "JI06",
+    "display_form": "Sabang‘a tashtash",
+    "variants": [
+      "sabang‘a teshtesh"
+    ],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "ibora",
+    "meaning": "Ko‘pkari ma’nosi ham, maqsadga yetish ma’nosi ham mavjud.",
+    "literal": "Somonga tashlash.",
+    "senses": [
+      {
+        "id": 1,
+        "domain": "uloq-ko‘pkari",
+        "meaning": "Uloqni somon bilan belgilangan marraga tashlash."
+      },
+      {
+        "id": 2,
+        "domain": "ko‘chma ma’no",
+        "meaning": "Marraga yoki maqsadga yetish; ishni qoyilmaqom bajarish."
+      }
+    ],
+    "tone": "ko‘chma ma’noda maqtov",
+    "usage_note": "Kontekstsiz so‘zma-so‘z tarjima ko‘chma ma’noni yo‘qotadi.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 4,
+        "printed_page": 890,
+        "anchor_extracted": "“sabang’a tashtash",
+        "evidence_extracted": "ishlatiladigan so’z birikmalari shuning uchun bo’lsa kerakki, iboralarga ham aylangan.\nMasalan , “sabang’a tashtash-somonga tashlash”.        1. Ko’pkarida uloqni somon\nbilan belgilab qo’yilgan marraga tashlash kerak bo’ladi. Bu hol “sabang’a teshtesh”\ndeyiladi. Tilov ulaqti sabang’a tashtedi- Tilov uloqni somonga tashladi. 2. Marraga\nyoki maqsadga yetish, biror ishni qoyilmaqom bajarish. Bugungu mayliste siz sabang’a\nteshtediniz-Bugungi majlisda siz hammani qoyil qoldirdingiz."
+      }
+    ]
+  },
+  {
+    "id": "JI07",
+    "display_form": "Avruvda chanchuv jaman, gepte qanquv",
+    "variants": [],
+    "region": "Zomin tumani «j»lovchi shevasi; aniq qishloq berilmagan",
+    "genre": "maqolsimon obrazli ifoda; janr yorlig‘i tahririy",
+    "meaning": "Gapdagi kesatiqning og‘riqliligini kasallikdagi sanchiq bilan qiyoslash.",
+    "literal": "Kasallikda sanchiq yomon, gapda kesatiq. (Tahririy mazmuniy talqin.)",
+    "senses": [],
+    "tone": "kesatiq haqida obrazli mulohaza",
+    "usage_note": "Tahririy talqin manbaning so‘zma-so‘z tayyor tarjimasi emas.",
+    "exclusive_to_region": null,
+    "modern_usage_verified": false,
+    "source_refs": [
+      {
+        "source": "J4",
+        "pdf_page": 2,
+        "printed_page": 888,
+        "anchor_extracted": "“Avruvda chanchuv jaman, gepte",
+        "evidence_extracted": "chandish,kesatish unsurlari mavjud. Zomin qishloq shevalaridagi bu xildagi kesatiq\n“qanquv” deyiladi. Shuning uchun zominliklarda “Avruvda chanchuv jaman, gepte\nqanquv” degan obrazli ifoda shakllangan. Kishi yuragini o’yib olishga qaratilgan\nqanquvni  ilg’ab  olishda  nozik  farosat  zarur  bo’ladi. “Qanquv”ni uqmay  qolish\nkishining unchalik  aqlli  emasligini  anglatadi.     Zominliklar azaldan  cho’rtkesar,\ndangalchi,  xazilni  bir-biri  bilan boshqa sheva  vakillariga qaraganda ancha  qaltis"
+      }
+    ]
+  }
+]
