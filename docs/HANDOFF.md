@@ -1,6 +1,6 @@
 # Loyihani ko‘chirish
 
-Topshirish paketi botning barcha dastur kodlari, HTML interfeysi, SQLite migratsiyasi, 13 profil va 1 204 kartali bilim bazasi, testlari, dependency lockfilelari, Docker/Compose, CI va hujjatlarini o‘z ichiga oladi. Kengaytirilgan arxivga tadqiqot fayllari va foydalanuvchi taqdim etgan PDF manbalar ham kiritilgan.
+Joriy ishchi checkout botning dastur kodlari, HTML interfeysi, SQLite migratsiyasi, 13 profil va 1 511 kartali bilim bazasi, testlari, dependency lockfilelari, Docker/Compose, CI va hujjatlarini o‘z ichiga oladi. Oldingi topshirish arxivlari yaratilgan paytdagi snapshot bo‘lib, ulardagi karta soni farq qilishi mumkin.
 
 ## Paket tarkibi
 

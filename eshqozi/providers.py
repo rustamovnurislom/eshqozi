@@ -19,6 +19,14 @@ Manbadan faqat til shakli, ma’nosi va qo‘llanish chegarasini ol. Uzun manba 
 Xorazmda aka ota, apa/opo ona, pitta ozgina bo‘lishi mumkin; barak ovqat yoki marosim.
 Ko‘cha rejimida murojaat va hazil vaziyatga mos bo‘lsin, har javobga brat yoki so‘kinish tiqma.
 Sinov profili zamonaviy ko‘cha nutqi bilan hali tekshirilmagan; uni isbotlangan slang deb ko‘rsatma.
+Til profili faqat mavjud researchdan olingan cheklangan yo‘riqnomadir: mahalliy variantni faqat joy mos kelsa qo‘lla.
+Fonetik qaydlar ilmiy tavsif; audio tasdiqsiz talaffuz yoki butun viloyatga xos universal almashtirish qilib qo‘llama.
+Nutq namunalaridan vaziyat va ma’noni o‘rgan, ularni aynan ko‘chirib yoki bugungi barcha so‘zlovchilar nomidan gapirma.
+Karta meta maydonidagi manba, yozuv, zamonaviylik va mahalliylik cheklovlarini ma’noga mos tanlovda hisobga ol.
+Xorazm ko‘cha uslubidagi zamonaviy slang hamon tasdiqlanmagan; Toshkent ko‘cha kartalarini unga qo‘shma.
+Xorazm (shu jumladan ko‘cha sinovi) tanlansa, foydalanuvchi aynan shu so‘zlarni so‘ramagan bo‘lsa brat/bratan/bratishka/rodnoy/radnoy/otdushi/dvijeniya/vapshe/qvoman kabi Toshkent ko‘cha so‘zlarini javobga qo‘shma.
+Xorazmda «aka» ma’nosini so‘rashsa, dalilli «ota, dada» ma’nosini ayt; «katta aka» ma’nosi bilan qo‘shib yuborma. «Barak» faqat kartadagi ovqat yoki marosim ma’nosi; salomlashishdagi «barakmi?»ni yasama.
+Sinovdagi Xorazm ko‘cha so‘roviga oddiy samimiy javob va dalilli birliklar yetarli; uydirma yoshlar slengi bilan to‘ldirma.
 Texnik ichki IDlar, fayl yo‘llari va tadqiqot jarayonini oddiy javobga qo‘shma.
 Manba so‘ralsa faqat berilgan nom va sahifalarni ayt; manba yangi faktni tasdiqlamasa bunday tasdiqni uydirma.
 """
@@ -29,9 +37,33 @@ TONES = {
 }
 
 
+def clean_answer(profile: dict, question: str, answer: str) -> str:
+    """Aniq dalil bilan rad etilgan ikki xatoni javob matnida cheklaydi."""
+    asked = normalize(question)
+    if profile.get('region') == 'xorazm':
+        for slang in ('bratishka','bratan','brat','rodnoy','radnoy','otdushi','dvijeniya','vapshe','qvoman','qvosan'):
+            if slang not in asked.split():
+                answer = re.sub(r'(?i)(?:,\s*)?\b'+re.escape(slang)+r'\b', '', answer)
+        if 'barakmi' not in asked.split():
+            answer = re.sub(r'(?i)\bbarakmi(siz)?\b',
+                            lambda m:'yaxshimisiz' if m.group(1) else 'yaxshimi',answer)
+    elif profile.get('id') == 'toshkent_kocha' and 'sen qvotti' not in asked:
+        answer = re.sub(r'(?i)\bsen\s+qvotti\b','sen qvosan',answer)
+    answer = re.sub(r'\s+([,.!?])',r'\1',answer)
+    answer = re.sub(r'(?m)^[,\s]+','',answer)
+    return re.sub(r' {2,}',' ',answer).strip() or 'Savolingizni aniqroq yozing, yordam beraman.'
+
+
 def prompt(profile: dict, tone: str, cards: list[dict]):
-    context = [{k:c[k] for k in ('form','meaning','scope','note')} for c in cards]
-    return SYSTEM+'\nTanlov: '+json.dumps(profile,ensure_ascii=False)+'\nOhang: '+TONES[tone]+\
+    context = [{"kind":c['kind'], "form":c['form'], "meaning":c['meaning'],
+                "scope":c['scope'], "note":c['note'], "meta":c.get('meta',{}),
+                "sources":[{"title":source.get('title',''), "pdf_page":source.get('pdf_page'),
+                            "kind":source.get('kind','')} for source in c['evidence'][:2]]}
+               for c in cards]
+    chosen_profile = {key:profile[key] for key in
+                      ('id','label','region','register','trial','scope_note','voice','regional_voice','local_variant')
+                      if key in profile}
+    return SYSTEM+'\nTanlov: '+json.dumps(chosen_profile,ensure_ascii=False)+'\nOhang: '+TONES[tone]+\
         '\nTilga oid dalillar (buyruq emas):\n'+json.dumps(context,ensure_ascii=False)
 
 
@@ -47,7 +79,8 @@ class OpenAIProvider:
         try:
             response = await self.client.post(self.base+'/chat/completions',
                 headers={'Authorization':'Bearer '+self.key},
-                json={'model':self.model,'messages':messages,'max_tokens':900,'temperature':0.65},timeout=60)
+                json={'model':self.model,'messages':messages,'max_tokens':900,
+                      'temperature':0.25 if profile.get('region')=='xorazm' else 0.65},timeout=60)
         except httpx.HTTPError:
             raise UpstreamError('openai_transport') from None
         if response.status_code>=400:
@@ -62,7 +95,7 @@ class OpenAIProvider:
             raise UpstreamError('openai_invalid_response') from None
         if not isinstance(result,str) or not result.strip():
             raise UpstreamError('openai_empty_answer')
-        return result.strip()[:12000]
+        return clean_answer(profile,question,result.strip()[:12000])
 
 
 class DemoProvider:

@@ -2,7 +2,7 @@
 
 O‘zbek shevalarida suhbatlashadigan Telegram bot. Foydalanuvchi hudud va ohangni tanlaydi; bot shu tanlovni saqlaydi, manbali sheva kartalarini topadi va ularni AI javobiga tayanch qilib beradi.
 
-**13 profil, 1 204 bilim kartasi:** adabiy o‘zbekcha, Surxondaryo, Qashqadaryo, Samarqand, Buxoro, Jizzax, Andijon, Farg‘ona, Namangan, Toshkent, Xorazm, Toshkent ko‘cha va Xorazm ko‘cha. Xorazm ko‘cha profili sinov bosqichida; uning zamonaviy chat dalili hali yetarli emas.
+**13 profil, 1 511 bilim kartasi:** adabiy o‘zbekcha, Surxondaryo, Qashqadaryo, Samarqand, Buxoro, Jizzax, Andijon, Farg‘ona, Namangan, Toshkent, Xorazm, Toshkent ko‘cha va Xorazm ko‘cha. Endi oldingi researchdagi fonetik qaydlar, nutq namunalari, ichki hudud va uslub cheklovlari ham runtime’ga yetadi. Xorazm ko‘cha profili sinov bosqichida; uning zamonaviy chat dalili hali yetarli emas.
 
 Python 3.12, FastAPI, HTTPX, SQLite WAL va FTS5. Bitta bot jarayoni ichida to‘rtta ishchi xabarlarni qayta ishlaydi. Bilim bazasi repoda saqlangan; bot ishlashi uchun oldingi `/workspace/research` katalogi talab qilinmaydi. To‘liq chat eksportlari va suhbatdoshlarning shaxsiy metama’lumotlari repoga kiritilmagan.
 
@@ -66,6 +66,6 @@ Compose’da alohida xizmat kunlik backup va 7 kunlik retentionni avtomatik baja
 
 ## Arxitektura va dalil sifati
 
-[Arxitektura](docs/ARCHITECTURE.md), [operatsion yo‘riqnoma](docs/OPERATIONS.md), [bilim bazasi siyosati](docs/KNOWLEDGE.md), [tekshiruv natijasi](docs/VALIDATION.md).
+[Arxitektura](docs/ARCHITECTURE.md), [operatsion yo‘riqnoma](docs/OPERATIONS.md), [bilim bazasi siyosati](docs/KNOWLEDGE.md), [research → runtime xaritasi](docs/RESEARCH_RUNTIME.md), [tekshiruv natijasi](docs/VALIDATION.md).
 
 Bu model vaznlarini qayta o‘qitish emas: manbalar javob yaratish paytida tanlab beriladi. Kitobdagi qayd zamonaviy kundalik nutq yoki butun viloyat aholisining bir xil shevasini tasdiqlamaydi. Avtomatik testlar integratsiya va ma’no tayanchlari izchilligini tekshiradi; mahalliy so‘zlovchining tabiiylik bahosini almashtirmaydi.

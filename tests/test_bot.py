@@ -16,7 +16,7 @@ from eshqozi.backup import snapshot
 from eshqozi.config import Settings
 from eshqozi.engine import Engine
 from eshqozi.knowledge import Knowledge, normalize
-from eshqozi.providers import DemoProvider, OpenAIProvider, prompt
+from eshqozi.providers import DemoProvider, OpenAIProvider, prompt, clean_answer
 from eshqozi.runtime import Runtime
 from eshqozi.storage import Store
 from eshqozi.telegram import Telegram, UpstreamError, parse_update, split_text
@@ -48,7 +48,7 @@ class StorageTests(Fixture,unittest.TestCase):
     def test_migration_and_import_repeat_without_duplicates(self):
         self.store.migrate()
         Knowledge(self.store,BUNDLE)
-        self.assertEqual(self.store.status()['cards'],1204)
+        self.assertEqual(self.store.status()['cards'],1511)
         self.assertEqual(len(self.kb.profiles),13)
 
     def test_duplicate_batch_and_offset_are_durable(self):
@@ -101,7 +101,7 @@ class StorageTests(Fixture,unittest.TestCase):
         self.store.backup(backup)
         restored=Store(backup)
         self.assertEqual(restored.user(101)['dialect'],'xorazm')
-        self.assertEqual(restored.status()['cards'],1204)
+        self.assertEqual(restored.status()['cards'],1511)
 
     def test_cleanup_removes_expired_sensitive_turns(self):
         self.store.user(101)
@@ -116,7 +116,7 @@ class StorageTests(Fixture,unittest.TestCase):
         os.utime(old,(time.time()-8*86400,time.time()-8*86400))
         result=snapshot(self.store,str(folder),7)
         self.assertTrue(result.is_file());self.assertFalse(old.exists())
-        with sqlite3.connect(result) as con:self.assertEqual(con.execute('SELECT count(*) FROM cards').fetchone()[0],1204)
+        with sqlite3.connect(result) as con:self.assertEqual(con.execute('SELECT count(*) FROM cards').fetchone()[0],1511)
 
 
 class KnowledgeTests(Fixture,unittest.TestCase):
@@ -154,6 +154,46 @@ class KnowledgeTests(Fixture,unittest.TestCase):
         self.assertIn('buyruq',text)
         self.assertIn('Do‘stlar',text)
         self.assertIn('ozgina',text)
+
+    def test_prior_research_reaches_runtime_with_its_limits(self):
+        bundle=json.loads(Path(BUNDLE).read_text())
+        kinds={name:sum(c['kind']==name for c in bundle['cards']) for name in ('lexicon','grammar','phonetics','example')}
+        self.assertEqual(kinds,{'lexicon':1017,'grammar':187,'phonetics':210,'example':97})
+        self.assertEqual(len(bundle['provenance']['skipped_untranslated_examples']),9)
+        xiva=self.kb.context_profile('xorazm','Xiva shevasida qanday?')
+        self.assertTrue(any('Xiva' in v['name'] for v in xiva['local_variant']))
+        self.assertFalse(self.kb.context_profile('xorazm','Nima gap?')['local_variant'])
+        self.assertFalse(xiva['voice']['all_xorazm_represented_by_default'])
+        self.assertFalse(xiva['voice']['regional_separation']==[])
+        street=self.kb.context_profile('xorazm_kocha','Nima gap?')
+        self.assertTrue(street['trial'])
+        self.assertEqual(street['voice']['new_modern_street_slang_cards'],0)
+        self.assertIn('morphology_policy',street['regional_voice'])
+        tash=self.kb.context_profile('toshkent_kocha','Qales, nma gap?')
+        self.assertFalse(tash['voice']['current_2026_usage_verified'])
+        self.assertTrue(tash['voice']['interaction_patterns'])
+        p=prompt(street,'dostona',self.kb.retrieve('xorazm_kocha','pitta nima?'))
+        self.assertIn('Toshkent ko‘cha kartalarini unga qo‘shma',p)
+        self.assertNotIn('/workspace/',p)
+
+    def test_phonetic_and_example_cards_are_sourced_but_not_global_rules(self):
+        phonetics=[c for c in self.kb.retrieve('namangan','mālim umlaut talaffuz') if c['kind']=='phonetics']
+        self.assertTrue(phonetics)
+        self.assertTrue(all(not c['meta']['audio_verified'] for c in phonetics))
+        examples=[c for c in self.kb.retrieve('xorazm','nutq namunasi qanday?') if c['kind']=='example']
+        self.assertTrue(examples)
+        self.assertTrue(all('bugungi umumiy nutq' in c['note'] for c in examples))
+
+    def test_dialect_output_preserves_research_word_and_person_limits(self):
+        xor=self.kb.context_profile('xorazm','Xivada aka nima?')
+        self.assertEqual(clean_answer(xor,'Xivada aka nima?',
+            'Aka ota, dada ma’nosida ishlatiladi, brat.'),
+            'Aka ota, dada ma’nosida ishlatiladi.')
+        street=self.kb.context_profile('xorazm_kocha','Salom ber')
+        self.assertEqual(clean_answer(street,'Salom ber','Assalom, barakmi?'),
+                         'Assalom, yaxshimi?')
+        tash=self.kb.context_profile('toshkent_kocha','Qales?')
+        self.assertEqual(clean_answer(tash,'Qales?','Sen qvotti?'),'sen qvosan?')
 
 
 class ParserTests(unittest.TestCase):

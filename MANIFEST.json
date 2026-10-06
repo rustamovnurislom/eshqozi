@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-06T16:17:35.136311+00:00",
+  "created_at_utc": "2026-10-06T21:51:24.959689+00:00",
   "package": "eshqozi-source.zip",
   "files": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "path": "eshqozi/README.md",
-      "bytes": 4472,
-      "sha256": "75804f78f6390d092c5f1cc3761b652f9eb44f58691501ca25f5bb48bb4b474a"
+      "bytes": 4649,
+      "sha256": "6cbc914c2ec281c045f58feb5857cadadc56b5cbdd039b25b4251dfb8b4eca00"
     },
     {
       "path": "eshqozi/compose.yaml",
@@ -44,28 +44,28 @@
     },
     {
       "path": "eshqozi/data/import-report.json",
-      "bytes": 460,
-      "sha256": "0732f61ff0dea90902a83c8fc4fb80f598afc668d7e78cb2b023ebb348794dd1"
+      "bytes": 541,
+      "sha256": "889b5f1679980109083560883f3e1895fd3048ff54ec799f9e90a60b5aa258f5"
     },
     {
       "path": "eshqozi/data/knowledge.json",
-      "bytes": 1062507,
-      "sha256": "248534509cf9dd5e49246ba73a43d1d046cb88ef53ba42826331c22956f3a9bb"
+      "bytes": 1817263,
+      "sha256": "4efdd69c3d1f96ab4acfc9890ea39eab67c818475dda442b5b176fb2ab8c3e5f"
     },
     {
       "path": "eshqozi/docs/ARCHITECTURE.md",
-      "bytes": 6375,
-      "sha256": "d5fe77cb543cdba739f41425789bcf647b542bb445599dbce559bf913e24ba52"
+      "bytes": 6660,
+      "sha256": "de8b6c4cf54b23a440f98d3285a52d68e582b3b06e43d0f991cef8e8507fccd5"
     },
     {
       "path": "eshqozi/docs/HANDOFF.md",
-      "bytes": 4611,
-      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+      "bytes": 4617,
+      "sha256": "d18cb63821538199371a3a2699765e9530c0c11511fdfd7b8ebc5ee78b0bb1d2"
     },
     {
       "path": "eshqozi/docs/KNOWLEDGE.md",
-      "bytes": 2652,
-      "sha256": "eb69a741d2118b93581541796c85adf1c026d2d2af7312c934b55340c6bf498e"
+      "bytes": 3703,
+      "sha256": "5cd2d389799d630209ed2ac540a4260e61d45c652087139445e19ecbd1690b64"
     },
     {
       "path": "eshqozi/docs/OPERATIONS.md",
@@ -73,9 +73,14 @@
       "sha256": "20eb640f361a02851c2240cfe469bd94e169e804df2140306df81bc78ee0278d"
     },
     {
+      "path": "eshqozi/docs/RESEARCH_RUNTIME.md",
+      "bytes": 2908,
+      "sha256": "4f1e645447ff4754f9f028cdd00042303d25ab31315bfca070559e8d9d6c545e"
+    },
+    {
       "path": "eshqozi/docs/VALIDATION.md",
-      "bytes": 5803,
-      "sha256": "14bca4d17deb4ca14ed9f2967cde10cc07fd7520461b9a5d70e2fa021529fc43"
+      "bytes": 7194,
+      "sha256": "8f5d276f4d1d645a31779d13a801b9703c628086fc1e3de71fb02ad307c32dd7"
     },
     {
       "path": "eshqozi/eshqozi/__init__.py",
@@ -104,13 +109,13 @@
     },
     {
       "path": "eshqozi/eshqozi/engine.py",
-      "bytes": 7119,
-      "sha256": "3f473b93f4a8b72b3f422f3807420e53d31b5ae2398043e0aa80026c295afa7e"
+      "bytes": 7132,
+      "sha256": "0d545a4a994dc25f28ca27f6fbc9a49e0721f0d84e239a076329c6431cde0fa1"
     },
     {
       "path": "eshqozi/eshqozi/knowledge.py",
-      "bytes": 4486,
-      "sha256": "d6399a0f458c1c41ca715aa2ee30cd2034a5e1999bb338efcc633f059a25785c"
+      "bytes": 8363,
+      "sha256": "7ca5871a2bd548c53e399d95042e105bd3df3e1cace54b93d0bb3b5464b99e95"
     },
     {
       "path": "eshqozi/eshqozi/migrations/001_initial.sql",
@@ -119,8 +124,8 @@
     },
     {
       "path": "eshqozi/eshqozi/providers.py",
-      "bytes": 4877,
-      "sha256": "63e3024e3b59a7b58c84fa40e55bfc0dc3a6e9b508a387d4aa70c2c289856e9e"
+      "bytes": 7658,
+      "sha256": "6ce5b5388f65569d329f2d8315ab57186dc27e36f00e19924c30ef0a63454538"
     },
     {
       "path": "eshqozi/eshqozi/runtime.py",
@@ -159,13 +164,13 @@
     },
     {
       "path": "eshqozi/scripts/import_research.py",
-      "bytes": 7006,
-      "sha256": "17319a506e85335c7b333cc11f125a86b7d477cd8ce103b7fb17d23ae624650e"
+      "bytes": 12832,
+      "sha256": "6d83a6ee7fc1ac0074cfeec4103c35241dcc56f9b5ce58e8bd936c813e865a80"
     },
     {
       "path": "eshqozi/tests/test_bot.py",
-      "bytes": 19966,
-      "sha256": "66c4847f789ecacd0fe2182bd906e812378cca4588d8e0e046378bdad24b35d9"
+      "bytes": 22633,
+      "sha256": "7ae6cb6e1fa9597d32025750b5a11e1f6ccaa93a46aeb8883b951bfdaa549c80"
     },
     {
       "path": "eshqozi/uv.lock",
@@ -174,8 +179,8 @@
     },
     {
       "path": "database/eshqozi-initial.sqlite3",
-      "bytes": 1134592,
-      "sha256": "7284dd59a2a63bdd807e4b33d6bfa315f960b34d2852e2db70ee1a318a1477b8"
+      "bytes": 1536000,
+      "sha256": "eea4940bf5b250ad48c43b660d4d40789b7633195baf5a4039da55f616b43781"
     },
     {
       "path": "infrastructure/cloud-environment.json",
@@ -184,12 +189,12 @@
     },
     {
       "path": "TOPSHIRISH.md",
-      "bytes": 4611,
-      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+      "bytes": 4617,
+      "sha256": "d18cb63821538199371a3a2699765e9530c0c11511fdfd7b8ebc5ee78b0bb1d2"
     }
   ],
   "profiles": 13,
-  "knowledge_cards": 1204,
+  "knowledge_cards": 1511,
   "user_records_in_initial_database": 0,
   "live_secrets_included": false
 }

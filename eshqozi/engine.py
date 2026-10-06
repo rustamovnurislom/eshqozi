@@ -114,7 +114,7 @@ class Engine:
         if not self.store.reserve(update_id,chat_id,self.settings.per_minute,self.settings.per_day,self.settings.global_per_day):
             return self.reply('Hozirgi xabar limiti tugadi. Birozdan keyin yana yozing.')
         user = self.store.user(chat_id)
-        profile = self.knowledge.profile(user['dialect'])
+        profile = self.knowledge.context_profile(user['dialect'],text)
         cards = self.knowledge.retrieve(profile['id'],text)
         history = self.store.history(chat_id,self.settings.history_turns,self.settings.retention_hours)
         answer = await self.provider.answer(profile,user['tone'],cards,history,text)

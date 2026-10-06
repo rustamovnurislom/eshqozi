@@ -10,7 +10,7 @@ flowchart LR
     Q --> W[4 worker · har chatda tartib]
     W --> E[Engine: buyruq va suhbat]
     E --> K[FTS5: tanlangan sheva kartalari]
-    K --> DB[(SQLite: 1 204 karta)]
+    K --> DB[(SQLite: 1 511 karta)]
     E --> H[(Sozlamalar va suhbat tarixi)]
     E --> AI[OpenAI-compatible HTTPS API]
     AI --> O[(Saqlangan javob va yuborish cursori)]
@@ -22,7 +22,7 @@ flowchart LR
 
 Python 3.12 va FastAPI boshqaruv/holat interfeysi uchun; HTTPX tashqi HTTPS so‘rovlar uchun. Telegram uchun alohida SDK talab qilinmaydi: ishlatiladigan Bot API metodlari kichik adapterda. OpenAI Chat Completions ham adapter orqali, provider almashtirish `Engine`ni o‘zgartirmaydi.
 
-SQLite WAL bitta serverdagi boshlang‘ich bot uchun tanlandi. Diskdagi navbat va FTS5 mavjud; Redis yoki vektor xizmatini ishga tushirish majburiy emas. 1 204 kartani leksik qidirish tez va natijasi kuzatiladigan. SQLite yozuvlari qisqa tranzaksiyalar; tashqi HTTP kutish vaqtida baza qulfi ushlab turilmaydi. Fayl bazasi lokal persistent volume’da bo‘lishi kerak, tarmoq fayl tizimida emas.
+SQLite WAL bitta serverdagi boshlang‘ich bot uchun tanlandi. Diskdagi navbat va FTS5 mavjud; Redis yoki vektor xizmatini ishga tushirish majburiy emas. 1 511 kartani leksik qidirish tez va natijasi kuzatiladigan. SQLite yozuvlari qisqa tranzaksiyalar; tashqi HTTP kutish vaqtida baza qulfi ushlab turilmaydi. Fayl bazasi lokal persistent volume’da bo‘lishi kerak, tarmoq fayl tizimida emas.
 
 Serverni gorizontal ko‘paytirishdan oldin storage adapter PostgreSQLga, navbat lease’lari ko‘p instance’ga mos tarzda ko‘chiriladi. Hozir bitta volume uchun bitta poller jarayoni va 4 worker qo‘llanadi. Ko‘p Uvicorn worker yoki `--reload` production rejimida ishlatilmaydi.
 
@@ -59,7 +59,7 @@ Telegram `sendMessage` idempotency kalitini bermaydi. Xabar Telegramda qabul qil
 
 Profil va ohang boshqariladigan system kontekstida; so‘z, ma’no, hudud va izohlar buyruq bo‘lmagan JSON ma’lumoti sifatida beriladi. So‘rov lotin/kirill, apostrof va diakritikalar bo‘yicha qidiruv uchun normallashtiriladi. FTS so‘rovi foydalanuvchining operator matnidan tuzilmaydi, tokenlar qo‘shtirnoq bilan xavfsiz yig‘iladi.
 
-Qidiruv faqat tanlangan hududda. Ko‘cha profili o‘z kartalari va o‘sha hududning grammatik asosini oladi. Sinonim/omonim kartalar birlashtirib yo‘qotilmaydi. Mos leksik kartalar, cheklangan grammatika va kundalik muomala tayanchlari beriladi. To‘liq fonetik harf almashtirish qoidasi qo‘llanmaydi.
+Qidiruv faqat tanlangan hududda. Ko‘cha profili o‘z kartalari va o‘sha hududning grammatik asosini oladi. Sinonim/omonim kartalar birlashtirib yo‘qotilmaydi. Mos lug‘aviy kartalar avval aniq shakl bo‘yicha saralanadi; talaffuz va namuna so‘rovlari uchun mos fonetik qayd yoki nutq namunasi ustuvor bo‘ladi. Uslub yo‘riqnomasi profilga, ichki hudud qaydi esa foydalanuvchi aniq joyni tilga olgandagina biriktiriladi. Karta bilan birga manba turi, ma’lum cheklov, audio va zamonaviy qo‘llanish tasdig‘i uzatiladi. To‘liq fonetik harf almashtirish qoidasi qo‘llanmaydi.
 
 `/manba` oxirgi javobga **berilgan** sheva dalillarini ko‘rsatadi. Bu model haqiqatda har kartani ishlatgani yoki har bir umumiy fakt shu kitob bilan isbotlangani degani emas. Barcha gapning native tabiiyligi avtomatik kafolatlanmaydi.
 

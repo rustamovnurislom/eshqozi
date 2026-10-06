@@ -52,3 +52,11 @@ Foydalanuvchi bot ishlamayotganini bildirganidan keyin yangi cloud muhitida teks
 `ESHQOZI_MODE=production .venv/bin/python -m eshqozi serve` bilan bot boshlandi. Telegram `getMe` haqiqiy API orqali `@eshqozibot`ni tasdiqladi. OpenAI `gpt-4.1-mini` modeliga qisqa so‘rov HTTP 200 va haqiqiy javob qaytardi. `/healthz` va `/readyz` HTTP 200, `mode=production`, `ready=true`, `cards=1204`; readiness muvaffaqiyatli pollingni ham talab qiladi. Navbatda yoki navbat yozuvlarida xato yo‘q edi. Kalit qiymatlari hujjat va loglarga yozilmadi.
 
 Bot ushbu faol cloud muhitida ishlayapti. Cloud muhitining to‘xtashi doimiy hosting o‘rnini bosmaydi; keyingi muhitda saved startup yo‘riqnomasi bo‘yicha jarayon qayta boshlanishi kerak. Uzluksiz xizmat uchun Compose doimiy serverda ishga tushiriladi.
+
+## Oldingi researchni runtime’ga ulash — 2026-10-07
+
+`scripts/import_research.py` mavjud research JSONlaridan yangi manba qidirmasdan 1 511 kartali bundle yaratdi: 1 017 lug‘aviy, 187 grammatik, 210 fonetik qayd va 97 nutq namunasi. Standart ma’nosi tasdiqlanmagan 9 namuna alohida skip ro‘yxatiga tushdi. Ichki hudud profillari, Xorazmning ma’no/morfologiya chegaralari hamda Toshkent ko‘cha yozishma usullari prompt kontekstiga tanlab uzatiladi. Xorazm ko‘cha zamonaviy slang dalili `0` bo‘lib qoladi.
+
+48 avtomatik test o‘tdi. Yangi regression tekshiruvida Xiva savoli tegishli ichki hududni tanlashi, oddiy savol uni avtomatik tanlamasligi, fonetik/namuna kartalari tegishli so‘rovda kelishi, manba statusi, chat maxfiyligi va tor hudud/shaxs cheklovi saqlanishi tekshirildi. Production bazasining eski holati backup qilindi; bot yangi bundle bilan restart qilindi. `/readyz` HTTP 200 va `cards=1511` qaytardi.
+
+Jonli AI adapteri bilan sintetik uch savol tekshirildi: Xivada `aka` ma’nosi `ota, dada` bo‘lib qoldi; Toshkent ko‘cha javobi o‘z uslubida chiqdi; Xorazm ko‘cha salomida uydirma `barakmi` va Toshkentcha `brat` ishlatilmadi. Oldingi sinovda model aynan shu xatolarni qilgani uchun qidiruv va aniq cheklovlar tuzatildi. Bu mahalliy so‘zlovchining tabiiylik bahosini yoki Telegramdagi haqiqiy chat bilan end-to-end tekshiruvni almashtirmaydi.
