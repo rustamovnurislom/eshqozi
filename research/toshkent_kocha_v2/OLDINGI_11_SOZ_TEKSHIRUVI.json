@@ -1,0 +1,167 @@
+[
+  {
+    "form": "Bratan",
+    "status": "kam_misol_kontekst_cheklangan",
+    "notes": "Yagona misol qo‘shiq/parodiya tusida; ko‘p ishlatiladi degan xulosa yo‘q.",
+    "query_pattern": "\\bbratan\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-07-15T00:21:41",
+      "last_match_date": "2021-07-15T00:21:41",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Bratishka",
+    "status": "variant_bor_kam_misol",
+    "notes": "Bratiwkayu yozuvi bor; adresat va ohang qisqa gapdan to‘liq aniqlanmaydi.",
+    "query_pattern": "\\bbratiwkayu\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-02T19:17:09",
+      "last_match_date": "2021-05-02T19:17:09",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Rodnoy",
+    "status": "latin_variant_bevosita_bor",
+    "notes": "Radnoy lotincha murojaatda bor. Родной she’r ichida, родная alohida murojaat; aynan bir shakl/ma’no deb birlashtirilmaydi.",
+    "query_pattern": "\\b(?:rodnoy|radnoy)\\b|\\bродной\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-04-23T15:09:04",
+      "last_match_date": "2021-04-28T21:22:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Kotta bola",
+    "status": "iborasi_bor_ma’nosi_chegaralangan",
+    "notes": "Tug‘ilgan kun/kattalashish konteksti; nufuzli ko‘cha boshlig‘i ma’nosi tasdiqlanmagan.",
+    "query_pattern": "\\bkotta bola\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-04-24T09:12:22",
+      "last_match_date": "2021-06-05T12:05:49",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Otdushi",
+    "status": "variantlar_va_meme_bor",
+    "notes": "Ot dushi va adushi/aduwi samimiylik oilasi bor; meme sitatalari ham bor. Ularning hammasi oddiy rahmat vazifasida emas.",
+    "query_pattern": "\\botdushi\\b|\\bot dush[ui]\\b|от душ[иы]|\\b(?:adushi|aduwi|aduwiy)\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 11,
+      "deduplicated_author_text_pairs": 11,
+      "first_match_date": "2021-04-27T13:55:47",
+      "last_match_date": "2021-08-12T23:12:08",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Seryozniy",
+    "status": "kop_variantli_bevosita_dalil",
+    "notes": "Sifat, jiddiy aytish va rostdanmi savoli vazifalari ajratiladi.",
+    "query_pattern": "(?<!\\w)(?:seryozniy|seryozni|seryoz|seryozna)(?!\\w)",
+    "literal_or_related_match_stats": {
+      "matching_messages": 52,
+      "deduplicated_author_text_pairs": 35,
+      "first_match_date": "2021-04-24T08:26:01",
+      "last_match_date": "2021-08-13T07:45:25",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Tupik",
+    "status": "ushbu_korpusda_topilmadi",
+    "notes": "Bu korpusda topilmasligi so‘z Toshkentda umuman yo‘q degani emas.",
+    "query_pattern": "\\btupik\\b|\\bтупик\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Dvijeniya",
+    "status": "bitta_qisqa_misol",
+    "notes": "Harakat ma’nosi mumkin; do‘stlar davrasi/reja ma’nosi kontekstdan qat’iy chiqmaydi.",
+    "query_pattern": "\\bdvijeniya\\b|\\bдвижени\\w*",
+    "literal_or_related_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-05T20:48:15",
+      "last_match_date": "2021-05-05T20:48:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Kidat qilmoq",
+    "status": "bogliq_birliklar_bor_maqsadli_ibora_yoq",
+    "notes": "Кидать misoli videoni yuborish haqida. Kidala atamasi ham bor, lekin aynan kidat qilmoq iborasi kuzatilmadi; uni boshqa fe’l ma’nolari bilan aralashtirmaymiz.",
+    "query_pattern": "\\bkidat\\w*|\\b(?:kidala|kidayu)\\b|\\b(?:кидать|кидай)\\b",
+    "literal_or_related_match_stats": {
+      "matching_messages": 5,
+      "deduplicated_author_text_pairs": 5,
+      "first_match_date": "2021-06-17T09:48:29",
+      "last_match_date": "2021-08-06T00:01:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Zashshita qilish",
+    "status": "bogliq_soz_bor_iborasi_yoq",
+    "notes": "Bez zashitni va защитник birikmalari; o‘zbekcha yordamchi fe’lli maqsadli ibora kuzatilmadi.",
+    "query_pattern": "\\bzash\\w*|\\bзащи\\w*",
+    "literal_or_related_match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-05-28T21:43:06",
+      "last_match_date": "2021-08-13T08:34:53",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  },
+  {
+    "form": "Vapshe",
+    "status": "bevosita_variantlar_bor",
+    "notes": "Kuchaytirish/umuman ma’nolari bor; v obshchem bilan grafik aralashuv ham ajratiladi.",
+    "query_pattern": "(?<!\\w)(?:vapshe|vapwe|vapshm|vapwem)(?!\\w)",
+    "literal_or_related_match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-26T13:02:39",
+      "last_match_date": "2021-08-13T07:54:25",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "requested_slang_sense_confirmed_globally": false,
+    "independent_external_confirmation": false
+  }
+]

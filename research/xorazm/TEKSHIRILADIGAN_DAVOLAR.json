@@ -1,0 +1,361 @@
+[
+  {
+    "id": "XD-01",
+    "topic": "Birinchi jild qamrovi",
+    "issue": "X1 A unli bo‘limlari, B, D, E bilan tugaydi; G/Z va boshqalar shu faylda yo‘q.",
+    "decision": "To‘liq Xorazm lug‘ati deb sanalmaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 160,
+        "printed_page": 159,
+        "anchor": "M U N D A R I J A",
+        "quote": "M U N D A R I J A So'zboshi......................................................... 3 Transkripsiya va diakritik belgilar..................................5 Shartli qisqartmalar................................................7 Aa [Aa]...........................................................8 A a ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-02",
+    "topic": "600 so‘z da’vosi",
+    "issue": "X4 mualliflari 600 birlik to‘planganini aytadi; ko‘rinadigan jadval 17 qator.",
+    "decision": "600 so‘z import qilindi yoki datasetni o‘qidim deb aytilmaydi.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 4,
+        "printed_page": 388,
+        "anchor": "600ta",
+        "quote": "an, o‘sin uyda dam olomon. Xorazm shevasini korpusini yaratish uchun avvalo ma’lumot yig‘ildi ya’ni 600ta shevaga oid so‘zlar yig‘ib chiqilgan. Ushbu jadvalda to‘rtta tumanda so‘zlarning qanday aytilishi alohida ajratilib ko‘rsatilgan. Korpusda foydalanilgan dataset turli sohalarga doir va turli so‘z turkumlari oid so‘zlardan foydalanib yig‘ilgan. 388 http://compling.navoiy-uni.uz/",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-03",
+    "topic": "Lug‘at lookupi va tarjima",
+    "issue": "X4 rasmda bitta barak so‘zidan chuchvara va ot chiqarilishi ko‘rsatilgan.",
+    "decision": "Bu butun gapning ma’nosi, zamoni yoki bot suhbat sifati isboti emas.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 5,
+        "printed_page": 389,
+        "anchor": "so‘zning adabiy",
+        "quote": "n. Yuqoridagi kodni ishga tushirganimizdagi Xorazm shevasiga oid so‘z kiritiladi natijada shevadagi so‘zning adabiy tilda qaysi so‘zga teng kelishi va uning qaysi so‘z turkumiga tegishli ekanini chiqarib beradi. Olingan natijalar Xorazm shevasidan o‘zbek adabiy tiliga avtomatik o‘girish mumkinligini isbotladi. Shunga qaramay, tadqiqot davomida ba’zi cheklovlar ham aniqlangan: shevada mavjud bo‘lga",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-04",
+    "topic": "Bunga/minga qatori",
+    "issue": "Rasmda bunga ikki marta yozilgan.",
+    "decision": "Ikkinchi qator ochiq savol sifatida saqlandi.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "olmoshlarning",
+        "quote": "ensiya №. 01 (2025) shevada ayrim leksikologik o‘ziga xosliklar ham mavjud. Xorazm shevasida asosan olmoshlarning variantlari ko‘p va adabiy tildan tubdan farq qiladi. Shevalarda ham omonimlikni kuzatishimiz mumkin. Masalan “kadi” so‘zini ikki xil ma’nosi bor. Birinchi ma’nosi “qovoq” bo‘lsa, ikkinchi ma’nosi “sevgan qizi(yigiti)” ma’nosida keladi. Korpusni yaratishda frazeologiyalarni ham kiritis",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-05",
+    "topic": "Ejashdi ma’nosi",
+    "issue": "X4 jadvalida hazillashdi; X1 ejashmoq izohida o‘chakishmoq, zid ish.",
+    "decision": "Yaqin shaklning ma’nosini hamma gapda bir xil deb bermang.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 149,
+        "printed_page": 148,
+        "anchor": "o‘chakishmoq",
+        "quote": " yoki undan ortiq bola (Xorazmning ay rim hududlarida). Ballar'i egiz dogildi. eca^maq [ejashmoq] - o‘chakishmoq, biror kishiga nisbatan qaysarlik bilan zid ish tutmoq, achchiq alam, o‘ch olish kabi niyat bilan zid isli tutmoq, shunday maqsadda bo‘ lmoq (Urg., Xnq., Q.kpr., Bg‘t.，Y.ariq., Xv., Y.bzr., Grin.). San mein bdan еусщта. ecayip [ejoyip] - hammasi yaxshi, zo'r, juda h a m yaxshi, ta’rifga",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-06",
+    "topic": "Ona/buvi",
+    "issue": "X1 ana=buvi, apa=ona; X2 maqolida änä ona deb sharhlanadi.",
+    "decision": "Talaffuz yozuvi, avlod va kontekst farqi saqlanadi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 16,
+        "printed_page": 15,
+        "anchor": "buvi",
+        "quote": "ak bilcin uxlidi. gegim bilcin qur'i sor'ib Q'iqadi // Yigldmciyan balaga dimcakyocj. ana I [ana] - buvi, otaning yoki onaning onasi, tilga olinayotgan kishi ismidan keyin kelib, shaxsning keksaligini, unga yaqinlik, Iiurmatni ifodalaydi. (Xorazmning bare ha hududlarida). Anamlava har bazar gun bar'ib gon'p gcildmdn. anii II [ana] - qiz bo la yoki yosh kelinlarga nisbatan ishlatiladigan undov so‘z",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 36,
+        "printed_page": 35,
+        "anchor": "ona ( Xorazmning",
+        "quote": "opa singillarga nisbatan ishlatiladi (Xnq.. Urg.). Apaytilci tcz-tez y'igiladila. a pa [opo] - 〇yi, ona ( Xorazmning barcha hududlarida). Apamlara q'kfinb bw'sam, apcim dkcim Ы(т bir yera getibdila dkcin. apabiyi [opobiyi] —katta opa, o'zidan katta opalarga nisbatan ishlatiladi (Grin., Y.bzr.). Apcibiyim bilan gaplci^dik. apaq |opoq] - tuzuk, yaxshi, erkalash uchun ishlatiladi (Xorazmning barcha h",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X2",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor": "Duväqsȉz",
+        "quote": "a ushbu maqolning umumiy mazmuni har bir ishni o‘z vaqtida qilish kerak degan ma’no kelib chiqadi. “Duväqsȉz qazan qāynāmās, änäsȉz balā oynāmās” bu maqol duväq so‘zini izohlash uchun berilgan bo‘lib qopqoq degan ma’noni anglatadi va ushbu maqolda o tovushuni a tarzida aytilishining ham guvohi bo‘lamiz va yana bir narsaninaytib o‘tadigan bo ‘lsam bunday talaffuz qilish Xorazm shevasining o‘ziga xo",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/cda67891-a964-4016-a226-81218d073b28/402-405.pdf",
+        "source_sha256": "03af61f35b148ddcd5a8a0e7bd860e3e67b0ea6c413903cf1a22434b896c0e17",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-07",
+    "topic": "Et hududi",
+    "issue": "X1 et Xiva, Xonqa, Urganchda; X4 jadvalida et Xivada, boshqalar go‘sht.",
+    "decision": "Bir jadvaldagi shakl boshqa variantning yo‘qligini isbotlamaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 155,
+        "printed_page": 154,
+        "anchor": "go‘sht",
+        "quote": "lndamay ot'ir, esiravurmay. et [et] - go‘sht, so‘yilgan jonivor tanasining ovqat sifatida iste’mol qilinadigan qismi (Xv.，Xnq., Urg.). Bazardan et aldujm'i? et우apar [etchopor] - daraxt tanasidan yasalgan go‘sht chopish uchun mo'ljallangan buyum (Xv., Xnq.). El^aparda <;ap elm, gdrakmi:ch nuisropkmj. etlas [etlos] — sergo4sht, semiz, yax",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-08",
+    "topic": "Eshik ma’nolari",
+    "issue": "X1 tashqi hovli; X4 eshik/qopi jadvali fizik eshik.",
+    "decision": "Eshikka chiqish bilan eshik buyumini ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 159,
+        "printed_page": 158,
+        "anchor": "tashqariga nisbatan",
+        "quote": " joyning erkak mehmonlar va umurnan erkaklar uchun xos, коcha darvozaga yaqin tomondagi xoli qismi; tashqariga nisbatan qollanadi (Xorazmning barcha hududlarida). E^ika (/icfip pittci aylan'ip gcihk. es^adaraz [eshshadaroz] 一 haddan tashqari oriq va uzun odamga nisbatan, bo^yiga, uzunasiga o4lchami katta， m e ，yoridan ortiq (Xorazmning ay rim hududlarida). 유it a以adaraz balan'i aytasawni? eijilniaq",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-09",
+    "topic": "Dushunmak izohi",
+    "issue": "Boshliq infinitiv ko‘rinishda; izoh tushunmadim va misol dushunmadim.",
+    "decision": "Lug‘at izohidan shaxs/inkorni ko‘r-ko‘rona ko‘chirmang.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 144,
+        "printed_page": 143,
+        "anchor": "tushunmadim",
+        "quote": "A.x^ani chl^imci ginbsdn. du^unmak [dushunmak] - tushunmadim (H.asp.，Xnq. ，Shvt.). Bir gappujam dii^unmudim. cliiijalak [dungalak] 一 paxta egatlarini yumshatadigan p red met (Xorazmning ay rim hududlarida). At'iza bar'ib ciihjalcik yunialab gcilcih. doddi [do‘ddi] - ko‘riiiislii yoqimsiz, gavdasi, tashqi bichimi kelishmagan, beso'naqay; ro'dapo. B",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-10",
+    "topic": "Apkaldi izohi",
+    "issue": "Lug‘at olib kelmoq deb izohlagan shaxsli o‘tgan shakl.",
+    "decision": "Infinitiv bilan o‘tgan zamon farqlanadi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 20,
+        "printed_page": 19,
+        "anchor": "olib kelmoq",
+        "quote": "a:pkaldi=akkaldi= a:pkildi [apkaldi，akkaldi, apkildi] 一 olib kelmoq. fe’l so*z turkumi o'rnida qollanadi (Urg., Xv.，Xnq.. H.asp., Y.ariq., Y.bzr.， Grin.). Ax^cun cindmla van nun uhuurit a.pkalciilu. apkin [apkin] 一 shabada，sliamol. vengil. may in shamol (Xnq., Xv.， Q.kpr., H.asp.). Yciizm cipkini zorda:n hci: bcinbir. aplamii [aplama] - naridan-beri, tar",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-11",
+    "topic": "OCR xatolari",
+    "issue": "Ba:s OCRda bars, a:lakim arlakim, c/j/sh/ch belgilarida buzilish bor.",
+    "decision": "Asl rasm va muharrirlik soddalashtirish alohida.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 75,
+        "printed_page": 74,
+        "anchor": "balls",
+        "quote": "g., Xnq., Y.bzr., Bg't.). Toyni bdrdkinci burclbjm'i?Tuza gcilmm salanun'i alcfiijnu. bars [bars] - balls, biror narsa, holat yoki masalani yoqlash maqsadida octadigan munozara, tortishuv; musobaqa, bellashuv (Xorazmning ay rim hududlarida). Sa/ja 公c文уgdhb bomidi s'ira, Xuda has gcimcisd у ec; kim M s gcimidi .v幻\" 公. bavak = buvak [bavak, buvak] 一 go4dak, chaqaloq, emadigan, kockrakdan ajratilmaga",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 65,
+        "printed_page": 64,
+        "anchor": "salomiga javob",
+        "quote": "g barclia hududlarida). Xaimrn'i is si ahb qarvcidik, tez acidi. a:Iakim [arlakim] - suhbatdoshning salomiga javob qaytarishi (sheva asosida) (Urg.，Bg‘t.，Y.bzr., G.rln.，Xnq.). _ Assdlam ata， - Addkirn balani. alapasirdl [alapasirdi] - g‘ala-g‘ovur, sliovqin-suron, to‘polon, qiy-cluiv (Xorazmning barclia hududlarida). 64",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-12",
+    "topic": "-yatir variantlari tavsifi",
+    "issue": "T1 -yatirni bir variantli deb bayon qiladi; T4 janubiy Xorazm uchun -yatir/-yetir shakllarini beradi.",
+    "decision": "Darsliklar tavsifidagi farq saqlanadi; bitta universallik qoidasi chiqarilmaydi.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "bir variantli",
+        "quote": "~ gormak, ishonmoq ~ ытанмак, ~ i:nanmaq; - hozirgi zamon davom fe’li -йатьр ~ jatir affiksi (u ham bir variantli) bilan shakllanadi: kelyahti ~ гэйатьр ~ gajatbr, boryapti ~ барйатьр ~ barjatbr, 65",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 84,
+        "printed_page": null,
+        "anchor": "-йатир",
+        "quote": "лди эмас, гелди, ти- рик эмас, д й р и Морфология сохасида: 1) аник хозирги замой феъ- лининг шакли -йатир, -й'этир тарзида келади: гел- йагьр, барйатыр; 2) келаси замон феъли -ж а к кУ\" шимчаси билан ясалади: г е л а ж а к, б а р а ж а к ка- билар. Жанубий Хоразм диалекти узинииг бир цанча лек- сик хусусиятлари билан *ам фарк килади IV. Чициб келиш жи.\\а1идан .\\ар хил булган ш е­ валар. Бу гуру^г",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-13",
+    "topic": "Bilimmän yozuvi",
+    "issue": "X1 PDF 127 rasmida bilimmän; oddiy bilman tarzida qisqartirish zamon/inkor talqinini buzishi mumkin.",
+    "decision": "Ravishdosh + bil- qobiliyatga oid kuzatuv; to‘liq shaxs paradigmasi tasdiqlanmagan.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 127,
+        "printed_page": 126,
+        "anchor": "bilimmein",
+        "quote": "asini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — biratoMa, uzil-kesil holda, butun boricha, hech qoldirmay; butunhy, taiTK»mila, batamom, birvarakayiga, birdaii, bir yo la ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XD-14",
+    "topic": "Tarixiy ma’lumot ikkilamchi",
+    "issue": "X3 Budenz, Polivanov, Abdullayev, Jo‘rayev ishlarini bayon etadi.",
+    "decision": "O‘sha asarlar asl nusxasi shu turnida o‘qilmadi; 1865 tarix maqola muallifi da’vosi sifatida.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor": "1865",
+        "quote": "ari haqida ma‘lumotlar xorijiy olimlar tomonidan berilgan. Xorazm shevalari haqidagi ilk ma‘lumotni 1865 yilda nemis tilshunos olimi Y.Budens o‗zining ―Xiva tatarchasi‖ [4; 269-331] nomli maqolasida beradi. Aytish joizki, ―Xiva tatarchasi (turkchasi)‖ ishi hali xorazmshunos-dialektologlar tomonidan o‗rganishdan chetda qolayotgan tadqiqotlardan bo‗lib, uzoq vaqtlardan beri Xorazm shevalari haqida m",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X3",
+        "pdf_page": 7,
+        "printed_page": null,
+        "anchor": "fokus",
+        "quote": ", Toshhovuz viloyatini (Turkmaniston) Xorazm dialektal zonasi tarkibiga kiritib, dialektal zonaning fokus nuqtasi etib, Urganch-Xiva shevalarini oladi [7; 68]. Foydalanilgan adabiyotlar: 1. Ashirboyev S. Oʻzbek dialektologiyasi. T.: ―Nodirabegim‖. 2021. 2. Абдуллаев Ф.А. Хоразм шевалари. Тошкент: Фан. 1961. 3.Абдуллаев Ф. Фонетика Хорезмских говоров узбекского язык. Дисс... фил. н. Ташкент, 1961. ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  }
+]

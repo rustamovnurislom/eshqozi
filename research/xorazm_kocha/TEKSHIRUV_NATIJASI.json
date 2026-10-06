@@ -1,0 +1,14 @@
+{
+  "evidence_consistency": "passed",
+  "task_completion": "partial_blocked",
+  "verified_pdf_hashes": 3,
+  "verified_evidence_references": 25,
+  "provisional_dialect_discourse_cards": 20,
+  "chat_messages_read": 0,
+  "modern_chat_slang_verified": false,
+  "required_input": [
+    "C1 export with nonempty messages",
+    "C2 ZIP or chunks under 32 MiB"
+  ],
+  "web_sources_read": 0
+}

@@ -1,0 +1,113 @@
+{
+  "id": "xorazm_janubiy_oguz_research_v1",
+  "language": "uz",
+  "purpose": "Kelajakdagi Telegram bot uchun manbali uslub tayanchi; bot kodi emas.",
+  "default_region_candidate": "Urganch–Xiva o‘g‘uz asosli",
+  "default_region_is_editorial_choice": true,
+  "all_xorazm_represented_by_default": false,
+  "region_profiles_file": "HUDUDIY_PROFILLAR.json",
+  "lexicon_file": "LUGAT.json",
+  "grammar_file": "GRAMMATIKA.json",
+  "prompt_file": "BOT_USLUB_PROMPTI.txt",
+  "examples_file": "NUTQ_NAMUNALARI.json",
+  "tone": [
+    "tabiiy va samimiy",
+    "suhbatdoshga mos hurmat",
+    "mazmunni aniq yetkazish"
+  ],
+  "addressing": {
+    "default": "siz",
+    "informal": "Foydalanuvchi norasmiy uslubni tanlasa sen.",
+    "kinship_terms": "Aka/apa/ana/og‘o/biyi har kimga bezak murojaat qilib qo‘shilmaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 10,
+        "printed_page": 9,
+        "anchor": "dada, ota",
+        "quote": "!}lagiin'izda ertci bahardan hdimmii daraxtlanni d.klidi, bizciram a.kla^inuz gcirdk. iikii [aka] - dada, ota ma nosida (Xorazmning barcha hududlarida). Bi gayndkm inaija dkcirn dogilgan gummdci cippcirycin. akan [akan] - ekan, fe’I, shuningdek, boshqa turkumga oid so‘zlar bilan birikib, o‘tgan zamon va boshqalar modal ma’nolarni ifodalash ucliun xizmat qiladi. To‘liqsiz fe’l vazifasida qoMIanilad",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 36,
+        "printed_page": 35,
+        "anchor": "ona ( Xorazmning",
+        "quote": "opa singillarga nisbatan ishlatiladi (Xnq.. Urg.). Apaytilci tcz-tez y'igiladila. a pa [opo] - 〇yi, ona ( Xorazmning barcha hududlarida). Apamlara q'kfinb bw'sam, apcim dkcim Ы(т bir yera getibdila dkcin. apabiyi [opobiyi] —katta opa, o'zidan katta opalarga nisbatan ishlatiladi (Grin., Y.bzr.). Apcibiyim bilan gaplci^dik. apaq |opoq] - tuzuk, yaxshi, erkalash uchun ishlatiladi (Xorazmning barcha h",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor": "xo‘jayin",
+        "quote": "amoq，o‘zgarmoq，tarafga (H.asp.，Bg‘t. ， Urg., X v.). Agirgcigan tarqfci agavarmd. a：ga [〇g‘〇] - aka, xo‘jayin (Xorazmning barcha hududlarida). VM qollidon a:galar'i kup апщ. 57",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  "initial_low_risk_vocabulary_candidates": [
+    "XL-046",
+    "XL-049",
+    "XL-100",
+    "XL-102",
+    "XL-107",
+    "XL-126",
+    "XL-129",
+    "XL-134",
+    "XL-153",
+    "XL-177"
+  ],
+  "vocabulary_policy": "Nomzodlar gap ma’nosiga mos ishlatiladi; ularning hammasi har javobda qo‘llanmaydi.",
+  "morphology_policy": "Zamon, shaxs, son, inkor va yo‘nalish saqlanadi. To‘liq paradigma berilmagan fe’l taxmin bilan tuslanmaydi.",
+  "generation_readiness": {
+    "source_backed_rules_prepared": true,
+    "native_speaker_validated": false,
+    "modern_chat_frequency_measured": false,
+    "audio_pronunciation_verified": false,
+    "trained_model_weights": false,
+    "telegram_bot_implemented_this_task": false
+  },
+  "regional_separation": [
+    "Urganch–Xiva profiliga shimoliy qipchoq j-lashishni umumiy qoida qilib qo‘shma.",
+    "Gurlan/Amudaryo j-lovchi, y-lovchi va boshqa tarixiy tiplari alohida.",
+    "Hazorasp–Yangiariq va aralash guruhlar uchun to‘liq mustaqil generatsiya profili hali tasdiqlanmagan.",
+    "Tuman nomi o‘sha tumandagi barcha qishloqlar shevasi bir xil degani emas."
+  ],
+  "orthography": {
+    "output": "O‘qilishi qulay oddiy lotin yozuvi; bir suhbatda izchil variant.",
+    "scientific_transcription": "Alohida dalil sifatida saqlanadi; chatga tasodifiy belgilar ko‘chirilmaydi.",
+    "ocr": "OCR boshliqning to‘g‘ri yozuvi yoki zamonaviy chat imlosi sifatida olinmaydi."
+  },
+  "sense_selection_required": [
+    "aka",
+    "apa/opo",
+    "ana",
+    "biyi",
+    "barak",
+    "bitta/pitta",
+    "bol",
+    "kadi",
+    "dars",
+    "eshik",
+    "axsham",
+    "alam"
+  ],
+  "unsupported_generation_fallback": "Ma’noni saqlab, oddiy o‘zbekcha gap va dalilli lokal birliklardan foydalan.",
+  "website_imported_entries": 0
+}

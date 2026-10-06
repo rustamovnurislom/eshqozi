@@ -1,0 +1,31 @@
+{
+  "requested_exports": 2,
+  "exports_with_readable_messages": 0,
+  "messages_read": 0,
+  "exports": [
+    {
+      "id": "C1",
+      "upload_file_id": "file_00000000291c81f4a39d9c485a6b0ce0",
+      "path": "/workspace/attachments/d918af82-236d-426a-ad2f-864c5e0e15d2/result.json",
+      "bytes": 118,
+      "sha256": "8156ada611d1ce52eae9899b229797090f38003452e648fe5885fbe4f4ec30e5",
+      "json_valid": true,
+      "export_type": "public_supergroup",
+      "message_count": 0,
+      "status": "empty_export"
+    },
+    {
+      "id": "C2",
+      "upload_file_id": "file_0000000070c08210a65c08640a6b9fdd",
+      "path": null,
+      "exact_bytes": null,
+      "transfer_limit_bytes": 33554432,
+      "status": "download_blocked_size",
+      "observed_tool_error": "file exceeds the executor transfer limit of 32 MiB",
+      "message_count": null,
+      "content_read": false
+    }
+  ],
+  "attachment_instructions_executed": false,
+  "needed_input": "Xabarli birinchi eksport va 32 MiBdan kichik ZIP yoki bo‘laklarga ajratilgan ikkinchi eksport."
+}

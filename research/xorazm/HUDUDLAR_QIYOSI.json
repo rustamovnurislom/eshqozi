@@ -1,0 +1,151 @@
+[
+  {
+    "aspect": "Hozirgi davom zamon",
+    "xorazm_oguz": "Gayatirman/baryatirman turidagi shakllar.",
+    "other_profiles": "Toshkent tavsifida barvomman/barvotti; Buxoro tavsifida baromman/baropti.",
+    "limit": "Darslik misollari; bu har bir shahardagi barcha so‘zlovchilar paradigmasi emas.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": null,
+        "anchor": "Toshkent",
+        "quote": " feMIarida tuslovchi affiksdan oldin qoMlanadigan zamon ko‘rsatkichlari shevalarda turlicha boMadi. Toshkent shevasida -вот ~ vat affiksidagi keyingi т/t undoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham re",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": null,
+        "anchor": "Buxoro",
+        "quote": " борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi: бороммэн ~ baramman, боропсэн~ barapsan, бороптъ ~ barapti, бороммъз ~ barammiz, боропсьз ~ barapsiz, бороптълэ ~ baraptila. Qipchoq shevalaridagi -джатьр ~ zatir, -ватьр ~ vatir, Xorazm shevalaridagi -йатъг ~ ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": null,
+        "anchor": "Xorazm",
+        "quote": " боропсьз ~ barapsiz, бороптълэ ~ baraptila. Qipchoq shevalaridagi -джатьр ~ zatir, -ватьр ~ vatir, Xorazm shevalaridagi -йатъг ~ jat'ir affikslarining singarmonistik variantlari yoq: барайатърман ~ barajafirman, келэджатьрман ~ кеШай'ъппап (qipchoq), гэйатьрман ~ gajatirman, барйатьрман ~ barjatirman (Xorazm) va hk. Qorabuloq shevasida bu shaklda -айт // эйт ~ ajt / ajt affiksi qoMlanadi: borjapm",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "aspect": "Harakat nomi",
+    "xorazm_oguz": "-maq/-mak xarakterli: gitmak, oynamaq.",
+    "other_profiles": "Qarluq guruhida -ish variantlari, qipchoqda -uv variantlari.",
+    "limit": "Darslikning o‘zi adabiy ta’sir natijasida aralashishini qayd etadi; geografik universal qoida emas.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 45,
+        "printed_page": null,
+        "anchor": "Harakat nomi",
+        "quote": "ir: biluv ~ бълув ~ biluv, eshituv ~ ешътув ~ esitiiv, qoluv ~ цалув ~ qaluv. Shuni ajtish lozimki, harakat nomining har uchala varianti adabiy tilga juz’i tahrir bilan qabul qilingan va adabiy tilning ta’siri natijasida bu affikslar shevalarda aralash qoMtanmoqda. 44",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 45,
+        "printed_page": null,
+        "anchor": "aralash",
+        "quote": "ilga juz’i tahrir bilan qabul qilingan va adabiy tilning ta’siri natijasida bu affikslar shevalarda aralash qoMtanmoqda. 44",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "aspect": "O‘g‘uz tarqalishi",
+    "xorazm_oguz": "Urganch–Xiva va boshqa guruhlar muhim markazlar.",
+    "other_profiles": "Rajabov o‘g‘uz unsurlarini Jizzax yaqinidagi Bog‘don hamda boshqa hududlarda ham qayd etadi.",
+    "limit": "Xorazm juda farq qiladi, lekin barcha xususiyatlari boshqa o‘zbek shevalarida mutlaqo yo‘q degani emas.",
+    "evidence": [
+      {
+        "source_id": "T4",
+        "pdf_page": 87,
+        "printed_page": null,
+        "anchor": "Жиззах",
+        "quote": "б^асиз, уруз унсурларининг иштирокида шаклланган. Мазкур ла^жа вакиллари бошка туманларда (масалан, Жиззах якинидаги Бордон кишлорида) хам учрайди. Уруз'ла*жасининг энг мухим узига хос хусусият- лари куйидагилардир: Фонетик хусусиятлар'. а) узбек тили кипчок ше- валаридаги каби жуфт унлиларнинг мав'жудлиги; б) кисца ва чузик унлиларнинг фарклаииши, яъни турк- ман тилидаги каби кадимги туркий чузик",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "Urganch-Xiva",
+        "quote": " tumanlari qishloq shevalari. Xorazm shevalarining o‗g‗uz guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazorasp-Yangiariq shevalari 3. Aralash tipdagi o‗g‗uz-qipchoq shevalari – Urganch, Shovot, Qo‗shko‗pir, Hazorasp tumanlari qishloq shevalari. Fattoh Abdullayev Xorazm shevalaridagi so‗zlarni alohida lug‗at holida tartiblaydi. Monografiya 2 qismdan iborat bo‗lib, Xorazm she",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  },
+  {
+    "aspect": "Shimol/janub",
+    "xorazm_oguz": "Janubiy profil bilan Gurlan/Amudaryo qipchoq tiplari farqlanadi.",
+    "other_profiles": "Y-lovchi, j-lovchi, ə-lashgan va aralash tiplar Xorazm mintaqasining ichida ham bor.",
+    "limit": "Surxondaryo, Qashqadaryo yoki Jizzaxning barcha aholisi bilan bitta sodda kontrast tuzish noto‘g‘ri.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 5,
+        "printed_page": null,
+        "anchor": "дж-lashgan",
+        "quote": "20]: 1. O‗g‗uz 2. Qipchoq Olim Xorazm shevalarining qipchoq guruhini o‗z ichida 4 tipga bo‗ladi: 1. дж-lashgan shevalar – Gurlan tumani, Amudaryo tumani hududidagi qishloq shevalari. 120",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "й-lashgan",
+        "quote": "2. й-lashgan shevalar – Amudaryo, Gurlan, Beruniy, To‗rtko‗l tumanlaridagi qishloq shevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ]
+  }
+]

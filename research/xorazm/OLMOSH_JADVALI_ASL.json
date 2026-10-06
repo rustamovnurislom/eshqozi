@@ -1,0 +1,112 @@
+[
+  {
+    "row": 1,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "bunga",
+    "right_as_printed": "binga",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 2,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "bunga",
+    "right_as_printed": "minga",
+    "ambiguous_source_row": true,
+    "note": "Bunga ikki marta yozilgan; ikkinchi qatorning taxminiy tuzatishi fakt sifatida kiritilmaydi.",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 3,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "unga",
+    "right_as_printed": "yunga",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 4,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "undan",
+    "right_as_printed": "vundan",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 5,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "ana shu",
+    "right_as_printed": "onoshu",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 6,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "mana shu",
+    "right_as_printed": "inashu",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 7,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "ana",
+    "right_as_printed": "ono",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 8,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "mana",
+    "right_as_printed": "ina",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 9,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "menga",
+    "right_as_printed": "monga",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  },
+  {
+    "row": 10,
+    "source_id": "X4",
+    "pdf_page": 6,
+    "printed_page": 390,
+    "left_as_printed": "senga",
+    "right_as_printed": "songa",
+    "ambiguous_source_row": false,
+    "note": "",
+    "image_path": "/workspace/research/xorazm/images/X4_006.png"
+  }
+]

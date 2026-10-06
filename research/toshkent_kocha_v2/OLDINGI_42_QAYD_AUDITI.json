@@ -1,0 +1,632 @@
+[
+  {
+    "old_id": "SK-001",
+    "form": "Bratan",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-07-15T00:21:41",
+      "last_match_date": "2021-07-15T00:21:41",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-002",
+    "form": "Bratishka",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-003",
+    "form": "Rodnoy",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-04-28T21:22:04",
+      "last_match_date": "2021-04-28T21:22:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-004",
+    "form": "Kotta bola",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-04-24T09:12:22",
+      "last_match_date": "2021-06-05T12:05:49",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-005",
+    "form": "Otdushi",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-04-30T17:37:56",
+      "last_match_date": "2021-08-12T23:12:08",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-006",
+    "form": "Seryozniy",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 8,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-04-24T09:16:42",
+      "last_match_date": "2021-08-05T23:57:02",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-007",
+    "form": "Tupik",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-008",
+    "form": "Dvijeniya",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-05T20:48:15",
+      "last_match_date": "2021-05-05T20:48:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-009",
+    "form": "Kidat qilmoq",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-08-06T00:01:37",
+      "last_match_date": "2021-08-06T00:01:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-010",
+    "form": "Zashshita qilish",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-011",
+    "form": "Vapshe",
+    "previous_provenance": "user_seed",
+    "exact_variant_match_stats": {
+      "matching_messages": 25,
+      "deduplicated_author_text_pairs": 25,
+      "first_match_date": "2021-04-26T13:02:39",
+      "last_match_date": "2021-08-13T01:09:35",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-012",
+    "form": "Brat",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 9,
+      "deduplicated_author_text_pairs": 9,
+      "first_match_date": "2021-05-01T22:56:19",
+      "last_match_date": "2021-07-15T00:28:21",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-013",
+    "form": "Malades",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 5,
+      "deduplicated_author_text_pairs": 5,
+      "first_match_date": "2021-04-26T06:47:39",
+      "last_match_date": "2021-06-03T13:27:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-014",
+    "form": "Krasavchik",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-015",
+    "form": "Chotki",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-05-07T11:32:34",
+      "last_match_date": "2021-05-27T06:12:29",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-016",
+    "form": "Realniy",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-26T23:53:37",
+      "last_match_date": "2021-05-26T23:53:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-017",
+    "form": "Krutoy",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-018",
+    "form": "Jostki",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-019",
+    "form": "Bez bazara",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-020",
+    "form": "Bazar yo‘q",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-021",
+    "form": "Bazar qilma",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-022",
+    "form": "Po faktu",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-06-19T14:20:29",
+      "last_match_date": "2021-06-19T14:20:29",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-023",
+    "form": "Po lyubomu",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-024",
+    "form": "Karoche",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-025",
+    "form": "Tema",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-04-27T13:19:38",
+      "last_match_date": "2021-08-10T23:16:29",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-026",
+    "form": "Tusovka",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-027",
+    "form": "Pont",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-028",
+    "form": "Pont qilmoq",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-029",
+    "form": "Prikol",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-05-15T21:58:58",
+      "last_match_date": "2021-05-22T02:01:17",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-030",
+    "form": "Oblom",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-031",
+    "form": "Razbor",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-032",
+    "form": "Otvet",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-033",
+    "form": "Bomba",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-05-02T02:41:43",
+      "last_match_date": "2021-07-28T00:31:58",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-034",
+    "form": "Top",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 5,
+      "deduplicated_author_text_pairs": 5,
+      "first_match_date": "2021-05-11T21:26:03",
+      "last_match_date": "2021-08-05T23:55:38",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-035",
+    "form": "Kayf",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-036",
+    "form": "Prosta",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 32,
+      "deduplicated_author_text_pairs": 32,
+      "first_match_date": "2021-04-25T14:11:39",
+      "last_match_date": "2021-08-12T19:11:57",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-037",
+    "form": "Ko‘ki",
+    "previous_provenance": "pdf_social_jargon_not_tashkent_specific",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-038",
+    "form": "Yakan",
+    "previous_provenance": "pdf_social_jargon_not_tashkent_specific",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-039",
+    "form": "Otar",
+    "previous_provenance": "pdf_social_jargon_not_tashkent_specific",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-040",
+    "form": "Blya",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-05-16T06:31:28",
+      "last_match_date": "2021-08-10T21:40:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-041",
+    "form": "Pizdes",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-06-01T09:22:45",
+      "last_match_date": "2021-06-03T22:46:36",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  },
+  {
+    "old_id": "SK-042",
+    "form": "Zayebis",
+    "previous_provenance": "analyst_candidate_not_verified",
+    "exact_variant_match_stats": {
+      "matching_messages": 0,
+      "deduplicated_author_text_pairs": 0,
+      "first_match_date": null,
+      "last_match_date": null,
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "source_specific_11_word_review_path": null,
+    "match_is_not_automatic_semantic_confirmation": true,
+    "new_external_confirmation": false
+  }
+]

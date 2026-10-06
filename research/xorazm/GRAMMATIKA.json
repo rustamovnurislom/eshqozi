@@ -1,0 +1,825 @@
+[
+  {
+    "id": "XG-01",
+    "title": "Qaratqich va tushum",
+    "claim_uz": "Urganch-Xivada qaratqich va tushum -ni bilan ifodalanishi; boshqa -ing/-in variantlari bor.",
+    "scope": "Janubiy o‘g‘uz va darslik varianti.",
+    "bot_application": "Egalik va obyekt ma’nosini aralashtirma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "qaratqich va tushum",
+        "quote": "ьц башь ~ atirj basi, bizning shahrimiz ~ бъзъц щпамьс ~ bizirj qalam'is. Urganch, Xeva shevalarida qaratqich va tushum kelishiklari -нъ/нь ~ ni/rii affiksi bilan ifoda qilinadi; - jo‘nalish kelishigi affiksi -а/э ~ a/a variantida ham qoMlanadi: otimga ~ атьма ~ а:1ъта, ishga ~ и:шэ ~ i:sa\\ - sifatning intensiv shakli дьм ~ dim ravishi bilan shakllanadi: дьм йахшь ~ dim jaxs'i, дьм и:ссь ~ dim i:s",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "Qaratqich",
+        "quote": "Qaratqich kelishigi –niŋ//-nïŋ, -ni/-nï, -in/-ïn qo’shimchalari orqali ifodalanadi: mana uchragan kishini adini bilmayman kabi. Qadimgi yozma yodgorliklarga xos bo’lgan –in tarixiy shakllari bilan ham ishlatiladi. Misol, kerakli dashin arami yo’q; ko’pin ishi ko’l bo’lur. Tushum kelishigi uchun –i/-",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-02",
+    "title": "Jo‘nalish -a",
+    "claim_uz": "Otimga-otima, ishga-isha singari -a variantlari mavjud.",
+    "scope": "O‘g‘uz guruhi.",
+    "bot_application": "Harakat kimga/qayerga ekanini saqla.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "otimga",
+        "quote": "ii affiksi bilan ifoda qilinadi; - jo‘nalish kelishigi affiksi -а/э ~ a/a variantida ham qoMlanadi: otimga ~ атьма ~ а:1ъта, ishga ~ и:шэ ~ i:sa\\ - sifatning intensiv shakli дьм ~ dim ravishi bilan shakllanadi: дьм йахшь ~ dim jaxs'i, дьм и:ссь ~ dim i:ssi, дьм йатап ~ dim jaman; - men, sen, u olmoshlari yolgMz holda мэн, сэн, у ~ тйп, san, и tarzida, jo ‘nalish kelishigida маца, саца, уца ~ matja",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "ancha faol",
+        "quote": "na shakllari mavjud: tuyaga- diyaga, murodiga-murodina, yerga-yira kabi. –a shakli o`g`uz lahjasida ancha faol qo’llanuvchi qo’shimchadir. O’rin-payt kelishigi –da, -ta qo’shimchasi bilan qo’llaniladi. So’z unli va jarangli undosh bilan tugasa –da, jarangsiz undosh bilan tugasa -ta qo’shimchasi qo’llaniladi: bolada-balada, ko’zda-go’zda, kinoda-kinoda, qishda-qishta, itda-itta kabi. O`g`uz lahjasi",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-03",
+    "title": "Jo‘nalish -na",
+    "claim_uz": "Qo‘liga-alina, bolasiga-balasina; murodiga-murodina misollari.",
+    "scope": "Egalik bilan keladigan o‘g‘uz shakllari.",
+    "bot_application": "So‘zga ko‘r-ko‘rona na qo‘shma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 34,
+        "printed_page": null,
+        "anchor": "alina",
+        "quote": " цольма ~ qolima, gullarga ~ гуллэрэ ~ gullara. -на/нэ ~ na/na affiksi o'g'uz shevalarida uchraydi: alina (qoMiga) ~ элънз ~ alina, bolasiga ~ баласьна ~ balas'ina, -йа/йэ ~ ja/ja affiksi Qarshi shevasida uchraydi: xurmaga ~ хурмайа ~ xurmaja, o‘ziga ~ вгъйэ ~ dzija, U katta akasiga xurmada qatiq olib 33",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "murodina",
+        "quote": "alalarin kabi. Jo’nalish kelishigining –ga, -ka, -a, -na shakllari mavjud: tuyaga- diyaga, murodiga-murodina, yerga-yira kabi. –a shakli o`g`uz lahjasida ancha faol qo’llanuvchi qo’shimchadir. O’rin-payt kelishigi –da, -ta qo’shimchasi bilan qo’llaniladi. So’z unli va jarangli undosh bilan tugasa –da, jarangsiz undosh bilan tugasa -ta qo’shimchasi qo’llaniladi: bolada-balada, ko’zda-go’zda, kinoda",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-04",
+    "title": "Chiqish -nan",
+    "claim_uz": "m, n, ng bilan tugagan so‘zlarda o‘zingnan, bo‘yingnan singari variantlar.",
+    "scope": "Xorazmda tovush muhiti.",
+    "bot_application": "Barcha dan ni nan ga almashtirish qoidasi emas.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 35,
+        "printed_page": null,
+        "anchor": "m, n",
+        "quote": "qbdan, maxlyqdan ~ махлуцтан ~ maxlyqtan (qipchoq); -нэп / нан ~ nan/nan affiksi Xorazm shevalarida m, n, ng(n/t|) tovushlari bilan tugagan sozlarga qo‘shiladi: o'zingdan ~ взъцнэн ~ dzirjnan, bo‘yingdan ~ бойуцнан ~ bojurjnan. -дъп / дъп / пгьн / тьн ~ din / din / tin / tin affiksi shimoliy o'zbek shevalarida bu kelishikning asosiy affiksidir: sutchidan ~ суйтчъдън ~ sujtcidin, oshxonadan ~ ашхан",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-05",
+    "title": "O‘rin-payt va chiqish",
+    "claim_uz": "-da/-ta va -dan/-tan tovush muhitiga qarab; ishtan/qishta misollari.",
+    "scope": "Darslik o‘g‘uz guruhi.",
+    "bot_application": "Jo‘nalish, o‘rin va chiqish semantikasini saqla.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "qishta",
+        "quote": "osh bilan tugasa -ta qo’shimchasi qo’llaniladi: bolada-balada, ko’zda-go’zda, kinoda-kinoda, qishda-qishta, itda-itta kabi. O`g`uz lahjasida so’z-o’zak va negizlarning qattiq va yumshoqligiga amal qilgan holda chiqish kelishigining qo’shimchasi –dan, - tan ko’rinishiga ega: poezddan-poyizddan, ishdan-ishtan kabi; 2) kelasi zamon aniq fe`li ko’pincha –jaq//-jak qo’shimchalari bilan shakllanadi: bar",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "ishtan",
+        "quote": "n holda chiqish kelishigining qo’shimchasi –dan, - tan ko’rinishiga ega: poezddan-poyizddan, ishdan-ishtan kabi; 2) kelasi zamon aniq fe`li ko’pincha –jaq//-jak qo’shimchalari bilan shakllanadi: barjaqman, getjäksän kabi; 3) o’tgan zamon sifatdosh –an shaklida bo’ladi: gïtän, ölän kabi; 4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti; ko’rgan edi – go’räntï kabi; 5) ko’",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-06",
+    "title": "Ko‘plik -la/-lar",
+    "claim_uz": "Gullar-gulla va olinglar-alingla kabi -la, shuningdek -lar/-lär/-ler variantlari.",
+    "scope": "Manba va sheva variantlari.",
+    "bot_application": "Son va hurmat munosabatini yo‘qotma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "ko‘plik affiksi",
+        "quote": "ishilik olmoshi birligida *yAy ~ huAu ko'pligida *упар/*упар ~ hularAular tarzida diftonglashadi; - ko‘plik affiksi -лэ/ла ~ la/la variantida ham qoMlanadi: gullar ~ гуллэ ~ guild olinglar ~ алъцла ~ alitjla; - tartib son -нджь ~ nzi variantida qoMlanadi; birinchi ~ бърънджъ ~ birinzi, beshinchi ~ бешънджь ~ besinzi; - harakat nomi -мак/мэк ~ maq/mak affiksi bilan hosil qilinadi: ko‘rmoq ~ гормэк ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "dïlekler",
+        "quote": "ï kabi; 5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud: qo’ylar, gechchïlär, dïlekler kabi. O`g`uz lahjasi leksikasining asosiy qismini o’zbek adabiy tilida ishlatiladigan umumturkiy so’zlar tashkil qiladi. Shevalar leksikasida forscha- tojikcha so’zlar arabcha so’zlarga qaraganda ko’pchilikni tashkil etadi. Mazkur",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-07",
+    "title": "Men/sen va jo‘nalish",
+    "claim_uz": "Man/san, manga/sanga kabi o‘g‘uz variantlari; X4da monga/songa.",
+    "scope": "Darslik va X4, turli yozuvlar.",
+    "bot_application": "Bir oilani hamma tumanga bir xil shaklda majburlama.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "olmoshlari",
+        "quote": "an shakllanadi: дьм йахшь ~ dim jaxs'i, дьм и:ссь ~ dim i:ssi, дьм йатап ~ dim jaman; - men, sen, u olmoshlari yolgMz holda мэн, сэн, у ~ тйп, san, и tarzida, jo ‘nalish kelishigida маца, саца, уца ~ matja, saw . Ща variantlariga ega boladi. Ill shaxs kishilik olmoshi birligida *yAy ~ huAu ko'pligida *упар/*упар ~ hularAular tarzida diftonglashadi; - ko‘plik affiksi -лэ/ла ~ la/la variantida ham q",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "olmoshlarning",
+        "quote": "ensiya №. 01 (2025) shevada ayrim leksikologik o‘ziga xosliklar ham mavjud. Xorazm shevasida asosan olmoshlarning variantlari ko‘p va adabiy tildan tubdan farq qiladi. Shevalarda ham omonimlikni kuzatishimiz mumkin. Masalan “kadi” so‘zini ikki xil ma’nosi bor. Birinchi ma’nosi “qovoq” bo‘lsa, ikkinchi ma’nosi “sevgan qizi(yigiti)” ma’nosida keladi. Korpusni yaratishda frazeologiyalarni ham kiritis",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-08",
+    "title": "Qipchoq olmoshlari",
+    "claim_uz": "Magan/sagan/ugan va -jatir/-vatir shakllari qipchoq tavsifida bor.",
+    "scope": "Qipchoq, janubiy profilga qo‘shilmaydi.",
+    "bot_application": "Hududiy profil tanlansa shu profilning shakllarini saqla.",
+    "evidence": [
+      {
+        "source_id": "T4",
+        "pdf_page": 87,
+        "printed_page": null,
+        "anchor": "Жуналиш",
+        "quote": "и н, •дын, -дин, -ТЫ Н//“Т И Н//*Н И//-И И//-Д Ы//-Д и, -ты// -тн каби куринишларга эга булади.. 2. Жуналиш келишигида кишилик олмоши бирлик шаклл-ари -м а г а н //м э г эн, са г а н // с э г э н, уран// у г э н деб *ам кулланилали 3. Аник *озирги замон феъли -жатыр // - ж э т и р ( б а ж а ра ж а т ы р , к е л э ж э т и р каби)ва баъзан -ва­ ты р ( б а р а в а т ы р , к э л э в а т ы р ) каби бош",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 87,
+        "printed_page": null,
+        "anchor": "б а р а в а т ы р",
+        "quote": "н феъли -жатыр // - ж э т и р ( б а ж а ра ж а т ы р , к е л э ж э т и р каби)ва баъзан -ва­ ты р ( б а р а в а т ы р , к э л э в а т ы р ) каби бошка к^шим- чалар билан хосил цилинади. 4. Келаси замон сифагдошн -тыган, - т и г а н къби кушиичалар билан ясалади; ж а з а т ы р а н , к э л з г ы - ган, о к ы й т ы р а н ва бошкалар. П. Угуз ла^жаси. Урузла^жаси вакиллари Хива, Хол­ ка, Шовот, Хазора",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-09",
+    "title": "Hozirgi davom -yatir",
+    "claim_uz": "Gayatir va baryatir, shaxsda gayatirman/baryatirman misollari.",
+    "scope": "Xorazm o‘g‘uz darslik tavsifi.",
+    "bot_application": "Toshkent qvoman/kevotti bilan bitta qolipga solma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "davom",
+        "quote": "si bilan hosil qilinadi: ko‘rmoq ~ гормэк ~ gormak, ishonmoq ~ ытанмак, ~ i:nanmaq; - hozirgi zamon davom fe’li -йатьр ~ jatir affiksi (u ham bir variantli) bilan shakllanadi: kelyahti ~ гэйатьр ~ gajatbr, boryapti ~ барйатьр ~ barjatbr, 65",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": null,
+        "anchor": "гэйатьр",
+        "quote": "singarmonistik variantlari yoq: барайатърман ~ barajafirman, келэджатьрман ~ кеШай'ъппап (qipchoq), гэйатьрман ~ gajatirman, барйатьрман ~ barjatirman (Xorazm) va hk. Qorabuloq shevasida bu shaklda -айт // эйт ~ ajt / ajt affiksi qoMlanadi: borjapman ~ барайтма ~ barajtma, borjapsan ~ барайтса ~ barajtsa, borjapti ~ барайттъ ~ barajtt'i, ajtjapman ~ е:дэйтмэ ~ e. ddjtma, ajtjapsan ~ е:дэйтсэ ~ eid",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-10",
+    "title": "Kelasi -jak/-jaq",
+    "claim_uz": "Barjaqman/getjäksän, kelajak-barajak singari kelasi shakllar.",
+    "scope": "O‘g‘uz guruhi.",
+    "bot_application": "Shaxs, vaqt va niyatni saqla; hamma kelasi gap uchun yagona shakl emas.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "barjaqman",
+        "quote": "hdan-ishtan kabi; 2) kelasi zamon aniq fe`li ko’pincha –jaq//-jak qo’shimchalari bilan shakllanadi: barjaqman, getjäksän kabi; 3) o’tgan zamon sifatdosh –an shaklida bo’ladi: gïtän, ölän kabi; 4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti; ko’rgan edi – go’räntï kabi; 5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud: qo’ylar, gechchïlär, dïlekler ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 84,
+        "printed_page": null,
+        "anchor": "б а р а ж а к",
+        "quote": "елади: гел- йагьр, барйатыр; 2) келаси замон феъли -ж а к кУ\" шимчаси билан ясалади: г е л а ж а к, б а р а ж а к ка- билар. Жанубий Хоразм диалекти узинииг бир цанча лек- сик хусусиятлари билан *ам фарк килади IV. Чициб келиш жи.\\а1идан .\\ар хил булган ш е­ валар. Бу гуру^га куйидаги шевалар киради: а) К °\" рабулок. Ицон, Манкент. Бу шевалар иакиллари IX — XII асрларда Урнашиб колган Караткич кел",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-11",
+    "title": "Birgalik istak -li",
+    "claim_uz": "Galali/barali; kelali kabi birgalik taklifi.",
+    "scope": "O‘g‘uz guruhi.",
+    "bot_application": "Taklifni bir kishiga buyruq qilib yuborma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 67,
+        "printed_page": null,
+        "anchor": "boraylik",
+        "quote": "g ko'plikdagi I shaxs shakli -лъ/ль ~ li/l'i affiksi bilan shakllanadi: kelaylik ~ гэлэлъ ~ galali, boraylik ~ бараль ~ bar ali; - buyruq-istak fe’lining II shaxs birligida o‘g‘uz lahjasining o‘ziga xos shakli qoilanadi: bersangchi ~ бэрсэцэ ~ barsarja, borsangchi ~ барсаца ~ barsarja; - kelasi zamon feiida -а/э ~ a/a affiksli ravishdoshi asosida -сь/сь ~ sf/si affksi bilan hosil qilingan shakli q",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 88,
+        "printed_page": null,
+        "anchor": "к е л э л и",
+        "quote": "аси би- лан цулланилиши: к е л э ж э к ; г) истак феъли шакли- нинг -ли кУшимчаси билан ишлатилиши: к е л э л и ; д) б е р с э н э — берсангчи туридаги буйрук феъли шаклларининг мавжудлиги ва бошцалар Уруз лахжаси шевалар микдорига на т у ла^жада сузловчи а холи сонига кура узбек тилининг бошка лахжаларига нисбатан кам миклорда уярайди. III. Царлуц-чигил-уйрур ла^жаси. Узбек тилининг карлук-чигил-",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-12",
+    "title": "-sana iltimos-buyruq",
+    "claim_uz": "Barsana/bersana turidagi borsangchi/bersangchi shakli.",
+    "scope": "Darslikdagi o‘g‘uz mayli.",
+    "bot_application": "Oddiy yordamda buyruq ohangini yumshoq va mos tut.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 67,
+        "printed_page": null,
+        "anchor": "borsangchi",
+        "quote": "II shaxs birligida o‘g‘uz lahjasining o‘ziga xos shakli qoilanadi: bersangchi ~ бэрсэцэ ~ barsarja, borsangchi ~ барсаца ~ barsarja; - kelasi zamon feiida -а/э ~ a/a affiksli ravishdoshi asosida -сь/сь ~ sf/si affksi bilan hosil qilingan shakli qoilanadi: аласьм / аласьц / алась ~ alasim / alasirj / alasi; аласьмъз(с) / аласьцьз(с) / алась~ alasimiz(s) / a.lasir\\iz(s) / alasi; и:чзсъм / шчэсъц / ш",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 88,
+        "printed_page": null,
+        "anchor": "берсангчи",
+        "quote": "ж э к ; г) истак феъли шакли- нинг -ли кУшимчаси билан ишлатилиши: к е л э л и ; д) б е р с э н э — берсангчи туридаги буйрук феъли шаклларининг мавжудлиги ва бошцалар Уруз лахжаси шевалар микдорига на т у ла^жада сузловчи а холи сонига кура узбек тилининг бошка лахжаларига нисбатан кам миклорда уярайди. III. Царлуц-чигил-уйрур ла^жаси. Узбек тилининг карлук-чигил-уйгур ла^жаси ша^ар шеваларини оа",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-13",
+    "title": "Harakat nomi -maq/-mak",
+    "claim_uz": "Gormak, gitmak, oynamaq kabi variantlar.",
+    "scope": "O‘g‘uz guruhi; adabiy ta’sirda aralashish qaydi ham bor.",
+    "bot_application": "Barcha fe’l oxirini so‘zga qaramasdan o‘zgartirma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 45,
+        "printed_page": null,
+        "anchor": "ojnamaq",
+        "quote": "nashadi: - м э к / мак, ~ так / maq affiksi o’g‘uz lahjasi uchun xarakterlidir oynamoq ~ ойнамак, ~ ojnamaq, ketmoq ~ гътмэк ~ gitmak. -ш / ъш / ыи / уш / уш ~ s / is / is /u s / us qarluq-chigil-uyg‘ur lahjasining xususiyatidir: bilish ~ бълъш ~ bilis, yigMsh ~ йьгьш ~ jiyis, o‘rish ~ opyui ~ orus, ko‘rish ~ квруш ~ koris. Singarmonizmni yo'qatgan shevalarda ш / ьш ~ s /is variantlarigina qo'iian",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "harakat nomi",
+        "quote": " -нджь ~ nzi variantida qoMlanadi; birinchi ~ бърънджъ ~ birinzi, beshinchi ~ бешънджь ~ besinzi; - harakat nomi -мак/мэк ~ maq/mak affiksi bilan hosil qilinadi: ko‘rmoq ~ гормэк ~ gormak, ishonmoq ~ ытанмак, ~ i:nanmaq; - hozirgi zamon davom fe’li -йатьр ~ jatir affiksi (u ham bir variantli) bilan shakllanadi: kelyahti ~ гэйатьр ~ gajatbr, boryapti ~ барйатьр ~ barjatbr, 65",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-14",
+    "title": "To‘liqsiz fe’l adi/akan",
+    "claim_uz": "Edi/ekan lug‘atda alohida kiritilgan.",
+    "scope": "X1 tumanlari.",
+    "bot_application": "Xabar manbai, zamon va taxmin ma’nosini saqla.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 9,
+        "printed_page": 8,
+        "anchor": "toMiqsiz",
+        "quote": " Grin., Xv.). A clandci ot'ir'ip qaytdvdrcl ik //ddcinncin gdlib lor nidniki disdn adi fadi] - edi, toMiqsiz fe’l, shuningdek, boshqa turkumga о id so'zlar bilan birikib, o‘tgan zamon va boshqa modal ma’nolarni ifodalash uchun xizmat qiladi (Xv., Bg‘t., H.asp., Urg., Shvt., Xnq.). Mavlyuda b'i gdipldnu dvcilcim bilmcis cidi ox^icfi adik [adik] 一 etik, oyoq kiyim (Xnq., Urg., Shvt., Bg4.). Bazarda ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 10,
+        "printed_page": 9,
+        "anchor": "To‘liqsiz",
+        "quote": "d so‘zlar bilan birikib, o‘tgan zamon va boshqalar modal ma’nolarni ifodalash ucliun xizmat qiladi. To‘liqsiz fe’l vazifasida qoMIaniladi (Xv., Urg., Bg‘t.). 9",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-15",
+    "title": "Murakkab o‘tgan zamon",
+    "claim_uz": "Barivadim/barivadik va olpadim singari shakllar; X1da olib keldi fe’li shakllari berilgan.",
+    "scope": "Darslik Xorazm qaydi va Xonqa lug‘ati.",
+    "bot_application": "Infinitiv izohi bilan shaxsli gapni bir xil birlik deb qabul qilma.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 46,
+        "printed_page": null,
+        "anchor": "Xorazm",
+        "quote": "здък ~ barivadik, барвэдъцъз ~ barivadirjiz, барьвэдъцлз ~ barivaditjla, барьвэдълэ ~ bar 'ivadila (Xorazm); Toshkent guruh shevalarida: борувдъм ~ baruvdim, бэрувдъц ~ baruvdit], борувдъ ~ baruvdi; борувдъй ~ baruvdij, борувдъ:з ~ baruvdi:z, бзрувдъйлз ~ baruvdijla, бэрыиувдъ ~ barisuvdi (Toshkent). Qarshi-Buxoro guruh shevalarida -r/ar sifatdosh affikslari fe’l shakllarida -й/j affiksi bilan alm",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 34,
+        "printed_page": 33,
+        "anchor": "olgan edim",
+        "quote": "kning bir turi (Xorazmning ayrim hududlarida). Bagim'iza almurut kogciti 公ktik. alpa:dim [olpadim] —olgan edim, fe’l so‘z turkumi (Xnq.). Ustarm teyinndn nan on'iqlar'irn alpa:dim. alqa§ (olqosh) - spirtli ichimlikni ko‘p ichadigan; aroqxo'r, mayparast kislii (Xorazmning barcha hududlarida). Alqa^ bogan'i i\\(；un kcisal tap'ib ertd getti begard. altaxta [oltoxto] - eshak aravaning old qismi (Xorazm",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-16",
+    "title": "-an sifatdosh va -ti edi",
+    "claim_uz": "Gitän, ölän; o‘qianti/go‘ränti misollari.",
+    "scope": "T2 o‘g‘uz tavsifi.",
+    "bot_application": "Hamma hududda aynan shu qolip borligi da’vo qilinmaydi.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "sifatdosh",
+        "quote": "i ko’pincha –jaq//-jak qo’shimchalari bilan shakllanadi: barjaqman, getjäksän kabi; 3) o’tgan zamon sifatdosh –an shaklida bo’ladi: gïtän, ölän kabi; 4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti; ko’rgan edi – go’räntï kabi; 5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud: qo’ylar, gechchïlär, dïlekler kabi. O`g`uz lahjasi leksikasining asosiy q",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 86,
+        "printed_page": null,
+        "anchor": "go’räntï",
+        "quote": "än kabi; 4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti; ko’rgan edi – go’räntï kabi; 5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud: qo’ylar, gechchïlär, dïlekler kabi. O`g`uz lahjasi leksikasining asosiy qismini o’zbek adabiy tilida ishlatiladigan umumturkiy so’zlar tashkil qiladi. Shevalar leksikasida forscha- tojikcha so’zlar arabcha so’zlarg",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-17",
+    "title": "Istak -asi + galdi",
+    "claim_uz": "I:chasim galdi turida ichgim keldi; shaxs variantlari bor.",
+    "scope": "T1 o‘g‘uz guruhi.",
+    "bot_application": "Xohish va ro‘y bergan harakatni ajrat.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 67,
+        "printed_page": null,
+        "anchor": "i. casi",
+        "quote": "цьз(с) / алась~ alasimiz(s) / a.lasir\\iz(s) / alasi; и:чзсъм / шчэсъц / шчжуь ~ icasim / i.casit] / i. casi; шчэсъмъз(с) / и:чэсьцъз(с) / и:чэсь ~ icasimiz(s) / i:casir;i3(s) / i. casi. Bu so'z гэлдъ ~ galdi so‘zi bilan birga qoilanadi. Lahja leksikasidan namunalar: go‘zal ~ aiinapa - ajpara, ha ~ aea / xpeea ~ ava / havva, poraxo'r ~ а:льмсак, ~ aAimsaq, kichik sandiq ~ а:рджа ~ a.rza, arava shot",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-18",
+    "title": "Bil- yordamchi fe’li",
+    "claim_uz": "Palavni dim yaxshi pishirib bilimmän misolida ravishdosh + bil- qobiliyat ma’nosiga nomzod sifatida ajratildi.",
+    "scope": "X1 dim misoli; gap konteksti.",
+    "bot_application": "Bil-ning yordamchi vazifasi kontekstda o‘qiladi; bilimmän shaklini OCR sabab bilman deb qisqartirib, inkorga o‘zgartirmang. To‘liq paradigma bu lug‘atda yo‘q.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 127,
+        "printed_page": 126,
+        "anchor": "bilimmein",
+        "quote": "asini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — biratoMa, uzil-kesil holda, butun boricha, hech qoldirmay; butunhy, taiTK»mila, batamom, birvarakayiga, birdaii, bir yo la ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 20,
+        "printed_page": 19,
+        "anchor": "uddalab",
+        "quote": "ga (Xv., Urg., Grln.,Y.bzr.). Yax.filab iizcit, aplama etmci (Y.bzr.). aplamaq [aplamoq] - eplamoq, uddalab bajarish, biror bir ishni o‘ziga ma’qul, munosib qilib bajarish (Urg., Shvt., Xnq.). S公n yalgan soUamakcim dplab gdipinb bibiisdn apli [apli] —epli, qo'Iida ish keladigan, uddalay oluvchi, biror ishga qobil, yaroqli boigan, biror ish qoiidan keladigan; layoqatli (Xv., Urg.). Oiz bala dcigan ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-19",
+    "title": "Inkorni saqlash",
+    "claim_uz": "Ishliy/qo‘ymiy, arzimidi va dushunmadim kabi inkorli shakllar ma’noda muhim.",
+    "scope": "Manbalardagi alohida misollar.",
+    "bot_application": "Tushunmadimni tushundim qilib yuborma; manba boshlig‘i xatosini ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 144,
+        "printed_page": 143,
+        "anchor": "tushunmadim",
+        "quote": "A.x^ani chl^imci ginbsdn. du^unmak [dushunmak] - tushunmadim (H.asp.，Xnq. ，Shvt.). Bir gappujam dii^unmudim. cliiijalak [dungalak] 一 paxta egatlarini yumshatadigan p red met (Xorazmning ay rim hududlarida). At'iza bar'ib ciihjalcik yunialab gcilcih. doddi [do‘ddi] - ko‘riiiislii yoqimsiz, gavdasi, tashqi bichimi kelishmagan, beso'naqay; ro'dapo. B",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor": "Arzimidi",
+        "quote": "asmiy-odatiy undov so‘z (Bg't., Xv.) - Hcimmd i^ldnmci qara^'ib. kirlcinm yuvganuj ii^iin rcihmdt. —Arzimidi. asa [asa] - esa bog'lovchisi o‘rnida qo41anadi (Xv” Xnq., Bg‘t” Shvt.). San cisd i^lciruji cilib ЬоПЬ izimniin barcivar. asiibbizar [asabbuzar] - kimningdir haddan ortiq asabiga tegmoq (Xv., Urg., Bg‘t.). Qotfislanuz'i balas'i dim asdbb'izar ax'ir, koccidci hammcim asabma deyddi. asamat [a",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "qo’ymiy",
+        "quote": "sichqon – sichon kabi; 9) a unlisi y undoshi oldida i bilan almashinadi: ishlay – ishliy, qo’ymay – qo’ymiy kabi. Morfologik xususiyatlar: 1) kelishik qo’shimchalari qo’yidagicha:",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-20",
+    "title": "Dim kuchaytirgichi",
+    "claim_uz": "Dim sifat ortirma darajasi va juda ma’nosini ifodalaydi.",
+    "scope": "X1 va T1 o‘g‘uz guruhi.",
+    "bot_application": "Vaziyatga mos kuchaytir, har javobga tiqma.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 127,
+        "printed_page": 126,
+        "anchor": "sifatning ortirma",
+        "quote": "'. dim [dim] - juda, g4oyat, ortiq, nihoyat darajada, haddan tashqari, g'oyat; nihoyatda, benihoya. sifatning ortirma darajasini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "intensiv",
+        "quote": "iksi -а/э ~ a/a variantida ham qoMlanadi: otimga ~ атьма ~ а:1ъта, ishga ~ и:шэ ~ i:sa\\ - sifatning intensiv shakli дьм ~ dim ravishi bilan shakllanadi: дьм йахшь ~ dim jaxs'i, дьм и:ссь ~ dim i:ssi, дьм йатап ~ dim jaman; - men, sen, u olmoshlari yolgMz holda мэн, сэн, у ~ тйп, san, и tarzida, jo ‘nalish kelishigida маца, саца, уца ~ matja, saw . Ща variantlariga ega boladi. Ill shaxs kishilik ol",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-21",
+    "title": "-don ta’kid",
+    "claim_uz": "Bo‘ladidon misolida -da ta’kidga mos don shakli berilgan.",
+    "scope": "X4da tumani ko‘rsatilmagan.",
+    "bot_application": "T1/T2 darsliklarda shu misol tekshirilmagan; lokal nomzod, default majburiy emas.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 4,
+        "printed_page": 388,
+        "anchor": "bo‘ladidon",
+        "quote": "asiga to‘g‘ri keladi: Sovg‘a bermaganingdan keyin xafa bo‘ladi-da. Sovg‘a barmaganingdan keyin xofo bo‘ladidon. “-ku” qo‘shimchasi ham kuchaytiruv-ta’kid yuklamasi turiga kiradi, Xorazmda bu qo‘shimcha “-qu” shaklida keladi: Hamma gaplarimni senga aytdim-ku! Hamma gaplarimi songo oytdm-qu. Ko‘makchilarga keladigan bo‘lsak, ular ham Xorazm she’vasida turlicha ifodalanadi: 1) “so‘ngra” ko‘makchisi v",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-22",
+    "title": "-qu ta’kid",
+    "claim_uz": "Oytdm-qu misolida ku/qu ta’kid varianti beriladi.",
+    "scope": "X4da tumani ko‘rsatilmagan.",
+    "bot_application": "Qo‘shimchani har gapga majburan qo‘shma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 4,
+        "printed_page": 388,
+        "anchor": "oytdm-qu",
+        "quote": "razmda bu qo‘shimcha “-qu” shaklida keladi: Hamma gaplarimni senga aytdim-ku! Hamma gaplarimi songo oytdm-qu. Ko‘makchilarga keladigan bo‘lsak, ular ham Xorazm she’vasida turlicha ifodalanadi: 1) “so‘ngra” ko‘makchisi vazifadosh ko‘makchilar sirasiga kirib, Xorazm she’vasida “o‘sin” shaklida keladi: Tushda ishdan kelaman, so‘ng uyda dam olaman. Abetda ishdan galaman, o‘sin uyda dam olomon. Xorazm ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-23",
+    "title": "O‘sin ketma-ketlik",
+    "claim_uz": "So‘ng/so‘ngra ma’nosida o‘sin misoli bor.",
+    "scope": "X4da tumani ko‘rsatilmagan.",
+    "bot_application": "Vaqt ketma-ketligini saqla; barcha keyin so‘zini almashtirma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 4,
+        "printed_page": 388,
+        "anchor": "o‘sin",
+        "quote": "ha ifodalanadi: 1) “so‘ngra” ko‘makchisi vazifadosh ko‘makchilar sirasiga kirib, Xorazm she’vasida “o‘sin” shaklida keladi: Tushda ishdan kelaman, so‘ng uyda dam olaman. Abetda ishdan galaman, o‘sin uyda dam olomon. Xorazm shevasini korpusini yaratish uchun avvalo ma’lumot yig‘ildi ya’ni 600ta shevaga oid so‘zlar yig‘ib chiqilgan. Ushbu jadvalda to‘rtta tumanda so‘zlarning qanday aytilishi alohida",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XG-24",
+    "title": "Olmosh jadvali xatosi",
+    "claim_uz": "Bunga→binga va bunga→minga ikki qator; ikkinchisi aniqlashtirilmagan.",
+    "scope": "X4 rasm, PDF 6.",
+    "bot_application": "Minga uchun taxminiy standart juftni fakt qilib kiritma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "olmoshlarning",
+        "quote": "ensiya №. 01 (2025) shevada ayrim leksikologik o‘ziga xosliklar ham mavjud. Xorazm shevasida asosan olmoshlarning variantlari ko‘p va adabiy tildan tubdan farq qiladi. Shevalarda ham omonimlikni kuzatishimiz mumkin. Masalan “kadi” so‘zini ikki xil ma’nosi bor. Birinchi ma’nosi “qovoq” bo‘lsa, ikkinchi ma’nosi “sevgan qizi(yigiti)” ma’nosida keladi. Korpusni yaratishda frazeologiyalarni ham kiritis",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  }
+]

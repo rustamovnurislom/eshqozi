@@ -1,0 +1,869 @@
+[
+  {
+    "id": "GRA-001",
+    "label": "-vot/-vat hozirgi davom",
+    "meaning_or_analysis_uz": "Toshkent shahar uchun kevotti va borvot- qatori qayd etilgan; zamon va shaxs alohida saqlanadi.",
+    "area": "Toshkent shahar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгьшть ~ jetisti, ",
+        "search_needle": "кевотть",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "ndoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi:",
+        "search_needle": "борвоттъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-002",
+    "label": "Hozirgi davomning shaxs qatori",
+    "meaning_or_analysis_uz": "borvomman / borvossan / borvotti / borvammiz(a) / borvossila / borishvotti. T1 jadvali; uchinchi ko‘plik -ish ishtirokida.",
+    "area": "Toshkent shahar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": ", борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi: бороммэн ~ baramman, боропсэн~ barapsan, бороптъ ~ barapti, бороммъз ~ barammiz, боропсьз",
+        "search_needle": "barisvattL",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-003",
+    "label": "-ot davom shakli",
+    "meaning_or_analysis_uz": "T1 borotti, T4 borottim/kelottim qayd qiladi; shahar profiliga avtomatik ko‘chirilmaydi.",
+    "area": "Parkent, Piskent; Yangiyo‘lning manbadagi qishloq shevalari",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгьшть ~ jetisti, qurishdi ~ куруштъ ~ qurusti. -ляр ~ lar",
+        "search_needle": "боротть",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "ажан вилоят ^аккулобод шеваси) б л р э т т ъ м . к е л э т т ъ м .Янгий^л тумани Ни твои, Паркеит, Нискент шевалари), сув гутэтпъ, узъмъздъ къй: к е л э т ъ л э (Косом тумани Корлук Шеваси) кабилар. Булардан ташкари, яна -вэтъ, -вотъп шакллари *ам мавжуд булиб. бу курсаткичлар -вэт куш",
+        "search_needle": "Паркеит, Нискент",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-004",
+    "label": "Parkentda -vat ham bor",
+    "meaning_or_analysis_uz": "T4 Parkent yor-yorida opkevottim shakli orqali ko‘rsatadi. Bitta namuna -ot ni inkor etmaydi.",
+    "area": "Parkent; folklor",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "в э т т ъ , ъ шлэ- в эт м ъз дегэи Карноб) вабошкалар Тошкент ва Карнобдаги бу хусусичтни Паркент шевасидч *ам учратамиз: чърнъллъ ъдэра учунэпке- в э т т ъ м ь , \\а ъдэрага э п к е в э т т ъ м , э п к е в э к э н Къзъмъз Сетка лэйук йэр-йэр каби. Аник ^озирги замон феълининг ",
+        "search_needle": "Паркент",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "ичтни Паркент шевасидч *ам учратамиз: чърнъллъ ъдэра учунэпке- в э т т ъ м ь , \\а ъдэрага э п к е в э т т ъ м , э п к е в э к э н Къзъмъз Сетка лэйук йэр-йэр каби. Аник ^озирги замон феълининг »вот шакли билан ясалиши Кочгонсой районидаги баъзи кишлок шевалари- да, масалан, Чннлаул шеваси",
+        "search_needle": "э п к е в э т т ъ м",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-005",
+    "label": "Qaratqich va tushum -ni",
+    "meaning_or_analysis_uz": "Bir affiks ikkala vazifada keladi; sintaktik egalik/obyekt munosabatlari yo‘qolmaydi.",
+    "area": "Toshkent guruhi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " - 5ta kelishikli sheva; - bu shevalarda -нъ ~ ni affiksi (fonetik variantlari bilan) ham qaratqich, ham tushum kelishigini ifoda etadi: suvning tegi ~ суввъ тэйъ - suvvi teji, pichoqning sopi ~ ръс/гз:пъ sopb ~ pica:ni sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshk",
+        "search_needle": "qaratqich, ham tushum",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-006",
+    "label": "suvvi teyi",
+    "meaning_or_analysis_uz": "Suvning tegi: genitiv munosabat; vv assimilyatsiyasi.",
+    "area": "Toshkent guruhi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "etik variantlari bilan) ham qaratqich, ham tushum kelishigini ifoda etadi: suvning tegi ~ суввъ тэйъ - suvvi teji, pichoqning sopi ~ ръс/гз:пъ sopb ~ pica:ni sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от",
+        "search_needle": "суввъ тэйъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-007",
+    "label": "atti min",
+    "meaning_or_analysis_uz": "Otni min: tushumdagi obyekt; tt assimilyatsiyasi.",
+    "area": "Toshkent guruhi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "тэйъ - suvvi teji, pichoqning sopi ~ ръс/гз:пъ sopb ~ pica:ni sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining",
+        "search_needle": "atti min",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-008",
+    "label": "-la ko‘plik",
+    "meaning_or_analysis_uz": "T1 uylar/gullar, T4 bula deb beradi; oddiy ko‘plik vazifasi.",
+    "area": "Toshkent shahar va boshqa qayd etilgan shevalar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 31,
+        "printed_page": null,
+        "anchor_normalized_whitespace": " Xorazm shevalarida faol qo'llanadi: uylar ~ ойлэ ~ ojla, qo‘yinglar ~ крйьйлз ~ qojijla, gullar ~ гуллэ ~ gulla, kunlar ~ гуллэ ~ guild. -нэ ~ na affiksi Namangan shevasida qayd qilinadi: uyinglar ~ уйъйня ~ ujijnd, qo‘yingiar ~ крйъйиэ ~ qojijna. -ла ~ la variant! esa Xoraz",
+        "search_needle": "gullar",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 166,
+        "printed_page": null,
+        "anchor_normalized_whitespace": ", баъзан тушиб цолади. Натижада -лэр> •лэ холатига эга булади, яъни -л э деб кУлланилади: б у л э х^р кунъ келъшгэн (Тошкент), мегмэнла кел* ли чэки (Бухоро), б ъ з л э эслъ орътепэлъй болэмъз (Жиззах), э н э м л э м э : манна кетгу1Э (Карши), си* лэ эвэл кельцла (Ургут) кабэ.",
+        "search_needle": "б у л э",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-009",
+    "label": "-la hurmat birlik",
+    "meaning_or_analysis_uz": "ekamla, dadamla bitta insonni ham hurmat bilan bildiradi; sonni kontekstdan aniqlash kerak.",
+    "area": "Toshkent shahar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 167,
+        "printed_page": null,
+        "anchor_normalized_whitespace": " курсаткичи ^урмат маъно- сини билдириш учун *амда якка шахе учун кУллани- лади. Масалан. э кэмлэ, д э д э м л э (Тошкент). ул къшъ э ц у в ч ъ л э , к е с ъ л л э (Фаргона) каби. Бундай хусусиятлар Наманган шевасида хам учрайди. -лэр кУшимчаси тулик холати ва узгариб, -лэ тар",
+        "search_needle": "э кэмлэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 167,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "чи ^урмат маъно- сини билдириш учун *амда якка шахе учун кУллани- лади. Масалан. э кэмлэ, д э д э м л э (Тошкент). ул къшъ э ц у в ч ъ л э , к е с ъ л л э (Фаргона) каби. Бундай хусусиятлар Наманган шевасида хам учрайди. -лэр кУшимчаси тулик холати ва узгариб, -лэ тар- зида келишида",
+        "search_needle": "д э д э м л э",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-010",
+    "label": "Egalikdan oldin r saqlanishi",
+    "meaning_or_analysis_uz": "T4 ularnı paxtaları misolida -lar qayta tiklanishini izohlaydi; tarixiy kuzatuv, zamonaviy mutlaq shart emas.",
+    "area": "Toshkent va manbadagi qiyosiy guruh",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 167,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "а л а р и жуда шум боладу (Ургут); к ' ь з л з р ь н ъ сочи узун экэн (Ша^рисабз); улэрнъ п э х т э л э р ъ (Тошкенг) кабилар. Купгина шеваларда -лэ курсаткичи ^урмат маъно- сини билдириш учун *амда якка шахе учун кУллани- лади. Масалан. э кэмлэ, д э д э м л э (Тошкент). ул къшъ э ц у в",
+        "search_needle": "п э х т э л э р ъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-011",
+    "label": "-gi jamlik: adamgila",
+    "meaning_or_analysis_uz": "Adasi va u bilan birga boshqalar. Faqat ko‘p ota degani emas.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_normalized_whitespace": "-гъ ~ gi affiksi Toshkent shevasida jamlik ma’nosini ifoda qiladi: эдэмгълэ ~ adamgila (adam + boshqalar). оиьтгълэ ~ ajimgild (oyim + boshqalar); - fe’l tuslanushining I shaxs ko‘pligida -вуз / вузэ ~ vuz/vuza, -в/y e ~ v / uv affikslari qatnashadi: боровуз / боров",
+        "search_needle": "adamgila",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-012",
+    "label": "-gi jamlik: oyimgila",
+    "meaning_or_analysis_uz": "Oyisi va u bilan birga boshqalar. Murojaat va referentni farqlash kerak.",
+    "area": "Toshkent dialekti",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 31,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "gi; -гъ ~ gi affiksi shaxsni bildiruvchi so'zlarg* qo'shilib, jamlik ma’nosini anglatadi: эйъмгълэ - djbmgila (bu o'rinda oylsl va boshqa shaxslar birgalikda tushuniladi), ддзмгълг ~ aditmgild (bu o'rinda ham adasi va boshqa shaxslar birgalikda tushuniladi). Til tarixida ko'pli",
+        "search_needle": "эйъмгълэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-013",
+    "label": "-lig/-lug jamlik",
+    "meaning_or_analysis_uz": "T1 oylug‘i/ishlig‘i kabi birliklarda jamlikni qayd etadi; barcha otlarga unumli yasash uchun dalil yetarli emas.",
+    "area": "Toshkent guruhi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "qurusti. -ляр ~ lar affiksi va uning variantlari hurmat va uluglash ma’nosini ifodalaydi. -лъг/луг ~ lig/lug affiksi ko‘plik ma’nosini ham anglatadi: ularning uylari ~ уля:нъ ойлугъ ~ ula:ni uylari, dadamlarning ishlari ~ эдэмгълэ:нъ ъшлъгъ ~ adamgila:ni isligi. 57",
+        "search_needle": "-лъг/луг",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-014",
+    "label": "I ko‘plik: -vuz/-vuza",
+    "meaning_or_analysis_uz": "baravuz/baravuza; bu shakllar barcha fe’l zamoniga o‘zgarishsiz qo‘shilmaydi.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_normalized_whitespace": "з / вузэ ~ vuz/vuza, -в/y e ~ v / uv affikslari qatnashadi: боровуз / боровузэ / бордув ~ baravuz / baravuza / barduv; Farg‘ona guruhi shevalari. Fonetik xususiyatlari: - so‘z boshida т/ч ~ t/c, с/ч ~ s/c undoshlari almashadi: tush ~ чуш ~ cus, tish ~ чъш ~ cis, soch ~ чоч ~ c",
+        "search_needle": "baravuz",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-015",
+    "label": "I ko‘plik o‘tgan: barduv",
+    "meaning_or_analysis_uz": "Bordik ma’nosidagi shakl, T1 va T4 qaydi.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_normalized_whitespace": "-в/y e ~ v / uv affikslari qatnashadi: боровуз / боровузэ / бордув ~ baravuz / baravuza / barduv; Farg‘ona guruhi shevalari. Fonetik xususiyatlari: - so‘z boshida т/ч ~ t/c, с/ч ~ s/c undoshlari almashadi: tush ~ чуш ~ cus, tish ~ чъш ~ cis, soch ~ чоч ~ cac\\ - so‘z oxirida к",
+        "search_needle": "barduv",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 224,
+        "printed_page": 226,
+        "anchor_normalized_whitespace": "исолларни куздан кечирайлик: Тошкент тевасида: Б и р л и к К у п л и к I шахе б э р д ъ м бэр дув, б э р д у з , бо р ду взэ И шахе б э р д ъ н бэ ръйъэ, бордъз, бэрдъилэ III шахе б э р д ъ б о р ъ ш т ъ , о о р д ъ л э <PapfOH.a шевасида: I шахе к е л й э п п э н ке л йэ п пъ",
+        "search_needle": "бэр дув",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-016",
+    "label": "I ko‘plik o‘tgan: barduz",
+    "meaning_or_analysis_uz": "T1 borduz/kelduz; T4 barduz. Unli yozuv farqlari saqlanadi.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 40,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "ashtiradi va bunda qisman fonetik o‘zgaish yuz beradi: bordik ~ бордуз - barduz, keldik ~ келдуз ~ kelduz. -в/вуз/вузэ ~ v/vuz/vuza affiksi bilan shakllangan fe’llarning i|o‘llanishi Toshkent shevasida kengroq: borsak ~ борсовуз(э) ~ harsovuz(a). Shuni ta’kidlash kerakki, bu ",
+        "search_needle": "келдуз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 224,
+        "printed_page": 226,
+        "anchor_normalized_whitespace": " куздан кечирайлик: Тошкент тевасида: Б и р л и к К у п л и к I шахе б э р д ъ м бэр дув, б э р д у з , бо р ду взэ И шахе б э р д ъ н бэ ръйъэ, бордъз, бэрдъилэ III шахе б э р д ъ б о р ъ ш т ъ , о о р д ъ л э <PapfOH.a шевасида: I шахе к е л й э п п э н ке л йэ п пъз//б а р йэп ",
+        "search_needle": "б э р д у з",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-017",
+    "label": "I ko‘plik: oldimiz / aytsamiz",
+    "meaning_or_analysis_uz": "T1 oldimiz, aytsamiz misollarini alohida qayd etadi; adabiy -miz ni barcha shaklda majburlash emas.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 38,
+        "printed_page": 37,
+        "anchor_normalized_whitespace": "i Toshkent shevasida -дъ ~ di, -сэ ~ sa affiksli so‘z shakllariga qo‘shila olgan: oldik ~ олдъмъз ~ aldimiz, aytsak ~ эйтсэмъз ~ ajtsamiz, berdik ~ бердъмъз ~ berdimiz, yursak ~ йурсэмъз ~ jursamiz.. 37",
+        "search_needle": "олдъмъз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 38,
+        "printed_page": 37,
+        "anchor_normalized_whitespace": "i, -сэ ~ sa affiksli so‘z shakllariga qo‘shila olgan: oldik ~ олдъмъз ~ aldimiz, aytsak ~ эйтсэмъз ~ ajtsamiz, berdik ~ бердъмъз ~ berdimiz, yursak ~ йурсэмъз ~ jursamiz.. 37",
+        "search_needle": "эйтсэмъз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-018",
+    "label": "Shart I ko‘plik: borsovuz(a)",
+    "meaning_or_analysis_uz": "Shart mazmuni; -sa tarkibida ham unli o‘zgarishi qayd etilgan.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 40,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "a affiksi bilan shakllangan fe’llarning i|o‘llanishi Toshkent shevasida kengroq: borsak ~ борсовуз(э) ~ harsovuz(a). Shuni ta’kidlash kerakki, bu affiks qo‘shilishida so‘zda sifat d'zgarishlari yuz beradi, ya’ni -s? ~ sa affiksi tarkibidagi э/a unlisi о unlisiga o‘tadi. -k/k, ~ k/",
+        "search_needle": "борсовуз(э)",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-019",
+    "label": "I ko‘plik: urdi:y",
+    "meaning_or_analysis_uz": "Toshkent/Qarshi uchun birgalikda qayd etilgan boshqa variant.",
+    "area": "Toshkent va Qarshi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 40,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "ьк, ~ hardiq. -и:й ~ i:j affiksi Toshkent va Qarshi kabi shevalarda iste’molda bor: urdik урди:й ~ urdi:j, bildik ~ бъпд:й ~ bildi.j. - II shaxs birligida -ц ~ ц affiksi qatnashadi (bu affiksni buyruq-istak maylidagi -ц ~ 7 affiksi bilan qorishtirmaslik kerak). Uning qo‘tlani",
+        "search_needle": "урди:й",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-020",
+    "label": "II ko‘plik egalik: kitopi:z",
+    "meaning_or_analysis_uz": "Kitobingiz ma’nosi. Shaxs-son va hurmat vazifasi grammatik kontekstdan aniqlanadi.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 33,
+        "printed_page": 32,
+        "anchor_normalized_whitespace": "haxs ko'pligida esa -ъ:з / ъйьз / йлэ ~ i:z / ijld / jla affiksi qatnashadi; kitobingiz ~ кьтопъ:з ~ kitapi.z, kitoblaring ~ кьтопъйлэ —kitdpijld. Kelishik kategoriyasi. M a’lumki, turkiy tilning dastlabki taraqqiyot dawida 7ta kelishik shakli bo‘lgan, hozirgi o‘zbek adabiy til",
+        "search_needle": "кьтопъ:з",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-021",
+    "label": "II ko‘plik fe’l: borvossiz",
+    "meaning_or_analysis_uz": "T1 -siz shaklini ham beradi; foydalanuvchini sheva bahonasida senlash kerak emas.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 39,
+        "printed_page": 38,
+        "anchor_normalized_whitespace": "arangsizlashadi. I -съз ~ siz varianti, deyarli, barcha shevalarda qoMlanadi: boryapsiz ~ борвоссъз ~ bdrvassiz (Toshkent), ketyspsiz ~ кетйэпсьг ~ ketjapsiz (Marg‘ilon). -съз / съз / с + лэ(р) / ла(р) ~ siz /siz / s + la(r) / la(r) varianti singarmonizmli shevalarda qo'iianadi:",
+        "search_needle": "борвоссъз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-022",
+    "label": "II ko‘plik: -s/-sila",
+    "meaning_or_analysis_uz": "Ishlaysiz/kelasila; boshqa shevalarga ham xos variant.",
+    "area": "Toshkent va Qarshi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 39,
+        "printed_page": 38,
+        "anchor_normalized_whitespace": "larida qo‘llanadi: ishlaysiz ~ bshfaus ~ islijs, ishlaysiz ~ ъшлэйс ~ islajs, kebsbzlar ~ келэсълэ ~ kelcisila. - Ill shaxsida affiks qatnashmaydi, lekin -а/э ~ а/а, -й ~ j, -6 ~ b affiksli ravishdoshlar ishtirok etgan fe’llarda va boshqa ayrim fe’llarda -дъ / дь / ть / ть ~ di",
+        "search_needle": "келэсълэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-023",
+    "label": "II o‘tgan: -yiz/-yla",
+    "meaning_or_analysis_uz": "Bajardiyiz, oldiyla, ishladiyla. Manbadagi konkret fe’l shakllari.",
+    "area": "Toshkent va Qarshi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 41,
+        "printed_page": 40,
+        "anchor_normalized_whitespace": "va Qarshi shevalarida, -зл» ~ zlii affiksi Qarshi shevasida iste’molda bor: bajardingiz ~ бэджэрдъйъз ~ bazardijz bordingiz ~ бордъзлэ ~ bardizla. -йлэ ~jld affiksi ham Toshkent va Qarshi shevalariga ko‘proq xarakterli: oldinglar ~ олдъйлэ ~aldijla, ishladinglar ~ ъшлэдъйлэ ~islad",
+        "search_needle": "бэджэрдъйъз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 41,
+        "printed_page": 40,
+        "anchor_normalized_whitespace": "zla. -йлэ ~jld affiksi ham Toshkent va Qarshi shevalariga ko‘proq xarakterli: oldinglar ~ олдъйлэ ~aldijla, ishladinglar ~ ъшлэдъйлэ ~isladijla -цпэ/цпа ~ rjla/rjla o ‘g ‘uz lahjasi shevalarida qo'iianadi: keldinglar гэлдъцлэ ~ galditjla, bordinglar ~ бардьцла ~ bardizla. - Il",
+        "search_needle": "олдъйлэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-024",
+    "label": "Buyruq/hurmat: keliyla",
+    "meaning_or_analysis_uz": "Kelinglar/olib boringlar uchun keliyla/oboriyla qaydi; adresat soni vaziyatga bog‘liq.",
+    "area": "Toshkent va Qarshi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "qoMlanadi. -йлэ ~ jla affiksi Toshkent, Qarshi kabi shevalarda qayd qilinadi: kelinglar ~ келъйлэ ~ kelijla, olib boringlar ~ оборъйлэ ~ abarijla. -(ъ)цЬ/(ь)ц1а ~ @)щ1э/@)щ1а affikslari Xorazm, QorakoM va Olot shevalariga xosdir: anglanglar (tushuninglar) ~ ацлацла ~ щ1ац1а, k",
+        "search_needle": "келъйлэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "nt, Qarshi kabi shevalarda qayd qilinadi: kelinglar ~ келъйлэ ~ kelijla, olib boringlar ~ оборъйлэ ~ abarijla. -(ъ)цЬ/(ь)ц1а ~ @)щ1э/@)щ1а affikslari Xorazm, QorakoM va Olot shevalariga xosdir: anglanglar (tushuninglar) ~ ацлацла ~ щ1ац1а, ko‘ringlar ~ гвръцля ~ goritjla. - Ill",
+        "search_needle": "оборъйлэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-025",
+    "label": "Istak I ko‘plik: -iylu",
+    "meaning_or_analysis_uz": "T1 ali ylu yozuvi matn qatlamida buzilgan; tasvir tekshiruvisiz tayyor fe’l tuzilmaydi.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "(Namahgan), жьйлу ~ alijlu (Toshkent), борэйнук ~ barajnuk (Namahgan, Xo‘jand) -эйлък/айльц ~ ajlik/ajliq affiksi aksariyat singarmonizmli shevalarda talaffuzda mavjud: tushaylik ~ чушэйлък ~ ctisajlik, qaraylik ~ цар",
+        "search_needle": "(Toshkent)",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-026",
+    "label": "biza / bizla",
+    "meaning_or_analysis_uz": "Biz ma’nosidagi so‘zlashuv variantlari; yolg‘iz kishining kamtarlik/mag‘rurlik nutqi alohida kontekst.",
+    "area": "Toshkent va bir necha shahar shevalari",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 174,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "нт, КУкон, КаттакУргон, Жиззах, Карноб, Пайшанба каби шахар ва шахар туридаги шевалардаги б ъ з э , б ъ з л э ол- мошларидаги -лэ, *э куплик курсаткичларининг куп­ лик шакли булган -лэр (-лар) кУшимчасининг турли куринишлари деб караш керак. Чунки юкорида'и ше- валарда -лар ку",
+        "search_needle": "б ъ з э",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 174,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "оллиги билан ажралиб туради. Юкоридаги шакллар бирликни англатган уринларда маррурлик ёки камтаринлик маъ« ноларини билдирганларида, узбек адабий тилндаги биз олмошига нисбатан фаркланади. Бу фарк, асосан, бъз, б ъ з э ва б ъ з л э олмошларининг услубий буёклиги- дадир. Б и з олмо",
+        "search_needle": "камтаринлик",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-027",
+    "label": "ula",
+    "meaning_or_analysis_uz": "Ular; -r qisqarishi. Katta guruhga umumiy belgi.",
+    "area": "Toshkent, Samarqand, Qarshi, Jizzax va boshqa qaydlar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 173,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "лзди. К'флук-чигил-уйгур лахжаеидаги шеваларда: а) кишилик олмошларининг III шахе кУплиги у л э саналади. Шевалардаги фонетик узгаришлар натижаси- да р ундошининг кам титраши билан боглик холда ту- шиб колади. Бу хусусият куечилик шеваларга хос фо- нетик конун булиб, корлук-",
+        "search_needle": "у л э",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-028",
+    "label": "senla / senlar",
+    "meaning_or_analysis_uz": "T4 oddiylik yoki nazar-pisand qilmaslikni ham qayd etadi. Botning standart adresati uchun hurmatli shakl saqlansin.",
+    "area": "Toshkent, Turkiston, Chimkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 174,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "и каратилган жамоани эътиборга олишни биринчи уринга кУйганлигини янада аниклаштиради; б) се н лэ , с е н л э р II шахе куплик шахсларида кУлланганда, сУзловчининг нутки каратилган объектга булгап муносабатини (оддийлик, назар-писанд килмас- лик каби) англагиб келадн. Бу олмош",
+        "search_needle": "се н лэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-029",
+    "label": "hovliya / bedanaya / dalaya",
+    "meaning_or_analysis_uz": "T4 Toshkentda -ya jo‘nalish variantini qayd etadi; qo‘shimcha hududi har misolda alohida.",
+    "area": "Toshkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 152,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "урсаткичи -йэ к^риниши- га эга булади Масалан, хэ вл ъй э, б е д э н э й э , дэ» л э й э (Тошкент); эдэм ко(р)ккан вэккэ тили кэли- м э й э кэмэй колэйкэн (Шахрисабз): улэ т э п э й э чъкдълэ (Каттакуррон) ва бошкалар. Баён этилаётган гуру* шеваларининг айримларида •гэ ва йэ у",
+        "search_needle": "Тошкент",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-030",
+    "label": "Qurama jo‘nalish olmoshlari",
+    "meaning_or_analysis_uz": "magan/sagan/o‘g‘an turidagi qipchoq qaydlari; matn qatlamidagi g‘/g/r buzilishi sababli asl tasvir tekshiruvi kerak.",
+    "area": "Qurama va boshqa nomlangan qipchoq shevalari",
+    "notes": "",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 153,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "уллвганда, м ара н//м э гэ н, сэ­ ра н//сэг эн, уран//оран леб к^лланилади. Бу хусу- снят Курама ва Булупрур, Пайарик, Раллаорол ва Иш- тихон каби туманлардаги кипчок шеваларининг вакил- лари нуткида ишлатилади. Айрим кипчод шеваларида- ги маган, саган, оран кишилик олмошлари",
+        "search_needle": "Курама",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-031",
+    "label": "-yotir adabiy ta’sirda",
+    "meaning_or_analysis_uz": "T4 Toshkentda odatiy shakl emasligini, lekin adabiy til/media ta’sirida uchrashini yozadi. 2026 nutqiga taqiq sifatida olinmaydi.",
+    "area": "Toshkent va Farg‘ona; tarixiy kuzatuv",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 206,
+        "printed_page": null,
+        "anchor_normalized_whitespace": " шеваларида аник хозирги за­ мон феълининг ясалишида—й этър курсаткичи ишгн- рок этмайди. Ленин алабий тил, радио, матбуот каби- ларнинг фаол таъсири остида уларда хам кисман бу шакл узлашиб бормокда. • йэ т ъп шакли феълнинг узагига кУшилган хол- да кулланилади. Масалан, мэн й э з й э",
+        "search_needle": "Ленин алабий тил",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-032",
+    "label": "Hamma inkor hozirgi davom emas",
+    "meaning_or_analysis_uz": "T4 bermavotti bilan birga aytmayman/yozmayman beradi. Fe’l zamoni va inkor alohida tahlil qilinadi.",
+    "area": "Qarluq-chigil-uyg‘ur guruhidagi misollar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": " коэирги замон феълининг булншсиз шакли -мэ к?шим- часи ёрдамида ясалади. Масалан, к^рзнъ б е р м э в э т т ъ , улэнъ э й т м э й м э н , мэн й э з м а й м а н каби. Тарихий манба >ардэ ё т и р шакли учрамаслиги, унинг кайси ла^жа материалларидан олингани туррисида турлича фикрлар мавжуд.",
+        "search_needle": "б е р м э в э т т ъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "аси ёрдамида ясалади. Масалан, к^рзнъ б е р м э в э т т ъ , улэнъ э й т м э й м э н , мэн й э з м а й м а н каби. Тарихий манба >ардэ ё т и р шакли учрамаслиги, унинг кайси ла^жа материалларидан олингани туррисида турлича фикрлар мавжуд. Бир гуру* олимлар—фило­ www.ziyouz.com kutubxonas",
+        "search_needle": "й э з м а й м а н",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "GRA-033",
+    "label": "adasi kevottila",
+    "meaning_or_analysis_uz": "Toshkentka nisbat berilgan oilaviy evfemistik murojaat va hurmat shakli. Begonaga erkin murojaat emas.",
+    "area": "Toshkent; oilaviy kontekst",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 287,
+        "printed_page": null,
+        "anchor_normalized_whitespace": ", дэмэт, п о ч ч а кабилар. Мисоллар: бнАисн, буйах кара, мехмэнла пел- дила (Самарканд), э д э с ъ кевзттила (Тошкент), ей хэтин, маига бир оз нэн тэпиб бе: (Ургут) ва бош- Калар. Уруз лахжаси материаллариаа хам табунинг кУ-пла- нилиши бошка узбек лахжа ва шевалари материал- ларидагига н",
+        "search_needle": "э д э с ъ кевзттила",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

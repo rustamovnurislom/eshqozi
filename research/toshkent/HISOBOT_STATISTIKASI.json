@@ -1,0 +1,19 @@
+{
+  "counts": {
+    "LUGAT": 61,
+    "FONETIKA": 35,
+    "GRAMMATIKA": 33,
+    "NUTQ_NAMUNALARI": 20,
+    "TEKSHIRILADIGAN_DAVOLAR": 16,
+    "HUDUDIY_PROFILLAR": 5,
+    "HUDUDLAR_QIYOSI": 9
+  },
+  "pdf_pages": 625,
+  "anchor_count": 215,
+  "sources": 4,
+  "page_images_inspected": 16,
+  "lexicon_status_counts": {
+    "manbada_qayd_etilgan": 54,
+    "tekshirish_kerak": 7
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "purpose": "Kelajakdagi bot uchun manbali ma’no kontrastlari; bot hali sinovdan o‘tkazilmagan.",
+  "cases": [
+    {
+      "id": "XS-01",
+      "trigger": "aka",
+      "required_meaning": "Xorazmga xos oilaviy kontekstda ota; har aka katta aka emas.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 10,
+          "printed_page": 9,
+          "anchor": "dada, ota",
+          "quote": "!}lagiin'izda ertci bahardan hdimmii daraxtlanni d.klidi, bizciram a.kla^inuz gcirdk. iikii [aka] - dada, ota ma nosida (Xorazmning barcha hududlarida). Bi gayndkm inaija dkcirn dogilgan gummdci cippcirycin. akan [akan] - ekan, fe’I, shuningdek, boshqa turkumga oid so‘zlar bilan birikib, o‘tgan zamon va boshqalar modal ma’nolarni ifodalash ucliun xizmat qiladi. To‘liqsiz fe’l vazifasida qoMIanilad",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-02",
+      "trigger": "opo / apa",
+      "required_meaning": "Ona; apka — opa bilan ajrat.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 36,
+          "printed_page": 35,
+          "anchor": "ona ( Xorazmning",
+          "quote": "opa singillarga nisbatan ishlatiladi (Xnq.. Urg.). Apaytilci tcz-tez y'igiladila. a pa [opo] - 〇yi, ona ( Xorazmning barcha hududlarida). Apamlara q'kfinb bw'sam, apcim dkcim Ы(т bir yera getibdila dkcin. apabiyi [opobiyi] —katta opa, o'zidan katta opalarga nisbatan ishlatiladi (Grin., Y.bzr.). Apcibiyim bilan gaplci^dik. apaq |opoq] - tuzuk, yaxshi, erkalash uchun ishlatiladi (Xorazmning barcha h",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X1",
+          "pdf_page": 19,
+          "printed_page": 18,
+          "anchor": "opa,",
+          "quote": "isc;ilik ёШЬ hdimm幻m aldaganuj bdan myatujd yelih bihmsdin apka=appiyi=ap9a [арка, appiyi, apeha] 一 opa, bir ota-onadan tug'ilgan farzandlar ichida o‘zidan kichiklarga (ukalarga, singillarga) nisbatan katta qiz. Katta, ba’zan kichik ayollarga hurmat yuzasidan ularning ismiga qo‘shib ishlatiladi (Xv., Urg., Shvt” Bg‘t., Q.kpr., Xnq.). Apkam bilcin bagdcin Qiycilam terdik.",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-03",
+      "trigger": "ana",
+      "required_meaning": "X1da buvi, X2 maqolida änä ona deb sharhlangan; kontekst va manba kerak.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 16,
+          "printed_page": 15,
+          "anchor": "buvi",
+          "quote": "ak bilcin uxlidi. gegim bilcin qur'i sor'ib Q'iqadi // Yigldmciyan balaga dimcakyocj. ana I [ana] - buvi, otaning yoki onaning onasi, tilga olinayotgan kishi ismidan keyin kelib, shaxsning keksaligini, unga yaqinlik, Iiurmatni ifodalaydi. (Xorazmning bare ha hududlarida). Anamlava har bazar gun bar'ib gon'p gcildmdn. anii II [ana] - qiz bo la yoki yosh kelinlarga nisbatan ishlatiladigan undov so‘z",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X2",
+          "pdf_page": 2,
+          "printed_page": null,
+          "anchor": "Duväqsȉz",
+          "quote": "a ushbu maqolning umumiy mazmuni har bir ishni o‘z vaqtida qilish kerak degan ma’no kelib chiqadi. “Duväqsȉz qazan qāynāmās, änäsȉz balā oynāmās” bu maqol duväq so‘zini izohlash uchun berilgan bo‘lib qopqoq degan ma’noni anglatadi va ushbu maqolda o tovushuni a tarzida aytilishining ham guvohi bo‘lamiz va yana bir narsaninaytib o‘tadigan bo ‘lsam bunday talaffuz qilish Xorazm shevasining o‘ziga xo",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/cda67891-a964-4016-a226-81218d073b28/402-405.pdf",
+          "source_sha256": "03af61f35b148ddcd5a8a0e7bd860e3e67b0ea6c413903cf1a22434b896c0e17",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-04",
+      "trigger": "pitta qo‘shib bering",
+      "required_meaning": "Ozgina qo‘shish; bir dona degani emas.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 97,
+          "printed_page": 96,
+          "anchor": "ozgina",
+          "quote": "bitta= pitta [bitta, pitta] 一 ozgina, yetarli emas, kifoya qilmaydigan, qanoatlanarli bo'Imagan, kam (H.asp., Xnq., Urg., Xv.). Yeniim pitta cjo.fib bciruj, kdmlik dlti burunQ. biton/bcton [biton, beton] 一 sement, qum va shag4alga suv qo4shib tayyorlangan qorishmaning zichlashib qotishidan hosil bo‘ladigan qurilish materiali (Ur",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-05",
+      "trigger": "barak",
+      "required_meaning": "Ovqat chuchvara yoki kelin ko‘rdi marosimi; atrofdagi gap tanlatadi.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 75,
+          "printed_page": 74,
+          "anchor": "chuchvara",
+          "quote": "mdsim bdiUilab qoyal'ki，ertciij uzcm 公//<;•/•，? al'ih getcimiz. barak I = bora к [ barak, bo4rak] - chuchvara, ichiga qiyma solib tugilgan, mantidan kobra kichikroq xamir ovqat (Xorazmning ay rim hududlarida). ОощИат dukcinina barak bukib tap^ivadila dim mazal'i. barak II [barak] —to‘yning ertasiga o'tkaziladigan kelin ko‘rdi marosimi (Q.kpr., Urg., Xnq., Y.bzr., Bg't.). Toyni bdrdkinci burclbjm'i",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X1",
+          "pdf_page": 75,
+          "printed_page": 74,
+          "anchor": "kelin ko‘rdi",
+          "quote": "т dukcinina barak bukib tap^ivadila dim mazal'i. barak II [barak] —to‘yning ertasiga o'tkaziladigan kelin ko‘rdi marosimi (Q.kpr., Urg., Xnq., Y.bzr., Bg't.). Toyni bdrdkinci burclbjm'i?Tuza gcilmm salanun'i alcfiijnu. bars [bars] - balls, biror narsa, holat yoki masalani yoqlash maqsadida octadigan munozara, tortishuv; musobaqa, bellashuv (Xorazmning ay rim hududlarida). Sa/ja 公c文уgdhb bomidi s'i",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-06",
+      "trigger": "biyi",
+      "required_meaning": "Behi mevasi yoki kelinoyi; obyekt va fe’lga qarab.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 98,
+          "printed_page": 97,
+          "anchor": "xushbo‘y mevali",
+          "quote": "i, bexi, begi] - belli, issiq mamlakatlarda o'sadigan, atirgullilar (ra'nodoshlar) oilasiga mansub, xushbo‘y mevali daraxt (Xorazmning bare ha hududlarida). Gimlci sov'iq bugana beyild gftlini dokipti. biyi=bi:vi=yerjga II [biyi, bivi. yengnga] - akaning xotini (uka va singilga nisbatan) kelinoyi, yoshi o'ziga nisbatan katta bo'lgan ayolga (o'zga ayolga) nisbatan qo41anadi (Xv., Urg., Shvt., Bg‘t”",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X1",
+          "pdf_page": 98,
+          "printed_page": 97,
+          "anchor": "akaning xotini",
+          "quote": "dlarida). Gimlci sov'iq bugana beyild gftlini dokipti. biyi=bi:vi=yerjga II [biyi, bivi. yengnga] - akaning xotini (uka va singilga nisbatan) kelinoyi, yoshi o'ziga nisbatan katta bo'lgan ayolga (o'zga ayolga) nisbatan qo41anadi (Xv., Urg., Shvt., Bg‘t” Q.kpr.). Biyim ax^am cipasimkma getibcii buguncim ^cimdccik ox^icfi. biylamaq [biylamoq] - siylash. hurmatini bajo keltirmoq, izzat-ikrom qilmoq, ",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-07",
+      "trigger": "kadi",
+      "required_meaning": "Qovoq yoki sevgan kishi; X4 ikki ma’noni beradi.",
+      "evidence": [
+        {
+          "source_id": "X4",
+          "pdf_page": 6,
+          "printed_page": 390,
+          "anchor": "“qovoq”",
+          "quote": " ham omonimlikni kuzatishimiz mumkin. Masalan “kadi” so‘zini ikki xil ma’nosi bor. Birinchi ma’nosi “qovoq” bo‘lsa, ikkinchi ma’nosi “sevgan qizi(yigiti)” ma’nosida keladi. Korpusni yaratishda frazeologiyalarni ham kiritish muhim. Adabiy tildagi frazeologiyalarning ma’nosi Xorazm shevasida umuman boshqa ma’noda keladigan holatlarni kuzatishimiz mumkin. Og‘zaki nutqda juda charchamoq ma’nosini bild",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+          "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-08",
+      "trigger": "axsham",
+      "required_meaning": "X1da kecha; avtomatik kechqurun emas.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 70,
+          "printed_page": 69,
+          "anchor": "kecha",
+          "quote": ". (Urg., Xv., Xnq., H.asp.). Axt'iqlan'i diistmnan talepon qol'imci gcimidi s'ira. а\\§аш [axsham] - kecha (Xorazmning barcha hududlarida). Ax^am ge^tci bardbn. ayamaq [ayamoq] - ayamoq, ehtiyol qilmoq. asramoq (Xorazmning barcha hududlarida). Giywildrnjm ayah giy, toz'ib qalmas'in. ay din [aydin] - yaxshi, ajoyib zo‘r, juda ham yaxshi, ta’rifga sig'maydigan, taajjjubga soladigan, g'aroyib, xususiy",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-09",
+      "trigger": "et",
+      "required_meaning": "Taom kontekstida go‘sht; tuman jadvallari variantlari ham saqlanadi.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 155,
+          "printed_page": 154,
+          "anchor": "go‘sht",
+          "quote": "lndamay ot'ir, esiravurmay. et [et] - go‘sht, so‘yilgan jonivor tanasining ovqat sifatida iste’mol qilinadigan qismi (Xv.，Xnq., Urg.). Bazardan et aldujm'i? et우apar [etchopor] - daraxt tanasidan yasalgan go‘sht chopish uchun mo'ljallangan buyum (Xv., Xnq.). El^aparda <;ap elm, gdrakmi:ch nuisropkmj. etlas [etlos] — sergo4sht, semiz, yax",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-10",
+      "trigger": "eshika chiqish",
+      "required_meaning": "Tashqariga/hovliga chiqish; fizik eshik bilan cheklanmaydi.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 159,
+          "printed_page": 158,
+          "anchor": "tashqariga nisbatan",
+          "quote": " joyning erkak mehmonlar va umurnan erkaklar uchun xos, коcha darvozaga yaqin tomondagi xoli qismi; tashqariga nisbatan qollanadi (Xorazmning barcha hududlarida). E^ika (/icfip pittci aylan'ip gcihk. es^adaraz [eshshadaroz] 一 haddan tashqari oriq va uzun odamga nisbatan, bo^yiga, uzunasiga o4lchami katta， m e ，yoridan ortiq (Xorazmning ay rim hududlarida). 유it a以adaraz balan'i aytasawni? eijilniaq",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-11",
+      "trigger": "Og‘zini suvi oqdi",
+      "required_meaning": "X4da qattiq charchash; avtomatik yegisi kelish deb tarjima qilinmaydi.",
+      "evidence": [
+        {
+          "source_id": "X4",
+          "pdf_page": 6,
+          "printed_page": 390,
+          "anchor": "Og‘zini suvi oqdi",
+          "quote": "oda keladigan holatlarni kuzatishimiz mumkin. Og‘zaki nutqda juda charchamoq ma’nosini bildiruvchi “Og‘zini suvi oqdi” iborasi mavjud bo‘lib, bu ibora o‘zbek adabiy tilidagi “Holdan toymoq” iborasiga teng keladi. Shuningdek, ushbu iboraning Xorazm shevasida “Oyoqinnan o‘t chiqdi” sinonim iborasi ham uchrab turadi. Bu iboraning birinchi iboradan deyarli farqi yo‘q. Misol uchun, “to‘y o‘yda ish atav",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+          "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-12",
+      "trigger": "Go‘zzini go‘ki so‘kildi",
+      "required_meaning": "Qo‘shko‘pirda ko‘z bilan ishlashdan charchash; shunchaki har qanday charchoq emas.",
+      "evidence": [
+        {
+          "source_id": "X4",
+          "pdf_page": 6,
+          "printed_page": 390,
+          "anchor": "tikuv",
+          "quote": "a ishlatilib, faqat ko‘z orqali qilinadigan jismoniy harakatlarga nisbatangina(kompyuterda ishlash, tikuv mashinasida ishlash) ishlatiladi. Misol uchun, Dinmin moshinda tikavarip go‘zzimni go‘ki so‘kildi (Qo‘shko‘pir sheva og‘zaki nutqidan). Shuningdek ushbu shevalarda “Borg‘ono boldiz, galgana yengga” kerakli va keraksiz joylarga ham boraveradigan, hamma joyda topiladigan, odamga nisbatan qo‘llan",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+          "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-13",
+      "trigger": "galali / barali",
+      "required_meaning": "Birgalikdagi taklif; galik o‘tgan gapidan ajrat.",
+      "evidence": [
+        {
+          "source_id": "T1",
+          "pdf_page": 67,
+          "printed_page": null,
+          "anchor": "boraylik",
+          "quote": "g ko'plikdagi I shaxs shakli -лъ/ль ~ li/l'i affiksi bilan shakllanadi: kelaylik ~ гэлэлъ ~ galali, boraylik ~ бараль ~ bar ali; - buyruq-istak fe’lining II shaxs birligida o‘g‘uz lahjasining o‘ziga xos shakli qoilanadi: bersangchi ~ бэрсэцэ ~ barsarja, borsangchi ~ барсаца ~ barsarja; - kelasi zamon feiida -а/э ~ a/a affiksli ravishdoshi asosida -сь/сь ~ sf/si affksi bilan hosil qilingan shakli q",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+          "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X1",
+          "pdf_page": 159,
+          "printed_page": 158,
+          "anchor": "gcihk",
+          "quote": "qismi; tashqariga nisbatan qollanadi (Xorazmning barcha hududlarida). E^ika (/icfip pittci aylan'ip gcihk. es^adaraz [eshshadaroz] 一 haddan tashqari oriq va uzun odamga nisbatan, bo^yiga, uzunasiga o4lchami katta， m e ，yoridan ortiq (Xorazmning ay rim hududlarida). 유it a以adaraz balan'i aytasawni? eijilniaq=eyilmaq [engilmoq, eyilmoq] — egilmoq, bo yin egmoq, biror ishga qayishmoq, bo‘yni yor bermo",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-14",
+      "trigger": "barjaqman",
+      "required_meaning": "Kelasi zamon, birinchi shaxs; o‘tgan bordimga aylantirilmaydi.",
+      "evidence": [
+        {
+          "source_id": "T2",
+          "pdf_page": 86,
+          "printed_page": null,
+          "anchor": "barjaqman",
+          "quote": "hdan-ishtan kabi; 2) kelasi zamon aniq fe`li ko’pincha –jaq//-jak qo’shimchalari bilan shakllanadi: barjaqman, getjäksän kabi; 3) o’tgan zamon sifatdosh –an shaklida bo’ladi: gïtän, ölän kabi; 4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti; ko’rgan edi – go’räntï kabi; 5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud: qo’ylar, gechchïlär, dïlekler ",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+          "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-15",
+      "trigger": "-a / -na",
+      "required_meaning": "Jo‘nalish ma’nosini saqlaydi; chiqish -nan bilan teng emas.",
+      "evidence": [
+        {
+          "source_id": "T2",
+          "pdf_page": 86,
+          "printed_page": null,
+          "anchor": "murodina",
+          "quote": "alalarin kabi. Jo’nalish kelishigining –ga, -ka, -a, -na shakllari mavjud: tuyaga- diyaga, murodiga-murodina, yerga-yira kabi. –a shakli o`g`uz lahjasida ancha faol qo’llanuvchi qo’shimchadir. O’rin-payt kelishigi –da, -ta qo’shimchasi bilan qo’llaniladi. So’z unli va jarangli undosh bilan tugasa –da, jarangsiz undosh bilan tugasa -ta qo’shimchasi qo’llaniladi: bolada-balada, ko’zda-go’zda, kinoda",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+          "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "T1",
+          "pdf_page": 35,
+          "printed_page": null,
+          "anchor": "m, n",
+          "quote": "qbdan, maxlyqdan ~ махлуцтан ~ maxlyqtan (qipchoq); -нэп / нан ~ nan/nan affiksi Xorazm shevalarida m, n, ng(n/t|) tovushlari bilan tugagan sozlarga qo‘shiladi: o'zingdan ~ взъцнэн ~ dzirjnan, bo‘yingdan ~ бойуцнан ~ bojurjnan. -дъп / дъп / пгьн / тьн ~ din / din / tin / tin affiksi shimoliy o'zbek shevalarida bu kelishikning asosiy affiksidir: sutchidan ~ суйтчъдън ~ sujtcidin, oshxonadan ~ ашхан",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+          "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-16",
+      "trigger": "bo‘l / o‘l",
+      "required_meaning": "B tushishi kuzatilgan bo‘lsa ham, har o‘ldi jumlasini bo‘ldi deb olma.",
+      "evidence": [
+        {
+          "source_id": "T2",
+          "pdf_page": 85,
+          "printed_page": null,
+          "anchor": "o’l",
+          "quote": "ish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli talaffuz etiladi: achchiq – aji, ipning uchi – ipin uji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo’llaniladi: davlat – do’ulat, quvladi – ",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+          "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-17",
+      "trigger": "dushunmak",
+      "required_meaning": "Boshliq va inkor-o‘tgan misol farqli; tushunmadimni tushundimga aylantirma.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 144,
+          "printed_page": 143,
+          "anchor": "tushunmadim",
+          "quote": "A.x^ani chl^imci ginbsdn. du^unmak [dushunmak] - tushunmadim (H.asp.，Xnq. ，Shvt.). Bir gappujam dii^unmudim. cliiijalak [dungalak] 一 paxta egatlarini yumshatadigan p red met (Xorazmning ay rim hududlarida). At'iza bar'ib ciihjalcik yunialab gcilcih. doddi [do‘ddi] - ko‘riiiislii yoqimsiz, gavdasi, tashqi bichimi kelishmagan, beso'naqay; ro'dapo. B",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-18",
+      "trigger": "bilimmän",
+      "required_meaning": "X1dagi yozuvni bilman deb qisqartirib inkor chiqarma; yordamchi bil- va to‘liq paradigma alohida masala.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 127,
+          "printed_page": 126,
+          "anchor": "bilimmein",
+          "quote": "asini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — biratoMa, uzil-kesil holda, butun boricha, hech qoldirmay; butunhy, taiTK»mila, batamom, birvarakayiga, birdaii, bir yo la ",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-19",
+      "trigger": "k / t jaranglashishi",
+      "required_meaning": "Tanlangan so‘zlar; turk, paxta, tesha, kamon, kema istisno.",
+      "evidence": [
+        {
+          "source_id": "T2",
+          "pdf_page": 85,
+          "printed_page": null,
+          "anchor": "tesha",
+          "quote": "o’gimtir kabi. Lekin bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli talaffuz etiladi: achchiq – aji, ipning uchi – ipin uji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+          "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-20",
+      "trigger": "Gurlan",
+      "required_meaning": "Butun tuman j-lovchi degan universal xulosa yo‘q.",
+      "evidence": [
+        {
+          "source_id": "X3",
+          "pdf_page": 5,
+          "printed_page": null,
+          "anchor": "дж-lashgan",
+          "quote": "20]: 1. O‗g‗uz 2. Qipchoq Olim Xorazm shevalarining qipchoq guruhini o‗z ichida 4 tipga bo‗ladi: 1. дж-lashgan shevalar – Gurlan tumani, Amudaryo tumani hududidagi qishloq shevalari. 120",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+          "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        },
+        {
+          "source_id": "X3",
+          "pdf_page": 6,
+          "printed_page": null,
+          "anchor": "й-lashgan",
+          "quote": "2. й-lashgan shevalar – Amudaryo, Gurlan, Beruniy, To‗rtko‗l tumanlaridagi qishloq shevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm ",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+          "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+          "visual_page_reviewed": false,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-21",
+      "trigger": "bunga → minga",
+      "required_meaning": "X4 takroriy, noaniq qatori; taxminiy tuzatishni fakt qilib qaytarma.",
+      "evidence": [
+        {
+          "source_id": "X4",
+          "pdf_page": 6,
+          "printed_page": 390,
+          "anchor": "olmoshlarning",
+          "quote": "ensiya №. 01 (2025) shevada ayrim leksikologik o‘ziga xosliklar ham mavjud. Xorazm shevasida asosan olmoshlarning variantlari ko‘p va adabiy tildan tubdan farq qiladi. Shevalarda ham omonimlikni kuzatishimiz mumkin. Masalan “kadi” so‘zini ikki xil ma’nosi bor. Birinchi ma’nosi “qovoq” bo‘lsa, ikkinchi ma’nosi “sevgan qizi(yigiti)” ma’nosida keladi. Korpusni yaratishda frazeologiyalarni ham kiritis",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+          "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    },
+    {
+      "id": "XS-22",
+      "trigger": "ejashdi / ejashmoq",
+      "required_meaning": "X4 hazillashdi, X1 o‘chakishmoq: ma’nolarni kontekstsiz birlashtirma.",
+      "evidence": [
+        {
+          "source_id": "X1",
+          "pdf_page": 149,
+          "printed_page": 148,
+          "anchor": "o‘chakishmoq",
+          "quote": " yoki undan ortiq bola (Xorazmning ay rim hududlarida). Ballar'i egiz dogildi. eca^maq [ejashmoq] - o‘chakishmoq, biror kishiga nisbatan qaysarlik bilan zid ish tutmoq, achchiq alam, o‘ch olish kabi niyat bilan zid isli tutmoq, shunday maqsadda bo‘ lmoq (Urg., Xnq., Q.kpr., Bg‘t.，Y.ariq., Xv., Y.bzr., Grin.). San mein bdan еусщта. ecayip [ejoyip] - hammasi yaxshi, zo'r, juda h a m yaxshi, ta’rifga",
+          "quote_format": "extracted_text_whitespace_collapsed",
+          "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+          "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+          "visual_page_reviewed": true,
+          "evidence_kind": "text",
+          "audio_verified": false
+        }
+      ]
+    }
+  ]
+}

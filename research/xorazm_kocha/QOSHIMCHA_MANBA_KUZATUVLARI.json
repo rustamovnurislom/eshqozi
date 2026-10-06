@@ -1,0 +1,74 @@
+[
+  {
+    "id": "XM-01",
+    "topic": "Hududiy va ijtimoiy qatlam",
+    "source_claim": "Sheva birliklari bilan ma’lum ijtimoiy guruhning jargonini ajratish kerak.",
+    "research_application": "Dim/gal/pitta kabi birliklar ko‘cha uslubining hududiy asosiga yordam beradi; o‘z-o‘zidan faqat yoshlar slengi emas.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 55,
+        "anchor": "jargon  va argolardan",
+        "quote": "dabiy tilga bunday so‘zlarni o‘rni bilan qabul qilib borish zarur. 0‘zbek shevalariga xos so‘zlarni jargon va argolardan farqlash lozim, dialektal so‘zlar barcha sheva vakillari uchun tushunarli boMadi. Jargonlar va argolar esa dialektal xarakterga ega boMmaydi, balki ma’lum ijtimoiy guruh yoki bir toifa kishilar uchungina tushunarli boMadi. Masalan, savdogarlar tilida dollar o‘mida ko'ki , yallathilar tilida to‘y o‘rnida otar, pul o‘mida yakan s",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "evidence_kind": "book_extracted_text",
+        "modern_street_usage_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XM-02",
+    "topic": "Yosh va vaziyat",
+    "source_claim": "Rajabov turli yosh, jins, kasb guruhlari va erkin suhbat/majlis nutqini alohida kuzatishni bayon qiladi.",
+    "research_application": "Erkin gurung bilan reklama, rasmiy e’lon, ko‘chirilgan matn va bot xabari alohida o‘rganiladi.",
+    "evidence": [
+      {
+        "source_id": "T4",
+        "pdf_page": 63,
+        "anchor": "эркин сухбатлари",
+        "quote": "ди. Бир гурух ахолинннг узида турли услублар ва ла^жа турлари булиши мумкин. Уларнинг турмуш- даги “эркин сухбатлари, мажлислардаги нутклари, халк орзаки ижоди материалларининг тили турлича булади. Бундай холларда уларнинг хар бирига хос булган му- хим тил хусусиятлари хам ало^ида хисобга олинади. Шеваларни урганишнинг асосий й^лларидан бири шу шевада сузлашувчиларкинг нутклари устида куза- www.ziyouz.com kutubxonasi",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "evidence_kind": "book_extracted_text",
+        "modern_street_usage_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XM-03",
+    "topic": "Bir guruhdagi uslub farqi",
+    "source_claim": "Bir guruh aholining o‘zida turli uslublar bo‘lishi qayd etiladi.",
+    "research_application": "Bitta faol yozuvchining iborasi butun Xorazm yigitlarining uslubi deb olinmaydi.",
+    "evidence": [
+      {
+        "source_id": "T4",
+        "pdf_page": 63,
+        "anchor": "Бир гурух",
+        "quote": "клар ва турли касб-хунар эгалари булган кишнларнинг нутклари устида -тадкиког ишлари олиб борилади. Бир гурух ахолинннг узида турли услублар ва ла^жа турлари булиши мумкин. Уларнинг турмуш- даги “эркин сухбатлари, мажлислардаги нутклари, халк орзаки ижоди материалларининг тили турлича булади. Бундай холларда уларнинг хар бирига хос булган му- хим тил хусусиятлари хам ало^ида хисобга олинади. Шеваларни урганишнинг асосий й^лларидан бири шу шевада ",
+        "source_sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+        "evidence_kind": "book_extracted_text",
+        "modern_street_usage_verified": false
+      }
+    ]
+  },
+  {
+    "id": "XM-04",
+    "topic": "Ijtimoiy jargon ta’rifi",
+    "source_claim": "T1 jargon/slangni ijtimoiy guruhlarning o‘ziga xos so‘zlari deb ta’riflaydi.",
+    "research_application": "Qarz so‘zning ruscha ekanligi yoki qisqa yozilishi uni Xorazmga xos slang qilmaydi.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 56,
+        "anchor": "Jargon [slang]",
+        "quote": "ng leksik tarkibi [Lexic structure of dialects] - ma’lum bir shevadagi barcha so‘zlar yig‘indisisi. Jargon [slang] - ijtimoiy guruhlarning o‘ziga xos so‘zlari. Masalan, tartibot, savdo xodimlari. Leksik qatlam [lexic layer] - tildagi (shevadagi) tub va o‘zlashgan so'zlarning guruhlari. Mavzu: Qarluq-chigil-uyg‘ur lahjasi Reja 1. Lahjaning qisqacha tarixi va tarqalishi. 2. Lahjaning fonetik xususiyatiari. 3. Lahjaning morfologik xususiyatiari. 4. ",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "evidence_kind": "book_extracted_text",
+        "modern_street_usage_verified": false
+      }
+    ]
+  }
+]

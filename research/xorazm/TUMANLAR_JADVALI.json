@@ -1,0 +1,342 @@
+[
+  {
+    "id": "XJ-01",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 1,
+    "source_headword": "yimirta",
+    "standard_form_as_printed": "tuxum",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "tuxum",
+      "Xiva": "yimirta",
+      "Qo‘shko‘pir": "yimirta",
+      "Gurlan": "tuxum"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-02",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 2,
+    "source_headword": "gashir",
+    "standard_form_as_printed": "sabzi",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "gashir",
+      "Xiva": "gashir",
+      "Qo‘shko‘pir": "gashir",
+      "Gurlan": "gashir"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-03",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 3,
+    "source_headword": "timittin",
+    "standard_form_as_printed": "binoyiday",
+    "source_pos_label": "sifat",
+    "district_forms": {
+      "Urganch": "timittin",
+      "Xiva": "timittin",
+      "Qo‘shko‘pir": "timittin",
+      "Gurlan": "timittin"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-04",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 4,
+    "source_headword": "parahatchiliq",
+    "standard_form_as_printed": "tinchlik",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "parahatchiliq",
+      "Xiva": "parahatchiliq",
+      "Qo‘shko‘pir": "parahatchiliq",
+      "Gurlan": "parahatchiliq"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-05",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 5,
+    "source_headword": "navlin",
+    "standard_form_as_printed": "bilmadim",
+    "source_pos_label": "fe’l",
+    "district_forms": {
+      "Urganch": "navlin",
+      "Xiva": "navlin",
+      "Qo‘shko‘pir": "navlin",
+      "Gurlan": "navlin"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-06",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 6,
+    "source_headword": "zangi",
+    "standard_form_as_printed": "narvon",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "zangi",
+      "Xiva": "zangi",
+      "Qo‘shko‘pir": "zangi",
+      "Gurlan": "zangi"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-07",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 7,
+    "source_headword": "opo",
+    "standard_form_as_printed": "ona",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "opo",
+      "Xiva": "opo",
+      "Qo‘shko‘pir": "opo",
+      "Gurlan": "opes"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-08",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 8,
+    "source_headword": "aka",
+    "standard_form_as_printed": "ota",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "aka",
+      "Xiva": "aka",
+      "Qo‘shko‘pir": "aka",
+      "Gurlan": "akes"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-09",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 9,
+    "source_headword": "ejashdi",
+    "standard_form_as_printed": "hazillashdi",
+    "source_pos_label": "fe’l",
+    "district_forms": {
+      "Urganch": "ejashdi",
+      "Xiva": "ejashdi",
+      "Qo‘shko‘pir": "ejashdi",
+      "Gurlan": "ejashdi"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-10",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 10,
+    "source_headword": "chapak",
+    "standard_form_as_printed": "qarsak",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "chapak",
+      "Xiva": "chapak",
+      "Qo‘shko‘pir": "chapak",
+      "Gurlan": "chapak"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-11",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 11,
+    "source_headword": "nerda",
+    "standard_form_as_printed": "qayerda",
+    "source_pos_label": "olmosh",
+    "district_forms": {
+      "Urganch": "nerda",
+      "Xiva": "nerda",
+      "Qo‘shko‘pir": "nerda",
+      "Gurlan": "nerda"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-12",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 12,
+    "source_headword": "man",
+    "standard_form_as_printed": "men",
+    "source_pos_label": "olmosh",
+    "district_forms": {
+      "Urganch": "man",
+      "Xiva": "man",
+      "Qo‘shko‘pir": "man",
+      "Gurlan": "men"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-13",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 13,
+    "source_headword": "eshik",
+    "standard_form_as_printed": "eshik",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "eshik",
+      "Xiva": "qopi",
+      "Qo‘shko‘pir": "qopi",
+      "Gurlan": "eshik"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-14",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 14,
+    "source_headword": "qarinja",
+    "standard_form_as_printed": "chumoli",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "qarinja",
+      "Xiva": "qarinja",
+      "Qo‘shko‘pir": "qarinja",
+      "Gurlan": "qarinja"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-15",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 15,
+    "source_headword": "pitta",
+    "standard_form_as_printed": "ozgina",
+    "source_pos_label": "ravish",
+    "district_forms": {
+      "Urganch": "pitta",
+      "Xiva": "pitta",
+      "Qo‘shko‘pir": "pitta",
+      "Gurlan": "pitta"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-16",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 16,
+    "source_headword": "borosonmi",
+    "standard_form_as_printed": "borasanmi",
+    "source_pos_label": "fe’l",
+    "district_forms": {
+      "Urganch": "borosonmi",
+      "Xiva": "borsommi",
+      "Qo‘shko‘pir": "borosomo",
+      "Gurlan": "borosomo"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  },
+  {
+    "id": "XJ-17",
+    "source_id": "X4",
+    "pdf_page": 5,
+    "printed_page": 389,
+    "source_row_number": 17,
+    "source_headword": "go‘sht",
+    "standard_form_as_printed": "go‘sht",
+    "source_pos_label": "ot",
+    "district_forms": {
+      "Urganch": "go‘sht",
+      "Xiva": "et",
+      "Qo‘shko‘pir": "go‘sht",
+      "Gurlan": "go‘sht"
+    },
+    "table_image": "/workspace/research/xorazm/images/X4_005.png",
+    "manually_transcribed_from_image": true,
+    "all_residents_use_this_form_verified": false,
+    "notes": "Bu maqoladagi 17 qatorli namuna; muallif aytgan 600 so‘zlik dataset fayli berilmagan."
+  }
+]

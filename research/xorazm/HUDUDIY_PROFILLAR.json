@@ -1,0 +1,189 @@
+[
+  {
+    "id": "xorazm_janubiy_oguz",
+    "name": "Urganch–Xiva o‘g‘uz asosli profil",
+    "source_region": "Urganch–Xiva",
+    "notes": "X3 tarixiy tasnifida o‘g‘uz kichik guruh. Tumanning barcha qishloqlari bir xil degani emas.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "Urganch-Xiva",
+        "quote": " tumanlari qishloq shevalari. Xorazm shevalarining o‗g‗uz guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazorasp-Yangiariq shevalari 3. Aralash tipdagi o‗g‗uz-qipchoq shevalari – Urganch, Shovot, Qo‗shko‗pir, Hazorasp tumanlari qishloq shevalari. Fattoh Abdullayev Xorazm shevalaridagi so‗zlarni alohida lug‗at holida tartiblaydi. Monografiya 2 qismdan iborat bo‗lib, Xorazm she",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 65,
+        "printed_page": null,
+        "anchor": "qipchoq",
+        "quote": " faqat shu lahjadan iborat degan so‘z emas. Professor F.Abdullayevning ko‘rsatishicha, bu viloyatda qipchoq lahjasiga oid shevalar ham bor. Fonetik xususiyatiari: - bu lahja shevalarida a/a, y/u, y/ii, u/i:, ъ/i, ы/й, ь/i, o/o, o/д, s/a, e/e unlilari qoilanadi; - o‘zbektili qipchoq shevalaridagi kabi kontrastjuft unlilar mavjud; - qisqa va cho‘ziq unlilar farqlanadi, ya’ni turkman tilidagi kabi qa",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": true
+  },
+  {
+    "id": "xorazm_hazorasp_yangiariq",
+    "name": "Hazorasp–Yangiariq",
+    "source_region": "Hazorasp–Yangiariq",
+    "notes": "O‘g‘uz ichidagi alohida guruh; to‘liq fe’l paradigmasi bu materiallardan tuzilmagan.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "Hazorasp-Yangiariq",
+        "quote": "ri. Xorazm shevalarining o‗g‗uz guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazorasp-Yangiariq shevalari 3. Aralash tipdagi o‗g‗uz-qipchoq shevalari – Urganch, Shovot, Qo‗shko‗pir, Hazorasp tumanlari qishloq shevalari. Fattoh Abdullayev Xorazm shevalaridagi so‗zlarni alohida lug‗at holida tartiblaydi. Monografiya 2 qismdan iborat bo‗lib, Xorazm shevalarining lug‗ati va Xora",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  },
+  {
+    "id": "xorazm_qipchoq_j",
+    "name": "Shimoliy qipchoq j-lovchi",
+    "source_region": "Gurlan va Amudaryo ayrim qishloqlari",
+    "notes": "X3 tasnifidagi bir tip; butun Gurlanga avtomatik yoyilmaydi.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 5,
+        "printed_page": null,
+        "anchor": "дж-lashgan",
+        "quote": "20]: 1. O‗g‗uz 2. Qipchoq Olim Xorazm shevalarining qipchoq guruhini o‗z ichida 4 tipga bo‗ladi: 1. дж-lashgan shevalar – Gurlan tumani, Amudaryo tumani hududidagi qishloq shevalari. 120",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X4",
+        "pdf_page": 5,
+        "printed_page": 389,
+        "anchor": "Amudaryo",
+        "quote": " shevalar mavjud. Bunga Gurlan va Yangibozor shevalarini misol qilishimiz mumkin. Gurlan tumanining Amudaryo bilan chegaradosh bo‘lgan joylarida “j” lashishlarga duch kelinadi. Shimoliy Xorazmdan Xiva tomonga qarab “j”lashish kamayib boradi. Bu 389 http://compling.navoiy-uni.uz/",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  },
+  {
+    "id": "xorazm_qipchoq_y",
+    "name": "Qipchoq y-lovchi",
+    "source_region": "Amudaryo, Gurlan, Beruniy, To‘rtko‘l qishloqlari",
+    "notes": "X3 tarixiy tasnifi, hududiy zamonaviy geoma’lumot sifatida tekshirilmagan.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "й-lashgan",
+        "quote": "2. й-lashgan shevalar – Amudaryo, Gurlan, Beruniy, To‗rtko‗l tumanlaridagi qishloq shevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  },
+  {
+    "id": "xorazm_qipchoq_a",
+    "name": "Qipchoq ə-lashgan",
+    "source_region": "Gurlan, Urganch, Hazorasp, Shovot qishloqlari",
+    "notes": "X3 tasnifi; har tuman markazining profili degani emas.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "ə-lashgan",
+        "quote": "2. й-lashgan shevalar – Amudaryo, Gurlan, Beruniy, To‗rtko‗l tumanlaridagi qishloq shevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm shevalarining o‗g‗uz guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazor",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  },
+  {
+    "id": "xorazm_aralash_qipchoq_oguz",
+    "name": "Qipchoq–o‘g‘uz aralash",
+    "source_region": "Urganch, Qo‘shko‘pir, Yangibozor, Xonqa qishloqlari",
+    "notes": "Aniq qishloq yoki mahalliy misol bo‘lsa tanlash mumkin.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "Aralash tipdagi qipchoq-o",
+        "quote": "hevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm shevalarining o‗g‗uz guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazorasp-Yangiariq shevalari 3. Aralash tipdagi o‗g‗uz-qipchoq shevalari – Urganch, Shovot, ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  },
+  {
+    "id": "xorazm_aralash_oguz_qipchoq",
+    "name": "O‘g‘uz–qipchoq aralash",
+    "source_region": "Urganch, Shovot, Qo‘shko‘pir, Hazorasp qishloqlari",
+    "notes": "Oldingi aralash profil bilan asosning farqi saqlanadi.",
+    "evidence": [
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "Aralash tipdagi o",
+        "quote": "guruhi o‗z ichida 3 guruhga bo‗linadi: 1. Urganch-Xiva shevalari 2. Hazorasp-Yangiariq shevalari 3. Aralash tipdagi o‗g‗uz-qipchoq shevalari – Urganch, Shovot, Qo‗shko‗pir, Hazorasp tumanlari qishloq shevalari. Fattoh Abdullayev Xorazm shevalaridagi so‗zlarni alohida lug‗at holida tartiblaydi. Monografiya 2 qismdan iborat bo‗lib, Xorazm shevalarining lug‗ati va Xorazm shevalarining tasnifi, gramma",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "ready_native_generation_verified": false,
+    "default_candidate": false
+  }
+]

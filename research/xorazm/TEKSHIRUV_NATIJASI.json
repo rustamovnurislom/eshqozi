@@ -1,0 +1,189 @@
+{
+  "status": "passed",
+  "scope": "Fayllar, dalil tayanchlari, o‘qish qamrovi va jadval izchilligi. Native nutq sifati yoki ishlayotgan bot sinovi emas.",
+  "checks": [
+    {
+      "check": "Seven distinct PDF sources",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash X1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash X2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash X3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash X4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash T1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash T2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Original PDF hash T4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "182 current and 22 selected earlier pages retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Current PDF page count 182",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All evidence references resolve to retained pages",
+      "passed": true,
+      "detail": 384
+    },
+    {
+      "check": "All extracted anchors and quotes match source pages",
+      "passed": true,
+      "detail": 362
+    },
+    {
+      "check": "Twenty-two image-table lexical references",
+      "passed": true,
+      "detail": 22
+    },
+    {
+      "check": "209 distinct sense card IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every sense card has meaning, evidence and context note",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Native/frequency validation is not falsely asserted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "184 curated dictionary sense cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Kadi homonym senses kept distinct",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Ambiguous minga mapping excluded from lexicon",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CSV and JSON lexical cards agree",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 17 source table rows retained in order",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Every district row has four columns and source image",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Duplicate bunga row preserved and marked ambiguous",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Printed and constructed examples separated 8/8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Simplified readings never asserted to be verbatim transcription",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Blocked site contributes zero imported evidence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Prepared profile is not presented as trained model weights",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: phonetic_observations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: grammatical_observations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: idiom_cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: proverb_cards",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: regional_profiles",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Statistics agree: open_claims_or_source_issues",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "32 visually checked source pages declared",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All report artifact links resolve",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "reference_count": 384,
+  "text_reference_count": 362,
+  "image_reference_count": 22,
+  "distinct_referenced_pages": 132,
+  "lexical_sense_cards": 209,
+  "visual_pages": 32,
+  "native_speaker_validation": false,
+  "audio_validation": false
+}

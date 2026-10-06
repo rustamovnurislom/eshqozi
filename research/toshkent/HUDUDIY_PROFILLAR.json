@@ -1,0 +1,180 @@
+[
+  {
+    "id": "HUD-001",
+    "label": "Toshkent shahar",
+    "meaning_or_analysis_uz": "-vot/-vat davom; assimilyatsiyali shaxs variantlari; -la ko‘plik/hurmat; -gi jamlik. Yil/yosh/kasb farqi saqlanadi.",
+    "area": "Toshkent shahar",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "ъс/гз:пъ sopb ~ pica:ni sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ ",
+        "search_needle": "Toshkentda",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_normalized_whitespace": "-гъ ~ gi affiksi Toshkent shevasida jamlik ma’nosini ifoda qiladi: эдэмгълэ ~ adamgila (adam + boshqalar). оиьтгълэ ~ ajimgild (oyim + boshqalar); - fe’l tuslanushining I shaxs ko‘pligida -вуз / вузэ ~ vuz/vuza, -в/y e ~ v / uv affikslari qatnashadi: боровуз / боров",
+        "search_needle": "adamgila",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-002",
+    "label": "Parkent",
+    "meaning_or_analysis_uz": "T1 -ot, T4 -vat ham qayd etadi. Folklor bilan kundalik misollar ajratiladi.",
+    "area": "Parkent",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "tb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгьшть ~ jetisti, qurishdi ~ куруштъ ~ q",
+        "search_needle": "Parkentda",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "в э т т ъ , ъ шлэ- в эт м ъз дегэи Карноб) вабошкалар Тошкент ва Карнобдаги бу хусусичтни Паркент шевасидч *ам учратамиз: чърнъллъ ъдэра учунэпке- в э т т ъ м ь , \\а ъдэрага э п к е в э т т ъ м , э п к е в э к э н Къзъмъз Сетка лэйук йэр-йэр каби. Аник ^озирги замон феълининг ",
+        "search_needle": "Паркент",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-003",
+    "label": "Piskent / Yangiyo‘lning ayrim shevalari",
+    "meaning_or_analysis_uz": "T1 guruhga qo‘shgan; T4 -ot misolini Niyozboshi va boshqa nomlangan joylarga bog‘laydi. Butun tuman uchun yakdil profil emas.",
+    "area": "Piskent / Yangiyo‘lning ayrim shevalari",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 57,
+        "printed_page": 56,
+        "anchor_normalized_whitespace": "a shevalari uch guruhga bo‘linadi: 1. Toshkent guruhi shevalari. Bunga Toshkent, Parkent, Piskent, Yangiyo‘l kabi shevaiar kiradi. Fonetik xususiyatlari'. - so‘zning har qanday bo‘g‘inida old qator va orqa qator unlilar qo‘liana oladi: жэ ~ aka, болэ ~ bald, гэлэтъ ~ yalati; -",
+        "search_needle": "Piskent",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "э н . к е л э т т ъ (Намажан вилоят ^аккулобод шеваси) б л р э т т ъ м . к е л э т т ъ м .Янгий^л тумани Ни твои, Паркеит, Нискент шевалари), сув гутэтпъ, узъмъздъ къй: к е л э т ъ л э (Косом тумани Корлук Шеваси) кабилар. Булардан ташкари, яна -вэтъ, -вотъп шакллари *ам мавжу",
+        "search_needle": "Янгий^л",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-004",
+    "label": "Ohangaron / Qurama qipchoq muhiti",
+    "meaning_or_analysis_uz": "Shahar qarluq profili bilan birlashtirilmaydi; T1 Ohangaron vodiysida qipchoq vakillarini, T4 Quramada jo‘nalish olmoshlari farqini qayd etadi. Butun vodiy bir xil degan xulosa emas.",
+    "area": "Ohangaron / Qurama qipchoq muhiti",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 84,
+        "printed_page": 83,
+        "anchor_normalized_whitespace": "i ekanligiga dalildir. Haqiqatan ham, qipchoq lahjasining vakillari Toshkent viloyatining Ohangaron vodiysi, Fargona, Andijon viloyatlarida ham yashaydilar. Sirdaryo, Samarqand, Buxoro, Qashqadaryo, Surxondaryo va Xorazm viloyatlari aholisining ko‘pchilik qismi ham qipchoq lahja",
+        "search_needle": "Ohangaron",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 153,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "уллвганда, м ара н//м э гэ н, сэ­ ра н//сэг эн, уран//оран леб к^лланилади. Бу хусу- снят Курама ва Булупрур, Пайарик, Раллаорол ва Иш- тихон каби туманлардаги кипчок шеваларининг вакил- лари нуткида ишлатилади. Айрим кипчод шеваларида- ги маган, саган, оран кишилик олмошлари",
+        "search_needle": "Курама",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 177,
+        "printed_page": null,
+        "anchor_normalized_whitespace": " н//сэ г э н, уран//оран шаклларига эга булади Ry хилдаги уз- гариш О^ангарон водийсидаги курама шевалари учун хосдир. Сунгги хусусият козок тили учун ^ам нормал *олат саналади. Бундаги фарц шундан иборатки, i\\o- зок тилида маган, саган, о гаи олмошлари мав- жуд булиб, унинг ",
+        "search_needle": "курама",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 80,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "hevalari kiradi. 2. Toshkent guruhi. Bunga Toshkent shahar shevasi, Toshkent viloyatidagi qipchoq shevalaridan boshqa shahar tipidagi shevalar, masalan, Parkent, Qoraxitoy va boshqa shevalar taalluqlidir. 3. Qarshi guruhi. Bu dialektga Qarshi, Shahrisabz, Kitob, Yakkabog` kabi (qipchoq shevalarid",
+        "search_needle": "qipchoq shevalaridan boshqa",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-005",
+    "label": "Toshkent bog‘dorchilik monologi",
+    "meaning_or_analysis_uz": "Manba Toshkent deb sarlavhalagan, mahalla/yozuv sanasi yo‘q. Katta yosh, tomorqa va tokchilik konteksti bor; bugungi barcha Toshkent vakili modeli emas.",
+    "area": "Toshkent bog‘dorchilik monologi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "lotlar uchun materiallar (shevalardan yozib olingan matnlar) Qarluq-chigil-uyg‘ur lahjasi Toshkent shevasi Мэн озъм ескъ бз:вэммэн. ХрзъР онуч сотъх йерт^л бэ:. Йэрмъ тэк, йэрмъгэ мевэлъй дэрэхлэ еккэммэн. олмэ-полмэ, нэк-пэк дъгэндэй - хэммэсъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэ",
+        "search_needle": "Toshkent shevasi",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "ъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭДЪМ мэнэм дэлэдэ ъшлэр-ъдъм. Хэзър тэмэркэгэ еккэн нэрсэлэ:гэ, тэккэ кэрэп турэмэн. Джъм туръболэдъ дъйъсмъ, ъшлэп оргэнгэн эдэмгэ. Иэздэ дэлэ бэгьдэ кэрзвулчълъйэм КЬЛЭМЗН, бэ",
+        "search_needle": "Кэръп кзлдъм",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

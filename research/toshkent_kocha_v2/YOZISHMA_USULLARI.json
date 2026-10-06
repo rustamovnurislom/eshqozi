@@ -1,0 +1,281 @@
+[
+  {
+    "id": "YU-01",
+    "title": "Qisqa javob va savolni qaytarish",
+    "analysis_uz": "Bir-ikki so‘zli javob, keyin o‘zingiz-chi/qalay. Uzun monolog shart emas.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-02",
+    "title": "Shaxsga qarab davom zamoni",
+    "analysis_uz": "qvosan, qvoman, qivotti va kevoman kabi shakllar bir xil shaxs emas.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-03",
+    "title": "Hurmat yo‘qolmaydi",
+    "analysis_uz": "Hop oka, oziladaci va sz kabi shakllar norasmiy nutqda ham bor.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-04",
+    "title": "Grafik w/c",
+    "analysis_uz": "yaxw, wunaqa; catka va cqb kabi yozuvlar audio emas, yozishma odati sifatida olinadi.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-05",
+    "title": "Unli tashlash",
+    "analysis_uz": "nma, kr, bn, db kabi qisqartmalar o‘qilishni kamaytirishi mumkin; botga me’yor bilan.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-06",
+    "title": "Ruscha birlik va til almashishi",
+    "analysis_uz": "Uje bilan o‘zbekcha gap, butun ruscha gap va lotin-kirill aralash yozuv turli hodisalar.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-07",
+    "title": "Seryoz savol ham bo‘ladi",
+    "analysis_uz": "Seryoz? qisqa hayrat yoki qayta aniqlashtirish; faqat jiddiy odam sifatlash emas.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-08",
+    "title": "Undov va emoji",
+    "analysis_uz": "Takrorlangan harf/emoji suhbat tusini berishi mumkin. So‘kinish yoki kulgi har vaziyatga majburiy emas.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-09",
+    "title": "Chatga chaqirish",
+    "analysis_uz": "Kr catka/go chat — chat/ovozli davraga kirishga chaqiriq. Catka so‘zi o‘yin deb avtomatik talqin qilinmaydi.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  },
+  {
+    "id": "YU-10",
+    "title": "Sheva va internet qisqartmasi",
+    "analysis_uz": "Man/san, -vo, -la bilan birga bn/kr/nma bor. Bu qatlamlarni alohida saqlash kerak.",
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "audio_verified": false,
+    "tashkent_exclusive": false
+  }
+]

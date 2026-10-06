@@ -1,0 +1,4516 @@
+O’ZBEKISTON RESPUBLIKASI OLIY VA O’RTA MAXSUS
+
+             TA’LIM VAZIRLIGI
+
+       BUXORO DAVLAT UNIVERSITETI
+
+
+
+
+
+            YOQUB SAIDOV
+
+
+
+
+
+        O`ZBEK DIALEKTOLOGIYASI
+
+                  (to`ldirilgan va qayta nashri)
+
+
+O’zbek filologiyasi talabalari uchun o’quv-metodik qo’llanma
+
+
+
+
+
+                       Buxoro
+
+                 “Durdona” nashriyoti
+
+                        2021UO'К  811.512.133`28(075.8)
+81.2O'zb-67
+S 21
+Saidov, Yoqub.
+O’zbek dialektologiyasi [Matn] : o’quv-metodik qo’llanma  / Y. Saidov.
+- Buxoro : "Sadriddin Salim Buxoriy" Durdona nashriyoti, 2021.
+- 74 b.
+                             KBК  81.2O'zb-67
+
+
+     Mazkur o’quv-metodik   qo’llanmada o’zbek dialektologiyasining fan
+
+sifatidagi xususiyatlari, shakllanishi, o’zbek sheva, lahja, dilektlari va ularga
+
+xos sifatlar, shevalarning tarqalishi va tasnifi, fonetik, leksik hamda grammatik
+
+o’ziga xosliklari, o’zbek tilining asosiy shevalari, lahjalari va ularga xos belgilar
+
+tizimi, Mahmud Koshg`ariy va o’zbek dialektologiyasi, asosiy muammolari
+
+hamda  hozirgi  ahvoli,  o’zbek  shevalarining  o’rganilishi   tarixi  haqida
+
+ma’lumotlar   berilgan.   Ta’kidlash   joizki,  ushbu   qo’llanmada   o’zbek
+
+dialektologiyasi  bo’yicha  to’plangan   tajribalar,  mavjud  qo’llanmalardagi
+
+materiallardan foydalanildi.
+
+     Qo’llanma oliy o’quv yurtlari o’zbek filologiyasi yo’nalishi talabalari va
+
+o’qituvchilariga mo’ljallangan.
+
+
+
+     Taqrizchilar:      G.Qurbonova, filologiya fanlari nomzodi, dotsent;
+
+                      S.Avezov, filologiya fanlari nomzodi, dotsent.
+
+
+   Qo’llanma Buxoro  davlat  universiteti  Ilmiy kengashining  2019-yil 26-
+
+martidagi kengaytirilgan yig`ilishi qarori bilan nashrga tavsiya etilgan.
+
+
+ISBN978-9943-5611-9-9      KIRISH. DIALEKTOLOGIYA FANI HAQIDA UMUMIY
+
+                  MA`LUMOT
+
+             E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+     Kursning talab va maqsadalri;
+     Dialektologiya fani haqida umumiy ma`lumot;
+     Dialektologiya fanining o`rganish ob`ekti;
+     Bugungacha   yaratilgan   dialektologik   tadqiqotlar   haqida   ayrim
+
+      malumotlar.
+
+
+     Tayanch tushunchalar: o’zbek  tili,  dialekt, sheva,  lahja, adabiy  til,
+
+me’yor, qarluq-chigil-uyg`ur, qipchoq, o’g`uz.
+
+
+      Dialektologiya fani tilshunoslikning bir sohasi bo’lib, u mahalliy sheva
+
+va lahjalarning o’ziga xos muhim xususiyatlari, ularning adabiy tildan va o’zaro
+
+bir-biridan  farqlari,  shevalarning  adabiy  tilga  munosabati,  adabiy   tilni
+
+boyitishidagi ahamiyati, shevalarning tarmoq va guruhlari, ularning rivojlanish
+
+bosqichlari tarixi va shu kabi masalalarni o’rganadi. Dialektologiya grekcha
+
+dialektos so’zidan olingan bo’lib, biror tilning mavjud sheva va lahjalarini
+
+o’rgatadi. Dialekt — sheva, logos — ta’limot, ya’ni sheva haqida ta’limot
+
+demakdir. Dealektologiya fanining obyekti mahalliy sheva va lahjalar bo’lib,
+
+vazifalari quyidagilardan iborat:
+
+          - shevalarning  fonetik, morfologik,  sintaktik va  xususiyatlarini har
+
+tomonlama tasnif qilish;
+
+          - milliy tilning shakllanishi va taraqqiyotida shevalarning tutgan o’rnini
+
+va shu milliy tilga asos bo’lgan shevalarni aniqlash;
+
+          - shevalarning o’zaro munosabatini va ularning adabiy tilga bo’lgan
+
+munosabatini belgilash;          - o’xshash  xususiyatlariga ko’ra shevalarning  tarqalish xududlarini
+
+aniqlash;
+
+          -  umumiy  o’xshash   lingvistik  xususiyatlarni  belgilash  asosida
+
+shevalarning xarita va atlasini tuzish;
+
+          -  alohida  guruhga  kiruvchi  shevalarning umumiy  tomonlari  va
+
+o’xshashliklari bilan birga, o’zaro farqlanuvchi tomonlari va buning sabablarini
+
+ochib berish;
+
+          - o’zbek tilining ko’p shevali ekanligining tarixiy sabablarini aniqlash;
+
+          -  maktab  o’quvchilari  nutqida,  turli yozma  ishlarda  uchraydigan
+
+mahalliy sheva xususiyatlari va ularni bartaraf etish yo’llari hamda usullarini
+
+ishlab chiqish, uni amalga oshirish.
+
+       O’zbek dialektologiyasida mavjud bo’lgan ilmiy adabiyotlarda sheva,
+
+lahja va dialekt atamalari turli ma’nolarda qullanib kelinmoqda. Vaholanki, bu
+
+atamalarning ma’nosi bir-biridan deyarli katta farqqa ega emas.
+
+       «Sheva» atamasi forscha so’z bo’lib, ovoz, til, so’zlashish, odat, yo’sin,
+
+ravish kabi ma’nolarni ifodalab, biror bir tilning o’ziga xos fonetik, leksik va
+
+grammatik xususiyatlariga ega bo’lgan eng kichik qismidir. Lahja (arabcha so’z
+
+bo’lib, ifoda, so’z, sheva, ovoz kabi ma’nolarni ifodalaydi) shu xususiyatlarni
+
+o’zida birlashtiruvchi shevalar  yiindisidir. Masalan, o`g`uz  lahjasi, qipchoq
+
+lahjasi  kabi. Mazkur atama  ba‘zan  tor ma’noda,  ya‘ni sheva ma’nosida
+
+qo’llanilishi ham uchraydi. Masalan, Vodil qishloq lahjasi haqida bir necha so’z
+
+kabi.
+
+        Dialekt shevaga nisbatan keng ma’noda  qo’llaniladi. Adabiy tildan
+
+o’zining  ba‘zi  bir  xususiyatlari  (chunonchi,  fonetik,  grammatik,  leksik
+
+xususiyatlari) bilan farqlanadigan biror umummilliy tilning yirikroq bo’lagi
+
+dialekt deb yuritiladi. U tilning eng kichik bo’lagi sanalgan shevalarning birqanchasini o’z ichiga oladi, ya‘ni u shevalar yiindisidan tashkil topadi. Masalan,
+
+qirq, saroy, jo’sh, nayman, qo’nirot, qipchoq qoraqalpoq, baxmal, ming, burgut
+
+kabi shevalar birlashib, o’zbek tilining qipchoq dialektini tashkil qiladi. Lekin
+
+ba‘zan  dialekt  atamasining   tor  ma’noda,  ko’pincha  sheva  ma’nosida
+
+qo’llanilishi ham uchraydi: Buxoro dialekti kabi.
+
+     Makonni o’rganish nuqtai nazardan dialektologiya ikki xil bo’ladi: 1)
+
+tasviriy dialektologiya yoki dialektografiya; 2) tarixiy dialektologiya. Tasviriy
+
+dialektologiya yoki dialektografiya mahalliy sheva va lahjalarga xos fonetik va
+
+leksik, morfologik xususiyatlarni qayd etadi, yozib oladi va ularni kartaga
+
+tushiradi. Tarixiy dilektologiya tilning dialektal xususiyatlari bilan birga, shu
+
+xususiyatlarning kelib chiqishi, rivojlanishi, turli davrlarda o’zgarish, qardosh
+
+tillar bilan munosabati va shu shevalarning tashkil topishida qardosh va qardosh
+
+bo’lmagan  tillarning  ishtiroki  kabilarni  o’rganadi. Keyingi  yillarda barcha
+
+o’zbek shevalarini areal va lingvogeografik usullar bilan o’rganish ham tarixiy
+
+maqsadlarni ko’zda tutadi.
+
+      Dialektologiyaning shevalarni o’rganishi esa til tarixi uchun ham, xalq,
+
+tarixi uchun ham boy va qimmatli materiallar beradi. Chunki, adabiy tilda
+
+allaqachonlar yo’q bo’lib ketgan yoki o’zgarishga uchragan  so’zlar, ayrim
+
+grammatik shakllar mahalliy shevalarda saqlanib qolganligi tabiiy.Ularni topib
+
+adabiy   tilga  olib   kirish  yoki  uni  boyitish  juda  muhimdir.  O’zbek
+
+dialektologiyasi o’zbek tili tarixidagi ayrim noaniq, masalalarni oydinlashtirish,
+
+hal qilish uchun asosiy manba beradi. Qadaimgi o’zbek yozma yodgorliklari
+
+tilining biz uchun noaniq, (gumonli) bo’lgan ayrim xususiyatlarini hozirgi
+
+o’zbek shevalari materiallari yordamida aniqlashimiz va to’ldirishimiz mumkin.
+
+Shevalarni  o’rganish  o’zbek  adabiy   tilining   fonetik,  leksik-grammatik
+
+me’yorlarini belgilash, orfografiya va orfoepiyasini to’xtamlashtirish uchun
+
+katta  yordam  beradi.  Shevalarni  o’rganish   orqali  o’tmishdagi  urug`-
+
+qabilalarning   joylashish   hududlarini   aniqlash,   etnonimlar,   toponimlar,gidronimlar, umuman onamastika (nomlar) vositasida xalq, tarixining ayrim
+
+mavhum tomonlarini yoritish mumkin. Shu jihatdan, dialektlarni o’rganish ham
+
+ilmiy, ham amaliy ahamiyatga egadir.
+
+     O’zbek  dialektologiyasi  tilshunoslik  fanlaridan  biri  sifatida,  avvalo,
+
+«Hozirgi  o’zbek   tili»  fani  nazariy  ma’lumotlariga  tayanadi,  qolaversa,
+
+«Qadimgi turkiy til», «O’zbek tilining tarixiy grammatikasi», «O’zbek adabiy
+
+tili tarixi» fanlariga ham asoslanuvchi ma’lumotlarni beradi, hamda ularning
+
+nazariy va amaliy materiallariga asoslanadi. To’g`ri, tilshunoslikning bu fanlari
+
+o’quv  rejalaridan keyingi  kurslarda joy  olgan, demak bu  fanlar bo’yicha
+
+nazariy, amaliy ma’lumotlarni olish o’zbek dialektologiyasi bo’yicha tegishli
+
+mavzularni mustaqil tayyorlash jarayonida, ulardan qo’shimcha ma’lumotlar
+
+olish chog`ida o’rganib boriladi.
+
+     O’zbek dialektologiyasi geografiya fani bilan uzviy aloqador, ya’ni har
+
+bir sheva  haqida ma’lumot  to’planganda, shu sheva  vakillari  joylashgan
+
+territoriyaning ko’lami, aholining miqdori, shu  territoriya iqlimi va boshqa
+
+ma’lumotlar ham to’planadi, ya’ni geografik muhiti ham yoritiladi. Shuningdek,
+
+o’zbek dialektologiyasi o’zbek xalqi  tarixi, adabiyoti, etnografiyasi, san’ati
+
+fanlarining ma’lumotlariga ham tayanadi va ular uchun boy material beradi.
+
+     O’zbek dialektologiyasi o’zbek tili va adabiyoti o’qituvchisi uchun ham
+
+nazariy, ham amaliy ahamiyatga molik bo’lgan fandir. Bu fan bo’yicha olingan
+
+nazariy bilimlar keyingi kurslarda o’tiladigan fanlarga nazariy asos bo’lib
+
+xizmat   kilsa,  ayni  zamonda,   til  va  adabiyot  o’qituvchilarini  o’zbek
+
+shevashunosligi bilimlari bilan qurollantirib, o’z faoliyatida dialektal xatolar
+
+ustida ishlash uchun ham amaliy ahamiyat kasb etadi, ya’ni o’quvchilarning
+
+yozma va  og`zaki  nutqida  uchraydigan  dialektal  xatolarning  manbalarini
+
+belgilab, to’g`ri yo’l tanlashga yordam beradi.
+
+      Umumxalq tilning ikki tarmoi mavjud: adabiy til va jonli til. Adabiy til
+
+–  tarixan  shakllangan,  asos  e`tibori  biln umumxalq  tilining  so’z  ustalari
+
+tomonidan ijodiy boyitilgan va qayta ishlangan, sayqal berilgan, me’yoriy vajamiyatda kishi faoliyatining hamma sohalari bilan bolangan badiiy-publitsistik,
+
+ilmiy adabiyot tilidir. Adabiy til grammatik qurilishi va luat tarkibi jihatidan
+
+me’yorlashtirilgandir.  Adabiy   til  so’zlarni  qonun-qoidaga  muvofiq  so’z
+
+ma’nosidan  kelib  chiqib,  morfologik  va  sintaktik  xususiyatlarga  ko’ra,
+
+orfografik va orfoepik xususiyatlarni hisobga olib me’yorlashtiradi. Sheva esa
+
+ma‘lum  xududdagi  aholining  suzlashuv   tilidir. U  yozuv  bilan  maxsus
+
+ta‘minlanmagani, ma‘lum me’yorga  tushurilganligi,  qoidalashtirilmaganligi,
+
+qo’llanish doirasining cheklanganligi bilan farqlanadi. Adabiy me’yor – ongli
+
+aralashish orqali qayta ishlangan, tanlangan baholangan xususiyatlardir. Leksik,
+
+fonetik, orfoepik, orfografik, grammatik me’yorlar mavjud.
+
+       O’zbek  adabiy    tili  o’zining   dastlabki  davridan  boshlab,  o’z
+
+taraqqiyotining hamma bosqichlarida lahja va shevalar bilan o’zaro aloqada
+
+bo’lib kelgan. Bunda adabiy til, bir tomondan, shevalarga faol ta‘sir ko’rsatadi,
+
+ikkinchi tomondan, ular hisobidan boyib boradi. Bu jarayon hozir ham davom
+
+etmoqda.
+
+      Bugungacha  yaratilgan  dialektologik  tadqiqotlar haqida ayrim
+
+ma`lumotlar. O’zbek  tilshunosligida  o’tgan  asrning  70-yillaridan boshlab
+
+dialektizmlarning badiiy asar tilidagi semantik-stilistik xususiyatlari o’rganila
+boshlandi1. Ma’lumki¸ o’zbek¸ umuman¸ turkiy xalqlarning ildizlari meloddan
+
+oldin Markaziy Osiyoda istiqomat qilgan mahalliy tub qabila va urug`lar ―
+
+qarluqlar¸ o’g`uzlar¸ qipchoqlarga borib taqaladi. Har bir turkiy xalq va uning
+
+tilining   shakllanishida  bu   urug`larning   biri   asos  bo’lgan  (masalan¸
+
+o’zbeklarning shakllanishida qarluq urug`lari asos bo’lgan). O’zbek xalqi va
+
+tilining  shakllanishida  qarluq   urug`lari   bilan  qipchoq  hamda  o’g`uz
+
+
+1 Назиржонова Ф. Миртемир шеъриятида диалектизмлар // Ўзбек тили ва адабиёти. – Тошкент, 1976. –
+№1. –Б. 82-84; Файзуллаев Б. Диалектизмлар ва уларнинг бадиий адабиётдаги ўрни // Ўзбек тили ва
+адабиёти. – Тошкент, 1977. –№4. – Б. 34-38; Йўлдошев Б. Саид Аҳмад асарларида диалектизмларнинг
+стилистик хусусиятлари // Ўзбек тили стилистикаси ва нутқ маданияти масалалари. –Самарқанд, 1979. –
+Б. 29-34; Қиличев Э. Бадиий тасвирнинг лексик воситалари. –Тошкент: Фан, 1982. –Б. 53-57. Охунов Н.
+Ғафур Ғулом асарларида диалектизм ва эскирган сўзларнинг қўлланилиши // Тил ва адабиёт таълими. –
+Тошкент, 2003. –№4. –Б. 37-40 ва бошқ.urug`larining ham hissasi bor. Shuning uchun mazkur urug`larning tarixi va
+tilini o’rganish muhim vazifalardan biridir.2
+
+      Turkiy tillarning o’ziga xos xususiyatlari¸ o’xshash va farqli jihatlari¸
+
+o’zaro ta’siri masalalari uzoq davlardan beri o’rganilib kelinmoqda. Mazkur
+
+masalalarni  ilk o’rgangan olim Mahmud Koshg`ariy bo’lib¸ uning «Devonu
+
+lug`otit turk» asarida turkiy tillar¸ ularning shevalari¸ chunonchi¸ o’g`uz tillari va
+
+shevasiga oid  talaygina ma’lumotlar uchraydi 3 . U  fonetik va morfologik
+
+xususiyatlarni hisobga olib¸ turkiy tillarni ikki guruhga bo’ladi:
+
+       1. Chigil¸ yag`mo¸ tuxsi¸ qarluq¸ uyg`urlardan boshlab¸ yuqori Chingacha
+
+bo’lgan qabilalar  tillari (fanda nisbiy tarzda sharqiy guruh  tillari deb atash
+
+me’yorlashgan).
+
+       2. O’g`uz¸ arg`u¸ qipchoq¸ tatar¸ yamak¸ suvor va rusdan Vizantiyagacha
+
+joylashgan qabilalar tillari (fanda nisbiy tarzda sharqiy guruh tillari deb atash
+
+me’yorlashgan).4
+
+    Mahmud  Koshg`ariy mazkur guruh  tillarining  fonetik va  morfologik
+
+xususiyatlarini misollar asosida izohlaydi. Masalan¸ Sharqiy turklar tilida jarangsiz
+
+t tovushi kelsa¸ G`arbiy turklar tilida d tovushi keladi: tuya-duya kabi.
+
+     O’g`uz lahjasiga oid xususiyatlar juda ko’p olimlar tomonidan o’rganilgan.
+
+Chunonchi¸ G`ozi Olim Yunusov («O’zbek lahjalarining tasnifida bir tajriba»¸
+
+1936)5¸ V.V.Reshetov (Sh.Shoabdurahmonov bilan hammualliflikda chop etgan
+«O’zbek dialektologiyasi» darsligida¸ 1978) 6¸ F.Abdullaev («O’zbek tilining
+
+
+
+
+
+2Абдураҳмонов Ғ. Ўзбек халқи ва тилининг шаклланиши ҳақида. –Тошкент: 1999. –Б. 5¸ 14.
+3Кошғарий М. Девону луғотит турк (Таржимон ва нашрга тайёрловчи С. Муталлибов). Т. I-II-III. –
+Тошкент: Фан, 1960-1963. Т. I. 1960. –529 б.; Т. II. 1961. – 488 б.; Т.III. 1963. – 468 б.
+
+4Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи, 1996. -14 б.
+5 Ғози Олим Юнусов. Ўзбек лаҳжаларининг таснифида бир тажриба.  –Т.: Ўздавнашр¸ 1935. (лотин
+алифбосида).
+6 Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.: Ўқитувчи¸ 1978.o’g`uz  lahjasi»¸  1978;  «O’zbek   tilining  Xorazm  shevalari»¸  1964)  7  ¸
+Yu.Jumanazarov («Hazorasp  shevasining  morfologik  xususiyatlar»¸ 1961) 8 ¸
+A.Ishaev  («Qoraqalpog`istondagi  o’zbek  shevalari»¸  1977) 9 ¸ A.Ahmedov
+
+(«O’zbek adabiy  tili tarixida o’g`uz unsur va ko’rinishlarining qo’llanishi»¸
+2006) 10 va  boshqalar mazkur  lahjani  tadqiq  etgan. O’g`uz  shevasiga xos
+xususiyatlar ayrim darslik¸ qo’llanma va tadqiqotlarda ham o’z ifodasini topgan.11
+
+      G`ozi Olim Yunusov o’zbek shevalarini uchta katta guruhga ajratadi: 1)
+
+o’zbek-qipchoq shevalari; 2) turk-barlos shevalari yoki «chig`atoy» shevalari; 3)
+
+Xiva-Urganch shevalari. Olim Xiva-Urganch shevalarining fonetik  xususiyatlari
+
+bo’yicha quyidagilarni yozadi: «Xiva shevasi … o’zining tovush uyg`unligining
+
+saqlanganligi va uzun  unliligi  bilan  ajraladi. Xiva shevasida  til  o’rta  k¸ g
+
+tovushlarining  bo’luvi¸  va  k  o’rnida g  ishlatiluvi  diqqat  etadigan  fonetik
+xususiyatlardandir».12
+
+      V.V.Reshetov o’g`uz lahjasining ayrim xususiyatlarini  ko’rsatib  o’tadi:
+
+qaratqich  kelishigi  formasining –ыng   //  -ing  shaklida  ishlatilishi;  jo’nalish
+kelishigining -ә / a shaklida ishlatilishi; bol fe’lidagi b ning tushishi kabilar13.
+
+     Y.Jumanazarov Hazorasp shevasining morfologik xususiyatlarini  Honqa¸
+
+Qirq¸ Toshkent shevalari¸ turkman tili va eski o’zbek tili bilan qiyosan tahlil etadi.
+
+Masalan¸ mazkur shevada hozirgi zamon fe’li gөryat’rman tarzida ifodalansa¸
+
+
+
+
+
+7 Абдуллаев Ф. Ўзбек тилининг ўғуз лаҳжаси. –Т.: Фан¸ 1978; Ўзбек тилининг Хоразм шевалари. –Т.: Фан¸
+1964.
+8 Жуманазаров Ю. Ҳазорасп шевасининг морфологик хусусиятлар. –Т.: Фан¸ 1961.
+9 Ишаев А. Қорақалпоғистондаги ўзбек шевалари. –Т.: Фан¸ 1977.
+
+10 Аҳмедов А. Ўзбек адабий тили тарихида ўғуз унсур ва кўринишларининг қўлланиши: Филол. фан.
+ном. ... дис. автореф. –Самарқанд: СамДУ, 2006. -26 б.
+11Тўйчибоев Б., Ҳасанов Б. Ўзбек диалектологияси. –Т: Абдулла Қодирий номидаги халқ мероси, 2004. -
+Б. 99-109; Мирзаев М. Ўзбек тилининг Бухоро шеваси. –Т.: Фан¸ 1969 –Б. 21-27; Шамсуддинов И.
+Қоркўл шеваси лексикаси // Ўзбек шевалари лексикаси. –Т.: Фан¸ 1966. –Б. 430-439 ва бошқ.
+12 Ғози Олим Юнусов. Ўзбек лаҳжаларининг таснифида бир тажриба.  –Т.: Ўздавнашр¸ 1935. (лотин
+алифбосида). -Б. 22.
+13 Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.: Ўқитувчи¸ 1978. – Б. 42.Toshkent shevasida esa korvamman tarzida aytiladi. Yoki Hazorasp shevasida
+kelasi zamon fe’li aljaqman turkman tilida men aljaq tarzida ifodalanadi.14
+
+     Xorazm  shevalarini maxsus tadqiq etgan F.Abdullaev  turkiy  tillarning
+
+tasnifida ham¸ aniq  bir tilning shevalarini tasnif qilishda ham yolg`iz leksik
+
+materialga asoslanish kutilgan natijani bermasligini¸ faqat tilning bshqa yaruslari
+
+(fonetika¸  morfologiya¸   sintaksis)  bo’yicha  to’plangan   materiallar   bilan
+
+birgalikdagina ilmiy jihatdan ishonarli biror xulosaga kelish mumkin bo’ladi¸
+
+degan fikrni ilgari suradi. Olim bu fikrni turkiy  tillar bo’yicha A.N.Baskakov
+
+tasnifiga e’tiroz bildirib aytadi. Ma’lumki¸ A.N.Baskakov turkiy tillarni¸ asosan¸
+
+leksik xususiyatlarini hisobga olib tasnif etgan.
+
+      F.Abdullaev o’g`uz lahjasining leksikasini ozarbayjon va  turkman  tili¸
+
+qipchoq lahjasi va o’zbek adabiy tili bilan qiyosiy tarzda o’rganadi. O’rni bilan
+
+eski o’zbek adabiy tili manbalariga ham murojaat etadi. Xorazm shevalarida arыg`
+
+(pok¸ toza)¸ oram (ko’cha)¸ kөlk (ot-ulov)¸ tuң (mis ko’za) kabi so’zlar eski o’zbek
+
+adabiy tili yodgorliklari tilida mavjudligini aytib o’tadi. Olim o’g`uz lahjasiga oid
+
+qirqdan ortiq baliq turlarining nomini aniqlagan¸ shulardan faqat besh-oltitasigina
+
+o’zbek adabiy  tilida  mavjudligini  ta’kidlaydi. Tadqiqotda  baliq  nomlarining
+
+yigirma beshtasining nomi va izohi qayd etilgan. Shuningdek¸ ishda baliq ovi bilan
+
+bevosita bog`lik o’g`uz shevasiga oid leksik birliklar ham tahlil etilgan.
+
+      F.Abdullaev  turkiy  tillar  leksikasini  tarixiy-qiyosiy aspektda o’rganish¸
+
+birinchi navbatda¸ urug`dosh  tillar bo’yicha¸ ayniqsa¸ jonli shevalar bo’yicha
+
+mukammalroq  faktik  materiallar to’plash lozim¸ deb hisoblaydi. Tadqiqotiga
+
+qarindosh-urug` nomlari (әkiz ― egizak; bөvәk ― chaqaloq kabi); uzvlar nomi
+
+(әrn ― lab; bag`ыr ― jigar; bur’t//mur’t ― mo’ylov kabi)¸ odam va uning hayoti¸
+
+tirikchiligi bilan bog`liq so’z-terminlar (alchaq ― chaqqon¸ qobiliyatli¸ uddaburo;
+
+ig ― og`riq; idә ― jiyda kabi) lug`atini ilova qiladi.
+
+
+
+14Жуманазаров Ю. Ҳазорасп шевасининг морфологик хусусиятлар. –Т.: Фан¸ 1961. –Б. 28.     A.Ahmedov «O’zbek adabiy tili tarixida o’g`uz unsur va ko’rinishlarining
+
+qo’llanishi»  tadqiqotida  o’g`uz  unsur  (element)lari  va  o’g`uz  ko’rinishi
+
+terminlarini qo’llaydi va bu terminlar ifodalaydigan tushunchalarga izoh beradi.
+
+Uning  fikricha¸  o’g`uz  unsur  (element)lari  turkiy   tillarning  tipologik
+
+xususiyatlariga ko’ra o’g`uz guruhiga xos bo’lgan¸ biroq o’zbek adabiy tilida
+
+shu ko’rinishda me’yorlashgan hodisadir. O’g`uz ko’rinishi esa o’zbek yozma
+
+manbalarida me’yoriy qarluqcha shakllar bilan yonma-yon o’g`uzcha lisoniy
+
+hodisalarning qo’llanishidir. Unsur va ko’rinish kat’iy tarixiy tushuncha bo’lib¸
+
+ma’lum bir davrda ko’rinish bo’lgan hodisa boshqa bir davrda unsur bo’lishi
+
+mumkin yoki ma’lum bir davrda unsur bo’lgan hodisa boshqa bir davrda
+
+ko’rinish  bo’lishi mumkin. Jumladan¸ demoq o’g`uzcha unsuri XIII-XVIII
+
+asrlarda o’g`uzcha ko’rinish  edi¸ hozirgi o’zbek adabiy  tili uchun esa bu
+o’g`uzcha unsur mavqeini egalladi.15
+
+     Ma’lumki¸ F.Abdullaevning «XV asr o’zbek adabiy tilining dialektal
+
+asoslari  masalalari»  asarida  o’zbek  adabiy  tilida  o’g`uz  ko’rinishlarining
+
+saqlanishiga asosiy sabablardan biri aruzga asoslangan o’zbek nazmining vazn
+
+va qofiya talablari ekanligi qayd etilgan. A.Ahmedov ana shu fikrga asoslanib
+
+o’zbek yozma yodgorliklari tilidagi o’g`uz unsur va ko’rinishlarini tahlil etadi
+
+va XV-XIX asr o’zbek nazmida o’g`uz unsur va ko’rinishlari¸ asosan¸ vazn va
+qofiya talablari asosida qo’llanilgan¸ degan xulosani beradi16.
+
+      Tadqiqotlarda  o’g`uz  lahjasi  va  shevasining  eng  muhim  fonetik
+
+xususiyatlari sifatida quyidagilar ifodalangan: 1) juft unlilar mavjud¸ i (til oldi )
+
+va ы (til orqa)¸ ө (til oldi ) va o (til orqa)¸ a (til orqa) va ә (til oldi ) mustaqil
+
+fonemalardir; 2) qisqa va cho’ziq unlilar farqlanadi¸ ularning miqdori o’n etti-
+
+o’n sakkizta: at ― a:t¸ ot ― o:t kabi; 3) so’z boshida  t va k tovushlari
+
+jaranglashadi: dil (til)¸ gel (kel) kabi; 4) singarmonizmning uch qonuniyati ham
+
+amal qiladi; 5) «bo’l» fe’lining boshidagi b tovushi tushib qoladi; 6) sonor m
+
+
+
+15 Ўша асар¸ 9-б.
+16 Ўша асар¸ 14-б.fonemasi o’rnida b fonemasi bo’ladi: men ― ben¸ ming ― bing kabi; 7) ayrim
+
+so’zlarda portlovchi¸ jarangli b tovushi o’rnida  sirg`aluvchi¸ jarangli v tovushi
+
+qo’llaniladi: bor ― var¸ ber ― ver kabi; 8) tor unlilardan oldin  til o’rta y
+
+tovushi tushib qoladi: yil ― il¸ yilon ― ilon kabi va h.k.
+
+     O’g`uz  lahjasi va  shevasining eng muhim morfologik  xususiyatlari
+
+sifatida  esa  quyidagilar  ifodalangan:  1)  kelasi zamon  shakli  –jak  /  -jәk
+
+qo’shimchasi bilan ifodalanadi; 2) istak  fe’li shakli  –li qo’shimchasi bilan
+
+ifodalanadi;  3)  qaratqich  kelishigi  qo’shimchasi  undosh  bilan  tugagan
+
+so’zlardan keyin –ың  // -iң  shaklida ishlatiladi: qolың (qo’lning)¸ gөmiriң
+
+(ko’mirning) kabi; 4) jo’nalish kelishigi qo’shimchasi -a / -ә¸ -na / nә shakllari
+
+bilan qo’llaniladi: qolыma (qo’limga)¸ gөmirә (ko’mirga)¸ yuzinә (yuziga) kabi;
+
+5) sanoq sonlarda geminastiya yo’q: iki (ikki)¸ sakiz (sakkiz) kabi va boshqalar.
+
+     Xulosa sifatida aytish mumkinki¸ o’g`uz tillari (yoki G`arbiy turk tillari)
+
+va shevalarining o’zbek adabiy  tilining shakllanishi hamda taraqqiyotidagi
+
+o’rnini to’g`ri baholash¸ ularning muhim til xususiyatlarini tadqiq etish¸ o’g`uz
+
+shevalari materiallarini to’plash¸ izohlash¸ yangi o’zbek adabiy  tili davri va
+
+hozirgi o’zbek adabiy tilida mazkur sheva elementlarining qo’llanish sabablarini
+
+tahlil etish o’zbek tilshunosligi oldidagi muhim vazifalardan biridir.
+
+
+
+                           Savol va topshiriqlar:
+
+         1. O’zbek dialektologiyasi fanining maqsadi va vazifalari nimalardan
+
+        iborat ?
+
+         2. Sheva, dialekt, lahja atamalari haqida ma‘lumot bering.
+
+         3. Dialektologiya fannning o’rganish obyektini ayting ?
+
+         4. Shevalar qaysi usullar asosida o’rganiladi?
+
+         5. Adabiy til va sheva nima, ularning munosabatini aytib bering.                              Adabiyotlar:
+
+  Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси.  -Т.:
+
+   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов  Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+  Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+  Ўзбек шевалари лексикаси. -Т.: Фан.1991.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+
+
+
+       O’ZBEK SHEVALARINING O’RGANILISHI TARIXI
+
+            E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+      XX asirning boshlarida o`zbek shevalarining o`rganilish holati;
+       Shevashunoslikning o`tkan asr 60-90-yillardagi revojlanishi;
+       Shevashunoslik fanining istiqloldan keyingi davrdagi taraqqiyoti.
+
+
+ Tayanch tushunchalar: tasnif, «Chiatoy gurungi», sheva, xususiyat.       O’zbek xalq shevalarini o’rganishga qiziqish va uning tasnifi masalalari
+
+XIX asrning oxirlariga kelib, ancha kengaya bordi. XX asrning 20-30-yillarida
+
+esa bu  ishlar ancha kuchaydi. O’zbek  shevalarini  tekshirishda va o’zbek
+
+shevashunosligining lingvistik fan sifatida tashkil topishida «Chiatoy gurungi»,
+
+E.D.Polivanov,   G`ozi  Olim  Yunusov,   K.K.Yudaxin,   A.K.Borovkov,
+
+V.V.Reshetov, U.Tursunov, Sh.Shoabdurahmonov, F.Abdullayev, A.Aliyev,
+
+M.Mirzayev kabi olimlarning xizmatlari katta bo’ldi.
+
+         Fitrat tomonidan tashkil etilgan «Chiatoy gurungi» (guruh, to’garak
+
+1918-1929) madaniy tashkilot bo’lib, u  til, imlo va alifbo masalalari bilan
+
+shug`ullangan. O’zbek shevalarini o’rganishda bu guruh o’z davrida ancha
+
+faollik ko’rsatgan.
+
+       Yevgeniy Dmitrievich Polivanov – 1892-yil 28-fevralda Smolensk
+
+(Rossiya) shahrida tug`ilgan. U 1920-1930-yillar mobaynida O’zbekistonda
+
+yashaydi va shahar va qishloqlarga ko’plab ekspeditsiyalar uyushtirib, o’zbek
+
+xalqining, hayoti, madaniyati, tili va adabiyotiga oid qimmatbaho materiallar
+
+to’playdi, ularni yiqqan holda o’nlab tadqiqot asarlari yaratadi. Y.D.Polivanov
+
+o’zining «O’zbek tilining qisqacha grammatikasi»  (I va  II qsimlari, 1926),
+
+«O’zbek tilini o’rganishga kirish» (I-chiqishi, 1925), «O’zbeklarning etnografik
+
+xarakteristikasi» (I chiqishi, 1926), «O’zbek tili grammatikasidan materiallar»
+
+(I-chiqish, 1935), «O’zbek dialektologiyasi va o’zbek adabiy tili» (1933) kabi
+
+katta hajmdagi ilmiy asarlari va «Toshkent dialektining fonetik sostavi» (1924),
+
+«Samarqand  shevasi»  (1928),  «Qozoq-nayman  shevasi»  (1931)  singari
+
+maqolalarida o’zbek tilining o’ziga xos xususiyatlarini tadqiq etgan. Buyuk
+
+turkologlar – V.V.Reshetov, K.K.Yudaxin kabilar shu olim qo’lida o’qiganlar.
+
+Atoqli olim 1928-yilda Bishkek shahrida vafot etadi.
+
+        Birinchi o’zbek lingvisti professor G`ozi Olim Yunusov 1893-yilda
+
+Toshkent shahrida tug`ilgan. Boshlang`ich ma‘lumotni Toshkentda olib, 1912-yilda Misrga boradi va u yerda o’qiydi; so’ngra o’qishni 1914-yilda Turkiyaga
+
+ko’chiradi.
+
+       Gozi Olim Yunusov 1930-yilda tashkil etilgan ilmiy ekspeditsiyaga
+
+rahbarlik   qiladi.  Bu  ekspeditsiya  tarkibida   taniqli  olimlar,  jumladan,
+
+E.D.Polivanov, Hodi Zarifov, H.Q.Ramazonov kabilar bor edi.
+
+       G`ozi Olim Yunusov o’zining ilmiy lingvistik, adabiy, ijtimoiy faoliyati
+
+davomida  ko’plab  ilmiy  kitob  va  qo’llanmalar  yaratdi. Uning  «O’zbek
+
+lahjalarini tasnifida bir tajriba» (1936), «O’zbek urug`laridan qatag`onlar va
+
+ularning  tili» (1930), «O’zbek  tili grammatikasi» (1936, qo’lyozma) kabi
+
+kitoblari fan  taraqqiyotiga ma‘lum  bir  hissa  bo’lib  qo’shildi. «Alpomish»
+
+dostoni shu olim tomonida 1922-yilda birinchi bo’lib yozib olingan. Olim 1939-
+
+yilda vafot etgan.
+
+       Konstantin Kuz’mich Yudaxin – 1890-yil 31-mayda Orsk (Rossiya)
+
+shahrida tug`iladi. Uning yoshligi Jambul (Avliyoota)da o’tadi. Toshkentdagi
+
+o’qituvchilar seminariyasiga o’qishga kiradi. U yerda u o’zbek, qozoq, qirg`iz,
+
+uyg`ur va  fors-tojik  tillarini  mustaqil  o’rganadi.  1910-yilda  seminariyani
+
+tugatgandan so’ng u 10 yil davomida Turkistonning Mankent va Qorabuloq
+
+qishlolarida o’qituvchilik qiladi.
+
+        Professor K.K.Yudaxin. 1927-yilda «Qorabuloq shevasining ba‘zi bir
+
+xususiyatlari» haqida tadqiqot ishi yozadi. Uning «Vodil qishlog`ining lahjasi
+
+haqida bir necha so’z» (1927), «Chig`atoy tilining tovushlar sostavi masalasiga
+
+doir» (1929), «O’zbek tili» (1939) kabi asarlari mavjud. Olim 1964-yilda vafot
+
+etadi.
+
+       Aleksandr Konstantinovich Borovkov –  1904-yilning 16-martida
+
+Toshkent shahrida  tug`ilgan. U umrining oxirigacha turkologiya  sohasida,
+
+jumladan,  o’zbek  xalqining  madaniyati,  adabiyoti,   tili  xususida  tadqiqot
+
+ishlarini olib bordi. U o’z hayoti davomida 150 dan ortiq monografiyalar,darsliklar, ilmiy maqolalar yozdi: «Qorachoy-bolqor  tili» (1932), «O’zbek
+
+adabiy  tili»  (1934), «O’zbek  tilining yangi  orfografiyasi haqida»  (1939),
+
+«Alishyer Navoiy» (1940), «A.Navoiy o’zbek adabiy tilining asoschisi sifatida»
+
+(1946), «O’zbek shevalarining tasnifi masalasi» (1953), «XII-XIII asrlar O’rta
+
+Osiyo tafsiri leksikasi» (1958) kabilar shular jumlasidandir. Olim 1962-yilda
+
+vafot etgan.
+
+       O’zbek tilshunosligi rivojiga munosib hissa qo’shganlardan biri – atoqli
+
+olim Viktor Vasilyevich Reshetovdir. U 1910-yil 23-martda Toshkent shahrida
+
+tug`ilgan. Olim 1940-yilda «O’zbek tilining Marg`ilon shevasi» degan mavzuda
+
+nomzodlik va 1952-yilda esa «Ohangaron vodiysining qurama shevalari» degan
+
+mavzuda  doktorlik  dissyertatsiyalarini  yoqladi.  «O’zbek  dialektologiyasi»
+
+darsligining hammuallifidir.
+
+       Fattoh  Abdullaev  –  1914-yilning  martida  Namangan  shahrida
+
+tug`ilgan. U  1946-yilda «O’zbek  tilida  arabizmlar» mavzuida nomzodlik
+
+dissyertatsiyasini,  1962-yilda  esa  «Xorazm  shevalari»  degan  mavzuida
+
+doktorlik dissyertatsiyasini yoqladi. Uning o’zbek tili tarixi, dialektologiyasiga
+
+bag`ishlangan «Eski o’zbek  tili» (1959), «Xorazm shevalari» (1961) kabi
+
+monografiyalari bosilib chiqqan.
+
+      Shonazar Shoabdurahmonov 1923-yilda Toshkent shahrida tug`ilgan.
+
+U ko’p yillar davomida «O’zbek adabiy tili va o’zbek xalq shevalari» mavzuida
+
+ilmiy ish olib bordi va uni 1963-yilda doktorlik dissyertatsiyasi sifatida yoqladi.
+
+       Sh.Shoabdurahmonov. o’zbek tilshunosligining turli sohalari bo’yicha
+
+60  dan   ortiq  ilmiy  tadqiqot   ishlari,  maqolalar  yozdi. U  «O’zbek
+
+dialektologiyasi»   (1959,   V.V.Reshetov   bilan   hamkorlikda),  «O’zbek
+
+dialektologiyasi»   (1961,   V.V.Reshetov   bilan   hamkorlikda),  «O’zbek
+
+dialektologiyasi» (1978, V.V.Reshetov  bilan hamkorlikda)  darsligini nashr
+
+ettirdi.       Bolta Jo’raev 1928-yilda Qashqadaryo viloyatining Kitob tumanida
+
+tug`ilgan. 1959-yilda «O’zbek tilining Shaxrisabz shevasi» bo’yicha nomzodlik
+
+dissyertatsiyasini yoqlagan. O’ndan ortiq shevashunoslikka oid ilmiy ishlari
+
+mavjud: «Shahrisabz shevasi» (1964) monografiyasi, «O’zbek adabiy  tili va
+
+o’zbek dialektlari» (1963) broshyuralari shular jumlasidandir.
+
+      Mustaqim Mirzayev 1912-yilda Buxoro shahrida tug`ilgan. 1952-yilda
+
+«O’zbek  vaqtli  matbuotida  sovet-baynalminal  so’zlar»  nomli  nomzodlik
+
+dissyertatsiyasini (Reshetov  rahbarligida) himoya qilgan  bo’lsa, 1963-yilda
+
+«O’zbek tilining Buxoro gruppa shevalari» nomli doktorlik dissyertatsiyasini
+
+muvoffaqiyatli himoya qildi. 1969-yilda shu nomli monografiyasi e`lon qilindi.
+
+        Mustaqillik yillarida o’zbek xalq shevalarini o’rganishga e’tibor ancha
+
+kuchaydi. Buning o’ziga xos qator ijtimoiy-siyosiy sabablari mavjud. O’zlikni
+
+anglash,  tarixni chuqur  bilish, adabiy  tilni  taraqqiy  ettirish, uning  leksik
+
+tarkibini ichki manba asosida boyitish zaruriyati sheva xususiyatlarni atroflicha
+
+tadqiq etishni talab etmoqda. Shu bois so’nggi yillarda tilshunos olimlarimiz
+
+tomonidan o’zbek xalq shevalarini o’rganishga oid salmoqli  ishlar amalga
+
+oshirildi. Ular jumlasiga N.Rajabovning “O’zbek shevashunosligi”  darsligi,
+
+K.Nazarovning “O’zbek xalq shevalarida egalik affikslari”, N.Murodovaning
+
+“O’zbek    tilining   Navoiy   viloyati   shevalari”   nomli   doktorlik   va
+
+R.Yo’ldoshevning  “Toshhovuz  viloyatidagi  o’zbek  shevalarining  leksik
+
+xususiyatlari” nomli nomzodlik dissyertasiyalarini misol qilib keltirish mumkin.
+
+
+
+                           Savol va topshiriqlar:
+
+    1.XX asirning boshlarida  o`zbek shevalarining o`rganilish holati haqida
+
+     so’zlab bering?
+
+     2.Shevashunoslikning o`tkan asr 60-90-yillardagi revojlanishi holati haqida
+
+     nimalarni bilasiz?  3.Shevashunoslik fanining istiqloldan keyingi davrdagi taraqqiyoti holati
+
+  haqida so’zlab bering?
+
+
+                           Adabiyotlar:
+
+  Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси.  -Т.:
+
+   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов  Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+  Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+  Ўзбек шевалари лексикаси. -Т.: Фан.1991.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+
+
+
+  TURKIY TILLAR VA LAHJALARINI O’RGANISHDA MAHMUD
+
+   KOSHG`ARIYNING “DEVONU LUG`OTIT TURK” ASARINING
+
+                    AHAMIYATI            E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+    Mahmud Koshg`ariy va uning “Devoni lug`otit turk” asari xususida;
+    Mahmud Koshg`ariyning turkiy dialektlar haqidagi qarashlari;
+     “Devoni lug`otit turk” asari va turkiy tillarni qiyosiy o’rganish metodi;
+     “Devonu lug`otit turk” asarining tuzilishi;
+     “Devonu lug`otit turk” asaridagi etnonimlar;
+     “Devoni lug`otit turk” asarining ilmiy-tarixiy ahamiyati.
+
+   Tayanch  tushunchalar: «Devonu  lug`otit  turk»,  tovush,  harf,  lug`at,
+
+qadimgi turkiy so’zlar.
+
+
+      Turkshunoslik ilmining asoschisi Mahmud Koshg`ariy ibn Husayn ibn
+
+Muhammad ijtimoiy kelib chiqishi jihatidan qoraxoniylar sulolasiga mansub
+
+bo’lib, otasi Xusayn ibn Muhammad o’sha davrdagi Barsg`an eliga amirlik
+
+qilgan. Koshg`ariy boshlang`ich ma’lumotni o’z qishlog`ida, yuqori ma’lumotni
+
+Koshg`ar madrasalarida olgan, arab, fors va turkiy tilni puxta egallagan. So’ng u
+
+Buxoro, Samarqand, Marv va Nishopur shaharlarida bilimini oshirgan.
+
+    Mahmud  Koshg`ariy  1056-1057-yillarda mamlakatdagi  ichki  nizolar
+
+sabab o’z vatanini o’n besh yil davomida tark etishga majbur bo’ladi. Ana shu
+
+yillarlarda u turkiy xalqlar yashaydigan o’lkalarni kezib, bu yerlardagi turkiy
+
+qabila va urug`lar, ularning kelib chiqishi va nomlanishi, joylashish o’rinlari.
+
+urf-odatlari, ayniqsa, til xususiyatlarini sinchiklab o’rganadi. So’ng Bag`dodga
+
+borib, ancha vaqt shu shaharda ijod qiladi.
+
+    Mahmud  Koshg`ariy  taxminan  1080-yillarda  vataniga  qaytib  kelib,
+
+O’paldagi  Aziq  qishlog`ida,  Hazrati  Mullom  tog`i  etagidagi  tepalikda
+
+joylashgan madrasada dars bergan va ilmiy ijod bilan mashg`ul bo’lgan. (Hozir
+
+mazkur madrasaning faqat poydevorlari saqlanib qolgan). Olim 1105-yilda
+
+(yoki 1126-yilda) 97 yoshida vafot etib, O’paldagi uning ajdodlari maqbarasiga
+
+dafn etilgan. Tog` etagida balandligi qirq metrli tepalikda joylashgan maqbaramahalliy xalq orasida Mahmud Koshg`ariy mozori nomi bilan mashhur. Olim
+
+dafn etilgan joyga o’sha davr an’anasiga mos ravishda peshtoqlik qabr qurilib,
+
+usti uy shaklida yopilgan. Shundan beri bu er ziyoratgohga aylanib, mahalliy
+
+xalq tomonidan  ta’mirlanib  turilgan. Qabr  joylashgan  tepalikning  etaklari
+
+go’zal, manzarali boqqa  aylantirilgan. Maqbaraga chiqishda to’qson  ikkita
+
+zinani bosib o’tish lozim. Aytishlaricha, ushbu zinalar soni olimning yoshi
+
+soniga  tenglashtirilgan.  Tepalikda  olimning  kitob  ushlab  turgan  haykali
+
+o’rnatilgan.
+
+    Mahmud Koshg`ariy dunyoga mashxur  asari «Devonu  lug`otit turk»
+
+(«Turkiy so’zlar devoni»)ni abbosiylardan bo’lgan Abulqosim Abdulloh binni
+
+Muhammadil Muqtadoga bag`ishlaydi. Ushbu asar turkiy xalqlar tarixidagi
+
+dialektologik,   izohli,  etnografik,  tarixiy-etimologik  lug`atlarning  barcha
+
+unsurlarini qamrab oluvchi  lastlabki universal lug`at  bo’lib, o’z  muallifini
+
+dunyoga  ulug`  adabiyotchi,  tarixchi  geograf va  b. ko’p  fanlarlan  yaxshi
+
+xabardor bo’lgan yirik fan arbobi. qomusiy olim sifatida tanitdi. Bu asarida olim
+
+turkiy qabila va urug`lar  (xalqlar)  tillaridagi  so’zlar ma’nosini arab  tilida
+
+izohlab beradi. Misol sifatida esa maqollardan va badiiy adabiyotdan parchalar
+
+keltirali.
+
+    Mahmud Koshg`ariy asariga o’zi tuzgan dunyo xaritasini ilova qiladi.
+
+Xaritada mamlakat, shaxar, qishloq, tog`, cho’l, dengiz, ko’l, daryo qabilarning
+
+nomlari yozilgan. Xarita, asosan, Sharqiy yarim sharga to’g`ri keladi. Ayrim
+
+kamchiliklariga qaramay, xarita o’z davri uchun mukammal, hozirgi davr uchun
+
+geografik ma’lumotlar beruvchi muhim manba hisoblanadi.
+
+    Mahmud Koshg`ariyning turkiy til grammatikasiga bag`ishlangan boshqa
+
+bir  asari ham bo’lgan. Chunonchi, olim “Devonu  lug`atit turk”ning  kirish
+
+bo’limida kitobda zikr etilmagan grammatik qoidalar to’g`risida so’z yuritib:
+
+“Birlik, ko’plik, oshirish, chog`ishtirish, kichraytish, kelishiklar masalasi va
+
+boshqalar ham zikr qilinmadi. Chunki biz bularni “Kitob javohir an-nahv fi-
+
+lug`at  at-turk”  (“Turkiy  tillarning  nahviga  oid  gavharlar  kitobi”)  ismliasarimizda berdik. Nahvga oid qoidalar u asardan qaralishi kerak”, – deb yozadi
+
+(MK.I.62). Biroq uning bu kitobi saqlangan emas.
+
+     «Devonu   lug`otit  turk»ning  qo’lyozmasi  1914-yilda  Turkiyaning
+
+Diyorbakr shahridan topilgan. 319  sahifali bu qo’lyozma hozir Istanbulda
+
+saqlanadi. Bu nusxa asar yozilganidan salkam 200 yildan keyin, ya’ni Mahmud
+
+Koshg`ariyning o’z qo’li bilan yozilgan nusxadan 1266 yilda kotib Muhammad
+
+ibn Abu Bakr ibn Fotihal-Soviy al Damashqiy tomonidan ko’chirilgan.
+
+     Asar  arablar,  arab  tilini  biladigan  sharq  xalqlari  va  evropa  ilmiy
+
+jamoatchiligini turkiy til bilan tanitish maqsadida yaratilgan. Asar bir qancha
+
+tilga tarjima qilingan. Hozirda uning turkcha, o’zbekcha, uyg`urcha, inglizcha,
+
+ruschaga o’girilgan nashrlari bor. «Devonu lug`otit turk»da, avvalo, otlar, so’ng
+
+fe’llar izohlanadi. So’zlar tartibi ularning tarkibidagi harflarning orta borishiga
+
+(2 harfdan 7 harfgacha) qarab amalga oshirilgan.
+
+     Asarda qabila va urug` tillariga oid lingvistik ma’lumotlar ancha batafsil
+
+berilgan. Bunda har so’zning ma’nolari (polisemiya, omonim, sinonim, antonim
+
+va arxaik so’zlar) chuqur  tahlil qilinadi, ayrim so’zlarning etimologiyasiga
+
+to’xtalib o’tadi. Tovushlar (fonemalar)ning taxlili ancha mukammal: unli va
+
+undosh fonemalar, cho’ziq va qisqa unlilar, ularning urug` tillaridagi talaffuzi
+
+va orfografiyasi, tildagi fonetik hodisa va qonuniyatlar batafsil izohlangan.
+
+Morfologiya  sohasida  so’z  turkumlarini, davr  an’anasiga  ko’ra, uch  so’z
+
+turkumiga:  fe’l,  ism,  bog`lovchiga  bo’lib,  ularning  yasalish va  turlanish
+
+yo’llarini ko’rsatib o’tadi. Asarda uch yuzga yaqin maqol va matallar, o’nlab
+
+she’riy parchalar keltirilgan.
+
+      Tilshunos olim V.I.Belyaev asar haqida shunday yozadi: «Biz bu asarga
+
+nihoyatda yuksak baho berishimiz kerak, chunki u kitoblardan olib yozilmagan,
+
+balki   jonli  materialni  shaxsan  kuzatishga  asoslangan.  Muallif  bergan
+
+ma’lumotlarni arxeologik kashfiyotlar isbot etmoqda».
+
+     Nemis sharqshunosi Karl Brokkelman asarni 1928-yilda nemis  tiliga
+
+tarjima qildi. Asar qo’lyozmasining fotonusxasi Istanbulda Kilisli Rifat (3 jildli;1915-1917), keyinchalik Bosim Atalay tomonidan (3  jildli; 1939-1941) turk
+
+tiliga tarjima qilinib, chop etilgan. Uning turk tilidagi keyingi qayta nashri 1957
+
+yil amalga oshirildi. «Devonu lug`otit turk» asari ikkinchi bo’lib o’zbek tiliga
+
+tarjima qilinib, muhim izoh va tafsirlari bilann 1960-1963-yillari Toshkentda
+
+«Fan»  nashriyotida  3  jildda  chop  etilgan.  Bu  tilshunos  olim  Solih
+
+Mutallibovning 35  yillik mehnati  natijasi  edi. Ushbu nashr  faqat  tarjima
+
+bo’lmay, turkcha tarjimaga munosabat, baho, atamalar, shaxs nomlari, shahar va
+
+joy nomlariga izoh va tafsir hamdir.
+
+     O’zbekcha  nashrining muqaddima qismida Maxmud  Koshg`ariyning
+
+lingvistik  qarashlari,  turkiy  qabilalar,  ularning  shakllanishi, bu  urug` va
+
+qabilalar, tillarning hozirgi turkiy xalqlar va ularning tiliga munosabati, tarjima
+
+transkripstiyasi    to’g`risida   ma’lumotlar    berilgan.   «Devonu    lug`otit
+
+turk».o’zbekcha nashrining oxirida turkiy urug`, qabila, shaharlar va boshqalar
+
+to’g`risida batafsil ma’lumotlar bor, asarning har bir jildida havolalar berilib,
+
+unda  uchragan  so’z va  iboralar keng  ta’riflanadi,  izohlanadi. O’zbekcha
+
+nashrining muhim tomonlaridan  biri, uning  har  bir  jildi  asosida  tuzilgan
+
+ko’rsatkichdir. Unda asarda uchragan so’zlar alifbo tarzida keltirilib, so’zning
+
+o’zbek va rus tilida tarjimasi beriladi.
+
+     “Devonu lug`atit turk”ning bitta qo’lyozmasi saqlangan. U hijriy 664-
+
+(melodiy 1266-) yilda kotib Muhammad ibn Abubakr ibn Abdulfath as-Saviy
+
+ad-Damashqiy  ko’chirgan. Uning  yozishicha, mazkur qo’lyozma Mahmud
+
+Koshg`ariyning  o’z  qo’li  bilan  bitilgan  nusxasidan  ko’chirilgan. U  hozir
+
+Istanbuldagi Millat kutubxonasining Ali Amiriy fondida 4189 raqami ostida
+
+saqlanmoqda. Qo’lyozma 319 varaqli katta bir jilddan iborat bo’lib, varaqlari
+
+tarqoq, yirtiq, boshi-oxiri noma’lum¸ sahifalari qo’yilmagan. «Devonu lug`otit
+
+turk» qo’lyozmasi uchga  bo’linib,  birinchi va ikkinchi  jildlari 1915-yilda,
+
+uchinchi  jildi 1917-yilda Istanbulda Kilisli Rifat muharrirligida nashr etildi.
+
+Tilshunos Bosim Atalay asarni turk tiliga birinchi bo’lib mukammal tarjima
+
+qildi.     Abdulahad Nuriy «Devonu lug`otit turk»dagi aforizm va maqollarning
+
+251 tasini to’plab¸ «Otalar so’zi» nomida nashr ettirdi. Shokir Ulkutoshirning
+
+«Kashg`arli Mahmud» nomli kichik bir asarida Mahmud Koshg`ariynint hayoti,
+
+ijodi va «Devonu lug`otit turk»ning mazmuni bayon etilgan.
+
+      G`arbiy Evropada sharqshunos Karl Brokkelman 1920-yilda «Devonu
+
+lug`otit turk» to’g`risida birinchi maqolasini e’lon qildi, keyinchalik asardagi
+
+so’z, ism va joy nomlarining ro’yxatini tuzib, qaysi tom va sahifasini belgilab,
+
+alohida kitob (ko’rsatkich) tarzida nemischa so’z boshisi bilan 1928-yilda nashr
+
+etdi. U «Devonu lug`otit turk»ning  til va adabiyot uchun ahamiyati, uning
+
+tarjimasi to’g`risida ham bir necha maqolalar yozdi.
+
+      Atoqli turkolog S.E.Malov Toshkentda ishlagan davrida ham, keyinchalik
+
+ham «Devonu lug`otit turk»ga katta ahamiyat berdi. Uning «Qadimgi turkiy
+
+yozuv  yodgorliklari»  nomli  monografiyasida  asarga  oid  qimmatli  fikrlar
+
+ifodalangan va kattagina bibliografiya berilgan.
+
+     Sharqshunos  P.K.Juze  1926-1928-yillarda «Devonu  lug`otit  turk»ga
+
+bag`ishlab ikkita maqola yozdi. P.K.Juze asli falastinlik arab bo’lib, u 1871-
+
+yilda  tug`ilgan. Qozon  universitetida  ta’lim  olgan, Qozonda  va Bokuda
+
+professorlik qilgan, 1942-yilda Bokuda vafot etgan. U maqolalarida «Devonu
+
+lug`otit turk» asariga juda yuksak baho berdi¸ uning katta ahamiyatini uqtirib
+
+o’tdi. U yozadi: «Mahmudning «Devonu lug`otit turk» asarida o’sha vaqtda
+
+Qoraxoniylar davlati tarkibiga kirgan Shimoliy-Sharqiy qabilalarning deyarli
+
+hammasi to’plangan. Dadil aytish mumkinki¸ yaqindagina (XIX asr oxirlarida)
+
+Rossiyada va Sharqda o’rganilgan turkiy tillar fonetikasi va etimologiyasining
+
+asosiy qonunlari XI asrdayoq Mahmud tomonidan aniqlangan va o’rganilgan
+
+edi. Mahmudning bu tekshirishlari shu qadar keng va chuqurki, hatto, bunday
+
+asar XIX  asrda  yozilganda  ham  unga  shon-sharaf  bo’lardi. MahmudKoshg`ariyning «Devonu  lug`otit  turk»i  singari  asar  fan olamida  keyingi
+
+asrlarda ham yaratilgan emas. Uning asari bamisoli «Turkiy qomus»dir».
+
+     O’zbek olimlari orasida «Devonu  lug`otit turk» asarini ilmiy asosda
+
+o’rganishni Turkiston jadidchilik harakatining g`oyaviy rahnamosi Abdurauf
+
+Fitrat boshlab berdi. Uning «Devonu lug`otit turk» asariga oid tadqiqotlaridan
+
+biri «Eng eski turk adabiyoti namunalari» deb nomlanadi. Mazkur tadqiqot-
+
+majmua 1927-yilda isloh qilingan arab yozuvida chop etilgan bo’lib, unda Fitrat
+
+turkshunoslik ilmining asoschisi Mahmud Koshg`ariyning mashhur «Devonu
+
+lug`otit turk» asaridagi she’riy parchalarni yig`ib, ularni adabiy tur va janrlarga
+
+ko’ra tasniflagan. «Bir-ikki so’z» deb nomlangan so’z boshisida o’zbek tili va
+
+adabiyoti tarixi, turkiy tilshunoslik va o’zbek adabiyotshunosligi uchun muhim,
+
+ahamiyatli fikrlar ifodalangan. Ular jumlasiga quyidagilarni aytish mumkin:
+
+      a) Mahmud Koshg`ariy, V.V.Radlov va A.N.Samoylovichlarning turkiy
+
+tillar tasnifiga oid ilmiy qarashlari mufassal tahlil etilgan;
+
+      b) yangi o’zbek adabiy tilining asosiy manbalari to’g`ri belgilangan;
+
+      v) «Devonu  lug`otit turk» asaridagi she’riy parchalar adabiy  tur va
+
+janrlarga ko’ra aniq tasniflangan;
+
+      g) «Devonu lug`otit turk» asarining ilmiy-tarixiy ahamiyatiga to’g`ri baho
+
+berilgan.
+
+     Yuqorida   aytib   o’tilganidek,  «Devonu   lug`otit   turk»   asarining
+
+qo’lyozmasi 1914-yilda Turkiyaning Diyorbakir shahrida topiladi, 319 sahifali
+
+bu qo’lyozmaning fotonusxasini Kilisli Rifat 1915-1917-yillarda uch tomdan
+
+iborat qilib, Istanbulda nashr ettiradi. Fitrat ushbu nashrdan foydalanib, uni
+
+tadqiq etishga harakat qilgan. Dastlab u turkshunoslar Mahmud Koshg`ariy,
+
+V.V.Radlov va A.N.Samoylovichning turkiy tillar tasniflariga o’z munosabatini
+
+bildirib o’tadi.     Ma’lumki, V.V.Radlov tasnifida, asosan, hududiy-geografik nuqtai nazar
+
+asos qilib olingan va shunga ko’ra turkiy tillar to’rt guruhga bo’lingan. Ular
+
+quyidagilardir: 1) Sharqiy guruh. (Bu guruhga oltoy, chulim, xakas, shor,tuva
+
+va enasoy turklarining  tili kiradi); 2) G`arbiy guruh. (Bu guruhga qirg`iz,
+
+qozoq, qoraqalpoq, tatar, boshqird tillari kiradi); 3) O’rta Osiyo guruhi. (Bu
+
+guruhga uyg`ur va o’zbek tillari kiradi); 4) Janubiy guruh.(Bu guruhga turkman,
+
+ozarbayjon va turk tillari kiradi).
+
+     A.N.Samoylovichning tasnifida esa turkiy tillar oltita guruhga bo’lingan.
+
+Uning tasnifida fonetik tamoyil asos qilib olingan. Tasnifda turkiy tillar guruhi
+
+quyidagilardan  iborat:  1) Bulg`or  guruhi. Bu R  guruhi nomi  bilan ham
+
+yuritiladi. (Bu guruhga eski bulg`or va hozirgi chuvash  tillari  kiradi); 2)
+
+Shimoli-Sharqiy yoki uyg`ur guruhi. Bu D guruhi nomi bilan ham yuritiladi.
+
+(Bu guruhga uyg`ur, tuva, salar tillari kiradi); 3) Shimoli-G`arbiy yoki qipchoq
+
+guruhi. Bu Tau guruhi nomi bilan ham yuritiladi. (Bu guruhga oltoy, qirg`iz,
+
+qumiq, tatar, boshqird, qozoq tillari kiradi); 4) Janubi-Sharqiy yoki chig`atoy
+
+guruhi. Bu Tag`liq guruhi nomi bilan ham yuritiladi. (Bu guruhga o’zbek va
+
+uyg`ur tillari kiradi); 5) O’rta yoki qipchoq-turkman guruhi. Bu Tag`liq guruhi
+
+nomi bilan ham  yuritiladi. (Bu guruhga qipchoq-turkman  tillari kiradi); 6)
+
+Janubi-G`arbiy guruh. Bu Ol guruhi nomi bilan ham yuritiladi. (Bu guruhga
+
+ozarbayjon, turk, gagauz tillari kiradi).
+
+       Fitrat  mazkur  tasniflarni   tahlil  etib  bo’lgach,  ular  bo’yicha  o’z
+
+xulosalarini quyidagicha ifodalaydi: «Har holda bu tasniflarning ko’pda asosiy
+
+narsalar bo’lmag`ani ma’lum. Bulardan boshqa birda tarixiy tasnif Mahmud
+
+Koshg`ariyning   «Devoni  lug`at»ida  bordir».  Olimning  mazkur  fikridan
+
+quyidagilarni anglash mumkin:
+
+      1) rus turkshunoslarining tasnifida juda ko’p kamchiliklar mavjud, ularda
+
+turkiy tillar bir tomonlama tasnif etilgan. V.V.Radlovning ilmiy ishlarida turkiytillar hududiy-geografik nuqtai nazardan, A.N.Samoylovichning ilmiy asarlarida
+
+esa turkiy tillar bir xil lingvistik belgisiga asoslanib tasnif etilgan. Bunday yo’l
+
+tutish xatolik va chalkashliklarni keltirib chiqarishi aniq. Shu uchun  ularning
+
+tasniflari mukammallikdan yiroq;
+
+      2) mazkur tasniflardan bir necha asr ilgari, ya’ni XI asrda yaratilgan
+
+tasnif ham mavjud bo’lib, u Mahmud Koshg`ariyga tegishlidir. Ayonki, olim
+
+turkiy xalqlarning hududiy-geografik jihatdan yashash manzillari va turkiy
+
+tillarning lingvistik xususiyatlarini alohida e’tiborga olib, turkiy tillarni ikkita
+
+guruhga bo’ladi:
+
+      1) turk yoki xoqoniy turkchasi tillari; 2) o’g`uz tillari.
+
+     Ma’lumki, «Devonu lug`otit turk» asarida mazkur guruhdagi  tillarning
+
+fonetik, morfologik va leksik xususiyatlari mufassal  tahlil etilgan, shularga
+
+asoslanib ular tasnif etilgan. Bu tarixiy tasnif ancha sodda, aniq va qisman
+
+mukammal  ekanligini  Fitrat  alohida  ta’kidlab,  undan  keng  foydalanish,
+
+yaratilajak yangi  tasniflarga,  albatta, asos  qilib  olinishi lozimligini  aytadi.
+
+Asarga  tarixiy  fonetika,  morfologiya  va  leksikologiya  uchun  qimmatli
+
+materiallar beruvchi manba sifatida yuqori  baho beradi. Chindan ham unda
+
+yuqoridagi yo’nalishlar bo’yicha ancha keng va to’liq ma’lumotlar mavjud.
+
+       Fitrat «Devonu  lug`otit  turk»  asarida mingdan  ortiq so’zning  izohi
+
+berilganligini qayd etadi. Ayrim  adabiyotlarda asardagi so’zlar miqdori olti
+
+mingdan ziyodroq deb ko’rsatilgan. «O’zbekiston Milliiy enstiklopediyasi»da
+
+esa  sakkiz  mingdan  ortiq  so’zning  izohi  berilganligi  ko’rsatib  o’tilgan
+
+(O’ME,III,230). Hozircha bu masalada aniq to’xtamga kelingani yo’q. Fitrat
+
+tadqiqotida «Devonu  lug`otit turk» asarining yozilish sanasi ham ko’rsatib
+
+o’tilgan. Shu  o’rinda mazkur  asarning  yozilish  sanasi  xususidagi  ayrim
+
+qarashlarga to’xtalib o’tsak. Ba’zi o’quv adabiyotlarida asarning yozilish sanasi
+
+1072-1083-yillar deb qayd etilgan bo’lsa (Muxtorov A., Sanaqulov U. O’zbekadabiy tili tarixi. –T.: O’qituvchi, 1995. –B. 56), ayrim ilmiy manbalarda 1068-
+
+yil (Abdurahmonov G`., Shukurov Sh. O’zbek tilining tarixiy grammatikasi. –
+
+T.: O’qituvchi, 1973. –B. 16), «O’zbekiston Milliiy enstiklopediyasi»ning  3-
+
+jildida 1071-1072-yillar (230-b.), 5-jildida esa 1072-yil (77-b.) deb ko’rsatilgan.
+
+Fitrat «Devonu lug`otit turk» asari hijriy 464-466-yillarda yozib tugatilganligini
+
+qayd etadi. Buni milodiy yil bo’yicha hisoblasak¸ 1072-1074-yillarga to’g`ri
+
+keladi. Bu borada Fitratning fikri haqiqatga yaqin.
+
+       Fitrat mazkur asarni tadqiq etish jarayonida juda ko’plab ilmiy va badiiy
+
+asarlarni    o’rganib    chiqadi.    Shular    jumlasiga   V.V.Radlov   va
+
+A.N.Samoylovichlarning  ilmiy  tadqiqotlarini,  «Qutadg`u  bilig»,  «Hibatul-
+
+haqoyiq», «Muqaddimatul-adab» kabi badiiy va lug`at asarlarni aytish mumkin.
+
+Olim shular asosida «Devonu lug`otit turk» asaridagi she’rlarni izohlagan, vazn,
+
+qofiya, mavzu bo’yicha tahlil va tasnif etgan. Fitrat o’zbek xalqining, kengroq
+
+ma’noda  aytsak, turkiy xalqlarning yozma manbalarini o’rganishda,  ularni
+
+targ`ib etishda alohida o’ringa ega. Undan qolgan ilmiy meros hozir ham o’z
+
+ahamiyati va dolzarbligini aslo yo’kotgan emas.
+
+      Koshg`ariyshunoslikka munosib hissa qo’shganlardan  biri¸ shubhasiz¸
+
+Solih Mutallibovdir. U «Devonu lug`otit turk» haqida bir qancha maqolalar,
+
+monografiyalar yozdi, asarni to’la ravishda o’zbek tiliga tarjima qildi va nashr
+
+etdi. Solih Mutallibov ko’zga ko’ringan koshg`ariyshunoslaridan bo’lib, bu
+
+sohaning eng yirik mutaxassislaridan biridir. «Devonu lug`otit turk» asarining
+
+tarjimasiga berilgan izohlarning o’zi alohida bir ilmiy ishdirki, bu ko’p vaqt va
+
+keng bilimni talab qiladi.
+
+     “Devonu  lug`atit  turk”  ikki – muqaddima va  lug`at  bo’limlaridan
+
+tuzilgan. Muqaddimada  kitobning  yozilish  sababi, uning  tuzilishi;  turklar
+
+qo’llaydigan yozuv;  otlarning  yasalishi;  fe’llarning  tuslanishi;  so’z  tarkibi
+
+(morfem  tuzilishi);  kitobda  e’tibor  qaratilgan  grammatik  qoidalar;  turktabaqalarining  ta’rifi va  ularning  erlashuv  o’rni;  turk  lahjalaridagi  farqlar
+
+xususida so’z yuritiladi. Lug`at sakkiz bo’limdan iborat:
+
+       1. Hamzali so’zlar, ya’ni “alif” bilan boshlanadigan so’zlar bo’limi.
+
+       2. Solim, ya’ni “alif”, “vav”, “ya” harflari bo’lmagan so’zlar bo’limi.
+
+       3. Muzoaf, ya’ni undoshlari ikkilanadigan so’zlar bo’limi.
+
+       4. Misol, ya’ni tarkibida “alif”, “vav”, “ya” bo’lgan so’zlar bo’limi.
+
+       5. Zavatu-s-salasa (uch harfli so’zlar), ya’ni “alif”, “vav”, “ya” harflari
+
+qisqa unli sifatida o’qiladigan so’zlar bo’limi.
+
+       6. Zavatu-l-arba’a (to’rt harfli so’zlar), ya’ni “alif”, “vav”, “ya” qisqa
+
+talaffuz qilinadigan so’zlar bo’limi.
+
+       7. G`unnalilar, ya’ni tarkibida burun (dumog`) tovushlari kelgan so’zlar
+
+bo’limi.
+
+       8. Al-jam’ baynas-sakinayi, ya’ni harakatsiz ikki undoshli so’zlar bo’limi.
+
+     Har bir bob ism va fe’llardan iborat ikki qismga ajratilgan. Otlar oldin,
+
+fe’llar esa keyin o’z sirasiga qarab boblarga ajratilib, oldinma-ketin beriladi.
+
+So’zlarning  berilish  ketma-ketligi ham  arab  lug`atchiligi  ishlab  chiqqan
+
+prinstiplarga tayanadi: oldin ikki harflilar, so’ng uch, to’rt, besh, so’ng olti
+
+harfli so’zlar keladi.
+
+     Lug`atga o’sha zamondagi turkiy tilning deyarli barcha sohalariga tegishli
+
+sof turkiy so’zlar jamlangan. Kitobda iste’moldan chiqqan so’zlar berilmagan,
+
+faqat iste’moldagi so’zlargina berilgan. Lug`atda so’zlarning berilishi o’ziga
+
+xos: avval turkiy so’z, so’ng uning arabcha tarjimasi keltiriladi. Izohlanganda
+
+esa uning fonetik variantlari, sheva so’zi bo’lsa, qanday shevada uchrashi qayd
+
+etiladi.     Agar  lug`atda  keltirilgan  turkiy  so’zga  arab  tilida  teng  keladigani
+
+bo’lmasa,  ya’ni  u  turklarning   tiriklik   tarzi,  dunyoqarashi,  madaniyati,
+
+etnografiyasigagina  tegishli tushunchani  anglatsa, unday holda ushbu so’z
+
+kengroq shaklda bayon etiladi. Yanada muhimi, turkcha so’zning ma’nosini
+
+ochish uchun o’sha so’z qatnashgan turkiy jumlalar, maqollar, xalq qo’shiqlari,
+
+dostonlardan olingan  to’rtliklar, ushbu tushuncha  bilan  bog`liq  etnografik
+
+marosimlar, qarashlar bilan izohlanadi. Shunga ko’ra, “Devonu lug`atit turk”
+
+tilshunoslik  asarigina  emas,  qadimgi  turk   folklori,  etnografiya,   tarix,
+
+madaniyatshunoslik va shuning singari o’nlab qadimiy fanlar uchun ham boy
+
+material beradi.
+
+     Masalan, im  (belgi, yashirin so’z) so’ziga izoh berar ekan, shunday
+
+yozadi: “im – shoh askarlariga qo’yilgan (tayinlangan) yashirin belgi, parol; bu
+
+belgi qush yoki  qurol nomi yoki  biror so’zdan  iborat  bo’lishi mumkin;
+
+to’qnashganda uni aytib o’zlarini tanitadilar; maqolda shunday kelgan: im bilsä
+
+er ölmäs – Im bilsa, er o’lmas (Kishi yashirin belgini bilsa, nohaq o’lmaydi)”
+
+(MK,I,74).
+
+     “qush – qush. Jamlikni bildiradigan turdosh ot. Keyin bularni bir-biridan
+
+farqlashda ayrim so’zlar qo’shiladi: örüng qush – oq lochin; qara qush –
+
+burgut; teväy qush – tuyaqush; yun qush – tovus; el qush – ilqush, qirg`iy.
+
+     So’ngra Mushtariy yulduziga ham qaraqush deyiladi. Qaraqush tuğdï –
+
+Mushtariy yulduzi chiqdi, demakdir; u tong chog`ida chiqadi. O’g`uzlar tuya
+
+oyoqlarining uchiga ham qaraqush deydilar;  qïz qush – tukining rangi abï
+
+bäräkish rangiga o’xshash bo’lgan bir qush, ya’ni qizil to’sh qush” (MK,I,319).
+
+     “temür – temir: kök temür kerü turmas – ko’k temir bekor turmaydi, etgan
+
+joyini yaralaydi. Buning boshqa bir ma’nosi ham bor. Qirg`iz, yabaqu, qipchoq
+
+va boshqalar biror kishiga qasam ichirganda yoki undan biror narsaga va’da
+
+olganda, qilichni uning oldiga ko’ndalang qo’yib: kök kirsun, qïzïl chïqsun
+
+deydilar, ya’ni “va’da buzilsa, bu ko’k kirsin, qizil chiqsin, ya’ni qonga belanibchiqsin. Bu ahd buzilsa, temir seni o’ldirsin, o’ch olsin” demakdir. Chunki ular
+
+temirni hurmat qiladilar” (MK,I,342).
+
+    Mahmud Koshg`ariy o’z davridagi dialektlarning leksik xususiyatlarini
+
+ham to’liq ko’rsatib bergan. Muallif so’zlarni izohlar ekan, o’rni bilan ularning
+
+qaysi  bir  dialektga  mansub  ekanligi,  dialektlardagi  o’ziga  xos  ma’no
+
+xususiyatlari va boshqa muhim tomonlari haqida ham to’xtalib o’tadi. Bu esa
+
+ana shu so’zning dialektal xarakterini ochib beradi. Shu o’rinda Mahmud
+
+Koshg`ariy tomonidan ma’lum bir dialektga mansub deb izohlangan so’zlardan
+keltiramiz:17
+
+     O’g`uzlar qo’llaydigan so’zlar: ashaq “tuban, quyi” (I.97), alïq “qush
+
+tumshug`i” (I.98), ekin “ekin; ekin ekiladigan er” (I.107), üyäz “kichik chivin”
+
+(I.112), arsu “har bir jo’n narsa” (I.148), jar “vaqt” (I.312), cher “ro’para”
+
+(I.312), endäk “sath” (I.130), örkän “qayish” (I.132), eylä “shunday” (I.137),
+
+eträk “rangi sariq odam” (I.127), pamuq “momiq, paxta” (I.360), töläk “tinch
+
+va og`ir kishi” (I.368), sïndu “qaychi” (I.395), qarïnchaq “chumoli” (I.460),
+
+sechä “chumchuq” (III.238) va b.
+
+     Chigillar qo’llaydigan so’zlar: ud “sigir” (I.80), ajun “dunyo” (I.106),
+
+üzi “ikki tog` orasidagi keng yo’l” (I.116), aybang “kal” (I.139), ötki “evaz,
+
+badal” (I.149), chekäk “chechak kasalligi” (I.369), saman “somon” (I.392),
+
+quchğundï “piyoz” (I.454).
+
+    Qarluqcha  so’zlar:  ulïchïm  “o’g`ilcham,  qarog`im”  (I.86),  suğut
+
+“suzma” (I.337), ït kerdi “it vovulladi” (II.15).
+
+    Qipchoqcha so’zlar: ökil “ko’p” (I.103), aba “ayig`” (I.113), sulaq “qora
+
+jigar” (I.390), ajan “ikki elkanli kema” (I.144).
+
+     Arg`ucha so’zlar: (arg`ular ikki tilda so’zlashuvchilar deb ko’rsatiladi)
+
+oğla “yosh yigit” (I.149), qïz kishi “baxil odam” (I.315), bük “burchak” (I.321),
+
+
+
+17 Мазкур маълумотлар Қ.Содиқовнинг “Тарихий лексикография” (2011) ўқув қўлланмасидан олинди.chigit “paxta urug`i, chigit” (I.337), tudrïch “go’ng” (I.422), bashtar “o’roq”
+
+(I.424), bitrik “pista” (I.441).
+
+    Yag`mocha so’zlar: charun “chipor daraxti”  (I.392), chignä “surgi”
+
+(I.408).
+
+     Bulg`orcha so’zlar: avus “mum” (I.91).
+
+     Barsag`ancha  so’zlar: arïğ “chodir pardasi”  (I.94), tünäk “zindon”
+
+(I.387), sökti “kepak” (I.394), achï “keksa xotin” (I.114).
+
+    Qashqarcha  so’zlar:  sibüt “kashnich”  (I.337),  butïq  “kichik mesh”
+
+(I.358).
+
+    Turkmancha so’zlar: qarït “o’g`irlash, talash” (I.338), taquq “tovuq”
+
+(II.330).
+
+    Kanjakcha so’zlar: kenbä “bir o’simlik” (I.393), körkä “yog`och kosa”
+
+(I.405).
+
+    Devonda bir guruh so’zlar bir qancha dialektlar uchun umumiy bo’lgan
+
+deb   ko’rsatiladi.  Jumladan,  quyidagi  so’zlar  o’g`uz  va  qipchoqlarda
+
+qo’llanilishi ta’kidlangan: alïğ “har narsaning qaytarilishi” (I.95), arïq “oriq,
+
+zaif” (I.97). Yoki yana misollarni kuzating: ebmäk “non” (yag`mo, tuxsi va
+
+ba’zi o’g`uz va qipchoqlar  so’zi)  (I.126), urğa  “katta daraxt” (o’g`uz va
+
+arg`ucha) (I.148), benäk “urug`” (arg`u va ba’zi dialektlarda) (I.367).
+
+    Ayrim so’zlar bir dialektda ma’lum bir shaklda bo’lsa, ikkinchi dialektda
+
+uning  o’rnida  boshqa  so’z  qo’llanilgan. Bu  narsa Mahmud  Koshg`ariy
+
+tomonidan ham alohida qayd etilgan: Masalan, boshqa turklar idish, kosa,
+
+piyolani ayaq  desalar,  o’g`uzlar uning  o’rnida janaq  so’zini  qo’llaganlar
+
+(I.112), turklar almïla (ya’ni olma) desalar, o’g`uzlar alma so’zini qo’llaganlar
+
+(I.150).     Ko’pchilik turklar chïqtï desalar, yag`mo, tuxsi, yaboqu, qipchoq va ba’zi
+
+turkman urug`lari xuddi shu ma’noda tashïqtï so’zini qo’llaganlar: er evdin
+
+tashïqtï “odam uydan tashqari chiqdi” (II.131).
+
+     Bir guruh so’zlar dialektlarda stilistik jihatdan ham chegaralangan edi.
+
+Jumladan, qïldï salbiy ma’noda ham qo’llanilgani sababli, o’g`uzlar undan
+
+qochib, uning o’rnida etti so’zini qo’llaydilar: er yükünch etti “odam namoz
+
+o’qidi”. Turklar esa qïldï so’zini qo’llaganlar (II.33). Yoki turklardagi tekindi –
+
+“erishdi, muyassar bo’ldi” ma’nosidagi so’zini, devon muallifining yozishicha,
+
+o’g`uzlar “yoqtirmaydilar” (II.166).
+
+     O’zlashgan so’zlarning miqdori bo’yicha ham  dialektlar orasida farq
+
+bo’lgan. Buni Mahmud Koshg`ariyning quyidagi ma’lumotida ham ko’ramiz:
+
+“O’g`uzlar  forslar  bilan aralashgach,  ba’zi  so’zlarni  unutdilar va ularning
+o’rniga forscha so’zlar qo’llay boshladilar: qumğan o’rnida āftāba (I.406)i.
+
+    «Devonu  lug`otit turk» asarida  turli sohalarga doir  so’zlar bilan  bir
+
+qatorda zoonimlar ham ifodlangan. Ma’lumki¸ zoonim yunoncha so’z bo’lib¸
+
+hayvon nomlari bilan bog`liq so’zlar ma’nosini ifodalaydi. «Devon» dagi
+
+zoonimlarni hozirgi o’zbek adabiy tili nuqtai nazardan ikkita guruhga ajratish
+
+mumkin: hozirgi o’zbek adabiy tilida qo’llaniladigan qadimgi turkiy zoonimlar
+
+va hozirgi o’zbek adabiy tilida qo’llanilmaydigan qadimgi turkiy zoonimlar.
+
+      Hozirgi o’zbek adabiy tilida qo’llaniladigan qadimgi turkiy zoonimlar
+
+jumlasiga echko’ (echki)¸ tuya¸ ayig`¸  it¸ ilon¸ qo’y kabilarni aytib  o’tish
+
+mumkin. Ushbu so’zlarning  til va lahjalarda turlicha ifodalanishini olim aniq
+
+ko’rsatib o’tadi. Yuqorida keltirilgan tuya¸ qo’y kabi so’zlar har bir tilda¸ ya’ni
+
+turkiy va  o’g`uz  tillarida  turlicha  talaffuz  etilishini Mahmud  Koshg`ariy
+
+shunday  izohlaydi:  «So’zdagi  «t»ni  o’g`uzlar  va  ularga  yaqinlar  «d»ga
+
+aylantiradilar¸ chunoni¸ tuyani turklar teve desalar¸ o’g`uzlar devey deydilar.
+
+So’z  o’rtasida  yoki  oxirida  kelgan  «y»ni  arg`ular «n»ga  almashtiradilar.Masalan¸ turklar ― qoy (qo’y) desalar¸ ular ― qon (qo’n) deydilar» (MK¸I¸66-
+
+68).
+
+     «Devon»da hozirgi o’zbek adabiy tilida qo’llanilmaydigan qadimgi turkiy
+
+zoonimlar ham mavjud. Bunday so’zlar jumlasiga eno’k (yosh arslon¸ arslon
+
+bolasi)¸ aba (ayiq)¸ erkach (taka¸ erkak echki)¸ obko’k (sassiqpopishak)¸ alavan
+
+(timsoh)¸ ud  (sigir)¸ as  (karkas  qushi;  burgut)  kabilarni  aytish mumkin.
+
+Mahmud Koshg`ariy bulardan  tashqari arqar¸ arju kabi zoonimlarni ham
+
+izohlaydi: «arqar ― urg`ochi  tog`  echkisi; uning shoxidan pichoqqa sop
+
+qilinadi; arju – shoqol¸ chiya bo’ri deyilgan yirtqich bir hayvon».
+
+    Mahmud Koshg`ariy ayrim zoonimlarning qaysi  til (sheva va lahja)ga
+
+oidligini ham  qayd  etgan.  Masalan¸  ud¸  obko’k  kabilar  chigilcha¸ aba
+
+qipchoqcha  ekanligini  misollar asosida aniq  ko’rsatib  o’tgan. Olim ayrim
+
+zoonimlarni maqollar asosida izohlagan. Chunonchi¸ ordak (o’rdak)¸ og`laq
+
+(uloq¸ echki bolasi) so’zlarini maqol bilan shunday izohlaydi: «Ordak (o’rdak)
+
+maqolda shunday kelgan: qaz qopsa¸ ordak kolig igano’r ― «g`oz qo’zg`alsa¸
+
+o’rdak ko’lni egallaydi». Bu maqol xalq orasidan biror katta kishi ketgandan
+
+keyin¸ uning o’rniga undan tuban bir kishining ko’tarilishini eslatish uchun
+
+qo’llaniladi (MK¸I¸129); «Og`laq (uloq¸ echki bolasi) maqolda shunday kelgan:
+
+og`laq yiliksiz¸ og`lan biliksiz ― «echki bolasida ilik yo’q¸ yosh bolada aql
+
+yo’q» (MK¸I¸141).
+
+    Mahmud Koshg`ariy zoonimlarning omonimlik xususiyatini ingak¸ at
+
+kabi so’zlari vositasida izohlaydi: 1) «turkiylar sigirni ingak desa¸ o’g`uzlar
+
+toshbaqaning urg`ochisini ingak deydilar (MK¸I¸135); at I ― ot¸ ism; at II ― ot
+
+(hayvon); at III ― laqab; unvon. Beg angar at berdi ― bek unga unvon berdi.
+
+Qabilaning ulug`i yoki boshlig`ini ham atlig` deyish shundandir» (MK¸I¸107).
+
+«Devon»da yuqoridagi zoonimlardan tashqari yana bug`ra (ikki o’rkachli tuya)¸
+
+azg`ir (ayg`ir)¸ taqag`u (tovuq) kabilar ifodalangan.    Mahmud  Qoshg`ariy  chetdan  qabul  qilingan  so’zlarga   ikki   xil
+
+munosabatda bo’ladi. Predmet va tushuncha bilan bog`liq ravishda kirib kelgan
+
+so’zlarga  ijobiy munosabatda  bo’ladi. Tilda mavjud bo’lgan  so’zlar o’rnida
+
+boshqa tildan olingan so’zni qo’llashga  salbiy qaragan va bu holatni zararli,
+
+manfiy holat deb bilgan. Bunga ko’ra bilge, bitik,  urag`ut kabi turkcha so’zlar
+
+o’rnida arabcha olim, kitob, ayol so’zlarini qo’llamaslik kerak.
+
+      Koshg`ariy o’sha davr fonetikasiga doir qimmatli fikrlarni bayon qiladi. Shu
+
+davr alfaviti to’g`risida: «Turkiy tillarda qo’llaniladigan asosiy harflar soni 18
+
+tadir. Xolbuki, tildagi tovushlar 18 ta emas, ko’pdir. Bu 18 harf etishmaydi.
+
+Bulardan boshqa tilda mavjud bo’lgan tovushlarni berish uchun yana 7 ta tovushni
+
+ana shu mavjud harflar ustiga maxsus belgi qo’yib yoziladi» (MK,I,47-48).
+
+Shuningdek, Koshg`ariy unli va undosh tovushlar, ularning xarakteristikasi, tovush
+
+almashinishi qonuniyatlari haqida o’rinli fikrlarni bayon qiladi.
+
+      Lug`atda mavjud so’z turkumlariga doir leksik birliklarning atroflicha
+
+izohiga  e’tibor  berilgan.  Leksemalarga  birlamchi  (asl)  ma’nosidan  farqli
+
+qo’shimcha (sema) yuklatish, shu yo’l bilan yangi leksema hosil qilish ham
+
+Mahmud Koshg`ariy nazaridan chetda qolmagan. Uning mulohazasiga ko’ra,
+
+yangi  so’zlar  yasash  faqat  affikslar  yoki  so’zlarni  birbiriga  biriktirish
+
+kompozistiya  bilan  hosil  qilingan  qo’shma  so’zlar  orqaligina  amalga
+
+oshirilmaydi. Balki, quyidagi uslublardan foydalangan tarzda ham yangi so’z
+
+yasash o’zini oqlaydi:
+
+       a) so’zlarni qarama-qarshi, zid qo’llash bilan. Masalan, sÿchÿk so’zi oldin
+
+shirinlikka nisbatangina  ishlatilgan, so’ng achchiq ta’m-mazalik  ichkilikka
+
+nisbatan ham qo’llanishi shunga misoldir;
+
+      b) butun o’rnida bo’lak, bo’lak o’rnida butun qo’llash natijasida yangi
+
+so’z yuzaga chiqadi. Bu erda hozirgi zamonaviy tilshunoslikdagi integral va
+
+differenstial semalar nazarda  tutilgan, ya’ni saban  istilohi avval qo’sh vaomochning umumiy ma’nosini bildirgan bo’lsa, keyin faqat omochga nisbatan
+
+qo’llanganligi ta’kidlangan (І,382);
+
+      v) so’zlar ma’no doirasining kengayishi yangi ma’no anglatadi. Xususan,
+
+“qiz bola” ma’nosidagi qыz leksemasining majoziy “qimmatbaho” ma’nosi (І,
+
+315) shular jumlasindandir.
+
+    Mahmud Koshg`ariyning «Devonu lug`otit turk» asari o’zbek tili tarixida
+
+yaratilgan asarlar orasida o’zining ilmiy qiymatiga ko’ra alohida ajralib turadi.
+
+Turkologlar, tarixchilar. adabiyotshunoslar va arxeologlar har doim aniq va
+
+to’g`ri manba sifatida uning asariga asoslanadilar. Xalqimizning boy tarixini har
+
+tomonlama   o’rganish,   uning   taraqqiyot   bosqichlariga  xos   jihatlarni
+
+umumlashtirish muhim masalalardan hisoblanadi. «Devonu lug`otit turk» asari
+
+o’zbek xalqi tarixida muhim ahamiyatga ega noyob manbadir.
+
+      Xullas, Mahmud Koshg`ariy o’z davrining buyuk tilshunosi tarzida turkiy
+
+tillarda qo’llangan so’zlarni jamladi va ularni o’ziga xos bilimdonlik va chidam
+
+bilan tadqiq qildi. “Devonu lug`otit turk” qoraxoniylar davri ijtimoiy, siyosiy,
+
+iqtisodiy, diniy-madaniy, maishiy, etnografik turmush tarzini anglashda, shu
+
+jihatlarga doir tushunchalarni ifodolovchi leksemalar tizimini idrok etishda
+
+bebaho manba hisoblanadi.
+
+
+
+                           Savol va topshiriqlar:
+
+
+    Mahmud Koshg`ariy va uning “Devonu  lug`atit  turk”  asari
+
+      to’g`risida ma’lumot bering.
+     Hozirgi  turkshunoslikda  asarning  qanday  nashrlari  amalga
+
+     oshirilgan?
+    Mahmud Koshg`ariyning turkiy dialektlar haqidagi qarashlari
+
+      to’g`risida so’zlab bering.  Asarning  tuzilishi,  unda  so’zlarning  berilish  prinstiplarini
+
+   izohlang.
+  Lug`atda  so’zlar  ma’nosini  izohlash   yo’llari   to’g`risida
+
+   so’zlab bering.
+ “Devonu lug`otit turk” asaridagi etnonimlarni aytib bering?
+  “Devoni  lug`otit  turk”  asarining  ilmiy-tarixiy  ahamiyati
+
+   nimalardan iborat?
+
+
+                         Adabiyotlar
+  Кошғарий М. Девону луғотит турк. Т. I-II-III. –Тошкент.: Фан, 1960-
+
+   1963. Т. I. 1960. –529 б.; Т. II. 1961. – 488 б.; Т.III. 1963. – 468 б.
+  Алиев А., Содиқов Қ. Ўзбек адабий тили тарихидан. – Тошкент:
+
+   Ўқитувчи, 1995.
+ Маҳмудов  Қ. ХІ-ХVІ  асрнинг  туркий  ёзувидаги  ёдгорликлар.-
+
+   Тошкент: Фан, 1994.
+  Муталлибов С. ХІ асрнинг улуғ тилшунос олими Маҳмуд Кошғарий
+
+     / Маҳмуд Кошғарий. Девону луғотит турк.   І том.- Тошкент: Фан,
+
+   1960.
+  Нурмонов А. Ўзбек тилшунослиги тарихи. – Тошкент: Ўқитувчи,
+
+   2002.
+  Турсунов У., Ўринбоев Б., Алиев А. Ўзбек адабий тили тарихи. –
+
+   Тошкент: Ўқитувчи, 1995.
+  Фитрат. Энг эски турк адабиёти намуналари. - Самарқанд, 1927.
+  Фозилов Э. Шарқнинг машҳур филологлари. – Тошкент: Фан, 1971.
+  Худойбердиев Ж. Маҳмуд Кошғарий ҳаёти ва “Девону луғотит
+
+   турк” асарининг ўрганиши. - Тошкент, 2010.
+  Ҳасанов Ҳ. Маҳмуд Кошғарий (ҳаёти ва географик мероси). –
+
+   Тошкент: Фан, 1963.     Рустамова  С.  Маҳмуд  Кошғарий  луғатининг  лексикографик
+
+      хусусиятлари: Филол. фан. ном.  ... дисс. автореф.  – Тошкент: ЎзР
+
+   ФА ТАИ, 1999.
+
+
+
+      UMUMXALQ TILI, ADABIY TIL VA MAHALLIY
+
+                   DIALEKTLAR
+
+              E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+     Dialekt va adabiy til;
+     Dialektlar, ularning paydo bo`lishi, dialektlarni qabila tarixiga bog`lab
+
+       o`rganish;
+     Adabiy tilning shevalarga munosabati va ularning ta`siri.
+
+
+
+     Tayanch tushunchalar: dialekt, adabiy  til, umumxalq  tili, og`zaki va
+
+     yozma til.
+
+
+
+     Ma’lumki, har bir adabiy til milliy (xalq yoki elat) tilning yuqori bosqichi
+
+bo’lib, u me’yorlashgan yoki me’yorlashtirilgan  til hisoblanadi. Unga yana
+
+quyidagi ta’rifni berish mumkin: «Adabiy til leksik jihatdan nisbatan barqaror,
+
+fonetik va grammatik jihatdan ma’lum qolipga tushgan, yagona orfografik va
+
+orfoepik me’yorlarga amal qiladigan, so’z ustalari tomonidan sayqal berilgan
+
+tildir». O’zbek adabiy tili ham shu qoidaga amal qiladi.
+
+     O’zbek adabiy tili ikki shaklda bo’ladi: og`zaki va yozma. Og`zaki adabiy
+
+til orfoepik me’yorlarga, buysundiriladi. Og`zaki adabiy til davlat ahamiyatiga
+
+ega bo’lgan barcha sathdagi rasmiy majlislar, o’qish – o’qitish ishlari, ommaviy
+
+majlislarda  qo’llanadi. Yozma adabiy  til  esa,  orfografik  qoidalar  asosida
+
+shakllantiriladi  va  orfografiya  qoidalari  joriy  etilgan  o’zbek  alifbosigaasoslanadi. Unda bir necha tamoyillardan foydalaniladi: fonetik, fonematik,
+
+morfologik, grafik, tarixiy - an’anaviy, ramziy va boshqalar.
+
+     Har bir adabiy til o’zining tayanch dialektiga ega bo’ladi. To’g`ri, o’zbek
+
+adabiy tilining shakllanishida shevalarning barchasi u yoki bu darajada ishtirok
+
+etadi, lekin ma’lum shevalar adabiy til uchun asos, tayanch (baza) vazifasini
+
+bajaradi, ya’ni o’zbek adabiy  tili muayyan  dialekt va shevalardan  leksik,
+
+fonetik, grammatik xususiyatlarni adabiy  til fakti sifatida oladi hamda o’sha
+
+sheva va shevalar guruhi taraqqiy etishi bilan birga taraqqiy etadi, chunki sheva
+
+jonli  til bo’lib, u doimo rivojlanishda, o’zgarishda bo’ladi. Shu tufayli ham
+
+adabiy  til shu sheva yoki shevalar guruhi rivojlanishi bilan bog`liq ravishda
+
+rivojlanib boradi, aksincha, adabiy til o’zining tayanch dialektiga ega bo’lmasa,
+
+u bora-bora muomaladan chiqib ketadi. Muomaladan chiqqani til fanida «o’lik
+
+til» degan termin bilan yuritiladi. Tillar tarixida «o’lik tillar» mavjudligi haqida
+
+ma’lumotlar ko’p.
+
+     O’zbek  tili – ko’p dialektli  til. Bu uning murakkab tarixiy taraqqiyot
+
+yo’lini bosib  o’tganligi, bugungi o’zbek  millati o’tmishda  xilma-xil  etnik
+
+tarkibga ega bo’lganligi bilan belgilanadi. O’zbek milliy tilini tashkil etuvchi
+
+turli-tuman shevalarni uch lahjaga birlashtirish mumkin. Bular: 1) qarluq-chigil-
+
+uyg`ur lahjasi; 2) qipchoq lahjasi; 3) o’g`uz lahjasi. Lahjalar o’zaro  farqli
+
+xususiyatga ega. Bu farqlar lahjalarning har biri dastlab har xil qabila yoki
+
+qabila birlashmalarining tili bo’lganligi bilan bog`liq.
+
+     O’zbek  milliy  tilining  lahjalari  orasida,  odatda,  qarluq-chigil-uyg`ur
+
+lahjasi hozirgi o’zbek milliy adabiy tilining me’yorlarini belgilashda muhim
+
+ahamiyat kasb etgan deb, odatda, alohida ajratiladi. Buning boisi shundaki,
+
+o’zbek xalqining shakllanishida qarluq etnik  tarkibi Qoraxoniylar davridan
+
+boshlab alohida mavqega ega edi. O’zbek tilining birorta shevasini ham adabiy
+
+tilga hamma jihatdan asos bo’lgan deb aytib bo’lmaydi. O’zbek tilining barcha
+
+lahjalari o’zbek  tilining taraqqiyotiga ma’lum bir darajada hissa qo’shgan.
+
+Birining adabiy tilga ta’siri bir sohada kuchliroq bo’lsa, boshqa sohada o’zga birshevalar  guruhining  ta’siri  ko’proq  seziladi.  Masalan,  Andijon,  Farg`ona
+
+shevalarida o’zbek tiliga xos eng ko’p tarqalgan grammatik shakllardan birini –
+
+hozirgi zamon fe’lining [-yap] affiksi vositasida yasaluvchi shaklini bergan
+
+deyiladi. Lekin bu shakl qipchoq lahjalarida ham aynan shunday qo’llanadi.
+
+Shunisi xarakterliki, bir qarashda adabiy tildan birmuncha uzoqroq deb tasavvur
+
+qilinadigan qipchoq  lahjasi  morfologiyasi singarmonizmdan,  ya’ni  fonetik
+
+o’ziga xoslikdan xoli olinsa, adabiy til morfologiyasi bilan qariyb bir xil.
+
+     Qipchoq shevalarining adabiy  til lug`atini, xususan, uning chorvachilik
+
+atamalari  tizimini  rivojlantirishda,  adabiy  tilning  uslubiy  imkoniyatlarini
+
+boyitishda  katta  hissasi  bor. Masalan,  [qirqim],  [o’tov],  [to’l],  [sarimoy],
+
+[chakki], [chalop], [uloq], [sovliq] kabi umumiy va chorvachilik atamalari,
+
+[quyruq], [bovur], [patir], [tovoq], [kulchatoy], [lochira] singari pazandachilik
+
+atamalari  adabiy  tilga qipchoq  shevalaridan  kirib  kelgan. Adabiy  tilning
+
+rivojlanishiga  o’zbek  tilining  o’g`uz  lahjasi ham ma’lum  darajada  hissa
+
+qo’shgan. Buning uchun adabiy tildagi [yoshulli], [o’g`lon], [buyon], [qaydin],
+
+[qorago’z] kabi qator so’zlarni misol sifatida keltirish kifoya. Demak, o’zbek
+
+milliy adabiy  tilining shakllanishi va taraqqiyotida tayanch manba bo’lgan
+
+tarixiy an’ana bilan bir qatorda barcha lahja va shevalarning o’ziga xos o’rni
+
+bor.
+
+      O`quvchilar   nutqidagi   shevaga   xos   kamchiliklarni   tugatishda
+
+ehtiyotkorlik  lozim.  Avvalo,  o`quvchilarga  xalq  shevalariga  xos  so`zlar
+
+tilimizning boyligi, milliy va ma’naviy qadriyatlarimizning uzviy qismi ekanini
+
+uqtirish kerak. Ammo   ularni o`rinli-o`rinsiz qo`llayverish, ayniqsa, yozma
+
+nutqda shevalarga xos  so`zlarni  ishlatib yuborishdan saqlanish  lozimligini
+
+tushuntirish zarur.
+
+     Nutqda uchraydigan shu yerda so`zi o`rniga shetta, aka so`zi o`rniga oka
+
+deb aytish adabiy til me’yorlaridan chekinish hisoblanadi. So`z va jumlalarniadabiy  tilda  aytish  va  yozishga  o`rgatish  uchun  ona   tili  o`qituvchisi
+
+quyidagilarni amalga oshirish lozim:
+
+      –adabiy talaffuzni o`quvchilarga har bir darsda grammatik, imloviy va
+
+ishoraviy qoidalarga bog`lab izchil o`rgata borish;
+
+      –o’qituvchining o`zi adabiy tilda aniq va ravon so`zlashi;
+
+     –ona tili va adabiyot fanidan boshqa fanlarda ham o`quvchilarning adabiy
+
+tilda gapirishiga e’tibor qaratish;
+
+      –o’quvchi nutqidagi shevaga xos bo`lgan so`zlarni aniqlab, bularning
+
+adabiy til me’yorlariga to`g`ri kelmasligini, hamma uchun tushunarli emasligini
+
+aniq misollar bilan tushuntirib berish. Masalan, adabiy tildagi men, sen, qaerda,
+
+cho`mildik o`rniga mahalliy sheva ta’sirida man, san, kaytta, hopittik  tarzida
+
+ishlatilishning noo`rin ekanligini o`quvchilar anglab olsinlar;
+
+      –o’quvchilar nutqidagi shevaga xos kamchiliklarni tugatish uchun ularni
+
+ko`proq badiiy asarlar o`qishga jalb etish. Chunki o`quvchi qancha ko`p badiiy
+
+asar o`qisa , shuncha adabiy til me’yorlarini yaxshi o`zlashtiradi.
+
+                           Savol va topshiriqlar:
+
+       1.Dialekt va adabiy til o’rtasidagi farqlar nimalardan iborat?
+
+        2.Dialektlar, ularning paydo bo`lishi, dialektlarni qabila tarixiga bog`lab
+
+       o`rganish xususida so’zlab bering.
+
+       3.Adabiy  tilning  shevalarga munosabati va  ularning  ta`siri  haqida
+
+       nimalarni bilasiz.
+
+
+
+                     Tavsiya etiladigan adabiyotlar:
+
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+
+
+
+      DIALEKTLARNI TADQIQ QILISH USULLARI
+
+         E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+    Ayrim sheva, dialekt va shevalar guruhni ekspeditsiya tashkil etish
+
+      yo`li bilan o`rganish;
+    Dialektlarni turli shaklda o`rganish maqsadida fonetik transkriptsiya
+
+      bilan yozib olish, tarixiy, tasviriy, qiyosiy tekshirishlar;
+    Savol-javob  usuli, dialektologik  dasturlar asosida sheva  vakillarini
+
+      kuzatish;
+    Kuzatish ob`ektlarini tanlash;
+    Dialektologik materiallarni hujjatlashtirish.     Tayanch tushunchalar: sheva, dialekt, shevalar guruhi, ekspeditsiya,
+
+kuzatish, ob`ekt, hujjatlashtirish.
+
+
+
+     O`zbek  xalq  shevalarini  o`rganishda  qo`llaniladigan  usullarning eng
+
+muhimi quyidagilardir:
+
+     1.Yakka holda o`rganish.
+
+      2.Tajriba o`tkazish usuli.
+
+      3.Savol-javob usuli.
+
+      Lahjalar va shevalarni yakka holda o`rganishni istagan har bir shaxs
+
+o`zini qiziqtirgan shevani tekshirish asosini tanlab olishi mumkin. Shevashunos
+
+tekshiriladigan joyga borib, mahalliy sharoit va aholi bilan tanishadi hamda
+
+sheva ustida kuzatish ishlari olib boradi. Shevalarni tekshiruvchilar o`zlarini
+
+qiziqtirgan  sohalarga  alohida   e’tibor  beradilar  va  uning  o`ziga  xos
+
+xususiyatlarini yozib  olishga  kirishadilar. Ishning muddati  tadqiqotchining
+
+oldiga  qo`ygan  maqsad  va  rejasi  bilan  belgilanadi.  Masalan, Mahmud
+
+Koshg`ariy o`z ishi uchun 15 yilcha vaqt sarflagani ma’lum.
+
+      Mahalliy sheva va lahjalarni o`rganishning ikkinchi usuli – bu guruh-
+
+guruh bo`lib maxsus ilmiy safar qilish yo`li bilan o`rganish hisoblanadi. Ilmiy
+
+safarga chiqishdan oldin uning mas’ul ilmiy xodimlari maxsus tayyorgarlik
+
+ishlari  olib  borishadi. Rahbar joy tanlashdan  boshlab, uning yakunigacha
+
+bo`lgan davrda tadqiqotchilarning ishlariga doimiy rahbarlik  qiladi. Ularga
+
+ayrim joylar, ma’lum chegaralar ajratib berila-di. Masalan, biror qishloq yoki
+
+shaharga chiqqan vaqtda tadqiqot-chilar 3-4 kishidan iborat  kichik guruhlar
+
+tashkil  eta-dilar. Ularning  biri  boshliq  qilib  belgilanadi. Bu  guruhlardagi
+
+kishilarning biri suhbatni boshqarib boradi, boshqalari esa ma’lumot beruvchi
+
+jarayonni talaffuzga ko`ra yozib oladilar.      Shevalarni guruh-guruh bo`lib tekshirish yo`li bilan o`rganish boshqa
+
+usullarga nisbatan qulay va afzal bo`lib, uni yetakchi usul deb atash mumkin.
+
+Mahalliy lahja va shevalarni tekshirishning uchinchi usuli savol-javob yoki
+
+anketa usuli deb nomlanadi. Mazkur usulga muvofiq ayrim mutaxassislar
+
+tomonidan sheva xususiyatlariga moslab savol-javob shakllari tuziladi va ular
+
+turli kishilar tomonidan to`lg`aziladi. Bunday savol-javoblar  turli shahar va
+
+qishloqlardagi  o`qituvchilarga,  ayniqsa,   til  va  adabiyot  o`qituvchilariga
+
+yuboriladi  va  ulardan  ana  shu  savollarga  o`zlarining  javoblarini  yozib
+
+yuborishlari iltimos qili-nadi. Javob ilmiy yozuv (transkripsiya) yoki adabiy
+
+imlo bilan amalga oshirilgan bo`lishi lozim. Shevashunoslikdan yaxshi xabardor
+
+bo`lmagan  kishilar ham anketa usuli bilan  ish  ko`rishlari va shevalarning
+
+xususiyatlarini o`rganishga hissa qo`shishlari mumkin. Bu usul sheva haqida
+
+umumiy tasavvur hosil  qilish maqsadida qo`llaniladi va tadqiqotchi uchun
+
+yordamchi material bo`lib xizmat qiladi.
+
+     Sheva materiallari bir kishi tomonidan yozib olingan bo`lsa, uning o`zi
+
+tomonidan ishlanadi va ilmiy yozuv (transkripsiya) bilan ta’minlanadi.Agar
+
+bunday materiallar jamoa tomonidan yozib olingan bo`lsa  , uning ishlanish
+
+jarayoni jamoa tomonidan bajariladi.
+
+        Shevalarni yakka holda o’rganish usulida har bir tadqiqotchi o’zini
+
+qiziqtirgan shevani tanlab olishi mumkin. Shevashunos tekshiriladigan joyga
+
+borib, mahalliy sharoit va aholi bilan tanishadi va sheva ustida kuzatish ishlari
+
+olib boradi hamda so’ngra uning o’ziga xos xususiyatlarini yozib olishga
+
+kirishadi. Ishning muddati tadqiqotchining oldiga qo’ygan maqsad va rejvsi
+
+bilan belgilanadi. Masalan, Mahmud Qoshariy o’z ishi uchun 15 yilgacha vaqt
+
+sarflagani ma‘lum.
+
+        Shevalarni o’rganishning ikkinchi usuli – guruh-guruh bo’lib, maxsus
+
+ilmiy safar qilish yo’li bilan o’rganish usuli oliy o’quv yurtlari va ilmiy-tadqiqotinstitutlari tomonidan uyushtiriladi. Ilmiy safarga chiqishdan oldin uning mas`ul
+
+xodimlari maxsus tayyorgarlik ishlari olib borishadi. Ayniqsa, ilmiy yozuvni
+
+yaxshi o’zlashtirmagan  ishtirokchilarga alohida  e`tibor  beriladi. Shevalarni
+
+guruh-guruh bo’lib tekshirish yo’li bilan o’rganish boshqa usullarga nisbatan
+
+qulay va afzal bo’lib, uni yetakchi usul deb atash mumkin.
+
+        Aytilganidek,  shevalarni  tekshirishning uchinchi  usuli anketa  bilan
+
+amalga  oshiriladi. Mazkur usulga muvofiq ayrim mutaxassislar tomonidan
+
+sheva xususiyatlariga moslab savol-javob shakllari tuziladi va ular turli kishilar
+
+tomonidan to’ldiriladi. Bunday savol-javoblar  turli shahar va qishloqlardagi
+
+o’qituvchilarga, ayniqsa, til va adabiyot o’qituvchilariga yuboriladi va ulardan
+
+o’zlarining javoblarini yozib yuborish iltimos qilinadi. Javob ilmiy yozuv bilan
+
+amalga oshirilgan bo’lishi lozim. Bu usul sheva haqida umumiy tasavvur hosil
+
+qilish maqsadida qo’llaniladi va tadqiqotchi uchun yordamchi material bo’lib
+
+xizmat qiladi.
+
+
+
+                           Savol va topshiriqlar:
+
+         1. O’zbek dialektologiyasi fanining maqsadi va vazifalari nimalardan
+
+     iborat ?
+
+         2. Sheva, dialekt, lahja atamalari haqida ma‘lumot bering.
+
+         3. Dialektologiya fannning o’rganish obyektini ayting ?
+
+         4. Shevalar qaysi usullar asosida o’rganiladi ?
+
+         5. Adabiy til va sheva nima, ularning munosabatini aytib bering.
+
+
+
+                                Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+
+
+
+         TRANSKRIPSIYA VA UNING TURLARI
+
+        E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+           Transkripsiya haqida umumiy ma‘lumot.
+           Transkripsiyaning turlari.
+           Transkripsiya va imloning o’zaro farqlari.
+           Yangi yozuvimiz uchun transkripsion belgilar tizimi.
+
+
+
+  Tayanch tushunchalar: transkripsiya, transkripsiya turlari, imlo, yozuv.      Ma‘lum til yoki shevadagi tovushlar talaffuzini, ayrim shaxslar nutqini
+
+maxsus belgilar yordamida aynan yozib olish transkripsiya deyiladi. U lotincha
+
+so’z bo’lib, qayta yozish degan ma’noni ifodalaydi. Umuman, transkripsiya
+
+ilmiy yozuv bo’lib, bir tildagi hamma nozik tomonlarni hisobga olgan holda,
+
+ilmiy maqsadlar uchun talaffuzga ko’ra yozib olish degan ma’noni beradi.
+
+      Yozuvda so’zlashuv nutqi tovushlarini va uning barcha o’zgarishlarini
+
+talaffuz etilishicha mos ravishda to’liq ifodalab bo’lmaydi. Bunda u yoki bu
+
+tilda mavjud bo’lgan  alfavitdagi  belgilar  yetarli bo’lmaydi. Shunga ko’ra
+
+alfavitga  tegishli  o’zgartirishlar  kiritish  talab  qilinadi. Bu  belgilar odatda
+
+mavjud  alfavitdagi harflarning ustidan, yonidan va tagidan  shartli  belgilar
+
+qo’yish yo’li bilan amalga oshiriladi yoki boshqa alfavitdan shartli ravishda
+
+belgi (harf) qabul qilinadi.
+
+        Transkripsiya bilan transliteratsiya o’zaro mustahkam bog`liqdir. Biror
+
+tilning yozma  yodgorliklarini yoki ma‘lum  bir matnni nashr  etishda shu
+
+yodgorliklarning yozuv  tizimini  orqali  ifodalash  transliteratsiya  deyiladi.
+
+Masalan, arab yozuvidagi yozma manbani hozirgi amalda bo’lgan yozuv tizimi
+
+bilan berish kabi. Qiyosiy va tarixiy grammatika, filologik lug`atlar tasvirini
+
+izohlashda va nashr etishda transliteratsiyadan foydalaniladi.
+
+        Transkripsiyaning bir qancha turlari bor. Tekshiruvchining vazifalari va
+
+maqsadlari bilan bog`liq holda uning turli ko’rinishlari qo’llanilishi mumkin.
+
+Ulardan eng ko’p qo’llaniladigani fonetik va fonologik transkripsiyadir. Fonetik
+
+transkripsiyada  har  bir  tovush uchun maxsus  belgi  qo’yiladi.  Fonologik
+
+transkripsiyada esa so’z, so’z shakllari va morfemalarni farqlay oluvchi har bir
+
+fonema uchun  bir belgi qo’yish tamoyiliga asoslanadi. Bunda fonemaning
+
+variantlari, ya‘ni tovushlarning talaffuzi hisobga olinmaydi.
+
+      Shu davrga qadar olimlar tomonidan qator transkripsiyalar taklif etilgan.
+
+Shulardan dastlabkisi Xalqaro Fonetik Assotsiatsiya tomonidan 1907-1908-yillarda taklif etilgan transkripsiya hisoblanadi. U fanda Xalqaro Fonetik Alfavit
+
+nomi bilan  ataladi. Mazkur  transkripsiya  tizimi  lotin  alfavitidagi  harflarni
+
+qisman o’zgartirish asosida tuzilgan. Unga 1925- va 1951-yillarda ma‘lum bir
+
+tuzatishlar  kiritilgan. Uning  takomillashishisha  akad.  L.V.Shcherba,  prof.
+
+E.D.Polivanov kabilar munosib hissa qo’shdilar. Ayni paytda uning ayrim
+
+kamchiliklari ham mavjud:  a)  barcha  tillarning  turli  tovush  xususiyatlari
+
+murakkab va noaniq. (Bu haqda qar. «Tilshunoslikka kirish» darsligi, 62-b.).
+
+       Fanda yuqoridagi transkripsiyadan tashqari N.A.Baskakov tomonidan
+
+turkiy   tillar  uchun  tuzilgan  lotin  va  rus  alfaviti  asosidagi  birlashgan
+
+transkripsiyasi,  G`ozi  Olim  Yunusov,  S.Ibrohimov,  V.V.Reshetov  va
+
+Sh.Shoabdurahmonov kabilarning o’zbek dialekt va shevalarida uchraydigan
+
+tovushlarni ifodalash uchun tuzilgan transkripsiya tizimlari ham mavjud.
+
+        Milliy istiqlol sharofati bilan o’zbek xalqi lotin alifbosiga asoslangan
+
+o’z yozuviga ega bo’ldi. Yozuv tarixidan ma‘lumki, yangi yozuvga  o’tish
+
+jarayonida u bilan bog`liq bir qator muammolar yuzaga keladi. Chunonchi, bu
+
+o’rinda o’tgan asrning 20-yillari oxirida arab alifbosidan lotin alifbosiga o’tish
+
+davrida yuzaga kelgan muammolarni va  ularni  hal  etish  yo’lida  qilingan
+
+harakatlarni eslab o’tish kifoya qiladi.
+
+        Tilshunoslik  fanida  transkripsiya muhim  o’rin  tutadi.  Yozuvning
+
+o’zgarishi yangi transkripsiya tizimini yaratishni taqozo etmoqda. Bunda ikkita
+
+muhim vazifani hal etish dolzarb bo’lib turibdi. Birinchisi, zamonaviy yozuv
+
+texnikasi  (kompyuterlar)ning  imkoniyatlarini  hisobga  olgan  holda  yangi
+
+yozuvga mos hamda muvofiq keladigan mukammal  transkripsiya  (fonetik
+
+yozuv) yaratish bo’lsa, ikkinchisi, transkripsion belgilar tizimi yuzasidan bir
+
+to’xtamga kelish, qat`iylashtirishdir.
+
+       Yangi yozuv manbaiga asoslangan maxsus belgilar tizimini yuzaga
+
+keltirishda quyidagilarga alohida e`tibor qaratish lozim:        a) yangi yozuvning o’ziga xos xususiyatlariga;
+
+        b) zamonaviy yozuv texnikasi vrsitalarining imkoniyat va holatiga;
+
+        v) o’zbek tilining ichki fonetik (tovush) tizimi, xususiyati, tabiati va
+
+hodisalariga;
+
+        g) tilshunoslikda hozirgi davrga qadar mavjud bo’lgan shu sohaga doir
+
+ilmiy-nazariy mu`lumotlarga;
+
+        d) qadimgi turkiy til davridan to hozirgi o’zbek adabiy tili davriga qadar
+
+yozilgan manbalar tilining fonetik tizimiga.
+
+       Biz ushbularni hisobga olib, maxsus belgilar tizimini ishlab chiqdik.
+
+       a – til orqa, lablanmagan, keng unli (qara)
+
+       ä – til oldi, lablanmagan, keng unli
+
+            ï – til oldi, lablanmagan, tor unli (kiyim)
+
+            i – til orqa, lablanmagan, tor unli (qish)
+
+          ‘ – til oldi, lablanmagan, qisqa, ï bilan i orasidagi oraliq tovush
+
+       – til orqa, lablanmagan, oraliq tovush
+
+      u – til orqa, lablangan, tor unli
+
+      ü - til oldi, lablangan, o’rta keng unli (gurunch)
+
+        o’ – til orqa, lablangan, o’rta keng unli (qo’l, g`o’za)
+
+      ö – til oldi, lablangan, o’rta keng unli (yo’ldosh, go’zal)
+
+                    Undosh tovushlar uchun:
+
+    w – lab-tish v: wishka, wilka.      v - lab-lab v: nova, ovqat
+
+          f - lab-tish f: fikr, farzand
+
+        f^ - lab-lab f: tuf^li.
+
+            j – qorishiq tovush Ij: jo’ra. jiyda, majlis.
+
+      ŋ – burun tovushi ng (tong)
+
+       Alifbodagi v, d, d, z, y, k, e, m, n, r, s, t, x, ch, sh, q, , h harflari o’z
+
+vazifasida qo’llaniladi. Taranskriptsiya va imloning o’zaro farqlari:
+
+          -   shevalardagi   o’ziga  xos   xususiyatlarni   ilmiy  yozuv   bilan
+
+ifodalanganda, imlo qoidalariga moslab emas, balki so’zlarning talaffuziga,
+
+ularning aytilishiga qarab yozib olinadi.
+
+          - ilmiy yozuvda bosh harflar qo’llanilmaydi. Shartli ravishda faqat
+
+xatboshida va atoqli otlarda bosh harfning yozilishi hisobiga olinadi.
+
+          - transkripsiyada bir tovush bir belgi bilan berilishi lozim.
+
+
+
+                           Savol va topshiriqlar:
+
+        1.   Transkripsiya nima ?
+
+        2.   Transkripsiyaning qanday turlari mavjud ?
+
+        3.  Yangi alifboga asoslangan transkripsiya tizimini izohlang.
+
+        4.   Transkripsiyaning ahamiyati nimada ?
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.
+     Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+  Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+  Ўзбек шевалари лексикаси.Т.,Фан.1991.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+  Содиқов А., Абдуазизов А., Ирсқулов М. Тилшуносликка кириш. Т.,
+
+   «Ўқитувчи», 1981.
+  Турсунов У., Мухторов Ж., Раҳматуллаев Ш. Ҳозирги ўзбек адабий
+
+   тили. Т., Ўқитувчи, 1978.
+  Тўйчибоев   Б.  Ўзбек  тилининг   тараққиёт   босқичлари.   Т.,
+
+   «Ўқитувчи», 1996.
+
+
+
+          O’ZBEK SHEVALARINING TASNIFI
+
+             E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+         O’zbek shevalarini o’rganilishi va tasnifi;            K.K. Yudaxin va Y.D.Polivanovlarning tasnifi;
+            G`ozi Olim Yunusov tasnifi;
+            A.K. Borovkov tasnifi;
+            V.V. Reshetov tasnifi.
+
+
+
+      Tayanch  tushunchalar:   tasnif,   xalq   shevalari,  singarmonizm,
+
+metisatsiya, gibridizatsiya.
+
+
+
+       Hozirgi kunda o’zbek xalq shevalarining bir necha xil tasnifi mavjud.
+
+Bu  tasniflar  turli  turkolog va  shevashunoslar tomonidan  qilingan  bo’lib,
+
+ayniqsa, I.I.Zarubin, E.D.Polivanov, K.K.Yudaxin A.K.Borovkov, G`ozi Olim
+
+Yunusov, U.Tursunov, Sh.Shoabdurahmonov, V.V.Reshetovlarning  tasniflari
+
+katta ilmiy qiymatga egadir.
+
+        Prof. I.I.Zarubin o’zbek shevalarini birinchi mamrta umumlashtiruvchi
+
+guruhlarga birlashtirish, ya‘ni tasnif qilishga urindi. U o’zbek shevalarini 4
+
+guruhga  bo’lib  ko’rsatadi:  Xiva,  Farona,  Toshkent,  Samarqand-Buxoro
+
+shevalari. I.I.Zarubinning bu tasnifida o’zbek shevalari orasida katta o’rin
+
+tutgan, qipchoq  (j-lovchi)  shevalar va shimoliy o’zbek  shevalari hisobga
+
+olinmay qolgan.
+
+       K.K.Yudaxin o’zbek shevalari tasnifining ikki variantini tavsiya etgan.
+
+U o’zining o’zbek shevalari tasnifining 1-variantida o’zbek shevalarining tojik
+
+tili  bilan  munosabati  va  singarmonizmning  saqlash  darajasiga  qarab,
+
+quyidagicha guruhlarga ajratadi:
+
+         1. Turk tovush tizimi va singarmonizmni saqlagan shevalar.
+
+         2. O’zbek va tojik tillarida so’zlashadigan tojik shevalari (Samarqand-
+
+Buxoro va boshqa shaharlarning asosiy aholisi).       E.D.Polivanov tomonidan  bir  qator o’zbek  shevalari va  dialektlari
+
+o’rganib chiqilgan. E.D.Polivanov o’z tasnifida tildagi ikki holatni ko’zda tutdi:
+
+        1) metisatsiya (qardosh tillarning chatishuvi); 2) gibridizatsiya  (turli
+
+tizimdagi tillarning chatishuvi). U shevalarda uchraydigan barcha
+
+fonetik o’zgarishlarni hisobga olib. o’zbek shevalarini bir necha
+
+guruhga bo’ldi. Eronlashish nuqtai nazaridan, ya’ni ba’zi o’zbek
+
+shevalarining tiklanish protsessida tojik tilining ishtirokini
+
+hisobga olib shevalarni quyidagicha guruhlashtirdi.
+
+                            1. Eronlashmagan shevalar.
+
+                              2. Eronlashgan shevalar.
+
+       Y.D.Polivanov eronlashgan shevalarga Toshkent, Qo’qon, Marg`ilon,
+
+Andijon,  Shahrixon  tip  shevalarini  kiritsa,  to’la  eronlashgan,  ya‘ni  tojik
+
+vokalizmini o’zida to’la aks ettirgan shevalarga Buxoro-Samarqand, Xo’jand,
+
+O’ratepa shevalarini  kiritadi. Eronlashmagan shevalarga o’zbek-qipchoq  (j-
+
+lovchi) lahjasi va Farg`onaning singarmonizmli qishloq shevalarini (Saroy,
+
+Andijon, Yo’lguzar, Mankent) kiritadi.
+
+       Y.D.Polivanov bu ikki xil (eronlashgan va eronlashmagan) shevalar
+
+o’rtasida eronlashishning kuchsizlanishi, gibridizatsiya natijasida turkiylashishi
+
+kuchligiga ko’ra, eronlashgan shevalarni 4 xil tipga ajratadi: 2-tip – Toshkent
+
+tip shevalari (Toshkent va uning atrofidagi qishloq shevalari (Xonobod, Telov);
+
+3-tip – Qo’qon, Marg`ilon  tip  shevalari);  4-tip – Andijon-Shahrixon  tip
+
+shevalari; 4-a tip – uyg`urlashgan yoki umlautli shevalar (Namangan va unga
+
+yaqin qishloq shevalari). Y.D.Polivanov tasnifida yana 2 tip sheva ajratilgan.
+
+Bular: 6-tip – Shimoliy o’zbek shahar shevalari tipi (Turkiston, Chimkent). 7-tip
+
+– Shimoliy o’zbek qishloq shevalari tipi (Mankent, Qoramurut kabi shevalar).
+
+       Yuqorida  kiritilgan  shevalar  Y.D.Polivanov  tasnifida  «Chig`atoy»
+
+lahjasini tashkil qilidi. Y.D.Polivanov tasnifiga ko’ra, ikkinchi dialekt (lahja)o’g`uz dialekti bo’lib, bu dialekt 2 guruh shevani o’z ichiga oladi. Bular
+
+quyidagilar: 8-tip – Janubiy Xorazim guruh shevalari (Xiva Yangi-Urganch,
+
+Shovot, Xazorasp, Yangiariq, Xonqa shevalari) shu guruhga (8-a) Sho’raxon
+
+shevasi ham kiritilgan. 9-tip – Shimoliy o’zbek-o’g`uz guruhi shevalari (Iqon,
+
+Qorabuloq shevalari).
+
+       Uchinchi dialekt qipchoq lahjasi bo’lib, bu lahja yetti tip shevani o’z
+
+ichiga oladi. Bular quyidagilar: 10-tip – O’rta Xorazim shevalari (Gurlan,
+
+Bog`ot, Shobboz shevalari); 11-tip – Shimoliy Xorazm shevalari (Xo’jayli,
+
+Qipchoq, Qo’ng`irot, Mang`it); 12-tip – O lovchi tip (Qozoq-nayman, Farg`ona-
+
+qoraqalpoq shevalari); 13-tip – qurama shevalar (Ohangron vodiysidagi qurama
+
+sheva) Uyshun, Ulut qishloq shevalari  ; 14-tip – Shimoliy o’zbek shevalari
+
+(Turkistondagi so’zoq, chalaquron qishloq shevalari); 15-tip – O’rta-o’zbek
+
+shevalari  (qirq shevalari va  b.); 16-tip – Janubiy o’zbek shevalari (laqay
+
+shevalari va Afg`onistondagi qipchoq-o’zbek shevalari).
+
+       Y.D.Polivanov  o’z  tasnifida o’zbek  shvelaridagi  taraqqiyotni  faqat
+
+tashqi omillarga bog`lab tekshirdi. U o’zbek  tili va uning shevalarida ro’y
+
+bergan  o’zgarishlar   tilning  davrlar  mobaynidagi  o’z  ichki  taraqqiyot
+
+jarayonining natijasi ekanini anglay olmadi.
+
+       G`ozi Olim Yunusov o’zbek shevalarini avvalo uch lahjaga ajratadi:
+
+        1)  o’zbek-qipchoq lahjasi;
+
+        2)   Turk-barlos lahjasi:
+
+        3)  Xiva-Urganch lahjasi.
+
+     Bu lahjalar o’z navbatida fonetik va morfologik xususiyatlariga ko’ra
+
+ajratiladi.
+
+       O’zbek-qipchoq lahjasi 4 shevaga:
+
+        a) qirq; b) joloyir-laqay; v) qipchoq; g) gurlan shevalariga ajratiladi:       Turk-barlos lahjasi ham 4 shevaga:
+
+       Sayram-Chimkent, Toshkent, Andijon, Namangan shevalariga ajratiladi.
+
+Xiva-Urganch lahjasi esa 2 shevaga: Xiva, Qarluq shevalariga ajratiladi.
+
+       O’zbek-qipchoq lahjasiga kiruvchi shevalarning fonetik xususiyatlarini
+
+quyidagicha ko’rsatib o’tadi:
+
+        a) adabiy tildagi y undoshi o’rnida j undoshi keladi: yo’l-jo’l, yigit-jigit
+
+kabi;
+
+        b) adabiy tildagi g undoshlari o’rnida y tovushi keladi: sigir-siyir kabi.
+
+        v) o’zbek adabiy  tilidagi  g`  undoshi v undoshi  bilan  almashinib
+
+qo’llaniladi: sog`-sav, tog`-tav kabi.
+
+       Fozi  Olim   tasnifida  qolgan   lahjalarning   lingvistik   farqlarini
+
+ko’rsatuvchi belgilar berilmagan.
+
+      A.K.Borovkov o’zbek shevalari tasnifining ikki xil variantini tavsiya
+
+etadi. U o’z tasnifining birinchi variantiga o’zbek shevalarida uchraydigan
+
+fonetik belgilarni (xususiyatlarni) asos qilib oladi. Uning tasnifiga ko’ra o’zbek
+
+shevalari ikki guruhga bo’linadi: 1) o-lovchi o’zbek shevalari; 2) a-lovchi
+
+o’zbek shevalari.
+
+         1. o-lanuvchi o’zbek  shevalari. Bu guruhga Toshkent, Samarqand,
+
+Buxoro, Kattaqo’rg`on, Farg`ona, Marg`ilon, Qo’qon, Qarshi, Jizzax, Farg`ona
+
+shevalari kiradi. Bu shevalarda unlilar soni 6-7 tagacha bo’ladi. Bu shevalarda
+
+ohangdoshlik hodisasi yo’qolgan. Bundan tashqari, ularda aksariyat birinchi
+
+bo’g`inlarda a o’rnida o qo’llaniladi: ota, bola, soy kabi. Morfologik jihatdan,
+
+jo’nalish   kelishigining  qo’shimchasi  -ga  va   o’rin-payt   kelishigining
+
+qo’shimchasi  -da  bir-biridan  farq  qilinmasdan  ishlatiladi.  Bu,  ayniqsa,
+
+Samarqand-Buxoro shevalariga xos xususiyatdir.         2.  a-lanuvchi  o’zbek  shevalari. Bu  guruh  shevalarga Samarqand
+
+viloyatining qipchoq shevalari, Surxandaryo va Qashqadaryo viloyatlarining
+
+qishloq  shevalari,  Shimoliy  Xorazm  shevalari  kiradi.  Bundan  tashqari
+
+Qozog`istonning janubidagi Sayram, Chimkent, Qorabuloq, Mankent shevalari
+
+kiradi. Bu shevalarda unlilar ohangdoshligi saqlangan. Unlilar soni 8 tadan 10
+
+tagacha  bo’ladi. A.K.Borovkov ushbu guruhga kiruvchi shevalarni fonetik
+
+xususiyatlariga ko’ra yana ikki kichik guruhga bo’ladi:
+
+        a) y-lanuvchi o’zbek shevalari;
+
+        b) j-lanuvchi o’zbek shevalari.
+
+        y-lanuvchi guruhga Chimkent, Mankent, Turkiston shevalari kiradi. J-
+
+lanuvchi  guruhga  esa  Shimoliy  Xorazm,  Surxandaryo,  Qashqadaryo  va
+
+Samarqand  viloyatlarining  qishloq  shevalari  kiradi. Bu  guruhga  kiruvchi
+
+shevalarning eng asosiy fonetik xususiyati shundan iboratki, so’zining boshida
+
+keladigan j undoshi o’rnida y keladi: jaman, jantaq kabi.
+
+       V.V.Reshetov    tasnifi.  U   o’zbek   shevalarini   tarixiy-lingvistik
+
+xususiyatlari va qo’shni  tillarni hisobga olgan holda  tasnif  etadi. Tarixiy
+
+lingvistik jihatdan turkiy tillar tarkibi uch qismdan iboratdir. O’zbek tilida esa
+
+har uchala qismga oid xususiyatlar mavjud. Shunga ko’ra, o’zbek  tilidagi
+
+shevalar quyidagicha nomlanadi:
+
+         1. Shimoliy-G`arbiy guruhga o’zbek  tilining qipchoq  lahjasi, unga
+
+chegaradosh, yondosh qozoq, qirg`iz va qoraqalpoq tillari kiradi.
+
+         2. Janubiy-G`arbiy guruh o’zbek tilining o`g`uz lahjasini o’z ichiga
+
+oladi. Bu guruhga yondosh turkman tili taalluqlidir.
+
+         3.  Janubiy-Sharqiy  guruhga  qarluq-chigil-uyg`ur  lahjasini  tashkil
+
+qiluvchi ko’pchilik shahar shevalari, hozirgi o’zbek adabiy tili va eski o’zbek
+
+adabiy  tili, qardosh turkiy tillardan esa yangi uyg`ur  tillari kiradi. Mazkurlahjaga kiruvchi shevalarning ko’pchiligi uchun shu narsa xoski, ular tojik tili
+
+bilan juda qadimgi aloqador.
+
+
+
+                             Savol va topshiriqlar:
+
+          1. O’zbek shevalarini tasnif qilishning qanday ahamiyati bor ?
+
+          2. O’zbek shevalari qaysi olimlar tomonidan tasnif qilingan ?
+
+          3. G`ozi Olim Yunusov tasnifini aytib bering.
+
+          4. A.K.Borovkov o’zbek shevalarining qaysi xususiyatlarini hisobga
+
+             olib tasnif qilgan?
+
+          5. V.V.Reshetov   tasnifi  boshqalarning   tasnifidan  nima   bilan
+
+             farqlanadi ?
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.
+     Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+     Қодирий номидаги халқ мероси нашриёти, 2004.
+     Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+     Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+     Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+     Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+     Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+     Ўзбек шевалари лексикаси.Т.,Фан.1991.
+     Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+     Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+       -Т.: Фан, 1962.
+    Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:     Насаф, 2000.
+     Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+      тадқиқи. -Т.: Фан, 2005.
+     Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+     www.türk dili.google com.tr
+     www.dersimiz.com
+    Маҳмуд Кошғарий. Девону луғотит турк. I, II, III жилдлар. Т., 1960-
+
+      1963.
+
+
+
+              SHEVALAR FONETIKASI
+
+             E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+            Fonetik jarayonlarga ta‘sir etuvchi omillar;
+            O’zbek  xalq  shevalarida  assimilyatsiya  va  dissimilyatsiya
+
+               hodisasi;
+            Shevalarda tovush tushish hodisasi;
+            Shevalarda tovush orttirilishi hodisasi;
+            Ohangdoshlik hodisasining mohiyati;
+            Ohangdoshlik hodisasining ko’rinishlari;
+            Ohangdoshlik  hodisasining  o’zbek  adabiy  tilida  zaiflashishi
+
+                sabablari;
+            Ohangdoshlikning  qipchoq  va  o`g`uz  lahlarida  namoyon
+
+                 bo’lishi.
+
+
+
+     Tayanch    tushunchalar:    fonetik    jarayonlar,    assimilyatsiya,
+
+dissimilyatsiya hodisasi, ohangdoshlik.       Nutqda  tovushlar yakka holda emas,  balki  so’z  tarkibida ma‘lum
+
+tartibda birikkan holda keladi. So’zlarni talaffuz qilganimizda ayrim tovushlar
+
+o’zaro bir-biriga ta‘sir qiladi, natijada tovush o’zgarish ro’y beradi. Masalan, bir
+
+so’ziga –ta qo’shimchasi qo’shilganida t tovushining ta‘sirida r tovushi t ga
+
+o’tadi, ya‘ni bir+ta=bitta kabi. Nutq oqimida yuz beradigan bu kabi tovush
+
+o’zgarishlari fonetik jarayonlar deyiladi. Fonetik jarayonlar qo’shni tovush
+
+artikulyatsiyasining  boshlanishi  va  tugallanishi  hamda  tovushning  so’z
+
+tarkibidagi mavqei bilan bog`liq bo’ladi. Shunga ko’ra, fonetik jarayonlar ikki
+
+xil: kombinator o’zgarishli va pozitsion o’zgarishli bo’ladi. So’z tarkibidag
+
+tovushlarning o’zaro ta‘siriga ko’ra o’zgarishi kombinator o’zgarishlar deyiladi.
+
+Bunday  o’zgarishlarga   assimilyatsiya,   dissimilyatsiya,  proteza,   epiteza,
+
+ependeza, sinkopa, apokopa, reduksiya, eliziya kabi fonetik hodisalar kiradi.
+
+        Assimilyatsiya lotincha so’z bo’lib, «o’xshash bo’lish» degan ma’noni
+
+ifodalaydi. U  tovushlarning  bir-biriga  ta‘siri  natijasida  ulardan  birining
+
+ikkinchisiga o’xshab qolish hodisasidir. Odatda, unlilar unlilarga, undoshlar
+
+undoshlarga  assimilyatsiya   qilinadi.  Tovushlarning  bir-biriga  ta‘sirining
+
+yo’nalishiga ko’ra progressiv va regressiv assimilyatsiya  farqlanadi. Oldin
+
+kelgan  tovush  keyingi  tovushga  ta‘sir  qilib,  o’ziga  o’xshatsa  progressiv,
+
+aksincha, keyingi tovush oldingisiga  ta‘sir  qilib, o’ziga o’xshatsa regressiv
+
+assimilyatsiya deyiladi.
+
+        Progressiv assimilyatsiyaga misol: ketdi-ketti (Toshkent), toshni-toshshi
+
+(Farona). Regressiv  assimilyatsiyaga  misol:  yigitcha-yigichcha,  tirno-tinno,
+
+so’zsiz-so’ssiz (Buxoro). Assimilyatsiya moslashish darajasiga ko’ra ikki xil
+
+tipga ajraladi: to’liq va to’liqsiz. Bir tovush ikkinchi tovushni aynan o’zi kabi
+
+tovushga aylantirsa to’liq assimilyatsiya bo’ladi. Misol: suvni-suvvi (Toshkent),
+
+uch so’m-usso’m, qanday-qannay (Buxoro). Bir tovush ikkinchi tovushni o’ziga
+
+qisman  o’xshatib  olsa  to’liqsiz  assimilyatsiya  bo’ladi.  Misol:  o’sdi-o’sti(jarangsiz s tovushi jarangli d ni jarangsiz tovushga aylantirgan), yuzta-yusta,
+
+tanbur-tambur, yopdi-yopti.
+
+        Dissimilyatsiya lotincha so’z bo’lib, noo’xshashlik, o’xshamaslik degan
+
+ma’noni  ifodalaydi.  Bir  xil  o’xshash  tovushlarning  o’zaro  ta‘siri  asosida
+
+vujudga kelgan noo’xshashlikka  dissimilyatsiya  deyiladi. Misol: kombayn-
+
+konbayn,  zarur-zalur,  uchtadan-ushtadan. Mazkur  hodisa  assimilyatsiyaga
+
+nisbatan kam tarqalgan. Ba‘zi turkologik ilmiy adabiyotlarda bu ikki hodisa,
+
+ya‘ni assimilyatsiya va dissimilyatsiya ajratilmaydi.
+
+       Metateza –  so’z  tarkibidagi  tovushlarning  o’zaro  o’rin  almashishi
+
+o’zbek tilida, asosan, jonli so’zlashuvga xos bo’lib, adabiy tilda kam uchraydi.
+
+Misol: tuproq-turpoq, daryo-dayro, to’ramoq-to’ramoq, yomir-yomir, avhol-
+
+ahvol.
+
+        Spirantizatsiya – portlovchi undoshning siraluvchi undoshga  utishi:
+
+qishloq-qishloimiz, kabob-kavob kabi. Tovush tushish hodisasining quyidagi
+
+turlari bor:
+
+        1) prokopa – so’z boshidagi tovushning tushib  qolishi:  yiroq-iroq,
+
+yigna-igna, yaoch-aoch kabi;
+
+        2) sinkopa – so’z  o’rtasida tovushning tushib  qolishi: biroq-broq,
+
+Fotima-patma kabi;
+
+        3) apokopa – so’z oxirida tovushning tushib qolishi: baland-balan, isht-
+
+ish, mashina-mashin,  gazeta-gazit  kabi. Ushbu hodisa  aksariyat  o’rinlarda
+
+o’zlashgan so’zlarda yuz beradi;
+
+        4) eliziya – ikki so’z tutashgan joyda bir yoki necha tovushning tushib
+
+qolishi tilda ixchamlikka intilish (ellipsis) natijasida yuzaga keladi: qayin ona
+
+qaynona, har nima-harna, shu yer-shyer kabi.      Tovush orttirilishining quyidagi turlari bor:
+
+        1)  proteza –  so’z boshida tovush  orttirilishi o’zbek  tilining  jonli
+
+so’zlashuv nutqida (asosan, boshqa tillarda o’zlashtirilgan so’zlar talaffuzida)
+
+ko’proq  uchraydi:  stakan-istakon,  shkaf-ishkop,  rus-o’ris,  stul-ustul  kabi.
+
+Qipchoq shevalarida diftong (qo’sh unli)lashish holati ham mavjud:  o’rta-
+
+uo’rta,  o’yin-uo’in  kabi.  Shuningdek  ushbu  shevalarda  forsiy va  arabiy
+
+so’zlarning boshlanich qismiga  i, u, o’ o’nlilarining qo’shib talaffuz qilish
+
+holatlari ham bor: ro’mol-o’ramol, rashk-irashk, ro’za-o’raza kabi;
+
+        2) epenteza – so’z o’rtasida tovush orttirilishi ham asosan so’zlashuv
+
+nutqiga xosdir: traktor-tiraktir, tramvay-tiramvay, kasb-kasip, ilm-ilim, asl-asil
+
+kabi. Bunda, asosan, so’z o’rtasida, oxirgi va bosh bo’inida, portlovchi va
+
+siraluvchi  undshlar  qator  kelganda,  portlovchidan  so’ng  qisqa   i,  ayrim
+
+o’rinlarda esa u yoki a unli fonemalarining orttirilib talaffuz qilinishi kuzatiladi:
+
+hukm-hukum, umr-umur, oklad-akalad kabi;
+
+        3) epiteza – so’z oxirida tovush orttirilishi: tank-tanka, kiosk-kioska,
+
+bank-banka. Ushbu hodisani, asosan, o’zlashgan so’zlarda kuzatish mumkin.
+
+O’zbek  xalq  shevalarida  reduksiya  hodisasi ham  ko’p  uchraydi.  Unli
+
+tovushlarning urg`usiz bo’g`inlarda kuchsizlanishi yoki o’zgarishi reduksiya
+
+deyiladi. Reduksiyaga uchragan unlilar juda qisqa talaffuz etiladi: olma-alma,
+
+bola-bala kabi.
+
+       Qaysi sohada bo’lmasin, inson hamisha qulaylikka intiladi. Undagi bu
+
+xususiyat nutq jarayonida ham ko’zga tanshlandi. Agar talaffuz me’yoriga
+
+e`tibor berilsa, ayrim holatda ba‘zi so’zlardagi tovushlarning tushib qolganligi,
+
+yo ularning o’rin almashganligi, yo so’zning oldidan bir tovush orttirilganligi
+
+kabi  turli  fonetik  jarayonlarning  guvohi  bo’lamiz.  Shubhasiz,  bu  kabi
+
+tovushlarning o’zgarishi kishilarning nutq jarayonida osonlikka, qulaylikka
+
+intilishi natijasida kelib chiqadigan hodisadir. Tilda bu kabi jarayonlar juda ko’pbo’lib, albatta ular bir-biridan farq qiladi. Ammo bu fonetik jarayonlar ichida
+
+eng murakkabi ohangdoshlik hodisasi bo’lib, uning qonunlarini haqida turlicha
+
+qarashlar mavjud.
+
+       Ohangdoshlik  hodisasi  turkiy  tillarda qadimdan mavjad  bo’lib, u
+
+tovushlardagi   uyg`unlikni,  o’zaro  ohangdoshlikni   ta‘minlaydi.  Odatda,
+
+ohangdoshlik haqida gap ketganda, ko’pincha, unlilardagi  til  oldilik va  til
+
+orqalik  hamda   lablanganlik   va   lablanmaganlik   to’risida   gapiriladi.
+
+Lablanganlik, ya‘ni lab uyunligi faqat unli tovushlarga xos hodisa.
+
+     Ammo tanglay uyg`unligiga binoan, tovushlardagi  til oldilik va  til
+
+orqalik xususiyati hisobga olinadi. Bunday ajralish nafaqat unli tovushlarda,
+
+balki  tilimiz  tarixiga  nazar  tashlasak,  undoshlarda ham mavjud  bo’lgan.
+
+Shuning uchun bo’lsa kerak. Qadimgi turk-run yoxud O’rxun-Enasoy alifbosida
+
+juft undosh tovushlarning  til oldi va  til orqa shakllari uchun alohida-alohida
+
+belgilar qabul qilingan. Yozuvda til orqa undoshlari til orqa unlilari bilan, til
+
+oldi undoshlari  til oldi unlilari bilan birga yozilgan. Bu qonuniyat umuman
+
+buzilmagan. So’zlarda nafaqat  unlilar, balki undosh tovushlar mosligi ham
+
+dastlab  to’liq saqlangan. Yuqoridagilardan ma‘lum bo’ladiki, ohangdoshlik
+
+hodisasi   ikki  ko’rinishga   egadir:   1.  Tanglay  ohangdoshligi   2.  Lab
+
+ohangdoshligi.
+
+       Tanglay uyg`unligi mohiyati shundan iboratki, ularda so’z tarkibidagi
+
+unlilar ohangdoshligi qattiq va yumshoq holatda qo’llaniladi. Qattiq unlilar
+
+deganda, odatda,  til orqa qator unlilari va yumshoq unlilar deganda,  til oldi
+
+qator unlilari tushuniladi. Tanglay ohangdoshligining qonuniyati quyidagicha:
+
+        1) agar so’z tarkibidagi unli, ya‘ni birinchi bo’g`inni hosil qiluvchi unli,
+
+orqa qator unli qattiq bo’lsa, u holda ikkinchi hamda so’nggi bo’g`inlarda
+
+unlilar ham orqa qator unlilar qattiq bo’lishi lozim. Masalan: g`aram, qaram
+
+kabi.        2) agar so’zning birinchi bo’g`inidagi unli tovush til oldi qator unlisi
+
+(yumshoq) bo’lsa, u holda so’zning oxirgi bo’g`inigacha hammsida til oldi qator
+
+unli qo’llaniladi. Masalan: ko’klam, talabalar kabi. Tanglay uyg`unligi butun
+
+so’z, uning o’zagi va qo’shimchalariga to’la taalluqli bo’ladi. Qishloqni, guldan
+
+kabi. Lab ohangdoshligi  xususiyati ham tanglay uyg`unligiga  o’xshashdir.
+
+Lekin, u tanglay uyg`unligiga qo’shimcha ravishda lablashish jihatidan ham
+
+moslashadi. Masalan, so’z boshida yoki so’z  o’rtasida lablashgan  til  oldi
+
+(yumshoq)  unli  ishlatilsa shu  so’zning  oxirida  yoki qo’shimcha  qismida
+
+lablangan til oldi (yumshoq) unlisi keladi va aksincha.
+
+       Ohangdoshlikdagi  uchinchi  jarayon  –  bu  undosh  tovushlardagi
+
+jaranglilik va  jarangsizlik hodisasi  sanaladi. Bu jarayon ham turkiy  tillar
+
+tarixining qadimgi davridan boshlab amal qilgan. Ammo qadimgi turkiy tilda
+
+aksariyat undoshlardagi jaranglilik va jarangsizlik qonuniyatiga amal qilinsa-da,
+
+ba‘zi  l, n,  r sonor undoshlaridan so’ng qo’shimchalarning jarangsiz shakli
+
+qo’shilib kelish holati ham uchraydi. Masalan: yerti (yerdi), ko’lta (ko’lda) kabi.
+
+       Eski turkiy  til va eski o’zbek adabiy tilda ohangdoshlik qonuniyati
+
+mavjud bo’lgan. Hozirgi o’zbek tilida ohangdoshlik haqida esa turlicha fikr
+
+mavjud. Fitrat «Sarf» kitobida yozadi: «Turk tilining butun tarmog`ida bo’lgani
+
+kabi bizning tilda ham so’zlar ohang e`tibori bilan yo’g`on, ingichka bo’lib
+
+ikkiga ajraladi. Bu ohang masalasini eski yozma asarlarda ko’p ko’ra olganimiz
+
+kabi, dalada yashaganlar orasida ham ko’proq  uchratish mumkindir. Fors
+
+adabiyoti, madrasa  ta‘siri  bilan buzilg`on shahar shevalarida bu  holni oz
+
+ko’rganimiz bilan bizning shevada yo’g`onlik, ingichkalik ohangi yo’qdir, deb
+
+bo’lmaydir».
+
+       Amerikalik  turkshunos   Bill  Fiyerman  ushbu  masala  bo’yicha
+
+quyidagilarni qayd etadi: «Yozuvning o’zgarishi qator muammolarni yuzaga
+
+keltirdi. Masalan, ohangdoshlik masalasi. Lotin yozuviga  o’tilgach, o’zbektilidagi to’qqiz unlidan 1939-yilga kelib atigi oltitasi saqlanib qolgan. Bu, va
+
+umuman, yozuvning o’zgarishi tildagi asriy ohangdoshlik saqlanishiga ziyon
+
+yetkazdi». Ammo o’zbek shevalarida, ayniqsa, qipchoq va o’g`uz lahjasida
+
+ma‘lum darajada saqlangan. Tanglay ohangdoshligi ushbu shevalarda mavjud.
+
+       Turkiy tillarning hammasida ohangdoshlik qonuni, deyarli, o’z kuchini
+
+saqlab qolgani holda, o’zbek adabiy tilida uning zaiflashib ketishiga tilimizning
+
+ichki qonuniyati va uning taraqqiyotiga ta‘sir etuvchi ma‘lum ijtimoiy-tarixiy
+
+omillar sabab bo’lgan. Ilmiy va diniy adabiyotlar tufayli, bir tomondan arab tili
+
+talaffuz qoidalarining kuchli, ikkinchi tomondan, fors-tojik mumtoz adabiyoti
+
+va yonma-yon aralashib yashovchi tojik xalqi bilan doimiy iqtisodiy-madaniy
+
+hamkorlik yetakchi o’zbek urug`lari tiliga uning fonetik qurilishiga juda katta
+
+ta‘sir ko’rsatdi. Shuning natijasida, o’zbek  tilida, eng avval va kengroq bu
+
+tilning markaziy shevalarida ohangdoshlikning darz ketdi.
+
+     Umlaut. Bu qonuniyat fanda unlilarning regressiv assimilyastiyasi deb
+
+ham yuritiladi. Bu qonuniyatga ko’ra affiksdagi old qator unlisi asosdagi (u
+
+aksariyat  xillarda  bir bo’g`inli bo’ladi) orqa qator  unlisini o’z harakteriga
+
+moslashtirib oladi: sen - san», ana shu - ash’, bosh - bash’. Bu qonuniyat
+
+Namangan, O’sh shevalarida, qisman, o’zbek adabiy tilida qayd qilinadi.
+
+      Unlilarning  birlamchi,  ikkilamchi  va  emfatik  cho’ziqliklari.  Turkiy
+
+tillarning dastlabki davrlarida so’zlarning birinchi bo’g`inida unlilar cho’ziq.
+
+talaffuz etilgan. Bunday cho’ziqlik boshqa tovush ta’sirida emas, balki qadimgi
+
+turkiy tilning tabiati bilan bog`liqdir. Unlilarning bunday cho’ziqligi hozirgi
+
+Xorazm, Forish va shimoliy o’zbek shevalarida saqlanib qolgan: tu:sh, a:d,
+
+ba:la va boshqalar. Aslida bu kabi  unlilar cho’ziqligi urg`uning dastlabki
+
+bo’g`inga tushishi xususiyati bilan boshangan. Bunday cho’ziqlik birlamchi
+
+cho’ziqdik  deyiladi. Yondosh  kelgan  undosh  tovushning  nutqda  talaffuz
+
+qilinmasliga natijasida unli tovush cho’zilishi mumkin: sandu: ma:ta:. Bunday
+
+cho’ziqlik ikkilamchi cho’ziqlik deyiladi.     Emfatik cho’ziqlik hozirgi-kelasi zamon fe’llarida uchraydi, ya’ni bu fe’l
+
+shaklida  qatnashadigan  ravishdosh  ko’rsatkichi  odatdagidan  ko’ra  cho’ziq
+
+(ikkilangan cho’ziqlik)  talaffuz  qilinadi yoki uning bo’lishsiz shaklida «i»
+
+undoshi  tushib  qoladi  va  bo’lishsizlik  affiksidagi  -  a  unlisi  ikkilangan
+
+cho’ziqlikka ega bo’ladi: b’lm::man.
+
+      Diftonglar.  O’zbek  shevalarida  diftong,  ya’ni  talaffuzda  tovush
+
+eksursiyasi (boshqa tovush unsurlari va to’xtam) hamda rekursiyada asosiy
+
+tovush talaffuzi saqlanishi diftongdir. Qipchoq shevalarida bu fonetik hodisa
+
+keng tarqalgan.
+
+      Kontrast  (juft)  unlilar: singarmonizmni saqlagan o’zbek  shevalarida
+
+unlilar old qator va orqa qator mavqelarga (pozitsiyalarga) ega bo’ladi.
+
+
+
+                             Savol va topshiriqlar:
+
+       1. Fonetik jarayonlarning mavjudligi sabablari va omillarini izohlang ?
+
+       2. Assimilyatsiya va dissimilyatsiya hodisasisining mohiyat-mazmunini
+
+          tushuntiring ?
+
+       3. Tovush orttirilishining qanday tiplari mavjud ?
+
+       4. Tovush tushishining qanday tiplarini bilasiz ?
+
+       5. Ohangdoshlik nima ?
+
+       6. Ohangdoshlik hodisasining qanday ko’rinishlari mavjud ?
+
+       7. Ohangdoshlik  qonuniyatining  o’zbek  adabiy  tilida  zaiflashishiga
+
+        sabab bo’lgan omillarni ayting ?
+
+       8. Qaysi lahjalarda ohangdoshlik hodisasini kuzatish mumkin ?
+
+
+
+                                Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.  Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+  Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+  Ўзбек шевалари лексикаси.Т.,Фан.1991.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+  Исҳоқов Ф. Эски ўзбек тили ва ёзуви. Т., 1995.
+  Тўйчибоев Б. Ўзбек тилининг тараққиёт босқичлари. Т., 1996.
+  Неъматов Ҳ. Ўзбек тилининг тарихий фонетикаси. Т., 1987.
+  Билл Фиерман. Яшараётган тафаккур. «Ёшлик» журнали, 1990, 2-
+
+   сон.
+  Мирзаев М. Ўзбек тилининг Бухоро группа шевалари. Т., 1969.
+  Азизов О ва б. Ўзбек ва рус тилларининг қиёсий грамматикаси. Т.,
+
+   Ўқитувчи, 1986.      SHEVALAR LEKSIKASI VA LEKSIKOGRAFIYASI
+
+            E ‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+      Shevalarga xos bo’lgan leksik qatlam;
+      Shevalardagi  so’zlarning  shakl  va  ma’no  munosabati:  omonim,
+
+        sinonim, antonim va ko’p ma’noli so’zlar;
+      Shevalardagi eskirgan, tabu, evfemizm so’zlar;
+      Shevalarda qo’llanuvchi frazeologik iboralar.
+
+
+
+     Tayanch   tushunchalar:   leksik   qatlam,  omonimlar,   sinonimlar,
+
+antonimlar, ko’p ma’noli so’zlar, evfemizmlar, frazeologik iboralar.
+
+
+
+     O’zbek shevalari o’zining fonetik va grammatik xususiyatlari bilan bir
+
+qatorda leksik xususitlariga ham ega. Shevalarga xos bo’lgan so’zlarni ikki
+
+guruhga  ajratish mumkin: 1) umumxalq  tiliga xos bo’lgan umumiy leksik
+
+qatlam: yomg`ir, shamol, qor, ot,  it, tovuq, suv, yurmoq, ichmoq kabilar; 2)
+
+shevalargina xos bo’lgan leksik qatlam: asalari-zambir (Xor.); ko’rshapalak-
+
+yarqant (Xor.); chumoli-qarindja (Xor.); tuxum-mayak (qip)-yumurtqa (o’g`uz)
+
+kabilar. Qipchoq shevalarida ota, amaki o’rnida aka so’zi qo’llaniladi. O’g`uz
+
+va qipchoq shevalarida ona o’rnida opa so’zidan foydalaniladi.
+
+     Ma‘lum  bir hududda muayyan  bir sohaning  rivojlanishi shu yerda
+
+yashovchi aholi  tilida boshqa hududdan  farqli ravishda maxsus atamalarni
+
+vujudga keltirgan. Chunonchi, qipchoq sheva vakillari hayotida chorvachilik
+
+muhim o’rin tutganligi va ular shu soha bo’yicha ko’p shug`ullanganligilari
+
+bois, ularda shu soha atamalari ko’p uchraydi. Misollarga e’tibor qarataylik.
+
+Yoshiga ko’ra ot quyidagicha nomlanadi:
+
+      qulun (bir yoshgacha bo’lgan ot);      kaltatay (birdan ikki yoshgacha bo’lgan ot);
+
+      g`o’nan (ikkidan uch yoshgacha bo’lgan ot);
+
+     do’nan (uchdan to’rt yoshgacha bo’lgan ot);
+
+      beshli (to’rtdan besh yoshgacha bo’lgan ot),
+
+      djangaziy (yangi oziq; besh yoshli oziq tishi chiqqan ot);
+
+      ekaziy (ikki oziq; olti yoshli ot);
+
+      uchaziy (uch oziq; yetti yoshli ot) kabi nomlar bilan ataladi.
+
+     «Tuya» tushunchasi uchun quyidagi nomlardan foydalaniladi:
+
+      bo’ta yoki bo’taloq (bir yoshgacha bo’lgan tuya);
+
+      taylaq (birdan ikki yoshgacha bo’lgan ot);
+
+      o’simli (ikkidan uch yoshgacha bo’lgan tuya);
+
+      nar (uchdan to’rt yoshgacha bo’lgan erkak tuya);
+
+      tuya (to’rt yoshdan yuqorisi).
+
+     «Qo’y» tushununchasi esa:
+
+      to’qlu (ikki yoshli qo’y);
+
+      hishak (uch yoshli qo’y);
+
+      chari (to’rt yoshli qo’y);
+
+      pandji (besh yoshli qo’y) kabi so’zlar qo’llaniladi.
+
+     Har  bir  lahja va shevaga xos  leksik qatlam  mavjudligini quyidagi
+
+jadvaldan ham anglab olish mumkin.              Qarluq-chigil-uyg`ur                O’g`uz    Qipchoq
+
+Toshkent   Samarqand  Buxoro    Farg`ona
+
+muchicha    musicha     musicha    misilcha     qumri      musichi
+
+arg`imchoq  arg`unchoq   alvonch    hayunchak   sarindjaq    qalgancha
+
+duxoba      baxmal      baxmal      barqit       baxmal     baxmal
+
+chumoli     mo’rcha     mo’rcha    chumalik     qarindja    chumali
+
+asalari        asalari         asalari       asalari      zambir       asalari
+
+tuxum      tuxum      tuxum     tuxum       yumo’rta   mayak
+
+yuray       yurak        yurak      yurak       yurak       jurak
+
+choch       soch         chach      chach       sach        sach
+
+
+
+    U yoki bu ma’nodoshlar qatoriga kirgan so’zlarning ba‘zilari adabiy tilda
+
+va lahjalarda uchramasligi mumkin. Shevadagi bunday ma’nodoshlar ma’no va
+
+talaffuzi  jihatidan  o’ziga xos  xususiyatlarga ega  bo’ladi. Masalan, o’zaro
+
+mustahkam bolanganlik, tuishganlik ma’nolarini ifodalash uchun o’zbek adabiy
+
+tilida  qarindosh,  urug`,  avlod  singari  sinonimlar  qo’llanilsa,  qipchoq
+
+shevalarida ushbu  so’zlar keng  qo’llanilishi  bilan  bir  qatorda  tamir,  zat,
+
+tuvishqan kabi so’zlar ham keng qo’llaniladi.
+
+     Boshqa  tillardan  shevalarga  so’zlarning  o’tishi  natijasida  arabcha,
+
+forscha-tojikcha, ruscha so’zlar bilan turkiy (o’zbekcha) so’zlar ma’nodoshlik
+
+munosabatiga kirishgan: kuch-qudrat (o’zb.-ar.), ko’k-bahor (o’zb.-f.) kabi. Bu
+
+xususiyat  turli  shevalarda  so’zlashuvchi  ko’pchilik uchun  xosdir.  Tildagi
+
+shakldosh  so’zlar  ko’pgina  olimlarning  diqqatini  tortgan  qiziqarli  leksik
+
+qatlamlardan  sanaladi.  Ular  adabiy   tilni,  jumladan,  badiiy  asar   tilinirivojlantirishda muhim  ahamiyat  kasb  etadi.  Tilshunoslikda  shakldoshlik
+
+masalasiga  baho  berishda   ikki   xil  qarash  mavjuddir.  Ba‘zi  olimlar
+
+shakldoshlikni ijobiy hodisa sifatida izohlasalar, ba‘zilar esa uni to’g`ridan-
+
+to’g`ri mutlaqo  salbiy hodisa  sifatida  baholaydilar. O’zbek  tili shakldosh
+
+so’zlarga nihoyatda boy. Tilimizning bu xususiyati adabiyotda yangi janr –
+
+tuyuq janrining vujudga kelishiga sabab bo’lgan. Misol:
+
+                   Ko’nglum hayranki baqsam, dag`i bar,
+
+                    Har necha dardimni desam, dag`i bar.
+
+                       Qilcha tanga bari ishqing yar edi
+
+                       Biz sari bo’ldi firaqning dag`i bar.
+
+    Bu tuyuqdagi «dag`i» so’zi birinchi misrada «yara», ikkinchi misrada
+
+«yana,  tag`in»  va  to’rtinchi  misrada  «tog`»  ma’nosida  kelgan. Qipchoq
+
+lahjalarida «ich» so’zining quyidagi ma’nolari mavjud: ich (uch – son), ich
+
+(biror narsaning ichi), ich (ichmoq), ich (a’zo, qorin) ma’nolarida qo’llaniladi.
+
+«Qirq» so’zining esa quyidagi ma’nolari bor: qirq-fe`l, harakat, qirq-marhum
+
+o’lgan kuniga qirq kun to’lgan kun, marosim, qirq-uruning nomi. Bunday
+
+xususiyatga ega bo’lgan so’zlar haqida «Devonu lug`otit turk» asarida ham
+
+ancha keng ma‘lumot berib o’tilgan.
+
+     «Ayaq» so’zini turklar idish, kosa, piyola ma’nosida ishlatsa, o’g`uzlar
+
+janoq (chanoq) ma’nosida  qo’llashganligini Mahmud Koshg`ariy  ta’kidlab
+
+o’tadi. Bundan tashqari mazkur asarda yana quyidagi so’zlar izohi berilgan:
+
+ingak – sigir (turkiylar), ingak – toshbaqaning urg`ochisi (o’g`uzlar); kend –
+
+viloyat (turkiylar), kend – qishloq (o’g`uzlar); ashlig` – oshxona (turkiylar),
+
+ashlig` – bug`doy (o’g`uzlar) va h.k.
+
+     Ko’p ma’nolilik o’zbek tili leksikasining o’ziga xos belgilaridan biridir.
+
+Asosan, o’zbekcha so’zlar ko’p ma’nolik xususiyatiga ega bo’ladi. Chunkibunday so’zlar hayotimizda uzoq yillar davomida ko’p qo’llanila berib, shu
+
+holatga kelib qolgan. Muhim ilmiy-nazariy fikrlar aytib o’tilgan o’zbek adabiy
+
+tilidagi bosh, yuz, oyoq, qanot, bel,  til, burun, lab kabilar lahja va shevalar
+
+matyeriallarida ham turli ko’rinishlarda qo’llaniladi va o’z o’rnida ular ko’p
+
+ma’nollik xususiyatiga ega bo’ladi. Misol: bir bosh juzum, bashimni ag`ritma
+
+(qip) kabi.
+
+     Ko’p ma’nolilik hodisasi voqelikdagi bir narsa-buyum xususiyati nomini
+
+boshqasiga ko’chirish, o’tkazish orqali sodir bo’ladi. So’z ma’nosining ko’chish
+
+usuli to’rt xil bo’ladi: metafora, metonimiya, sinekdoxa, vazifaviy ko’chish.
+
+      Bir predmet nomining ikkinchi predmetga shakl, rang va boshqa biror
+
+jihatdan o’xshashligi asosida ko’chirilishi metafora deb ataladi. Bir predmet
+
+nomining  ikkinchisiga   ko’chirilishi  ular   o’rtasidagi  haqiqiy  aloqaning
+
+mavjudligiga asoslansa, u metonimiya deyiladi. Misol: Eshmat ikki piyola ichdi
+
+(«choy ichdi» ma’nosida); Navoiyni ko’p o’qiydi («Navoiy  asarlarini ko’p
+
+o’qiydi» ma’nosida) kabi. Biror predmetning nomi boshqasiga ular bajargan
+
+vazifasidagi  o’xshashlik  asosida  ko’chirilsa  vazifaviy  ko’chirish  deyiladi.
+
+Misol: qnot (qushning  qanoti), qanot (samolyotning  qanoti);  otlandi (otga
+
+mindi), otlandi (biror joyga borishga hozirlandi) kabi.
+
+      Bir predmetning nomi boshqa bir predmetga qism bilan butun munosabati
+
+asosida ko’chirilsa, sinekdoxa yo’li bilan ko’chirish deyiladi. Misol: tirnoq
+
+(a‘zo), tirnog` (tirnog`ga zor – farzandga muhtoj ma’nosida); tuyoq (qism) –
+
+tuyoq (butun: Tuyoq sonini ko’paytirishni o’ylayapman) kabi. Zid ma’noli
+
+so’zlar lahja va shevalar leksikasida muhim o’rin tutadi. Qarluq-chigil-uyg`ur
+
+lahjasiga xos bo’lgan antonimlarga misol: yaxshi-yomon, uzun-qisqa, kunduz-
+
+kecha, boy-kambag`al va b. O’g`uz lahjasida qo’llanuvchi zid ma’noli so’zlarga
+
+misol: alis-yaqin, ulli-genja, avlaq-yaqin (uzoq-yaqin), say-cho’nqir (sayoz-chuqur) va b. Qipchoq lahjasida qo’llanuvchi zid ma’noli so’zlarga misol:
+
+qalin-qilamiq, achchi-chuchchi, alis-jaqin, kunchiish-kunbatish va b.
+
+      Shevalar leksikasida qator eskirgan so’zlarning ham mavjudligini ko’rish
+
+mumkin. Odatda, bunday so’zlar tilshunoslikda ikki guruhga  ajratilib  tahlil
+
+etiladi, ya‘ni arxaizmlar va tarixizmlar sifatida. Eskilik buyog`i bor til birligiga
+
+arxaizm deyiladi. Masalan, o’g`uz lahjasida «magazin» so’zi o’rnida avvallari,
+
+«kaparat»; «konvert» so’zi o’rnida «lapa»; «omborxona» so’zi o’rnida «talak»
+
+so’zi qo’llanilgan.
+
+      Tarixizmlar – o’tmishda mavjud bo’lgan narsa-hodisalarning nomlaridir.
+
+Shevalarda bunday xususiyatga ega bo’lgan so’zlar uchraydi. Masalan, qozi,
+
+quloq, to’ra, mingboshi, yuzboshi, omoch, paranji kabilar shular jumlasidandir.
+
+O’g`uz lahjasiga tegishli bu kabi so’zlardan ayrimlarini quyida keltirib o’tamiz:
+
+kunda (omoch), vahim (qabristonga  tegishli  yerlar),  jarchi, diravaz (moki
+
+asbobi) va b.
+
+      Shevalarda tabu va evfemizmlar ham ma‘lum darajasida uchraydi. Tabu
+
+so’zi polineziya  tilidan (Tinch okeandagi orollarda yashovchi ko’chmanchi
+
+elatlar tili) olingan bo’lib, shaxsiy va diniy odatlar jihatidan biror narsani man
+
+etish, jumladan, ma‘lum hayvonni ov qilish yoki o’simlikni sindirishni man
+
+etish bilan boliqdir. O’tmishda biror kishi o’lganda, qabiladan o’lim sharpasini
+
+yo’qotish uchun marhumning nomini aytish man etilgan. Tabu etnik tushuncha
+
+bo’lib, qandaydir predmetning, harakatning nomini aytishini man  qilishdir.
+
+Bunday odatning tilga tadbiq qilishi bilan lingvistik tabu yuzaga kelgan.
+
+     Ayrim  yirtqich  hayvonlarning  nomini  tilga  olish  (aksari  hollarda
+
+kechalari) man etilgan. Qariyalar bu narsani quyidagicha izohlaydilar. Ularning
+
+aytishlaricha, agar bunday hayvonlarning nomi tilga olinsa, ular zarar yetkazishi
+
+mumkin emish. Masalan, «bo’ri» so’zini kechalari aytish man etilgan. Aftidan
+
+xalqimiz o’rtasida tez-tez  ishlatilib turiladigan «bo’rini yo’qlasang, qulog`iko’rinar» degan maqol dastlab shu tabu hodisasining natijasi o’laroq vujudga
+
+kelgan  bo’lsa  kerak.  «Ilon»  so’zi  o’rnida  «arg`amchi»,  «qamchidasta»
+
+so’zlarining qo’llanishi ham tabuga misoldir.
+
+     Odamning nutq faoliyati axloqiy me’yorlarga rioya qiladi. Axloqiy va
+
+madaniy jihatdan qo’llanishi tadqiqlangan yoki noqulay deb topilgan so’zlar
+
+o’rnida  boshqa  so’z  va  iboralarning  qo’llanilishi  evfemizmlar  (grekcha,
+
+«yaxshi» «mayin  gapiraman»  ma’nosida)  deb  ataladi.  Masalan,  qipchoq
+
+shevalarida «o’ldi» so’zi o’rnida «tomom bo’ldi», «uzildi», «jon berdi», «qaza
+
+qildi», «dunyodan o’tti», «nabud bo’ldi» kabi so’zlar qo’llaniladi.
+
+      Qarluq-chigil-uyg`ur lahjasida «xotin» so’zi o’rnida «umr yo’ldoshi»,
+
+«rafiqa»,  «qalliq», «oila» kabi  so’zlar  qo’llaniladi. O’zbek  tili  taraqqiyoti
+
+jarayonida shevalardagi tabular yo’qolib boradi, evfemizmlar esa ko’payib
+
+boryapti. evfemizmlar gaplarni chiroyli, silliq, ta‘sirchan qilish borasida muhim
+
+ahamiyatga egadir. U har bir madaniyatli kishi uchun muhim leksik uslubiy
+
+vosita vazfasini bajaradi. Frazeologiya deb nutqimizdagi turg`un va barqaror
+
+so’z birikmalariga, iboralarga aytiladi. Ular ikki va undan ortiq so’zlarning
+
+turg`un birikmasidir. Frazeologizmlarning tarkibida nechta so’z ishtirok etishiga
+
+qarmay, ular yagona umumiy ma’no bilan birlashadi va emotsional-ekspressiv
+
+ma’noni ifodalaydi.
+
+      Shevalar frazeologik iboralarga juda boy. Ulardan ayrimlarini quyida
+
+keltirib o’tamiz: yer qattiq, osmon baland (iloji yo’q, hal qilib bo’lmaydigan);
+
+ko’rpanga qarab aya uzat (hisob-kitob bilan  ish  yurit);  bardi-keldisi jo’q
+
+(aloqasi yo’q); kuni qurig`a o’tti (foydasiz bo’ldi) kabilar. Ushbular qipchoq
+
+lahjasiga tegishli misollardir. Qarluq-chigil-uyg`ur va o’g`iz lahjasida ham bu
+
+kabi frazeologik iboralar juda ko’plab uchraydi. Misol: dimog`i kuymoq (xafa
+
+bo’lmoq), boshiga ko’tarmoq (ardoqlamoq); aydi etak minan yavun bo’lmas
+
+(kamchilikni yashirib bo’lmaydi) kabilar.    Umuman olganda, xalq shevalari bitmas-tuganmas xazina bo’lib, o’zbek
+
+adabiy tilini, uning leksik tarkibini boyituvchi eng muhim manba hisoblanadi.
+
+
+
+                             Savol va topshiriqlar:
+
+     1.  Shevalargina xos  leksik  qatlam  tushunchasini  izohlang va  misol
+
+     keltiring ?
+
+     2. So’zlarning ko’chma ma’noda ishlatilishi deganda nimani tushunasiz va
+
+    uning usullarini aytib bering ?
+
+     3. Shevalardagi sinonim, omonim, antonim so’zlarga mosl keltiring ?
+
+     4. Ko’p ma’noli va eskirgan so’zlarga misol keltiring ?
+
+     5.Tabu,  evfemizm  va  frazeologik  iboralarning  qo’llanish  holatlari
+
+     shevalarda qanday ?
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.
+     Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+     Қодирий номидаги халқ мероси нашриёти, 2004.
+     Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+     Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+     Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+     Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+     Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+     Ўзбек шевалари лексикаси.Т.,Фан.1991.
+     Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.     Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+       -Т.: Фан, 1962.
+    Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+     Насаф, 2000.
+     Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+      тадқиқи. -Т.: Фан, 2005.
+     Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+     www.türk dili.google com.tr
+     www.dersimiz.com
+
+
+
+                LINGVISTIK GEOGRAFIYA
+
+             E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+      Lingvistik geografiya va u xaqida qisqacha ma‘lumot;
+      Lingvistik geografiyaning shakllanishi va taraqqiyoti;
+      Dialektologik atlas va xaritaning ahamiyati;
+      Soha rivoji uchun galdagi vazifalar.
+
+
+
+     Tayanch tushunchalar: lingvistik geografiya, atlas, xarita.
+
+
+
+        Lingvistik geografiya (qisq. Lg) til hodisalarining tarqalishi o’rinlarini,
+
+ularda tarixiy taraqqiyot jarayonida yuz bergan o’zgarishlarni o’rganish uchun
+
+xizmat  qiladi. Lg XIX  asrning  o’rtalarida  fan  sifatida  shakllandi. Uning
+
+asoschilari  fransuz  Jan  Jils’ron,  germaniyalik  Georg  Venkyer,  F.Vrede,
+
+P.Meyyer Rossiyalik I.I.Sreznevskiylardir. Ular shu soha yuzasidan chuqur
+
+tadqiqot  ishlari olib bordilar va mazkur fanning asosiy o’rni, predmeti va
+
+vazifalarini belgilab berdilar. Shuningdek, ular lingvistik kartaga tushurilganizoglossa (izofonema – fonetik belgi) izomorfema-morfologik belgi, izoglossa –
+
+leksik belgi) tushunchasini kiritdilar.
+
+        Tillarning, jumladan, ularning quyi tarmoqlari hisoblangan lahja va
+
+shevalarning  tarqalish  holati  turli  belgilar  bilan  ko’rsatiladi. Ana shunday
+
+belgilar bilan til yoki lahjaning joylashgan o’rinlari ifodalab berilishida Lg da
+
+yunoncha, «izoglossa» deb yuritiladi va bir xil, o’xshash, teng kabi ma’nolarni
+
+bildirishga xizmat qiladi. Bunda fonetik, grammatik va leksik xususiyatlarni
+
+aniq ko’rsatish uchun har xil belgilar ishlatiladi. Lg da dialektologik atlaslar
+
+muhim  o’rin  tutadi.  Biror   til  yoki  dialektga  xos  xarakterli  lingvistik
+
+xususiyatlarning  tarqalish  xududini  yoki  chegarasini  aks  ettirgan  kartalar
+
+yiindisi dialektologik  atlas  deyiladi. Bunday atlaslarning  dastlabkilari XIX
+
+asrning oxiri XX asrning boshlarida yuzaga kelgan.
+
+       Fransuz olimlari Jon Jil’sron va Edmoklar 1902-1912-yillar mobaynida
+
+12 jilddan iborat «Fransuz  tili  atlasi»ni, nemis olimlari Geog Vekkyer va
+
+F.Vredelar 1876-1926-yillar oraliida «Nemis tili atlasi»ni, mashhur nemis olimi
+
+P.Mayyer rahbarligidagi Marburg nemis dialektologiyasi markaziy instituti XX
+
+asr boshlarida «Nemis leksikologik atamasi»ni nashr ettirdilar.
+
+       O’zbek tilshunosligida Lg fani sohasida 1944-yili ish boshlandi. Shu
+
+o’rinda bir jihatni alohida ta’kidlab o’tish joizki, Lg fan sohasi sifatida o’tgan
+
+asrda shakllangan bo’lsada, shevalarga oid xaritalar turkiy olimlar, jumladan,
+
+M.Koshariy tomonidan XI asrda tuzilgan. (Bu haqda to’liqroq ma‘lumot olish
+
+uchun qar. M.Koshariy, DLT, I tom. 1960. 64-b.). Turkiy tillar geografiyasi
+
+ma‘lumotlari   Fozi  Olim   Yunusov,   A.K.Borovkov,  Ulu   Tursunov,
+
+V.V.Reshetov, S.Ibrahimov, A.Aliev, Hisom ulomov, Xudoyberdi Doniyorov
+
+singari  olimlarning nomlari  bilan  bolangan. Ular o’zbek xalq  shevalarini
+
+o’rganish, tahlil etish va ularni xaritalarga tushurib, shevalarimiz atlasini yuzaga
+
+kelishiga munosib hissa qo’shdilar.        1944-yili  prof. A.K.Borovkov  o’zbek  tili  shevalari  atlasini  tuzish
+
+maqsadida savol-javob anketasini tuzdi. V.V.Reshetov Toshkent, F.Abdullaev
+
+Xorazm, M.Mirzaev Buxoro, A.aliev Namangan, A.Shermatov Qashqadaryo
+
+shevalari yuzasidan kartalar tuzdilar. Kartalarda o’zbek tili shevalarining o’ziga
+
+xos fonetik, morfologik va leksik xususiyatlari o’z ifodasini topgan. O’zbek
+
+shevashunosligida Lg sohasida bir qator ilmiy izlanishlar olib borilganligiga
+
+qaramasdan, hali o’zbek xalq shevalarining atlasi nihoyasiga etkazilgan emas.
+
+      Shunday qilib, bir  til yoki uning bir qismiga ta‘luqli o’ziga xos  til
+
+xususiyatlarining  yozib  olinishi,  ularning  tarqalgan  chegaralari  belgilab
+
+chiqishib, kartalarga tushirilishishevashunoslik atlasining negizini tashkil etadi.
+
+Shu asosda nashr etilgan xaritalar jami esa shevashunoslik atlasini tashkil etadi.
+
+Lingvistik xarita ham, atlas ham Lg ning tarkibiy qismi bo’lib, uning ifoda
+
+vositasidir. Lg ning asosiy maqsadi o’zbek adabiy  tilining yuzaga  kelish
+
+xususiyatlari  va   rivojlanish   yo’llarini,  shevalar   o’rtasidagi  aloqa  va
+
+munosabatlarni,  til va lahjalarning taraqqiyot qonunlarini, va ularni o’zaro
+
+munosabatlarini, ta‘sir doirasini aniqlab berishga qaratilgandir.
+
+        Atlas 3 xil turi mavjud:
+
+        1.  Fonetik
+
+        2.  Morfologik
+
+        3.  Leksik
+
+       Fonetika bobida quyidagilarni qayd etish lozim: Toshkent shevasida h
+
+va x undoshlarining o’zaro aralash holda kelib, ko’proq h undoshi o’rnida ham
+
+x undoshining ishlatilishini hisobga olish lozim (Farhod-Farxod, xizmatchi-
+
+hizmatchi kabi)
+
+       Morfologiyada ko’zga tashlangan muhim xususiyatlardan biri – ga va-
+
+da Samarqand va Buxoro  shevalarida  aralash  holda  kelib,  ko’proq –ga
+
+qo’shimchasi  bilan  qo’llaniladi  (avtobusga  keldim,  qo’limga  bor  kabi).Leksikada ham muhim tomonlar mavjud: siyir, buzaq (qipchoq shevalarida);
+
+inak, go’sala (Buxoro-Samarqand) kabi.
+
+      Lingvistik  geografiya  tushunchasi  va  uning  mohiyati. Bu  termin
+
+lingvistika - tilshunoslik va geografiya kabi qismlardan iborat bo’lib, umuman
+
+sheva xususiyatlarini maxsus belgilar va raqamlarda ularni harita (atlas-karta)da
+
+aks ettirish bilan shug`ullanadigan dialektologiyaning bir bo’limidir, boshqacha
+
+aytganda,  shevalarga  xos  bo’lgan  xususiyatlarning  tarqalish  chegaralarini
+
+haritada ko’rsatishdir. Lingvistik geografiya shevalarni o’rganishning bir metodi
+
+hamdir.
+
+      Lingvistik  geografiyani   qo’llash   orqali  shevalardagi   izoglossalar
+
+belgilanadi. Izoglossa lotincha izo - teng, glossa - til degan ma’nolarni bildiradi
+
+va bir dialekt yoki lahja doirasidagi yoki bir  til, qarindosh tillardagi fonetiq
+
+leksik  va  grammatik  xususiyatlarni  o’hshashlik  darajasiga  ko’ra  shartli
+
+belgilarda turli ranglardan foydalangan holda xaritada belgilab chiqiladi.
+
+       2. Lingvistik geografiya tamoyillari. Lingvistik geografiya o’ta ahamiyatli
+
+soha bo’lib, har bir sheva va dialekt haqida, uning ildiziy, tarixiy xususiyatlari,
+
+uning o’ziga xosligi bilan yaxlit ravishda tilshunoslik, tarix, etnografiya bilan
+
+shug`ullanadigan xodimlar, mutaxassislarga keng tanishtirish imkonini beradi.
+
+Lingvistik geografiyada, avvalo, o’rganilayotgan shevaning aholi geografiyasini
+
+aks ettiruvchi haritasi uchun asos bo’ladigan kontur harita olinadi va aholi
+
+punktlari raqamlari belgilab chiqiladi. Sheva  faktlari uchun  shartli belgilar
+
+tizimi ishlab chiqiladi. Izoglossalarning  tarqalishini ko’rsatuvchi chiziqlarni
+
+tortish rejasi tayin qilinadi. Ranglar tanlanadi va bo’yash texnikasi belgilab
+
+olinadi.
+
+       3. O’zbekistonda lingvistik geografiyaning rivojlanishi. Bu soha o’tgan
+
+asrlarda Evropada yaxshi rivojlangan. XIX asrda franstuz dialektologi Jyul
+
+Jileron butun Franstiyani velosipedda aylanib chiqib, Franstuz tilining dialektal
+
+atlasini yaratgan. O’zbekistonda ham dialektologik atlas yaratish ishi ancharivojlangan. Bu sohada Sh.Shoabdurahmonov, Q.Muhammadjonov, A.Jo’raev,
+
+A.Shermatov,    I.Ibrohimovlarning     tadqiqotlari    mavjud.   Akademik
+
+Sh.Shoabdurahmonov   O’zbekistonda   birinchi   bo’lib   shevalar   atlasini
+
+yaratishning nazariy qoidalarini ishlab chiqdi. Professorlar Q.Muhammadjonov
+
+Shimoliy  o’zbek  shevalarini, A.Shermatov  quyi Qashqadaryo  shevalarini,
+
+dotsent I. Ibrohimov esa Orol buyi o’zbek shevalarini haritalashtirgan.
+
+
+
+                             Savol va topshiriqlar:
+
+         1.  Lingvistik geografiya nima ?
+
+         2.  Lingvistik geografiya qachon vujudga kelgan va uning asoschilari
+
+       kim?
+
+         3.  Lingvistik geografiyaning shakllanishi va taraqqiyotiga munosib
+
+        ulush qo’shganlar kim ?
+
+         4.  Dialektologik  atlas  va  xaritaning muhim  ahamiyatga  egaligi
+
+        nimalarda namoyon bo’ladi ?
+
+         5.  Lingvistik geografiyaning rivojlanish holati qay darajada ?
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.
+     Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+     Қодирий номидаги халқ мероси нашриёти, 2004.
+     Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+     Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+       -Т.: Фан, 1962.
+     Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+      тадқиқи. -Т.: Фан, 2005.     Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+     www.türk dili.google com.tr
+     www.dersimiz.com
+    Шерматов А. Лингвистик география нима ? Т., Фан. 1981.
+    Шерматов А. Атлас узбекских народных говоров Кашкадарьянской
+
+     области (учебное пособие для студентов факультета узбекского
+
+     языка и литературы пединститутов). Т., 1979.
+     Шоабдураҳмонов Ш. Ўзбек тилининг диалектологик атласи. ЎТА,
+
+      1969, №3.
+
+
+
+           O’ZBEK TILINING QARLUQ LAHJASI
+
+                E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+          Qarluq-chigil-uyg`ur  lahjasida  so’zlashuvchi  aholining yashash
+
+             manzillari;
+          Qarluq-chigil-uyg`ur lahjasining sheva guruhlari;
+          Lahjaning fonetik, morfologik-leksik xususiyatlari;
+          O’zbek  adabiy  tilining  shakllanishi  va  taraqqiyotida mazkur
+
+            lahjaning tutgan o’rni.
+
+
+
+      Tayanch   tushunchalar:   qarluq-chigil-uyg`ur,    lahja,   fonetika,
+
+morfologiya, leksika.
+
+
+
+       O’zbek  tilining  qarluq-chigil-uyg`ur  lahjasi  shahar  shevalarini  o’z
+
+ichiga  oladi. Mazkur  lahja  birligining shakllanishi XI asrdan qoraxoniylar
+
+harakati bilan bog`langan. Tarixiy jihatdan qarluq-chigil-uyg`ur  til birligiga
+
+Namangan, Toshkent, Andijon va O’zbekistonning boshqa tumanlaridagi aholishevalari  taaluqlidir. Bu lahja O’zbekiston zaminidan tashqarida ham ko’p
+
+tarqalgan. Masalan, Qozog`istonning Chimkent, Sayram, Qorabuloq, Qoramurt,
+
+Iqon, Mankent; Qirg`iziston zaminidagi O’sh, Jallolobod, O’zgan va boshqa
+
+hududlar shular jumlasidandir. Bu lahjaga oid sheva vakillarini Afg`onistonda
+
+ham uchraydi. Ushbu lahja quyidagi guruhlarga bo’linadi:
+
+         1. Farona guruhi. Bu guruhga Namangan shahar shevachi va shahar
+
+atrofidagi shevalar (masalan, Uychi shevasi) taalluqlidir. Shuningdek, Andijon
+
+shahar  shevasi  va  Shahrixon  shevasi,  O’sh,  O’zgan,  Marg`ilon, Qo’qon
+
+shevalari kiradi.
+
+         2.  Toshkent  guruhi.  Bunga  Toshkent  shahar  shevasi,  Toshkent
+
+viloyatidagi qipchoq shevalaridan boshqa shahar tipidagi shevalar, masalan,
+
+Parkent, Qoraxitoy va boshqa shevalar taalluqlidir.
+
+         3. Qarshi guruhi. Bu dialektga Qarshi, Shahrisabz, Kitob, Yakkabog`
+
+kabi (qipchoq shevalaridan tashqari) Qashqadaryodagi shu tipdagi shevalar
+
+kiradi. Mazkur guruhga Samarqand-Buxoro shevasi ham kiradi.
+
+         4.  Shimoliy  o’zbek  guruhi.  Bunga  Iqon,  Qorabuloq,  Chimkent,
+
+Qoramurt, Turkiston, Chimkent, Sayram va shu tipdagi boshqa shevalar kiradi.
+
+Mazkur shevalar o’g`uz tili xususiyatlarining ham bo’lishi bilan ajralib turadi.
+
+       Lahjaning fonetik xususiyatlari quyidagilardan iborat:
+
+        1) ch va t undoshlari almashinadi: tish-chish kabi. Bu holat, ayniqsa,
+
+Toshkent, Marg`ilon, Andijon, Namangan shevalarida ko’p uchraydi;
+
+        2) qarluq-chigil-uyg`ur lahjasi y lashgan shevalardandir;
+
+        3)  lahjada  unli  tovush  uyg`unligi  yoki  ohangdoshlik  hodisasi
+
+uchramaydi. Shuning uchun ham ulardagi unlilar miqdori ko’p emas, ular 6-8
+
+dan oshmaydi. Jumladan, Toshkent shevasida oltita (i, o, e, a, i, o’), Namanganshevasida sakkizta (u, a, a, o, u, e), Samarqand-Buxoro shevasida oltita (o, e, a,`
+
+o’, o’) fonema mavjud;
+
+        4) hozirgi o’zbek adabiy  tilida so’zning oxirida q kelganda, ushbu
+
+lahjada ham keladi: issiq-issi, tirnoq-tirno, sandiq-sandi kabi;
+
+       Morfologik xususiyatlari quyidagilardan iborat:
+
+        1) aniq hozirgi zamon fe`lni ifodalovchi ikki morfologik belgiga esa:
+
+        a) –  vot, Namangan  shevasida  –ut: borvotman,  borvotsan,  qilutti
+
+(qilyapman),  qiluttimiz  (qilayapmiz)  kabi, Namangan  shakli  –ut  fonetik
+
+qonuniyatlar asosida o’zgargan  bo’lib, u  aslida –vot qo’shimchasiga borib
+
+taqaladi;
+
+        b) –yap qo’shimchasi Farg`ona vodiysidagi barcha shahar (Andijon,
+
+Marg`ilon, Qo’qon  kabi) hamda  o’sha  shaharlarga yaqin bo’lgan  qishloq
+
+shevalariga xosdir: boryapman, kelayapman kabi. Farg`ona shevalaridagi bu
+
+qo’shimcha Namangan shevasidan tashqari –yap shakliga borib taqaladi va
+
+Samarqand-Buxoro   shevasidagi  –op   ko’rsatgichiga  ham   yaqinlashadi:
+
+boropman, qilopman kabi.
+
+        2) Samarqand-Buxoro  shevalarida  o’rin-payt va  jo’nalish  kelishigi
+
+qo’shimchalari aralash holda qo’llanilishi ko’zga tashlanadi: magazinni qoshiga
+
+saqlang kabi;
+
+        3)  ayrim  hollarda  tushum  kelishigi  –di,   -ti  qo’shimchasi  bilan
+
+qo’llaniladi: qora kokil qizdi (qora kokilli qizni), idti qopmas, otti tepmas deb
+
+bo’lmaydi (Itni qopmas, otni tepmas deb bo’lmaydi) kabi;
+
+        4)  ayrim  hollarda  o’rin-payt  kelishigi  –ta  qo’shimchasi  bilan
+
+shakllanadi:  zavutta  ishlatadi  (zavodda   ishlaydi),  Toshkentta  yashaydi
+
+(Toshkentda yashaydi) kabi;        5) Toshkent, Samarqand, Namangan kabi shevalarda aniq o’tgan zamon
+
+fe`lining birinchi shaxs ko’pligi –duk, -dug, -tuk shakllarida qo’llaniladi.Qarluq-
+
+chigil-uyg`ur lahjasidagi shevalarning o’ziga xos morfologik xususiyatlari juda
+
+ko’p bo’lib, ularni yana davom qildirish va har bir shevaga xos xususiyatlarni
+
+ko’plab keltirish mumkin. Darhaqiqat, bu shevalarning har biri genetik jihatdan
+
+umumiy  xususiyatlarga  ega  bulishi  bilan  birga,  o’ziga  xos  tor  sheva
+
+ko’rsatgichlariga ham egadir.
+
+       Hozirgi  o’zbek  adabiy   tili  qarluq-chigil-uyg`ur   lahjasi  asosida
+
+shakllangan. Shunga ko’ra, hozirgi o’zbek xalqi va uning tili, mavjud tasnifga
+
+ko’ra turkiy xalqlar oilasining qarluq guruhiga kiradi. O’zbekiston hududida
+
+o’g`uz va qipchoq urug`larining hamda ularning o’ziga xos shevalarining
+
+bo’lishi  bu  turkum  turkiy  urug`larning ham  o’zbek  xalqi  va  tilining
+
+shakllanishida hissasi borligini ko’rsatadi. Hozirgi o’zbek dabiy tiliga asos qilib
+
+qarluq urug`  til xususiyatlari olingan bo’lsa-da (fonetik tomondan Toshkent
+
+shevasi, morfologik tomondan Farg`ona shevalari), adabiy til tarkibida o’g`uz
+
+tilining xususiyatlari (kelasi zamon -djak affiksi) va qipchoq tilining shakllari
+
+ham (-yotir//-yatir affiksi) joy olgan.
+
+        Qarluq-chigil-uyg`ur lahjasi tarkibiga kiruvchi shevalarning har birida
+
+leksik birliklar adabiy tildagidan farqli ravishda u yoki bu darajada uchraydi.
+
+Misol: adabiy tildagi ona so’zi Toshkent shevasida oyi, Farg`ona, shevasida
+
+ayya, buvi  shaklida  faol  qo’llaniladi. Yoki adabiy  tildagi qalampir  so’zi
+
+Toshkent shevasida garmdori, Buxoro shevasida qalampur; adabiy tildagi o’rik
+
+so’zi Samarqand-Buxoro shevasida zardoli tarzida ifodalanadi. Shevalarning
+
+lug`at tarkibi juda boy bo’lib, ular o’zbek adabiy tili boyligini ta‘min etuvchi
+
+eng muhim manba hisoblanadi.
+
+
+
+                             Savol va topshiriqlar:     1.  Qarluq-chigil-uyg`ur  lahjasida  so’zlashuvchi  aholining  yashash
+
+    hududlarini aytib bering ?
+
+     2. Lahjaning fonetik xususiyatlarini aytib bering ?
+
+     3. Lahjaning morfologik xususiyatlari nimalarda namoyon bo’ladi ?
+
+     4. O’zbek adabiy tilining shakllanishi va taraqqityotida bu lahjaning
+
+    tutgan o’rni qanday bo’lgan ?
+
+
+
+                          Adabiyotlar
+
+  Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+  Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+  Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+  Ўзбек шевалари лексикаси.Т.,Фан.1991.
+  Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.     www.türk dili.google com.tr
+     www.dersimiz.com
+     Абдураҳмонов Ф. Ўзбек халқи ва тилининг шаклланиши ҳақида. Т.,
+
+      1999.
+     Миразев М. Ўзбек тилининг Бухоро группа шевалари. Т., 1969.
+
+
+
+            O’ZBEK TILINING O’G`UZ LAHJASI
+
+              E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+           O`g`uz lahjasida so’zlashuvchi aholining yashash manzillari;
+           O`g`uz lahjasining fonetik xususiyatlari;
+           O`g`uz lahjasining morfologik xususiyatlari;
+           O`g`uz lahjasining o’zbek adabiy tili luat tarkibini boyitishdagi
+
+               o’rni.
+
+
+     Tayanch tushunchalar: o’g`uz, lahja, fonetika, morfologiya, leksika.
+
+
+
+       O`g`uz  lahjasi  vakillari Xiva, Xonqa, Shovot, Hazorasp, Urganch,
+
+To’rtko’l, Toshovuz, Qarabuloq, Mankent, Iqon kabi manzillarda, shuningdek,
+
+Buxoro viloyatining Qorako’l, Olot tumanlarida, Romitan tunidagi Qoqishtivon,
+
+Chilong`u, Sepata, Vopkent tumanidagi Chandir, Buxoro tumanidagi Losha,
+
+Xargo’sh, Xumin, Xumdonak qishlog`larida yashaydi. Mazkur lahja vakillari
+
+O’zbekistonning boshqa tumanlarida ham uchraydi. Masalan, Jizzax yaqinidagi
+
+Bodan qishloida. O`g`uz urulari sirasiga olot, bayot, jiag`chi, darg`ali, qoravul,
+
+sayot, solir, yersari, chandir, eski, burjoq kabilar kiradi. O`g`uz lahjasining eng
+
+muhim o’ziga xos xususiyatlari quyidagilardan iborat:
+
+                        Fonetik xususiyatlar:        1) qipchoq shevalaridagi kabi bu lahjada ham juft unlilar mavjud: a-ä, i-
+
+ï, ö-o’, u-ü kabi;
+
+        2) qisqa va cho’ziq  unlilvr farqlanadi, ya‘ni turkman  tilidagi kabi
+
+qadimgi turkiy cho’ziq unlilar (birlamchi cho’ziq unlilar) mavjud: at (hayvon),
+
+a:d (ism), o’t (o’t, o’simlik), o’:t (o’t, olov) kabi;
+
+        3) so’z tarkibida unli tovushlarning tanglay ohangdoshligi saqlangan:
+
+kishi-kishilar-kishilara (kishilarga) kabi;
+
+        4) so’z boshida t va k tovushlari jaranglashadi: til-dil, tilak-dilak, tuz-
+
+duz; ko’z-go’z, ko’k-go’k, keldi-geldi kabi. Ba‘zan o’rtada, ikki unli orasida ham
+
+t va k totsvushlari jaranglashadi: yetti-yeddi, ko’kimtir-go’gimtir kabi. Lekin
+
+bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta,
+
+tesha, kamon, kema va boshqalarda.
+
+        5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz
+
+etiladi;
+
+        6) ikki unli tovush orasida ch undoshi ko’pincha  jarangli  talaffuz
+
+etiladi: achchiq – aji, ipning uchi – ipin uji kabi;
+
+        7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo’llaniladi:
+
+davlat – do’ulat, quvladi – qo’uladi kabi;
+
+        8) chuqur  til orqa undoshi q  so’z  oxirida, ba‘zan  so’z  o’rtasida
+
+tushiriladi: sariq – sari, sichqon – sichon kabi;
+
+        9) a unlisi y undoshi oldida i bilan almashinadi: ishlay – ishliy, qo’ymay
+
+– qo’ymiy kabi.
+
+                      Morfologik xususiyatlar:
+
+        1) kelishik qo’shimchalari qo’yidagicha:      Qaratqich  kelishigi  –niŋ//-nïŋ,  -ni/-nï,  -in/-ïn  qo’shimchalari  orqali
+
+ifodalanadi: mana uchragan kishini adini bilmayman kabi. Qadimgi yozma
+
+yodgorliklarga xos bo’lgan –in tarixiy shakllari bilan ham ishlatiladi. Misol,
+
+kerakli dashin arami yo’q; ko’pin ishi ko’l bo’lur.
+
+      Tushum kelishigi uchun –i/-ï, –ni/-nï affikslari qo’llaniladi: qizni – qizi,
+
+ko’zni – go’zi, bolalarini-balalarin kabi.
+
+        Jo’nalish kelishigining –ga,  -ka,  -a, -na  shakllari mavjud: tuyaga-
+
+diyaga, murodiga-murodina, yerga-yira kabi. –a shakli o`g`uz lahjasida ancha
+
+faol qo’llanuvchi qo’shimchadir.
+
+        O’rin-payt kelishigi –da, -ta qo’shimchasi bilan qo’llaniladi. So’z unli
+
+va  jarangli undosh  bilan  tugasa  –da,  jarangsiz undosh  bilan  tugasa  -ta
+
+qo’shimchasi   qo’llaniladi:  bolada-balada,  ko’zda-go’zda,  kinoda-kinoda,
+
+qishda-qishta, itda-itta kabi. O`g`uz lahjasida so’z-o’zak va negizlarning qattiq
+
+va yumshoqligiga amal qilgan holda chiqish kelishigining qo’shimchasi –dan, -
+
+tan ko’rinishiga ega: poezddan-poyizddan, ishdan-ishtan kabi;
+
+        2) kelasi zamon aniq fe`li ko’pincha –jaq//-jak qo’shimchalari bilan
+
+shakllanadi: barjaqman, getjäksän kabi;
+
+        3) o’tgan zamon sifatdosh –an shaklida bo’ladi: gïtän, ölän kabi;
+
+        4) to’liqsiz fe`l edi –ti//-tï shaklida ifodalanadi: o’qigan edi – o’qianti;
+
+ko’rgan edi – go’räntï kabi;
+
+        5) ko’plik son shaklining –lar/–lär, ba‘zan –ler ko’rinishlari mavjud:
+
+qo’ylar, gechchïlär, dïlekler kabi.
+
+       O`g`uz  lahjasi  leksikasining  asosiy  qismini  o’zbek  adabiy  tilida
+
+ishlatiladigan umumturkiy so’zlar tashkil qiladi. Shevalar leksikasida forscha-
+
+tojikcha so’zlar arabcha so’zlarga qaraganda ko’pchilikni tashkil etadi. Mazkurlahjaga tegishli ba‘zi so’zlarni quyida keltirib o’tamiz: ayil (qorinbog`), nuqalav
+
+(boks),  susaq  (cho’mich),  secha  (chumchuq),  qara  yag`  (neft),  yarish
+
+(musobaqa), ulli (katta) va b.
+
+       Shevalardagi ba‘zi arabcha so’zlar o’z ma’nosini o’zgartirgan holda
+
+ham qo’llaniladi. Masalan, g`assol (arabchada o’lik yuvadigan degan ma’noda)
+
+so’zi ishyoqmas, landavur, ayyor, mug`ombir ma’nosida qo’llaniladi. Yoki
+
+mag`zava   so’zi  arabchada   kir  suvni   anglatsa,  shevalarda  gap-so’zga
+
+tushunmaydigan ma’nosiga ega.
+
+
+
+                             Savol va topshiriqlar:
+
+       1.O`g`uz lahjasi vakillari qayerlarda yashashadi ?
+
+       2.Uning fonetik xususiyatlarini ayting ?
+
+       3.Lahjaning morfologik xususiyatlari haqida nimalarni bilasiz?
+
+       4.O’zbek adabiy tili taraqqityoida o`g`uz lahjasi qanday o’rin tutadi ?
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:
+
+     Ўқитувчи, 1978.
+     Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+     Қодирий номидаги халқ мероси нашриёти, 2004.
+     Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+     Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+     Жўраев Б. Ўзбек адабий тили ва диалектлари. -Т.: Фан, 1963.
+     Ўзбек шевалари морфологияси. -Т.: Фан, 1984.
+     Ўзбек шевалари лексикаси. -Т.: Фан, 1966.
+     Ўзбек шевалари лексикаси.Т.,Фан.1991.     Ражабов Н. Ўзбек шевашунослиги. -Т.: Ўқитувчи,1996.
+     Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+       -Т.: Фан, 1962.
+    Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+     Насаф, 2000.
+     Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+      тадқиқи. -Т.: Фан, 2005.
+     Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+     www.türk dili.google com.tr
+     www.dersimiz.com
+     Ўзбек тили лексикологияси. Т., Фан, 1991.
+     Мирзаев М. Ўзбек тилининг Бухоро группа шевалари. Т., Фан, 1969.
+     Абдуллаев Ф. Ўзбек тилининг Хоразм шевалари. Т., 1964.
+
+
+
+          O’ZBEK TILINING QIPCHOQ LAHJASI
+
+                E‘ t i b o r q a r a t i l a d i g a n m a s a l a l a r:
+          Qipchoq urug`lari va atamasi haqida muxtasar ma‘lumot;
+          Qipchoq lahjasida so’zlashuvchilarning yashash manzillari;
+          Qipchoq lahjasining o’rganilishi:
+          Qipchoq lahjasining fonetik, morfologik, leksik xususiyatlari;
+          Qipchoq lahjasining o’zbek dabiy tili taraqqiyotidagi o’rni.
+
+
+
+     Tayanch tushunchalar: qipchoq, lahja, fonetik, morfologik, leksik.
+
+
+
+     Qipchoq urug`lari eng qadimgi urug`hlardan biri hisoblanadi. «Devonu
+
+lug`otit turk» asarida Mahmud Koshg`ariy o’z davrida katta mavqega egabo’lgan bajanak, o`g`uz, yamak, bashg`irt, basmil kabi 20  til ichida qipchoq
+
+tilini ham qayd etib o’tadi. Turkiy tillarni 2 ta guruhga, ya‘ni Sharqiy turklar va
+
+G`arbiy turklar tiliga ajratib, ularning  tili o’rtasidagi farqni ko’rsatib o’tadi.
+
+Masalan, Sharqiy turklar yunji desa, G`arbiy turklar ushbu so’zni junju deb
+
+talaffuz qiladilar, deb aytib o’tadi.
+
+     Qipchoq  urug`lari va  tili  xususida  «Attuhfatuz  zakiyati  fil  lug`otit
+
+turkiya» (Turkiy til (qipchoq tili) haqida noyob kitob)da ham qimmatli tarixiy
+
+lingvistik  ma‘lumotlar  mavjud.  Ushbu  asar  XIII-XIV  asr  yodnomasi
+
+hisoblanadi.
+
+      Alishyer Navoiy davrida ham qipchoqlar ancha  katta mavqega ega
+
+bo’lgan. Buni shoirning quyidagi bayti ham yaxshi isbot qiladi:
+
+                Ey Navoiy, menga bas ul sanami lo’livash,
+
+                 Bekka qirchoqu og`ar, shohga qiyotu bilgut.
+
+      Ushbu baytdan qipchoq, qiyot, bilgut, og`ar singari o’zbek urug` va
+
+qabilalarining shoh va beklarga yaqin turuvchi mansabdor urug` va qabilalar
+
+ekanligiga ishora qilinganligini anglab olish mumkin.
+
+        «Shajarai turk» asarida Abulg`ozi Bahodirxon «Qipchoq» etnonimi
+
+haqidagi ma‘lumotni keltiradi.
+
+       O’zbek  tilining qipchoq  lahjasi  har  xil  turkiy  urug`-qabila guruhi
+
+vakillarini o’z ichiga oladi. Bular orasida qipchoq, nayman, qangli, laqay,
+
+uyshin, qoraqalpoq, saroy, qo’ng`irot, qiyot, do’rmon, arg`in, xitoy, tuyoqli
+
+kabi  ko’pgina  urug`-qabilalar  bor. O’zbek  xalq  baxshilarining  aksariyati
+
+qipchoq lahjasida so’zlashuvchilardir.       Qipchoq  lahjasining  lingvistik  xususiyatlari  Fozi Olim  Yunusov,
+
+V.V.Reshetov, M.Mirzaev, X.Doniyorov, F.Abdullaev, A.Shcherba, N.Rajabov
+
+kabi olimlar tomonidan o’rganilgan.
+
+      Mazkur  lahjada  so’zlovchilar  Ohangron  vodiysida,  Mirzacho’lda,
+
+O’ratepa atrofida, Samarqand, Navoiy, Qashqadaryo, Surxandaryo va Shimoliy
+
+Xorazm kabi joylarda yashaydilar. Bu lahja  vakillari Andijon, Namangan,
+
+Farona viloyatlarida ham uchraydi.
+
+       Qipchoq  guruhidagi  shevalarning  ba‘zi  o’ziga  xos  xususiyatlari
+
+qo’yidagilardan iborat.
+
+                             Fonetika sohasida:
+
+        1) ohangdoshlik hodisasi saqlangan: köŋlüm (ko’nglim), qiliq kabi;
+
+        2) adabiy tildagi y undoshi o’rnida  j undoshi keladi: yozdi – jazdi,
+
+yulduz – jüldüz, yantoq – jantaq kabi;
+
+        3) o’nta juft unli mavjud: ä-a, ü-u, ï-i, ö-o’, e,o;
+
+        4) adabiy tildagi  va g undoshlari o’rnida qipchoq lahjasida y tovushi
+
+keladi: kigiz-kiyiz, sigir-siyir, tegdi-tiydi, yiin-jiyin, sidi-siydi kabi;
+
+        5) q va k undoshlari so’z oxirida tushib qoladi: kichik – kichi, sariq –
+
+sari, tariq – tari kabi;
+
+        6) diftong hodisasi mavjud: echki – iechki, o’rdak – uo’rdak kabi;
+
+        7) ba‘zi so’zlarda so’z boshida h undosh tovushi orrtiriladi: ayvon –
+
+hayvon, arra – harra kabi;
+
+        8) so’z o’rtasida q undoshi  g` ga o’tadi: oqar – ag`ar, yoqar – yag`ar,
+
+chiq – chig`ib, quloq – qulag`i kabi;        9) so’zda q va g` undoshlari v tovushi bilan anglashinadi: tog` – tav,
+
+bog` – bav, bug`doy – buvday, ulug` – uluv, o’g`li – uvli, og`iz – aviz, sog` – sav
+
+kabi.
+
+                        Morfologiya sohasida:
+
+        1) u, bu, shu olmoshlari qadimgi turkiy tildagidek ul, bul, shul tarzida
+
+talaffuz qilinadi;
+
+        2) jo’nalish kelishigidagi kelishik olmoshlari quyidagicha qo’llaniladi:
+
+mag`an (menga), sag`an (senga), ug`an (unga) kabi;
+
+        3)  aniq  hozirgi zamon  fe`li  –jatir/-jätïr  va  ba‘zan  –vätïr  kabi
+
+qo’shimchalar bilan hosil qilinadi: keläjätïr, kelävätïr kabi.
+
+        4)  kelasi zamon  sifatdoshi  –tian/-tïgän  kabi  qo’shimchalar  bilan
+
+yasaladi: jazatig`an, kelätïgan kabi.
+
+        5) kelishik qo’shimchalari o’zak-so’zning qattiq va yumshoqligiga ko’ra
+
+farqlanadi. Shunga muvofiq qaratqich kelishigining qo’shimchalari: -ning/-niŋ, -
+
+ni/-nï, -din/-dïn, -tin/-tïn bilan ifodalanadi. Masalan, atamdin qadri o’tti, attiŋ
+
+jilavini mäkkäm üshlädï kabi. Tushum kelishigi ma’nosi –di/-dï, -ti/-tï, -ni/-nï
+
+qo’shimchalari orqali ifodalanadi. Bulardan –ni/-nï qo’shimchasi unli tovushlar
+
+bilan tugagan so’zlarga qo’shilib keladi: tav ïechkïsïnï üshläp aldi, atasini äytïp
+
+keldï kabi.
+
+         -di  va-ti  qo’shimchalari  unosh  tovush  bilan  tugagan  so’zlarga
+
+qo’shiladi: pishakti qivip  kettï, Kärïmdï bazara jigar. Ba‘zan belgisiz ham
+
+qo’llaniladi: suv ichip ke (Suvni ichib kel) kabi.
+
+        Jo’nalish  kelishigi uchun  –a\-gä,  -a\-ä,  -qa\-gä  qo’shimchalaridan
+
+foydalaniladi: balag`a bir jash to’ldi, üyïmä baranim jo’q, o’chaqqa o’t qala
+
+kabi.        O’rin-payt kelishigi uchun –da/-dä, -ta/-tä qo’shimchalari qo’llaniladi:
+
+däyräda (daryoda), qo’lda (ko’lda), qishta kabi.
+
+       Chiqish kelishigining qo’shimchalari –tan/-tän, -dan/-dän hisoblanadi:
+
+payizdan (poyezddan), chumchuqtan (chumchuqdan) kabi.
+
+        6)  o’rin-payt  kelishigi  oldidan  (i)n   tovushi  orttiriladi:  bashinda,
+
+qashinda kabi.
+
+       Leksika sohasida: qalpoq, jayron, jun, tuya, meng, chavgon, o’rtoq,
+
+dag`i, qut, el, quroq, qalqon, aynak, manglay (peshona), bo’rk (telpak), emgak
+
+(mehnat), qo’noq, ko’lik (transport), mo’ncha (hammom), qangli (ikki ildirakli
+
+arava) kabi leksik birliklar shu lahjaga tegishli so’zlardir.
+
+       O’zbek adabiy tilining shakllanishi va taraqqiyotida boshqa lahja va
+
+shevalar qatori qipchoq lahjasi ham muhim o’rin tutadi.
+
+
+
+                             Savol va topshiriqlar:
+
+       1. Qipchoq  uruglari va  tili xususida qaysi manbalarda ma‘lumotlar
+
+      uchraydi ?
+
+       2. Qipchoq lahjasining fonetik, morfologik xususiyatlari qaysi jihatlarda
+
+     namoyon bo’lgan ?
+
+       3. O’zbek adabiy tilida qipchoq lahjasiga tegishli qaysi leksik birliklar
+
+       qo’llaniladi ?
+
+       4. Qaipchoq lahjasiga xos yana qanday lingvistik xusmusiyatlarni bilasiz.
+
+
+
+                             Adabiyotlar
+
+     Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси. -Т.:   Ўқитувчи, 1978.
+  Тўйчибоев  Б., Ҳасанов Б. Ўзбек диалектологияси.  –Т.: Абдулла
+
+  Қодирий номидаги халқ мероси нашриёти, 2004.
+  Ўзбек диалектологиясидан материаллар.1-қисм. -Т.: Фан, 1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. -Т.: Фан, 1960.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Т.: Фан, 1962.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Т.: Фан, 2005.
+  Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Т.: Муҳаррир, 2011.
+  www.türk dili.google com.tr
+  www.dersimiz.com
+  Дониёров Х. Қипчоқ диалектларининг лексикаси. Т., Фан, 1979.
+
+
+          Фойдаланиладиган адабиётлар рўйхати
+
+
+                     Асосий адабиётлар
+  Решетов В. В., Шоабдураҳмонов Ш. Ўзбек диалектологияси.
+
+   Тошкент: Ўқитувчи, 1978.
+  Тўйчибоев Б., Ҳасанов Б. Ўзбек диалектологияси. -Тошкент:
+
+  Абдулла Қодирий номидаги халқ мероси нашриёти, 2004.
+  Enazarov T., Karimjonova V. va boshqalar. O‘zbek dialektologiyasi. -
+
+   Toshkent: Universitet, 2012.
+
+
+                  Қўшимча адабиётлар  Алиев А. Ю.,  Назаров К. Н. Ўзбек тилининг маҳаллий шевалари
+
+   бўйича материал тўпловчилар учун методик қўлланма. -Тошкент:
+
+   1976.
+ Аширбоев  С.  Ўзбек  диалектологияси  (Янги  ўзбек  ёзувида).  -
+
+   Тошкент: 2011.
+  Бегалиев М.Қ. Ўзбек тилининг Қорабулоқ шеваси лексикаси.  -
+
+   Тошкент: Iqtisod-Moliya, 2007.
+  Джураев А.  Б. Теоретические основы ареального исследования
+
+   узбекоязычного массива. -Тошкент:1991.
+  Жўраев Б. Ўзбек адабий тили ва диалектлари. -Тошкент: Фан, 1963.
+  Муродова Н. Ўзбек адабий тили ва шевалар лексикасининг қиёсий
+
+   тадқиқи. -Тошкент:Фан, 2005.
+  Нафасов Т. Қашқадарё ўзбек халқ сўзлари. -Тошкент: Муҳаррир,
+
+   2011. 466 бет.
+  Ражабов Н. Ўзбек шевашунослиги. -Тошкент: Ўқитувчи,1996.
+  Решетов  В.  В.   Ўзбек диалектларини монографик ўрганиш   //
+
+   ЎТА.1960. 1-сони.
+  Решетов В.  В., Шоабдураҳмонов Ш. Ўзбек диалектологияси.  -
+
+   Тошкент: Ўқитувчи, 1962.
+  Шоабдураҳмонов Ш. Ш. Ўзбек адабий тили ва ўзбек халқ шевалари.
+
+   -Тошкент: Ўқитувчи, 1962.
+ Шерматов А. Лингвистик география нима? – Тошкент: Фан, 1981.
+ Шоимова Н. Қашқадарё ўзбек қипчоқ шевалари лексикаси. –Қарши:
+
+   Насаф, 2000.
+  Ўзбек  диалектологиясидан  материаллар.1-қисм.  -Тошкент:  Фан,
+
+   1957.
+  Ўзбек диалектологиясидан материаллар. 2-қисм. –Тошкент: Фан,
+
+   1960.  Ўзбек шевалари морфологияси. -Тошкент: Фан, 1984.
+  Ўзбек шевалари лексикаси. – Тошкент: Фан,1966.
+  Ўзбек шевалари лексикаси. –Тошкент: Фан,1991.
+  Ўзбек диалектологияси. ЎУМ, ЎзМУ 2011. Ўзбек филологияси
+
+   факультети кутубхонаси.
+
+
+                     Электрон манбалар
+  http://www.ut.uz/eng/today/europe_recognizes her_ discovery.mgr
+  http://www.uzbekistan.be/press-releases/14-2008.html#_6 SOCIETY
+  http://www.sfs.unituebingen.de/~lothar/lexbuch/Seminar01/skripte/onom
+
+   asio.html
+  http://www.schneid9.de/sprache/linguistik/ling11.pdf
+  http://www.uni-leipzig.de/~fsger/materialien/Texte/Lexikologie.pdf               Yoqub SAIDOV
+
+
+      O’ZBEK DIALEKTOLOGIYASI
+
+
+
+
+
+       Муҳаррир:    Ғ.Муродов
+       Техник муҳаррир:        Г.Самиева
+       Мусаҳҳиҳ:               А.Қаландаров
+        Саҳифаловчи:           М.Ортиқова
+
+
+
+  Нашриёт лицензияси АI № 178. 08.12.2010. Оригинал
+  –  макетдан  босишга  рухсат  этилди:  18.02.2021.
+  Бичими  60x84.  Кегли  16  шпонли.  «Times New
+  Roman» гарн. Офсет босма усулида босилди. Офсет
+  босма қоғози. Босма тобоғи 6. Адади 200. Буюртма
+  №188.
+
+
+     Бухоро вилоят Матбуот ва ахборот бошқармаси
+“Durdona” нашриёти: Бухоро шаҳри M.Иқбол кўчаси 11-уй.
+              Баҳоси келишилган нархда.
+
+
+“Sadriddin Salim Buxoriy” МЧЖ босмахонасида чоп этилди.
+ Бухоро шаҳри M.Иқбол кўчаси 11-уй. Teл.: 0(365) 221-26-45

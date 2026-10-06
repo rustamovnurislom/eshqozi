@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "user_provided_telegram",
+    "url": "https://t.me/Tashkent_Chat_Go",
+    "status": "network_blocked_not_read"
+  },
+  {
+    "kind": "public_preview_attempt",
+    "url": "https://t.me/s/Tashkent_Chat_Go",
+    "status": "network_blocked_not_read"
+  },
+  {
+    "kind": "search_query",
+    "query": "Toshkent kocha slang bratan rodnoy otdushi",
+    "status": "search_blocked_no_results_read"
+  },
+  {
+    "kind": "search_query",
+    "query": "ташкентский сленг словарь",
+    "status": "search_blocked_no_results_read"
+  },
+  {
+    "kind": "next_query",
+    "query": "Ташкент узбекско русский молодёжный сленг переключение кодов",
+    "status": "not_run"
+  },
+  {
+    "kind": "next_query",
+    "query": "Uzbek youth slang Russian Uzbek code switching Tashkent",
+    "status": "not_run"
+  }
+]

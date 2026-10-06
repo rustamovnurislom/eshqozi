@@ -1,0 +1,843 @@
+[
+  {
+    "id": "FON-001",
+    "label": "e → i: mixnat, didi",
+    "meaning_or_analysis_uz": "Toshkent guruhi misollari; barcha e harfini i ga almashtirish qoidasi emas.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "isi qoMlanadi: към ~ kim, чьк, ~ ciq; - e/e tovushi i tovushiga o‘tadi: mehnat ~ мъхнэт ~ mixnat, dedi ~ ~ дъдъ ~ didi: - so‘z oxirida к/й ~ k/j almashuvi yuz beradi: terak ~ теряй ~ teraj, ertak ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: ",
+        "search_needle": "mixnat",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": ", чьк, ~ ciq; - e/e tovushi i tovushiga o‘tadi: mehnat ~ мъхнэт ~ mixnat, dedi ~ ~ дъдъ ~ didi: - so‘z oxirida к/й ~ k/j almashuvi yuz beradi: terak ~ теряй ~ teraj, ertak ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:",
+        "search_needle": "didi",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-002",
+    "label": "terak → teray",
+    "meaning_or_analysis_uz": "So‘z oxirida k/y mosligi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "nat, dedi ~ ~ дъдъ ~ didi: - so‘z oxirida к/й ~ k/j almashuvi yuz beradi: terak ~ теряй ~ teraj, ertak ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qat",
+        "search_needle": "teraj",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-003",
+    "label": "ertak → ertay",
+    "meaning_or_analysis_uz": "So‘z oxirida k/y mosligi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "di: - so‘z oxirida к/й ~ k/j almashuvi yuz beradi: terak ~ теряй ~ teraj, ertak ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va",
+        "search_needle": "ertaj",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-004",
+    "label": "bilak → bilay",
+    "meaning_or_analysis_uz": "So‘z oxirida k/y mosligi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "~ k/j almashuvi yuz beradi: terak ~ теряй ~ teraj, ertak ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va so‘z boshida g‘ undosh",
+        "search_needle": "bilaj",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-005",
+    "label": "chiroq → chiro:",
+    "meaning_or_analysis_uz": "So‘z oxiridagi q tushishi; ikki nuqta cho‘ziqlik belgisi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " ~ ертзй ~ ertaj, bilak ~ бълай ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va so‘z boshida g‘ undoshi tushib qoladi va unda oldingi э unlisi cho'ziq talaffu",
+        "search_needle": "чъро:",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-006",
+    "label": "sariq → saru:",
+    "meaning_or_analysis_uz": "q tushishi bilan unli ham o‘zgaradi; oddiy q ni o‘chirish yetmaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "й ~ bilaj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va so‘z boshida g‘ undoshi tushib qoladi va unda oldingi э unlisi cho'ziq talaffuz etiladi: og‘zi ~ о:зъ ~ a:zi",
+        "search_needle": "saru:",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-007",
+    "label": "achchiq → achchu:",
+    "meaning_or_analysis_uz": "Manba ochchiq deb yozgan; transkripsiya va adabiy izoh ajratiladi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "aj; - so‘z oxirida q undoshi tushib qoladi: chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va so‘z boshida g‘ undoshi tushib qoladi va unda oldingi э unlisi cho'ziq talaffuz etiladi: og‘zi ~ о:зъ ~ a:zi, tog* ~ ",
+        "search_needle": "ochchiq",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-008",
+    "label": "qattiq → qattu:",
+    "meaning_or_analysis_uz": "q tushishi bilan yakuniy unli farqi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " chiroq ~ чъро: ~ cira:, sariq- сэру: ~ saru:, ochchiq ~ эччу: ~ dccu:, qattiq ~ кртту: ~ qattu: ; - so‘z oxirida va so‘z boshida g‘ undoshi tushib qoladi va unda oldingi э unlisi cho'ziq talaffuz etiladi: og‘zi ~ о:зъ ~ a:zi, tog* ~ mo: 4 a : ; - h bo‘g‘iz undoshi aksariyat ",
+        "search_needle": "qattu:",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-009",
+    "label": "og‘zi → o:zi",
+    "meaning_or_analysis_uz": "g‘ tushishi va oldingi unlining cho‘ziqligi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " so‘z boshida g‘ undoshi tushib qoladi va unda oldingi э unlisi cho'ziq talaffuz etiladi: og‘zi ~ о:зъ ~ a:zi, tog* ~ mo: 4 a : ; - h bo‘g‘iz undoshi aksariyat shevalarda x undoshiga o‘tadi: mehnat ~ мъхнэт ~ mixnat, hunar ~ хунэр ~ xunar. - tushum kelishigida to‘liq progres",
+        "search_needle": "og‘zi",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-010",
+    "label": "tog‘ → to:",
+    "meaning_or_analysis_uz": "So‘z oxiridagi g‘ tushishi; manba matnida latin transkripsiya buzilgan.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "shi tushib qoladi va unda oldingi э unlisi cho'ziq talaffuz etiladi: og‘zi ~ о:зъ ~ a:zi, tog* ~ mo: 4 a : ; - h bo‘g‘iz undoshi aksariyat shevalarda x undoshiga o‘tadi: mehnat ~ мъхнэт ~ mixnat, hunar ~ хунэр ~ xunar. - tushum kelishigida to‘liq progressiv assimilatsiya yu",
+        "search_needle": "tog*",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-011",
+    "label": "hunar → xunar",
+    "meaning_or_analysis_uz": "h/x mosligi, leksik misol bilan chegaralangan.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "ndoshi aksariyat shevalarda x undoshiga o‘tadi: mehnat ~ мъхнэт ~ mixnat, hunar ~ хунэр ~ xunar. - tushum kelishigida to‘liq progressiv assimilatsiya yuz beradi, masalan, tushum kelishigida: tuzni ~ туззъ ~ tzzb (tuzni); ошшъ foshni); темърръ ~ temirri; - so‘z boshida т/t va",
+        "search_needle": "xunar",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-012",
+    "label": "tuzni → tuzzi",
+    "meaning_or_analysis_uz": "Oldingi undosh n ni o‘ziga o‘xshatadi; grammatik tushum vazifasi qoladi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "ishigida to‘liq progressiv assimilatsiya yuz beradi, masalan, tushum kelishigida: tuzni ~ туззъ ~ tzzb (tuzni); ошшъ foshni); темърръ ~ temirri; - so‘z boshida т/t va ч/с undoshlari mosligi yuz beradialmashadi: tushda - чуштэ ~ custa, tushdi ~ чуштъ ~ custi. Morfologik xusus",
+        "search_needle": "туззъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-013",
+    "label": "oshni → oshshi",
+    "meaning_or_analysis_uz": "sh+n ning shsh bo‘lib talaffuzi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "ssiv assimilatsiya yuz beradi, masalan, tushum kelishigida: tuzni ~ туззъ ~ tzzb (tuzni); ошшъ foshni); темърръ ~ temirri; - so‘z boshida т/t va ч/с undoshlari mosligi yuz beradialmashadi: tushda - чуштэ ~ custa, tushdi ~ чуштъ ~ custi. Morfologik xususiyatiari: - 5ta kelis",
+        "search_needle": "ошшъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-014",
+    "label": "temirni → temirri",
+    "meaning_or_analysis_uz": "r+n ning rr bo‘lib talaffuzi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "eradi, masalan, tushum kelishigida: tuzni ~ туззъ ~ tzzb (tuzni); ошшъ foshni); темърръ ~ temirri; - so‘z boshida т/t va ч/с undoshlari mosligi yuz beradialmashadi: tushda - чуштэ ~ custa, tushdi ~ чуштъ ~ custi. Morfologik xususiyatiari: - 5ta kelishikli sheva; - bu shevalard",
+        "search_needle": "temirri",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-015",
+    "label": "tushda → chushta",
+    "meaning_or_analysis_uz": "t/ch mosligi va undoshlar birikmasi o‘zgarishi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "рръ ~ temirri; - so‘z boshida т/t va ч/с undoshlari mosligi yuz beradialmashadi: tushda - чуштэ ~ custa, tushdi ~ чуштъ ~ custi. Morfologik xususiyatiari: - 5ta kelishikli sheva; - bu shevalarda -нъ ~ ni affiksi (fonetik variantlari bilan) ham qaratqich, ham tushum kelishigi",
+        "search_needle": "чуштэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-016",
+    "label": "tushdi → chushti",
+    "meaning_or_analysis_uz": "Bir so‘zda ikki tovush hodisasi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "shida т/t va ч/с undoshlari mosligi yuz beradialmashadi: tushda - чуштэ ~ custa, tushdi ~ чуштъ ~ custi. Morfologik xususiyatiari: - 5ta kelishikli sheva; - bu shevalarda -нъ ~ ni affiksi (fonetik variantlari bilan) ham qaratqich, ham tushum kelishigini ifoda etadi: suvning ",
+        "search_needle": "чуштъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-017",
+    "label": "boryapman → borvomman",
+    "meaning_or_analysis_uz": "-vot+man birikmasida t/m assimilyatsiyasi; latin unli qiymati taxminiy.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "shevasida -вот ~ vat affiksidagi keyingi т/t undoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p un",
+        "search_needle": "борвоммэн",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-018",
+    "label": "boryapsan → borvossan",
+    "meaning_or_analysis_uz": "-vot+san birikmasida t/s assimilyatsiyasi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "fiksidagi keyingi т/t undoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv ass",
+        "search_needle": "борвоссэн",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-019",
+    "label": "boryapti → borvotti",
+    "meaning_or_analysis_uz": "-vot+ti birikmasidagi tt.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "ndoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi:",
+        "search_needle": "борвоттъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-020",
+    "label": "boryapmiz → borvammiz(a)",
+    "meaning_or_analysis_uz": "Manbadagi birinchi shaxs ko‘plikning qaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "milyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi: бороммэн ~ baramman, бор",
+        "search_needle": "борвзммъз(э)",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-021",
+    "label": "boryapsizlar → borvossila",
+    "meaning_or_analysis_uz": "Ikkinchi shaxs ko‘plik variantida assimilyatsiya va qisqarish.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "мэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi: бороммэн ~ baramman, боропсэн~ barapsan, бороптъ ~ ",
+        "search_needle": "борвоссълэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-022",
+    "label": "foyda → payda",
+    "meaning_or_analysis_uz": "Toshkent/Farg‘ona guruhida f/p mosligi; hozirgi barcha so‘z va nutq qatlamiga umumlashtirilmaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "shlari yo’q. Bu undoshlar tabiatan o’ziga yaqin bo’lgan boshqa tovushlar bilan almashadi: foyda>pəydə, vagon>vvəgən, tsirk>serk, hozir>xəzir. Lab-lab jarangsiz (p) undoshi so’zning barcha holatida kela oladi: pəxta- paxta, ipək- ’pak, qəp-qop. Farg’ona lahjasida so’z o’rtasida ba’",
+        "search_needle": "foyda>pəydə",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-023",
+    "label": "hozir → xazir",
+    "meaning_or_analysis_uz": "T3 guruhga oid h/x misoli.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "ga yaqin bo’lgan boshqa tovushlar bilan almashadi: foyda>pəydə, vagon>vvəgən, tsirk>serk, hozir>xəzir. Lab-lab jarangsiz (p) undoshi so’zning barcha holatida kela oladi: pəxta- paxta, ipək- ’pak, qəp-qop. Farg’ona lahjasida so’z o’rtasida ba’zan jarangsiz p undoshi jarangli v undo",
+        "search_needle": "hozir>xəzir",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-024",
+    "label": "toshbaqa → tashvaqa",
+    "meaning_or_analysis_uz": "T3 guruhga oid b/v misoli.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "irida uchramaydi. So’z oxirida va so’z boshida ko’pincha b>v fonetik jarayoni yuz beradi: toshbaqa>təshvəqə, ləb>ləv… Toshkent, Farg’ona, Andijon shevalarida b>m fonetik jarayoni mavjud:bun’>mun’, burun>murun. 39",
+        "search_needle": "toshbaqa>təshvəqə",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-025",
+    "label": "lab → lav",
+    "meaning_or_analysis_uz": "T3 guruhga oid b/v misoli.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "o’z oxirida va so’z boshida ko’pincha b>v fonetik jarayoni yuz beradi: toshbaqa>təshvəqə, ləb>ləv… Toshkent, Farg’ona, Andijon shevalarida b>m fonetik jarayoni mavjud:bun’>mun’, burun>murun. 39",
+        "search_needle": "ləb>ləv",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-026",
+    "label": "buni → muni",
+    "meaning_or_analysis_uz": "Toshkent, Farg‘ona, Andijon uchun umumiy b/m qaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "qa>təshvəqə, ləb>ləv… Toshkent, Farg’ona, Andijon shevalarida b>m fonetik jarayoni mavjud:bun’>mun’, burun>murun. 39",
+        "search_needle": "bun’>mun’",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-027",
+    "label": "burun → murun",
+    "meaning_or_analysis_uz": "Toshkent, Farg‘ona, Andijon uchun umumiy b/m qaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": ", ləb>ləv… Toshkent, Farg’ona, Andijon shevalarida b>m fonetik jarayoni mavjud:bun’>mun’, burun>murun. 39",
+        "search_needle": "burun>murun",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-028",
+    "label": "bolalar → balala → balla",
+    "meaning_or_analysis_uz": "Toshkent misoli; -lar qisqarishi va so‘z ichidagi qisqarish.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "anchor_normalized_whitespace": ">o, bol>bo… Toshkent shevasida ko’plik qo’shimchasidagi (r) ning tushish holati uchraydi: bələlər>bələlə - bəllə . Til o’rta, sirg’aluvchi, jarangli (y) ndoshi so’zning hamma holatida kela oladi:yəsh - yəsh, suyug’ - suyu, soy. Jarangsiz, portlovchi, til orqa (k) undoshi so’zning ham",
+        "search_needle": "bələlər>bələlə",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-029",
+    "label": "bir bo‘g‘inli fe’lda l zaiflashishi",
+    "meaning_or_analysis_uz": "T3 el>o, bol>bo deb bosgan; el aslida ol ekanini bu tahlil taxmin qilib tuzatmaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "anchor_normalized_whitespace": "a bir bo’g’inli so’zlarning oxirida (xususan fe’llarda) (l) undoshi qat’iy emas: masalan: el>o, bol>bo… Toshkent shevasida ko’plik qo’shimchasidagi (r) ning tushish holati uchraydi: bələlər>bələlə - bəllə . Til o’rta, sirg’aluvchi, jarangli (y) ndoshi so’zning hamma holatid",
+        "search_needle": "el>o",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-030",
+    "label": "birga → billa",
+    "meaning_or_analysis_uz": "Toshkent va Farg‘ona uchun birgalikda qayd.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 137,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "> п К- айтиб цуйинг — э й т ъ п ц о й ъ н ; Тошкент ва Фаргона шеваларида: рг>лл: бирга — б ълл э; бн> п п: китобни — к ъ т э п п ъ кабилар. 1 Д м и т р и е в Н. К. Г раммат» ка башкирского языка. — М . —• Л., 19 К 2£*бет; К и е к б а е в Ж . Бошцирт те'ленен фоиетика- си. - У",
+        "search_needle": "б ълл э",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-031",
+    "label": "kitobni → kitappi",
+    "meaning_or_analysis_uz": "Toshkent va Farg‘ona uchun birgalikda qayd; bn/pp mosligi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 137,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "ъ п ц о й ъ н ; Тошкент ва Фаргона шеваларида: рг>лл: бирга — б ълл э; бн> п п: китобни — к ъ т э п п ъ кабилар. 1 Д м и т р и е в Н. К. Г раммат» ка башкирского языка. — М . —• Л., 19 К 2£*бет; К и е к б а е в Ж . Бошцирт те'ленен фоиетика- си. - Уфа, 1958, 116*бет. www.ziyouz.com ",
+        "search_needle": "к ъ т э п п ъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-032",
+    "label": "hech nima → hishtima / heshtma",
+    "meaning_or_analysis_uz": "Jizzax va Toshkentga birgalikda nisbat berilgan; OCR va mahalliy talaffuz tekshiriladi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 138,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "да: кн> й д: теракни — т е р з й дъ; Жизэах, Тошкеит шевала- рйда: ч н > ш т : хеч нима — х ъ ш тъмэ//хе ш тм з ка- би. Шуиингдек, узб.*к тилининг кипчок шеваларида муряккаб ассимиляциянинг туликсиз шакли уэакларга кушимчалар кушиш нагижасида юзага келади. Маса- лая. бд>пт: макга",
+        "search_needle": "х ъ ш тъмэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-033",
+    "label": "Unli uyg‘unligi va unlilar soni",
+    "meaning_or_analysis_uz": "Shahar tipida uyg‘unlik kuchsiz; T1 shimoliy qarluq shevalarini istisno qiladi. Oddiy imlo bilan to‘liq fonetik tizim tuzilmaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 57,
+        "printed_page": 56,
+        "anchor_normalized_whitespace": "irgan shevalaming aksariyati turkiy tillarga xos bo‘lgan singarmonizmni yo‘qotgan. Bundan shimoliy o‘zbek shevalarigina mustasnodir. Bu lahjaning boshqa lahjalardan farqi uning singarmonizmni saqlashiga ko‘ra ikki guruhga ajralishidir, ya’ni shahar va shahar tipidagi shevalarda singarmonizm qonuni ",
+        "search_needle": "shimoliy o‘zbek shevalarigina",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 80,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "m ulardagi unlilar miqdori ko’p emas, ular 6-8 dan oshmaydi. Jumladan, Toshkent shevasida oltita (i, o, e, a, i, o’), Namangan",
+        "search_needle": "oltita",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-034",
+    "label": "choch / chəch",
+    "meaning_or_analysis_uz": "T2 va T3 yozuvlarini bitta qat’iy zamonaviy norma qilib birlashtirishga dalil yetmaydi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chach chach sach sach U yoki bu ma’nodoshlar qatoriga kirgan so’zlarning ba‘zilari adabiy tilda va lahjalarda uchramasligi mumkin. Shevadagi bunday ma’nodoshlar ma’no va tala",
+        "search_needle": "choch",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      },
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyk",
+        "search_needle": "chəch",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FON-035",
+    "label": "quduq → qudu; o‘rdak → o‘rday",
+    "meaning_or_analysis_uz": "Leksik misollar k va q bir xil tovush emasligini ko‘rsatadi.",
+    "area": "Toshkent yoki manbada ko‘rsatilgan umumiy guruh",
+    "notes": "So‘z/kontekst bo‘yicha qayd; avtomatik harf almashtirish uchun universal qoida emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "na, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyki, lahjadagi o’zaro yoki yodgorliklar bilan yuz bergan tafovutlar so’zlarda fonetik o’zgarishlar, fonetik jarayonlar bilan ko’pr",
+        "search_needle": "qudu",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      },
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "arg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qud",
+        "search_needle": "o’rdəy",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

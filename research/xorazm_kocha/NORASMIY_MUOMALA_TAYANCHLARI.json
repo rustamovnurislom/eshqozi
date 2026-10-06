@@ -1,0 +1,814 @@
+[
+  {
+    "id": "XK-01",
+    "form": "abajon",
+    "meaning_uz": "voydod; kuchli hayajon undovi",
+    "role": "hissiyot",
+    "regions_as_source_claim": [
+      "Xiva",
+      "Yangiariq",
+      "Bog‘ot"
+    ],
+    "usage_note": "Oddiy ota murojaati emas.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 9,
+        "printed_page": 8,
+        "anchor": "voydod",
+        "quote": "Аа [Аа] abacan [abajon] —voydod, his-hayajon o4ta kuchli bo'Igan paytlarda qo'llaniladi (Xv., Y.ariq., Bg‘t.). Abacan, yiirakimm yarcfiijay. nci bcilasan tovba. abgar [abgor] - kambag‘al. ahvoli og'ir, muhtojlikda yashovchi, tirikchilik uchun kerakli narsasi yetarli bo‘lmagan (Urg., Xv., Xnq.). Xalatjluni dumman ahval'i dim",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-001",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-02",
+    "form": "ajab",
+    "meaning_uz": "xo‘b; mayli; kesatiqli tasdiq ham bo‘lishi mumkin",
+    "role": "diskurs",
+    "regions_as_source_claim": [
+      "Xonqa",
+      "Urganch",
+      "Xiva"
+    ],
+    "usage_note": "Ijobiy rozilik va kinoyani ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 10,
+        "printed_page": 9,
+        "anchor": "kesatiq",
+        "quote": "acab [ajab] —xo*b, mayli, kesatiq ma’nosida, tasdiq ma'nosini ifodalovchi modal ma’nosida qo니laniladi (Xnq .，Urg” Xv.). Accib. siz navi deschjiz aci -buci faji-buji] - g'alati. bach капа, ajablik. qiziqlik, g'alatilik; njablanarlilik, g'ayrioddiylik (Xv., Urg., Bg‘t.). Vmd ^oyndkuji dim cici-biici titib tiktmbsan. hdmmii nar",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-007",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-03",
+    "form": "arzimidi",
+    "meaning_uz": "arzimaydi; rahmatga javob",
+    "role": "muomala",
+    "regions_as_source_claim": [
+      "Bog‘ot",
+      "Xiva"
+    ],
+    "usage_note": "Lug‘at boshligi arzimoq, misolda arzimidi; infinitiv deb bermaymiz.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor": "Arzimidi",
+        "quote": "asmiy-odatiy undov so‘z (Bg't., Xv.) - Hcimmd i^ldnmci qara^'ib. kirlcinm yuvganuj ii^iin rcihmdt. —Arzimidi. asa [asa] - esa bog'lovchisi o‘rnida qo41anadi (Xv” Xnq., Bg‘t” Shvt.). San cisd i^lciruji cilib ЬоПЬ izimniin barcivar. asiibbizar [asabbuzar] - kimningdir haddan ortiq asabiga tegmoq (Xv., Urg., Bg‘t.). Qotfislanuz'i balas'i dim asdbb'izar ax'ir, koccidci hammcim asabma deyddi. asamat [a",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-046",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-04",
+    "form": "asana",
+    "meaning_uz": "nega; nimaga",
+    "role": "savol",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Shovot",
+      "Xonqa",
+      "Bog‘ot",
+      "Qo‘shko‘pir"
+    ],
+    "usage_note": "Savol, tanbeh ohangi vaziyatga bog‘liq.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor": "nega, nimaga",
+        "quote": "t [asamat] —Bog‘ot tumanidagi qishloq nomi. Jipkcini AsdmciUi gcilm 公6»/}’公 дй목кап asanii [asana] - nega, nimaga, so‘roq olmoshi o‘mida qollaniladi (Urg., Shvt., Xnq., Bg‘t” Q.kpr.). —Xcipamisan tnciman ? — Yoq 一A sdna ax'ir inckinuscin sirci 23",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-048",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-05",
+    "form": "assalom",
+    "meaning_uz": "salomlashish shakli",
+    "role": "muomala",
+    "regions_as_source_claim": [
+      "Xiva",
+      "Urganch",
+      "Bog‘ot"
+    ],
+    "usage_note": "Ilmiy transkripsiya assalam, qavsdagi oddiy yozuv assalom.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "anchor": "Salom berish",
+        "quote": "a dim dsinp baryat'irsan. assalam [assalom] - assalomu aleykum, undov so‘z vazifasinda qoMlaniladi. Salom berish, salomlashish shakli. (Xv., Urg., Bg‘t.). -Assalam, bizm ukci gcildi, lovci 公t! - Yax^'i cipkci otcimcin. assammakim [assammakim] - assalomu alaykum, sak)m berish, salomlashish shakli (Urg., Shvt., Xnq., Bg‘t). AssamnidkUm, xala, call'inns'iz? asvalt [asvalt] - aspfalt, yo‘llar qurishda",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-049",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-06",
+    "form": "assammakim",
+    "meaning_uz": "assalomu alaykumning qisqargan shakli",
+    "role": "muomala",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Shovot",
+      "Xonqa",
+      "Bog‘ot"
+    ],
+    "usage_note": "Kundalik suhbatga; rasmiy matnda majburiy emas.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "anchor": "assalomu alaykum",
+        "quote": ", Bg‘t.). -Assalam, bizm ukci gcildi, lovci 公t! - Yax^'i cipkci otcimcin. assammakim [assammakim] - assalomu alaykum, sak)m berish, salomlashish shakli (Urg., Shvt., Xnq., Bg‘t). AssamnidkUm, xala, call'inns'iz? asvalt [asvalt] - aspfalt, yo‘llar qurishda va sanoatning ba’zi tarmoqlarida ishlatiladigan tabiiy yoki sun’iy, qoranitir, saqichsim이i modda (Xorazmning bare ha liududlarida). 24",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-050",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-07",
+    "form": "ay",
+    "meaning_uz": "mensimaslik tusi bo‘lishi mumkin bo‘lgan undov",
+    "role": "pragmatika",
+    "regions_as_source_claim": [
+      "Xiva",
+      "Xonqa",
+      "Yangiariq",
+      "Urganch"
+    ],
+    "usage_note": "Botning odatiy samimiy murojaati sifatida majburan qo‘shilmaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 26,
+        "printed_page": 25,
+        "anchor": "mensimaslik",
+        "quote": "z, chiroysiz, xunuk (Bg4., H.asp.). Bir тщч bob y{inpti inch qoyavar. ay [ay] 一 hey, ey undov so‘z, mensimaslik ma’nosida qoMlaniladi (Xv., Xnq., Y.ariq., Urg.). Seim s'wfdo^] ada!”、s'ira piscind atmidu adama ay dab gciplidi. ayar [ayar] - agar, bogMovchi vazifasida qollanadi (Bg‘t.，Urg., Shvt., Xnq” Q.kpr., Y.ariq). Jy 섰r San mam aytqcvwrii atkcimijda, m'inddb ot'innas adnj. aylanmak [aylanmoq] -",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-052",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-08",
+    "form": "og‘o",
+    "meaning_uz": "aka; xo‘jayin",
+    "role": "murojaat",
+    "regions_as_source_claim": [
+      "lug‘atda: barcha Xorazm hududlari"
+    ],
+    "usage_note": "Roli kontekstga bog‘liq; aka ota ma’nosi bilan ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor": "xo‘jayin",
+        "quote": "amoq，o‘zgarmoq，tarafga (H.asp.，Bg‘t. ， Urg., X v.). Agirgcigan tarqfci agavarmd. a：ga [〇g‘〇] - aka, xo‘jayin (Xorazmning barcha hududlarida). VM qollidon a:galar'i kup апщ. 57",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-091",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-09",
+    "form": "a:lakim / alakim",
+    "meaning_uz": "salomga alik",
+    "role": "muomala",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Bog‘ot",
+      "Yangibozor",
+      "Gurlan",
+      "Xonqa"
+    ],
+    "usage_note": "Rasmda a:läkim va qavsda a:lakim; cho‘ziqlik oddiy yozuvda berilmasligi mumkin.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 65,
+        "printed_page": 64,
+        "anchor": "salomiga javob",
+        "quote": "g barclia hududlarida). Xaimrn'i is si ahb qarvcidik, tez acidi. a:Iakim [arlakim] - suhbatdoshning salomiga javob qaytarishi (sheva asosida) (Urg.，Bg‘t.，Y.bzr., G.rln.，Xnq.). _ Assdlam ata， - Addkirn balani. alapasirdl [alapasirdi] - g‘ala-g‘ovur, sliovqin-suron, to‘polon, qiy-cluiv (Xorazmning barclia hududlarida). 64",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-098",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-10",
+    "form": "arqoyin",
+    "meaning_uz": "xotirjam",
+    "role": "holati",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Xiva",
+      "Xonqa",
+      "Hazorasp",
+      "Bog‘ot",
+      "Qo‘shko‘pir"
+    ],
+    "usage_note": "Orqoyin varianti bilan ma’no yaqin.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 69,
+        "printed_page": 68,
+        "anchor": "betashvish",
+        "quote": "ing barcha hududlarida). 谷z/ tovip avqal'i dim，к公p narscilam bilcich. arqay’in [arqoyin]- xotirjam, betashvish, osoyislita. Urush-janjaldan, g'avg'o-tashvishdan xoli; tincii, bexavotir, xotirjam, bamaylixotir, hosiq (Urg., Xv” Xnq., H.asp” Bg*t., Q.kpr.). Hdmmci i^inmi citip arqayin boldim. artiqm a? [artiqmochj 一 ortiq, ziyod, ko4p, bisyor (Urg., Xv” Xnq., H.asp.). Art'iqmac; bosa bcircir cidim. ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-100",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-11",
+    "form": "aydin",
+    "meaning_uz": "yaxshi; ajoyib",
+    "role": "baho",
+    "regions_as_source_claim": [
+      "Qo‘shko‘pir",
+      "Urganch",
+      "Xiva",
+      "Bog‘ot",
+      "Yangibozor"
+    ],
+    "usage_note": "Ishlaring aydinmi? salomlashuvdagi hol-ahvol konteksti.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 70,
+        "printed_page": 69,
+        "anchor": "ta’rifga",
+        "quote": "da). Giywildrnjm ayah giy, toz'ib qalmas'in. ay din [aydin] - yaxshi, ajoyib zo‘r, juda ham yaxshi, ta’rifga sig'maydigan, taajjjubga soladigan, g'aroyib, xususiyat-holatni ifodalaydi (Q.kpr., Urg., Xv” Bg‘t” Y.bzr.). I^/aruj aydv.nmi? Apatj. dkci)j ay dm yunbmi? aylannul [aylanma] - aylanma yo‘l (X이，azmning barcha hududlarida). Aylawna yoldan gilli. 69",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-102",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-12",
+    "form": "boybo‘y",
+    "meaning_uz": "voybo‘; hayrat yoki salbiy namuncha undovi",
+    "role": "hissiyot",
+    "regions_as_source_claim": [
+      "lug‘atda: barcha Xorazm hududlari"
+    ],
+    "usage_note": "Faqat ijobiy undov sifatida ishlatma.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 84,
+        "printed_page": 83,
+        "anchor": "hayrat",
+        "quote": " // b'i bayaq'i balaml bazarda apasma azap tkinp yurycin. bay boy [boybo'y] - voyvo‘, ajablanishni, hayratni ifodalaydi. Undov so'z, namuncha manosida salbiy ma nod a qo'Ilanadi (Xorazmning barcha hududlarida). Bayboy, ncidcigan q'isincTuj. otcidi getdidi h幻li bh giinld bayimcan [boyimjon] - baqlajon, poliz ekini (Xnq., Bg‘t.). Bazardcm bayimcan akke. bayiz [boyiz] —bois, sabab, asos, biror (ko'ng",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-118",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-13",
+    "form": "biryonnon / biryannan",
+    "meaning_uz": "bir boshdan; batafsil",
+    "role": "diskurs",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Qo‘shko‘pir",
+      "Xiva",
+      "Xonqa",
+      "Bog‘ot",
+      "Hazorasp",
+      "Shovot",
+      "Yangiariq"
+    ],
+    "usage_note": "Lug‘at ikki shaklni ko‘rsatadi, talaffuz bir xilda majburiy emas.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 96,
+        "printed_page": 95,
+        "anchor": "batafsil",
+        "quote": "biryannan [biryonnon] 一 bir boshdan, boshidan to oxirigacha; tugal. batam이и, batafsil (Urg., Q.kpr., Xv., Xnq., Bg't., H.asp.，Slivt., Y.ariq.). Biryannan salldsa)ja. gcippnjci adam tu^iwmdi. bir/aman [birzomon] —bir lahza, ko'z ocliib yumguncha o'tadigan vaqt; on (Xorazmning barcha hududlarida). Birzamanginu gozzimm yunun, siil urraqu gctib dursatja. birgi [birg‘i] - turtki,",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-126",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-14",
+    "form": "dapa gurring I",
+    "meaning_uz": "quruq gap; safsata",
+    "role": "diskurs",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Yangiariq"
+    ],
+    "usage_note": "Oddiy suhbat ma’nosi ham bor, baho vaziyati bilan.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 112,
+        "printed_page": 111,
+        "anchor": "quruq gap",
+        "quote": " alib Ч〇У ayaq teyinda 스ш(ДПЬ ycjt'ibcTi. d a p a gurriq [dapa gurring] - behuda sozlarni gapirisli，quruq gap, safsata sotish, gap chaynash (Urg., Y.ariq.). Qu마 clapagwruj urib ol'inngci i^lcim tez-tez atsa/jizla boladiqu. diipii gurnij [dapa gurring] - ikki va undan ortiq kishi o^tasidagi o‘zaro so‘zlashuv; musohaba; gurung, biror mavzuda eshituvchilar bilan fikr almashinuv, savol-javob tariqasid",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-140",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-15",
+    "form": "dapa gurring II",
+    "meaning_uz": "gurung; muloqot",
+    "role": "diskurs",
+    "regions_as_source_claim": [
+      "Yangiariq",
+      "Yangibozor",
+      "Bog‘ot"
+    ],
+    "usage_note": "Oldingi salbiy ma’no bilan ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 112,
+        "printed_page": 111,
+        "anchor": "fikr almashinuv",
+        "quote": "undan ortiq kishi o^tasidagi o‘zaro so‘zlashuv; musohaba; gurung, biror mavzuda eshituvchilar bilan fikr almashinuv, savol-javob tariqasida o4kaziladigan mashg4ulot, muloqot (Y.ariq., Y.bzr., Bg‘t.). Dcipagurrnj cilip ot'irm'in vaxt'inda citsdij bomum. in",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-141",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-16",
+    "form": "dim",
+    "meaning_uz": "juda; g‘oyat",
+    "role": "daraja",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Qo‘shko‘pir",
+      "Xiva",
+      "Xonqa",
+      "Bog‘ot",
+      "Hazorasp",
+      "Shovot",
+      "Yangiariq"
+    ],
+    "usage_note": "Kuchaytirgich; har gapga majburiy emas.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 127,
+        "printed_page": 126,
+        "anchor": "sifatning ortirma",
+        "quote": "'. dim [dim] - juda, g4oyat, ortiq, nihoyat darajada, haddan tashqari, g'oyat; nihoyatda, benihoya. sifatning ortirma darajasini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-153",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-17",
+    "form": "din",
+    "meaning_uz": "jim bo‘l; tinchlan",
+    "role": "pragmatika",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Qo‘shko‘pir",
+      "Xiva",
+      "Xonqa",
+      "Bog‘ot",
+      "Hazorasp",
+      "Shovot",
+      "Yangiariq"
+    ],
+    "usage_note": "Diniy din bilan kontekstda ajrat; adresatga qo‘pol buyruq ehtimoli.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 131,
+        "printed_page": 130,
+        "anchor": "sukut saqlab",
+        "quote": "isi dilUi상ib ot'inbdila. din [din] - jim bo‘l, ovoz, tovush chiqarmay, indamay, ovozsiz, tovushsiz, sukut saqlab, sukunatda. Ovozingni o ‘chir, tovushingni chiqarma, tinchlan (Urg., Q.kpr., X v ”Xnq., B g ‘t”H.asp., Shvt., Y.ariq.). Din yiglivarma. avazuj kallami a숭ntvdirch. 130",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "extracted_definition_read_surface_not_visually_rechecked",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-157",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-18",
+    "form": "ejoyip / ejayip",
+    "meaning_uz": "yaxshi; zo‘r",
+    "role": "baho",
+    "regions_as_source_claim": [
+      "lug‘atda: barcha Xorazm hududlari"
+    ],
+    "usage_note": "Qavsda ejoyip, transkripsiya ejayipga yaqin; mahalliy kundalik imlo tasdiqlanmagan.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 149,
+        "printed_page": 148,
+        "anchor": "ta’rifga",
+        "quote": "., Y.bzr., Grin.). San mein bdan еусщта. ecayip [ejoyip] - hammasi yaxshi, zo'r, juda h a m yaxshi, ta’rifga sigcmaydigan. (Xorazmning barcha hududlarida). Ahvallaruj ecayip mi ax'ir? 148",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-169",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-19",
+    "form": "emdolli",
+    "meaning_uz": "yaxshi; soz; modal qabul",
+    "role": "diskurs",
+    "regions_as_source_claim": [
+      "Xorazmning ayrim hududlari"
+    ],
+    "usage_note": "Amdolli ta’kid bilan ma’no doirasi bir xil deb olinmaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 152,
+        "printed_page": 151,
+        "anchor": "madal so‘z",
+        "quote": "., Xv.). KUi ayufi hcimci vci:cm tayallcip qoyasla cikan. emdain [emdolli] - yaxshi, soz, ko'pincha madal so‘z vazifasida qoilaniladi (Xorazmning ay rim hududlarida). Emdalli, barip galiijlci. c mgak [ cmgak] 一 mehnat, biror maqsad uchun qaratilgan aqliy yoki jismoniy faoliyat; ish. Biror maqsad uchun sarflanadigan kuch. g'ayrat, liarakat (Xorazmning ay rim hududlarida). Adamni smjaki enigakda qat",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "form_policy": "Oddiy lotin yozuvida o‘qiladigan muharrirlik shakli; ilmiy transkripsiya yoki yangi chat imlosiga teng emas.",
+    "reading_status": "visual_page_reviewed",
+    "spoken_frequency_verified": false,
+    "exclusive_to_xorazm_verified": false,
+    "native_speaker_validated": false,
+    "base_card_id": "XL-175",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "pragmatic_focus": "Tasdiq, savol, murojaat, hissiy baho yoki norasmiy gurungdagi vazifa.",
+    "provisional_only": true
+  },
+  {
+    "id": "XK-20",
+    "form": "dap bo‘lmoq",
+    "meaning_uz": "yo‘q bo‘lmoq; adresatni haydash yoki qarg‘ish vazifasida ham",
+    "base_card_id": null,
+    "role": "qo‘pol muomala / haydash",
+    "regions_as_source_claim": [
+      "Urganch",
+      "Xiva",
+      "Xonqa",
+      "Qo‘shko‘pir",
+      "Bog‘ot"
+    ],
+    "usage_note": "Manba so‘kish-qarg‘ish tusini qayd etadi. Samimiy hazil bilan adresatni haydashni kontekstdan ajratish kerak.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 112,
+        "anchor": "ko'pincha so'kish",
+        "quote": "bo'imoq, ko'zdan yo*q bo'lmoq, ko'rinmaydigan liolat kasb etmoq, yo'q bo'lib ketmoq, salbiy ma'noda ko'pincha so'kish qarg'ish ma'nosida qo'llaniladi (Urg., Xv., Xnq.. Q.kpr.. Kop gcipinmn. (Шр bol'ib get. t l a p i i [dapa] - tepa, yer sathidan baland, do‘ng joy; tepalik, balandlik. Umuman, biror joy, makonga nisbatan yuqoridagi joy (Urg., Q.kpr., Xv” ХпФ，Bg‘t.，H.asp., Shvt.，Y.ariq.). Ddpcidcin ukciiji (；aq'inb tf너，oqat'mi，yesin.// Giyinilcirnji",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "evidence_kind": "book_extracted_text",
+        "modern_street_usage_verified": false
+      }
+    ],
+    "source_image": "/workspace/research/xorazm_kocha/images/X1_112.png",
+    "classification": "source_backed_dialect_or_informal_discourse",
+    "form_policy": "Ilmiy boshliq va qavs shaklidan oddiy lotinda o‘qiladigan talqin.",
+    "modern_street_slang_verified": false,
+    "observed_in_uploaded_chats": false,
+    "chat_occurrences": null,
+    "chat_writers": null,
+    "native_speaker_validated": false,
+    "provisional_only": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "KN-01",
+    "scenario": "uchrashuv",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-02",
+    "scenario": "rejani aniqlashtirish",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-03",
+    "scenario": "rahmat",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-04",
+    "scenario": "va’daga turish",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-05",
+    "scenario": "tanlash",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-06",
+    "scenario": "jiddiy masala",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-07",
+    "scenario": "xato qilganida",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-08",
+    "scenario": "o‘zini tutgan bahs",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-09",
+    "scenario": "yordam",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-10",
+    "scenario": "maqtov",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": false
+  },
+  {
+    "id": "KN-11",
+    "scenario": "qo‘pol hissiy qatlam",
+    "provenance": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "modern_usage_verified": false,
+    "raw": true
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "id": "XN-01",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Assalom ata, yaxshimisiz? — Alakim balam.",
+    "meaning_standard_uz": "Salom ota, yaxshimisiz? — Vaalaykum assalom, bolam.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 65,
+        "printed_page": 64,
+        "anchor": "salomiga javob",
+        "quote": "g barclia hududlarida). Xaimrn'i is si ahb qarvcidik, tez acidi. a:Iakim [arlakim] - suhbatdoshning salomiga javob qaytarishi (sheva asosida) (Urg.，Bg‘t.，Y.bzr., G.rln.，Xnq.). _ Assdlam ata， - Addkirn balani. alapasirdl [alapasirdi] - g‘ala-g‘ovur, sliovqin-suron, to‘polon, qiy-cluiv (Xorazmning barclia hududlarida). 64",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Ilmiy transkripsiyaning o‘qiladigan talqini. Ata/balam shu dialogdagi oilaviy-ijtimoiy munosabatga tegishli.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-02",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Ishlaring aydinmi? Apang, akang aydin yuribmi?",
+    "meaning_standard_uz": "Ishlaring yaxshimi? Onang, otang yaxshi yuribdimi?",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 70,
+        "printed_page": 69,
+        "anchor": "ay din",
+        "quote": "q, ehtiyol qilmoq. asramoq (Xorazmning barcha hududlarida). Giywildrnjm ayah giy, toz'ib qalmas'in. ay din [aydin] - yaxshi, ajoyib zo‘r, juda ham yaxshi, ta’rifga sig'maydigan, taajjjubga soladigan, g'aroyib, xususiyat-holatni ifodalaydi (Q.kpr., Urg., Xv” Bg‘t” Y.bzr.). I^/aruj aydv.nmi? Apatj. dkci)j ay dm yunbmi? aylannul [aylanma] - aylanma yo‘l (X이，azmning barcha hududlarida). Aylawna yoldan",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Ota va ona nomlarini standart aka/opaga almashtirib yuborish katta semantik xato.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-03",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Ahvallaring ejoyipmi axir?",
+    "meaning_standard_uz": "Ahvollaring yaxshimi?",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 149,
+        "printed_page": 148,
+        "anchor": "ecayip",
+        "quote": "ay maqsadda bo‘ lmoq (Urg., Xnq., Q.kpr., Bg‘t.，Y.ariq., Xv., Y.bzr., Grin.). San mein bdan еусщта. ecayip [ejoyip] - hammasi yaxshi, zo'r, juda h a m yaxshi, ta’rifga sigcmaydigan. (Xorazmning barcha hududlarida). Ahvallaruj ecayip mi ax'ir? 148",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Boshliq qavsida ejoyip, ilmiy shaklda ejayipga yaqin yozuv. Kundalik yagona imlo sifatida tasdiqlanmagan.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-04",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Arzimidi.",
+    "meaning_standard_uz": "Arzimaydi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor": "Arzimidi",
+        "quote": "asmiy-odatiy undov so‘z (Bg't., Xv.) - Hcimmd i^ldnmci qara^'ib. kirlcinm yuvganuj ii^iin rcihmdt. —Arzimidi. asa [asa] - esa bog'lovchisi o‘rnida qo41anadi (Xv” Xnq., Bg‘t” Shvt.). San cisd i^lciruji cilib ЬоПЬ izimniin barcivar. asiibbizar [asabbuzar] - kimningdir haddan ortiq asabiga tegmoq (Xv., Urg., Bg‘t.). Qotfislanuz'i balas'i dim asdbb'izar ax'ir, koccidci hammcim asabma deyddi. asamat [a",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Bosma dialogda rahmatga javob.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-05",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Emdolli, barip galingla.",
+    "meaning_standard_uz": "Yaxshi, borib kelinglar.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 152,
+        "printed_page": 151,
+        "anchor": "Emdalli",
+        "quote": "mdolli] - yaxshi, soz, ko'pincha madal so‘z vazifasida qoilaniladi (Xorazmning ay rim hududlarida). Emdalli, barip galiijlci. c mgak [ cmgak] 一 mehnat, biror maqsad uchun qaratilgan aqliy yoki jismoniy faoliyat; ish. Biror maqsad uchun sarflanadigan kuch. g'ayrat, liarakat (Xorazmning ay rim hududlarida). Adamni smjaki enigakda qatadi. cmcak [emjak] - ko'krak, ayollar ko^ksidagi bir juft sut bezi.",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Modal rozilik va ko‘plik/hurmat shakli; hamma javobda majburiy emas.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-06",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Yenam pitta qo‘shib bering, kamlik atdi burinch.",
+    "meaning_standard_uz": "Yana ozgina qo‘shib bering, guruch kamlik qildi.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 97,
+        "printed_page": 96,
+        "anchor": "pitta",
+        "quote": "bitta= pitta [bitta, pitta] 一 ozgina, yetarli emas, kifoya qilmaydigan, qanoatlanarli bo'Imagan, kam (H.asp., Xnq., Urg., Xv.). Yeniim pitta cjo.fib bciruj, kdmlik dlti burunQ. biton/bcton [biton, beton] 一 sement, qum va shag4alga suv qo4shib tayyorlangan qorishmaning zichlashib qotishidan hosil bo‘ladigan",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Pitta miqdor; bir dona degani emas. Transkripsiya soddalashtirilgan.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-07",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Bazardan et aldingmi?",
+    "meaning_standard_uz": "Bozordan go‘sht oldingmi?",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 155,
+        "printed_page": 154,
+        "anchor": "Bazardan et",
+        "quote": " - go‘sht, so‘yilgan jonivor tanasining ovqat sifatida iste’mol qilinadigan qismi (Xv.，Xnq., Urg.). Bazardan et aldujm'i? et우apar [etchopor] - daraxt tanasidan yasalgan go‘sht chopish uchun mo'ljallangan buyum (Xv., Xnq.). El^aparda <;ap elm, gdrakmi:ch nuisropkmj. etlas [etlos] — sergo4sht, semiz, yaxshi boqilgan, elli; bo'rdoqi, vazndor, yogb bosgan (Xorazmning ay rim hududlarida). B'i mal dim a",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Et — shu gapda go‘sht.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-08",
+    "kind": "printed_example_editorial_reading",
+    "readable_surface": "Eshika chiqip pitta aylanip galik.",
+    "meaning_standard_uz": "Tashqariga chiqib ozgina aylanib keldik.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 159,
+        "printed_page": 158,
+        "anchor": "E^ika",
+        "quote": "arvozaga yaqin tomondagi xoli qismi; tashqariga nisbatan qollanadi (Xorazmning barcha hududlarida). E^ika (/icfip pittci aylan'ip gcihk. es^adaraz [eshshadaroz] 一 haddan tashqari oriq va uzun odamga nisbatan, bo^yiga, uzunasiga o4lchami katta， m e ，yoridan ortiq (Xorazmning ay rim hududlarida). 유it a以adaraz balan'i aytasawni? eijilniaq=eyilmaq [engilmoq, eyilmoq] — egilmoq, bo yin egmoq, biror ish",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Eshik — tashqari/hovli. Galik o‘tgan harakat; uni galali taklifiga aylantirmang.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false
+  },
+  {
+    "id": "XN-09",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Assalom! Ishlaringiz aydinmi?",
+    "meaning_standard_uz": "Salom! Ishlaringiz yaxshimi?",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 70,
+        "printed_page": 69,
+        "anchor": "ay din",
+        "quote": "q, ehtiyol qilmoq. asramoq (Xorazmning barcha hududlarida). Giywildrnjm ayah giy, toz'ib qalmas'in. ay din [aydin] - yaxshi, ajoyib zo‘r, juda ham yaxshi, ta’rifga sig'maydigan, taajjjubga soladigan, g'aroyib, xususiyat-holatni ifodalaydi (Q.kpr., Urg., Xv” Bg‘t” Y.bzr.). I^/aruj aydv.nmi? Apatj. dkci)j ay dm yunbmi? aylannul [aylanma] - aylanma yo‘l (X이，azmning barcha hududlarida). Aylawna yoldan",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "anchor": "Salom berish",
+        "quote": "a dim dsinp baryat'irsan. assalam [assalom] - assalomu aleykum, undov so‘z vazifasinda qoMlaniladi. Salom berish, salomlashish shakli. (Xv., Urg., Bg‘t.). -Assalam, bizm ukci gcildi, lovci 公t! - Yax^'i cipkci otcimcin. assammakim [assammakim] - assalomu alaykum, sak)m berish, salomlashish shakli (Urg., Shvt., Xnq., Bg‘t). AssamnidkUm, xala, call'inns'iz? asvalt [asvalt] - aspfalt, yo‘llar qurishda",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Hurmat uchun -iz qo‘shilgan mualliflik adaptatsiyasi; bosma manbada butun shu jumla yo‘q.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Salom"
+  },
+  {
+    "id": "XN-10",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Arzimidi! Yana savol bo‘lsa, oyting.",
+    "meaning_standard_uz": "Arzimaydi! Yana savol bo‘lsa, ayting.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 24,
+        "printed_page": 23,
+        "anchor": "Arzimidi",
+        "quote": "asmiy-odatiy undov so‘z (Bg't., Xv.) - Hcimmd i^ldnmci qara^'ib. kirlcinm yuvganuj ii^iin rcihmdt. —Arzimidi. asa [asa] - esa bog'lovchisi o‘rnida qo41anadi (Xv” Xnq., Bg‘t” Shvt.). San cisd i^lciruji cilib ЬоПЬ izimniin barcivar. asiibbizar [asabbuzar] - kimningdir haddan ortiq asabiga tegmoq (Xv., Urg., Bg‘t.). Qotfislanuz'i balas'i dim asdbb'izar ax'ir, koccidci hammcim asabma deyddi. asamat [a",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 57,
+        "printed_page": 56,
+        "anchor": "Ddrd",
+        "quote": "'iiiq aytasun. aytmaq [oytmoqj 一 aytmoq, demoq. fe’l so‘z turkumi (Xorazmning barclia hududlarida). Ddrdii]m matja ayt, ijtdmcin. aytuvfi [oytuvli] - o‘g‘il va qiz bolaning chaqaloqlik paytlaridayoq bir- birlariga unashtirib qo'yish odatlari (Xnq., Y.bzr.). Mam qizim aytuvl'i, sovQ'ila gdhb yurmcisin. aylnj. ay van [oyvon] - ay von, boshqa xonalarga nisbatan kattaroq va kengroq xona (Xorazmning ba",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Oyting — oytmoq boshlig‘idan muharrirlik tuslanishi; butun javob mahalliy suhbatda tekshirilmagan.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Rahmat"
+  },
+  {
+    "id": "XN-11",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Emdolli. Biryonnon tushuntiraman: avval birinchi qadamni ko‘ramiz.",
+    "meaning_standard_uz": "Yaxshi. Batafsil tushuntiraman: avval birinchi qadamni ko‘ramiz.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 96,
+        "printed_page": 95,
+        "anchor": "batafsil",
+        "quote": "biryannan [biryonnon] 一 bir boshdan, boshidan to oxirigacha; tugal. batam이и, batafsil (Urg., Q.kpr., Xv., Xnq., Bg't., H.asp.，Slivt., Y.ariq.). Biryannan salldsa)ja. gcippnjci adam tu^iwmdi. bir/aman [birzomon] —bir lahza, ko'z ocliib yumguncha o'tadigan vaqt; on (Xorazmning barcha hududlarida). Birzamanginu gozzimm yunun, siil urraqu gctib dursatja. birgi [birg‘i] - turtki,",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 152,
+        "printed_page": 151,
+        "anchor": "madal so‘z",
+        "quote": "., Xv.). KUi ayufi hcimci vci:cm tayallcip qoyasla cikan. emdain [emdolli] - yaxshi, soz, ko'pincha madal so‘z vazifasida qoilaniladi (Xorazmning ay rim hududlarida). Emdalli, barip galiijlci. c mgak [ cmgak] 一 mehnat, biror maqsad uchun qaratilgan aqliy yoki jismoniy faoliyat; ish. Biror maqsad uchun sarflanadigan kuch. g'ayrat, liarakat (Xorazmning ay rim hududlarida). Adamni smjaki enigakda qat",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Adabiy sintaksis va dalilli lokal so‘zlar bilan ehtiyotkor nomzod.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Buni tushuntirib ber"
+  },
+  {
+    "id": "XN-12",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Emdolli, pitta qisqartiraman.",
+    "meaning_standard_uz": "Yaxshi, ozgina qisqartiraman.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 97,
+        "printed_page": 96,
+        "anchor": "ozgina",
+        "quote": "bitta= pitta [bitta, pitta] 一 ozgina, yetarli emas, kifoya qilmaydigan, qanoatlanarli bo'Imagan, kam (H.asp., Xnq., Urg., Xv.). Yeniim pitta cjo.fib bciruj, kdmlik dlti burunQ. biton/bcton [biton, beton] 一 sement, qum va shag4alga suv qo4shib tayyorlangan qorishmaning zichlashib qotishidan hosil bo‘ladigan qurilish materiali (Ur",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 152,
+        "printed_page": 151,
+        "anchor": "madal so‘z",
+        "quote": "., Xv.). KUi ayufi hcimci vci:cm tayallcip qoyasla cikan. emdain [emdolli] - yaxshi, soz, ko'pincha madal so‘z vazifasida qoilaniladi (Xorazmning ay rim hududlarida). Emdalli, barip galiijlci. c mgak [ cmgak] 一 mehnat, biror maqsad uchun qaratilgan aqliy yoki jismoniy faoliyat; ish. Biror maqsad uchun sarflanadigan kuch. g'ayrat, liarakat (Xorazmning ay rim hududlarida). Adamni smjaki enigakda qat",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Miqdor ma’nosining yangi vaziyatdagi qo‘llanishi; native tekshiruvdan o‘tmagan.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Juda uzun yozding"
+  },
+  {
+    "id": "XN-13",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Arqoyin, biryonnon ko‘rib chiqamiz.",
+    "meaning_standard_uz": "Xotirjam bo‘ling, bir boshdan ko‘rib chiqamiz.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 69,
+        "printed_page": 68,
+        "anchor": "betashvish",
+        "quote": "ing barcha hududlarida). 谷z/ tovip avqal'i dim，к公p narscilam bilcich. arqay’in [arqoyin]- xotirjam, betashvish, osoyislita. Urush-janjaldan, g'avg'o-tashvishdan xoli; tincii, bexavotir, xotirjam, bamaylixotir, hosiq (Urg., Xv” Xnq., H.asp” Bg*t., Q.kpr.). Hdmmci i^inmi citip arqayin boldim. artiqm a? [artiqmochj 一 ortiq, ziyod, ko4p, bisyor (Urg., Xv” Xnq., H.asp.). Art'iqmac; bosa bcircir cidim. ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 96,
+        "printed_page": 95,
+        "anchor": "batafsil",
+        "quote": "biryannan [biryonnon] 一 bir boshdan, boshidan to oxirigacha; tugal. batam이и, batafsil (Urg., Q.kpr., Xv., Xnq., Bg't., H.asp.，Slivt., Y.ariq.). Biryannan salldsa)ja. gcippnjci adam tu^iwmdi. bir/aman [birzomon] —bir lahza, ko'z ocliib yumguncha o'tadigan vaqt; on (Xorazmning barcha hududlarida). Birzamanginu gozzimm yunun, siil urraqu gctib dursatja. birgi [birg‘i] - turtki,",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Suhbatga mos tinchlantirish nomzodi; butun jumla bosma iqtibos emas.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Hali tushunmadim"
+  },
+  {
+    "id": "XN-14",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Buyun qaysi ishni avval qilamiz?",
+    "meaning_standard_uz": "Bugun qaysi ishni avval qilamiz?",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 106,
+        "printed_page": 105,
+        "anchor": "bugun",
+        "quote": "Bin)' algan'iijnan key in biitciv citib bciniusciwm. buyun [buyun] - bugun, so*z borayotgan paytda kechirilayotgan yoki kechirilgan kun. kecha-kunduz. Hozirgi payt. hozirgi kun. (Urg., Xv., Xnq., H.asp” Y.ariq.). Buyun dim mazam у (к/, banmn cjuyavcircili. bu:day [budoy] 一 bug‘doy, g‘alladoshlar oilasiga mansub o'tsimon 〇‘simlik va uning doni, g'allasi (Xorazmning ay",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Zamon va shaxs o‘zgarishsiz; yengil lokal leksika.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Bugungi rejani tuzamiz"
+  },
+  {
+    "id": "XN-15",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Dim yaxshi fikr. Keling, bosqichlarini belgilaymiz.",
+    "meaning_standard_uz": "Juda yaxshi fikr. Keling, bosqichlarini belgilaymiz.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 127,
+        "printed_page": 126,
+        "anchor": "sifatning ortirma",
+        "quote": "'. dim [dim] - juda, g4oyat, ortiq, nihoyat darajada, haddan tashqari, g'oyat; nihoyatda, benihoya. sifatning ortirma darajasini ifodalaydi. (Urg., Q kpr., Xv., Xnq., Bg‘t., H.asp., Shvt., Y.ariq.). Palavn'i dim yax^i [щтЬ bilimmein. (lima [dima] — biror bir narsani haddan tashqari bo'rttirish ma nosida (Xorazmning ayrim hududlarida). Dima mdamdgdn sayin gdpni kopaytirdsdn. d'imatala [dimotolo] — ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Dim kuchaytirgichini o‘rinli bir marta qo‘llash nomzodi.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Botda viloyatni tanlash tugmasi bo‘lsin"
+  },
+  {
+    "id": "XN-16",
+    "kind": "constructed_bot_candidate",
+    "readable_surface": "Pitta kuting, savolingizni tekshiraman.",
+    "meaning_standard_uz": "Ozgina kuting, savolingizni tekshiraman.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 97,
+        "printed_page": 96,
+        "anchor": "ozgina",
+        "quote": "bitta= pitta [bitta, pitta] 一 ozgina, yetarli emas, kifoya qilmaydigan, qanoatlanarli bo'Imagan, kam (H.asp., Xnq., Urg., Xv.). Yeniim pitta cjo.fib bciruj, kdmlik dlti burunQ. biton/bcton [biton, beton] 一 sement, qum va shag4alga suv qo4shib tayyorlangan qorishmaning zichlashib qotishidan hosil bo‘ladigan qurilish materiali (Ur",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "notes": "Qisqa vaqtga miqdor so‘zini qo‘llash mualliflik nomzodi; tabiiyligi native tekshiruvga muhtoj.",
+    "verbatim_scientific_transcription": false,
+    "native_speaker_validated": false,
+    "user_input": "Shu ma’lumotni tekshir"
+  }
+]

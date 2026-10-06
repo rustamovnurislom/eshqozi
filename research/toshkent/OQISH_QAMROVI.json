@@ -1,0 +1,164 @@
+{
+  "total_pdf_pages": 625,
+  "all_pages_text_extracted": true,
+  "all_pages_deeply_read": false,
+  "scope": "Toshkentka oid topilgan bo‘limlar, qiyosiy izohlar, asosiy nutq namunasi batafsil o‘qildi; butun 625 sahifalik kitoblar to‘liq o‘qilgan deb da’vo qilinmaydi.",
+  "focused_reading_pages": {
+    "T1": [
+      31,
+      32,
+      33,
+      34,
+      36,
+      38,
+      39,
+      40,
+      41,
+      42,
+      46,
+      47,
+      57,
+      58,
+      59,
+      76,
+      83,
+      84,
+      89,
+      90,
+      91
+    ],
+    "T2": [
+      1,
+      2,
+      68,
+      80,
+      81,
+      82
+    ],
+    "T3": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "T4": [
+      56,
+      88,
+      128,
+      134,
+      135,
+      137,
+      138,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      156,
+      166,
+      167,
+      170,
+      172,
+      173,
+      174,
+      177,
+      206,
+      207,
+      208,
+      209,
+      211,
+      224,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      287,
+      300,
+      301
+    ]
+  },
+  "focused_does_not_mean_every_line_on_page_read": true,
+  "page_images_inspected": [
+    {
+      "source_id": "T1",
+      "pdf_page": 58
+    },
+    {
+      "source_id": "T1",
+      "pdf_page": 59
+    },
+    {
+      "source_id": "T1",
+      "pdf_page": 89
+    },
+    {
+      "source_id": "T1",
+      "pdf_page": 90
+    },
+    {
+      "source_id": "T1",
+      "pdf_page": 91
+    },
+    {
+      "source_id": "T2",
+      "pdf_page": 68
+    },
+    {
+      "source_id": "T3",
+      "pdf_page": 41
+    },
+    {
+      "source_id": "T3",
+      "pdf_page": 42
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 1
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 149
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 206
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 208
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 224
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 269
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 272
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 276
+    }
+  ],
+  "printed_pagination": "T1 tasdiqlangan tana sahifalarida PDF−1; T3 tana sahifalarida PDF tartibi bilan mos. T2 noma’lum. T4 faqat aniq ko‘rilgan sahifa raqamlari qo‘yildi; qolganlari null.",
+  "audio_or_native_speaker_validation": false,
+  "model_weights_trained": false,
+  "bot_code_implemented": false
+}

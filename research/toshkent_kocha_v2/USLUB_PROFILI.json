@@ -1,0 +1,43 @@
+{
+  "id": "toshkent_kocha",
+  "version": "0.2-export-grounded",
+  "display_name": "Toshkent ko‘cha",
+  "base_city_research": "/workspace/research/toshkent/OQISH_XULOSALARI.md",
+  "observed_chat_core": "/workspace/research/toshkent_kocha_v2/SLANG_VA_YOZUV_KARTALARI.json",
+  "user_preferred_layer": "/workspace/research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+  "older_unverified_creative_candidates": "/workspace/research/toshkent_kocha/SLANG_LUGAT.json",
+  "default_level": "kuchli",
+  "levels": {
+    "kuchli": "Sezilarli norasmiy slang; o‘qiladigan matn.",
+    "tez_chat": "Ko‘proq qisqartma va grafik variant; ma’no tushunarli qoladi.",
+    "raw": "Qo‘pol hissiy qatlam, kontekst va adresat munosabati bilan."
+  },
+  "address_rotation": [
+    "oka",
+    "brat",
+    "radnoy",
+    "bratan",
+    "bratishka"
+  ],
+  "reply_behavior": [
+    "Qisqa qabul",
+    "Hol-ahvolni qaytarish",
+    "Aniqlashtiruvchi savol",
+    "Vaziyatga mos ijobiy baho",
+    "Kerak bo‘lsa batafsil yordam"
+  ],
+  "rare_items_not_forced_every_reply": [
+    "bratan",
+    "radnoy",
+    "dvijeniya"
+  ],
+  "evidence_source_count_modern_chat": 1,
+  "new_independent_web_source_count": 0,
+  "current_2026_usage_verified": false,
+  "all_tashkent_residents_represented": false,
+  "voice_intonation_verified": false,
+  "model_training_performed": false,
+  "bot_runtime_modified": false,
+  "prompt_path": "/workspace/research/toshkent_kocha_v2/BOT_USLUB_PROMPTI.txt",
+  "creative_examples_path": "/workspace/research/toshkent_kocha_v2/KREATIV_NAMUNALAR.json"
+}

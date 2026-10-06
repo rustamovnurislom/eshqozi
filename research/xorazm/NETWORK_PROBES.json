@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://xorazmcha.uz/",
+    "direct": false,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "content_read": false
+  },
+  {
+    "url": "http://xorazmcha.uz/",
+    "direct": false,
+    "error": "HTTP Error 403: Forbidden",
+    "content_read": false
+  },
+  {
+    "url": "https://www.xorazmcha.uz/",
+    "direct": false,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "content_read": false
+  },
+  {
+    "url": "https://xorazmcha.uz/",
+    "direct": true,
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
+    "content_read": false
+  }
+]

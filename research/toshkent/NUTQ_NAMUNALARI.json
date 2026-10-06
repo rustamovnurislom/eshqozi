@@ -1,0 +1,518 @@
+[
+  {
+    "id": "NUT-001",
+    "label": "Йэрмъ тэк",
+    "meaning_or_analysis_uz": "Tomorqaning bir qismi tok ekilgani haqida.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "gil-uyg‘ur lahjasi Toshkent shevasi Мэн озъм ескъ бз:вэммэн. ХрзъР онуч сотъх йерт^л бэ:. Йэрмъ тэк, йэрмъгэ мевэлъй дэрэхлэ еккэммэн. олмэ-полмэ, нэк-пэк дъгэндэй - хэммэсъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭД",
+        "search_needle": "Йэрмъ тэк",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "mavzuni tanishtirish",
+    "approximate_latin_analyst_reading": "Yarmi tok"
+  },
+  {
+    "id": "NUT-002",
+    "label": "олмэ-полмэ, нэк-пэк",
+    "meaning_or_analysis_uz": "Meva turlarini umumlashtiradigan juftlash.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "ескъ бз:вэммэн. ХрзъР онуч сотъх йерт^л бэ:. Йэрмъ тэк, йэрмъгэ мевэлъй дэрэхлэ еккэммэн. олмэ-полмэ, нэк-пэк дъгэндэй - хэммэсъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭДЪМ мэнэм дэлэдэ ъшлэр-ъдъм. Хэзър тэмэркэгэ еккэн нэрсэ",
+        "search_needle": "олмэ-полмэ, нэк-пэк",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "so‘zlashuvdagi umumlashtirish",
+    "approximate_latin_analyst_reading": "olma-polma, nok-pok"
+  },
+  {
+    "id": "NUT-003",
+    "label": "Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ",
+    "meaning_or_analysis_uz": "Bolalarning dalada ishlashi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "к-пэк дъгэндэй - хэммэсъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭДЪМ мэнэм дэлэдэ ъшлэр-ъдъм. Хэзър тэмэркэгэ еккэн нэрсэлэ:гэ, тэккэ кэрэп турэмэн. Джъм туръболэдъ дъйъсмъ, ъшлэп оргэнгэн эдэмгэ. Иэздэ дэлэ бэгьдэ кэрзвулчълъй",
+        "search_needle": "Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "qisqarish va III ko‘plik",
+    "approximate_latin_analyst_reading": "Balla dalada ishlashadi"
+  },
+  {
+    "id": "NUT-004",
+    "label": "Кэръп кзлдъм",
+    "meaning_or_analysis_uz": "So‘zlovchi o‘zining yoshini izohlaydi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "ъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭДЪМ мэнэм дэлэдэ ъшлэр-ъдъм. Хэзър тэмэркэгэ еккэн нэрсэлэ:гэ, тэккэ кэрэп турэмэн. Джъм туръболэдъ дъйъсмъ, ъшлэп оргэнгэн эдэмгэ. Иэздэ дэлэ бэгьдэ кэрзвулчълъйэм КЬЛЭМЗН, бэ",
+        "search_needle": "Кэръп кзлдъм",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "katta yoshdagi informant konteksti",
+    "approximate_latin_analyst_reading": "Qarib qoldim"
+  },
+  {
+    "id": "NUT-005",
+    "label": "Кельн, съзгэ",
+    "meaning_or_analysis_uz": "Bog‘dorchilik mavzusiga suhbatdoshni jalb qilish.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "йэрдэм босън дъп. Ъшкьп, къмъллэп тургэнгэ нъмэ йессън. К^ъмъллэсэц к;ър эшэсэн дъйъшкэн. Кельн, съзгэ бэ.дэрчълъйдэн гэпъръ-берэкэтьй. Бо.нъйэм джэ ъшъ коп болэдъ. Ертэ кохлэм тэк эчълэдъ, шорэсъ осъи кетмэстэн. Пэйэлэ съцгэн, бэгэзлэ чушъп кеткэм босэ, ъшкэм, бэшкэттэн ъшлэнэдъ. ",
+        "search_needle": "Кельн, съзгэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "sizlab gapirish",
+    "approximate_latin_analyst_reading": "Kelin, sizga…"
+  },
+  {
+    "id": "NUT-006",
+    "label": "бэйлъйвуз",
+    "meaning_or_analysis_uz": "Ishkom qismlarini bog‘laymiz.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "бэйлъйвуз. Тэллъ ъдгъчкэ нэвдэсънъ ъстэй дъйвуз. Кегьн тэккъ ьшкэмгэ котэрэвуз. Нэвдэлэрънъ тэрэп, чъптэмънэм бэгэзгэ бэйлэп койовуз. Йэздэ тэк осъп, ъшкэммъ орэп кеткэндэ хэмтов (< хэмток)",
+        "search_needle": "бэйлъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "I ko‘plik",
+    "approximate_latin_analyst_reading": "bog‘layvuz"
+  },
+  {
+    "id": "NUT-007",
+    "label": "ъстэй дъйвуз",
+    "meaning_or_analysis_uz": "Ingichka tol novdasini istay deymiz.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "бэйлъйвуз. Тэллъ ъдгъчкэ нэвдэсънъ ъстэй дъйвуз. Кегьн тэккъ ьшкэмгэ котэрэвуз. Нэвдэлэрънъ тэрэп, чъптэмънэм бэгэзгэ бэйлэп койовуз. Йэздэ тэк осъп, ъшкэммъ орэп кеткэндэ хэмтов (< хэмток) кълэвуз. Бомэсэ, нэвдэ пъшмъй кэлэдъ,",
+        "search_needle": "ъстэй дъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "kasbiy so‘zni izohlash",
+    "approximate_latin_analyst_reading": "istay diyvuz"
+  },
+  {
+    "id": "NUT-008",
+    "label": "хэмтэв дъйвуз",
+    "meaning_or_analysis_uz": "Barglarni yulish amalining nomi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "шэдъ. Нэвдэйэм пъшэдъ, узъмэм шърэлъ болэдъ. Кун йэхшъ чушъшьйчун бэ:йлэнъ йулъп тэшлэшшъ хэмтэв дъйвуз. Узъм пъшкэндэ, ъшкэммъ устьгэ бэггь оттэсъгэ хэвэзэ кълэвуз. Хэвэзэдэ отьръп кушшъ коръйвуз. Йэздэ тут пъшъгьдэм бэшлэп кэрэйэлэ:, чугурчу: келэдъ. Коръп турмэсэц, узъммъ шълъп к",
+        "search_needle": "хэмтэв дъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "so‘zning ma’nosini gap ichida ochish",
+    "approximate_latin_analyst_reading": "xomtav diyvuz"
+  },
+  {
+    "id": "NUT-009",
+    "label": "Тэртэрэй чэлсэц",
+    "meaning_or_analysis_uz": "Tartaray chalsang, qush qochadi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "здэ тут пъшъгьдэм бэшлэп кэрэйэлэ:, чугурчу: келэдъ. Коръп турмэсэц, узъммъ шълъп кетэдъ. Тэртэрэй чэлсэц КЭЧЭДЪ. Энув кэттэ йэцнэ.гэйэм коннъро: кьп койэмэн, куш коръшкэ. К,°НЧ'ьрэ:нъ пэкърдэн КЪЛЭМЭН. Пэкърръ ъчъгэ бъттэ темърръ эсълтъръп бэйлэп, пэкърръ йовдэ:нъ уччъгэ эсъп койэмэн",
+        "search_needle": "Тэртэрэй чэлсэц",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "shart va natija; faqat qush konteksti",
+    "approximate_latin_analyst_reading": "Tartaray chalsang"
+  },
+  {
+    "id": "NUT-010",
+    "label": "Кечэсъйэм хэвэзэдэ йэтэмэн",
+    "meaning_or_analysis_uz": "Havazada tunash haqida.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": ", йэткэн джэйъмдэ кэнэппъ тэртъп койэмэн, ковдърэ: джэрэцлэп кетэдъ, куш бэккэ йолэмъйдъ. Кечэсъйэм хэвэзэдэ йэтэмэн. Йэззъ ъссък дъм кечэлэръйэм оттэ (<у ерда) гър-гьр шэмэл. Хэвэзэдэ йэтьшшъйэм гэшть бэ:. Бу йъл йэздэ бър келъйлэ. Хэвэзэгэ джэй къ-бърэмэн, ошэндэ бълэсъс хэвэзэнъ гэштънъ. Еттэ",
+        "search_needle": "Кечэсъйэм хэвэзэдэ йэтэмэн",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "-yam yuklama qisqarishi",
+    "approximate_latin_analyst_reading": "Kechasiyam havazada yotaman"
+  },
+  {
+    "id": "NUT-011",
+    "label": "Бу йъл йэздэ бър келъйлэ",
+    "meaning_or_analysis_uz": "Yozda kelishga taklif.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": " Йэззъ ъссък дъм кечэлэръйэм оттэ (<у ерда) гър-гьр шэмэл. Хэвэзэдэ йэтьшшъйэм гэшть бэ:. Бу йъл йэздэ бър келъйлэ. Хэвэзэгэ джэй къ-бърэмэн, ошэндэ бълэсъс хэвэзэнъ гэштънъ. Еттэмэн ъккъ ваш шэкэрэцгуллъ (тож. шакар ангур) сувгэ сэп, муздэй къп беръй, кэрсъллэтьп йеп корън, ошэндэ бълэсъс бэг",
+        "search_needle": "Бу йъл йэздэ бър келъйлэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "hurmatli taklif",
+    "approximate_latin_analyst_reading": "Bu yil yozda bir keliyla"
+  },
+  {
+    "id": "NUT-012",
+    "label": "Хэвэзэгэ джэй къ-бърэмэн",
+    "meaning_or_analysis_uz": "Havazada joy tayyorlab berish.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "эм оттэ (<у ерда) гър-гьр шэмэл. Хэвэзэдэ йэтьшшъйэм гэшть бэ:. Бу йъл йэздэ бър келъйлэ. Хэвэзэгэ джэй къ-бърэмэн, ошэндэ бълэсъс хэвэзэнъ гэштънъ. Еттэмэн ъккъ ваш шэкэрэцгуллъ (тож. шакар ангур) сувгэ сэп, муздэй къп беръй, кэрсъллэтьп йеп корън, ошэндэ бълэсъс бэггь, узъммъ хэсъйэтьнъ. Узъ",
+        "search_needle": "Хэвэзэгэ джэй къ-бърэмэн",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "yordam fe’li va suhbat taklifi",
+    "approximate_latin_analyst_reading": "Havazaga joy qi-beraman"
+  },
+  {
+    "id": "NUT-013",
+    "label": "ошэндэ бълэсъс",
+    "meaning_or_analysis_uz": "Bog‘ va uzumning mazasini ko‘rgandan so‘ng bilasiz.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "шэмэл. Хэвэзэдэ йэтьшшъйэм гэшть бэ:. Бу йъл йэздэ бър келъйлэ. Хэвэзэгэ джэй къ-бърэмэн, ошэндэ бълэсъс хэвэзэнъ гэштънъ. Еттэмэн ъккъ ваш шэкэрэцгуллъ (тож. шакар ангур) сувгэ сэп, муздэй къп беръй, кэрсъллэтьп йеп корън, ошэндэ бълэсъс бэггь, узъммъ хэсъйэтьнъ. Узъм джэнъвэрэм мън",
+        "search_needle": "ошэндэ бълэсъс",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "II shaxs hurmat",
+    "approximate_latin_analyst_reading": "O‘shanda bilasis"
+  },
+  {
+    "id": "NUT-014",
+    "label": "бэ:дэрчълъйгэ кесэв",
+    "meaning_or_analysis_uz": "Asosiy mavzuga qaytish; manba kel­sak deb izohlaydi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "ъммъ хэсъйэтьнъ. Узъм джэнъвэрэм мън бър дэрткэ дэвэ. Е, рэстэнэм бъ-нъмэ дъвэтувдъм. Хъ, бэ:дэрчълъйгэ кесэв (< келсак), куздэ узъмлэ узъп элъцгэндэн кегьн тэккъ комъш керэй. Комъшдэн элдън узъммъ зэцгь, нэвдэлэрънъ ъшкэмдэн чушъръп ХЭСЪЛСЪЗ нэвдэлэ кесъп тэшлэнэдъ. Кегьн кондэ: кьлънэдъ",
+        "search_needle": "бэ:дэрчълъйгэ кесэв",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "mavzuni qayta davom ettirish",
+    "approximate_latin_analyst_reading": "Bog‘dorchilikka kesav"
+  },
+  {
+    "id": "NUT-015",
+    "label": "кондэ: дъйвуз",
+    "meaning_or_analysis_uz": "Novdalarni yig‘ib bog‘lash amalini atash.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": " нэвдэлэ кесъп тэшлэнэдъ. Кегьн кондэ: кьлънэдъ. Узъммъ нэвдэлэрънъ йъгьп, бэйлзп куйъшшъ кондэ: дъйвуз. Кондэ: къгэндэ, узъммъ нэвдэлэръ йэткьзълъп, узун кьп нэвдзмънэм бэйлэп койълэдъ. Кегьн устъдэн бэрдъ йэпсэйэм болэдъ, турпэ: йэпсэйэм болэдъ. Мэн бэрдъгэ комэмэн. Энув кэлэвэттъ",
+        "search_needle": "кондэ: дъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "ta’rif berish",
+    "approximate_latin_analyst_reading": "Konda: diyvuz"
+  },
+  {
+    "id": "NUT-016",
+    "label": "съзгэйэм бъттэ екъп",
+    "meaning_or_analysis_uz": "Suhbatdoshga qalamchadan ekib berishni taklif qiladi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 91,
+        "printed_page": 90,
+        "anchor_normalized_whitespace": "ъ къп куйъй, йэхшъ турэдъгэн узъм, мэгьзъйэм кэттэкоргэннъкъдэн кэлъшмъйдъ. К^элэмчэсъдэн съзгэйэм бъттэ екъп беръй, бэхэнэмънэм узъмлъй боп кэлэсъс, узъмлъй ойгэ нъмэ йессън, о:лъм. Farg‘ona shevasi Ertaklar Бър кун девэнэйъ Мэшрэп сээфэгэ сэйъл еткэнъ чъккэнъдъ. Сэхрэдэ бэрэйэтьп эгрэпъ",
+        "search_needle": "съзгэйэм бъттэ екъп",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "sizlash; amaliy yordam",
+    "approximate_latin_analyst_reading": "Sizgayam bitta ekib…"
+  },
+  {
+    "id": "NUT-017",
+    "label": "узъмлъй ойгэ нъмэ йессън",
+    "meaning_or_analysis_uz": "Uzumli hovlining yaxshi ekanini ifodalaydi.",
+    "area": "Toshkent; bog‘dorchilik monologi",
+    "notes": "Lotincha o‘qish taxminiy. Yozib olingan matndan parcha; tahlilchi yangi dialog tuzmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 91,
+        "printed_page": 90,
+        "anchor_normalized_whitespace": "дэн кэлъшмъйдъ. К^элэмчэсъдэн съзгэйэм бъттэ екъп беръй, бэхэнэмънэм узъмлъй боп кэлэсъс, узъмлъй ойгэ нъмэ йессън, о:лъм. Farg‘ona shevasi Ertaklar Бър кун девэнэйъ Мэшрэп сээфэгэ сэйъл еткэнъ чъккэнъдъ. Сэхрэдэ бэрэйэтьп эгрэпъгэ кррэсэ бър дейкон кош хэйдэйэткэнъмъш. Дейкэн кош хэйдэрэкэн-у",
+        "search_needle": "узъмлъй ойгэ нъмэ йессън",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "kasbiy monolog",
+    "interaction_function": "baholovchi ibora; savolga literal javob emas",
+    "approximate_latin_analyst_reading": "Uzumli uyga nima yetsin"
+  },
+  {
+    "id": "NUT-018",
+    "label": "qayga keyvossan?",
+    "meaning_or_analysis_uz": "Qayerga kelyapsan? Mazmuni kel- fe’li bilan; ket- fe’liga almashtirilmaydi.",
+    "area": "Toshkent shahar",
+    "notes": "Tasvirda qayga; PDF matn qatlamida ka?$ buzilishi bor.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": " -b d t к^шимчасл куши- либ, ундан с\\нг тегишли шахс-сон кушимча.1ари кел- тирилади: ка?$ ке йв ос с ан , егась к е в э т г е н ъ н ъ бъладъ (ТошкенП, ошэ ънэкнъ э й т в э т т ъ , ъ шлэ- в эт м ъз дегэи Карноб) вабошкалар Тошкент ва Карнобдаги бу хусусичтни Паркент шевасидч *ам учра",
+        "search_needle": "ке йв ос с ан",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "qisqa manba misoli",
+    "approximate_latin_analyst_reading": "qayga keyvossan?"
+  },
+  {
+    "id": "NUT-019",
+    "label": "adasi kevottila",
+    "meaning_or_analysis_uz": "Oilaviy evfemistik murojaat; hurmatli kelish holati.",
+    "area": "Toshkent shahar",
+    "notes": "Oilaviy munosabatni bilmasdan begona adresatga ishlatilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 287,
+        "printed_page": null,
+        "anchor_normalized_whitespace": ", дэмэт, п о ч ч а кабилар. Мисоллар: бнАисн, буйах кара, мехмэнла пел- дила (Самарканд), э д э с ъ кевзттила (Тошкент), ей хэтин, маига бир оз нэн тэпиб бе: (Ургут) ва бош- Калар. Уруз лахжаси материаллариаа хам табунинг кУ-пла- нилиши бошка узбек лахжа ва шевалари материал- ларидагига н",
+        "search_needle": "э д э с ъ кевзттила",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "qisqa manba misoli",
+    "approximate_latin_analyst_reading": "adasi kevottila"
+  },
+  {
+    "id": "NUT-020",
+    "label": "Parkent yor-yori",
+    "meaning_or_analysis_uz": "T4 opkevottim shaklini Parkent folkloridan keltiradi.",
+    "area": "Parkent",
+    "notes": "Folklor namunasi kundalik zamonaviy suhbat chastotasining dalili emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "е- в э т т ъ м ь , \\а ъдэрага э п к е в э т т ъ м , э п к е в э к э н Къзъмъз Сетка лэйук йэр-йэр каби. Аник ^озирги замон феълининг »вот шакли билан ясалиши Кочгонсой районидаги баъзи кишлок шевалари- да, масалан, Чннлаул шевасида *ам ишлатилади. Наманган вилоят Уйчи шевасида",
+        "search_needle": "йэр-йэр",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "genre": "yor-yor"
+  }
+]

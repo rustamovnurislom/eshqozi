@@ -1,0 +1,431 @@
+[
+  {
+    "id": "XF-01",
+    "title": "Juft unlilar",
+    "claim_uz": "Old va orqa qator unli juftliklari, palatal ohangdoshlik qayd etilgan.",
+    "scope": "O‘g‘uz guruhi, hamma Xorazm bir xil emas.",
+    "bot_application": "Bitta a harfi bilan ilmiy tovushlarni tenglashtirma.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "a-ä",
+        "quote": "1) qipchoq shevalaridagi kabi bu lahjada ham juft unlilar mavjud: a-ä, i- ï, ö-o’, u-ü kabi; 2) qisqa va cho’ziq unlilvr farqlanadi, ya‘ni turkman tilidagi kabi qadimgi turkiy cho’ziq unlilar (birlamchi cho’ziq unlilar) mavjud: at (hayvon), a:d (ism), o’t (o’t, o’simlik), o’:t (o’t, olov) kabi; 3) so’z tarkibida unli tovushlarning tanglay ohangdoshligi saqlangan: ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 6,
+        "printed_page": 5,
+        "anchor": "Old qator",
+        "quote": "oh I /r h ard belgisi 1. A a A a Orqa qator. qu\\ i kcng. lablanmagan uni ini ifodalaydi 2 . A a A a Old qator. quvi kcng. lablanmagan unlini ifodalaydi 3 . A a Л a Orqa qator. c|ii\\ i kcng. qisman lablangun unlini if'odahivdi 4 . 1：0 l：c ()U1qator. o rta kcng. lablanmagan unlini ifodalaydi 5. 1 i li Old qator. \\ uqori-tor. lablanmagan unlini. singarmoni/mli shc\\ alarda qisqa, sliahar shevaiarida o",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-02",
+    "title": "Cho‘ziqlik ma’noni farqlaydi",
+    "claim_uz": "at hayvon va a:d ism, o‘t o‘simlik va o‘:t olov juftlari berilgan.",
+    "scope": "Darslikdagi o‘g‘uz tavsifi.",
+    "bot_application": "Oddiy yozuvda cho‘ziqlik ko‘rinmasa, kontekstni o‘qi.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "a:d",
+        "quote": "rkman tilidagi kabi qadimgi turkiy cho’ziq unlilar (birlamchi cho’ziq unlilar) mavjud: at (hayvon), a:d (ism), o’t (o’t, o’simlik), o’:t (o’t, olov) kabi; 3) so’z tarkibida unli tovushlarning tanglay ohangdoshligi saqlangan: kishi-kishilar-kishilara (kishilarga) kabi; 4) so’z boshida t va k tovushlari jaranglashadi: til-dil, tilak-dilak, tuz- duz; ko’z-go’z, ko’k-go’k, keldi-geldi kabi. Ba‘zan o’r",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 8,
+        "printed_page": 7,
+        "anchor": "cho'ziqligini",
+        "quote": "DIAKRITIK BELGILAR : - (ikki nuqta) tovushning cho'ziqligini bildiradi. ’ - (akut) belgining o'ng tomoniga qo'yilsa palatalizatsiyani, chap tomoniga qo'yilsa, veryalizatsiyani bildiradi. > , < - o'tish yoki o'zgarish hodisasini ko'rsatadi. || - ikki tovush yoki so'zning parallel qo'llanishiga ishora qiladi. ( ) - qavs ichidagi liarf ifodalagan t",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-03",
+    "title": "So‘z boshidagi k → g",
+    "claim_uz": "kel/keldi, ko‘z, kun so‘zlarining jarangli variantlari qayd etilgan.",
+    "scope": "Janubiy o‘g‘uzga oid misollar.",
+    "bot_application": "Gal/get/go‘z shakllari faqat mos so‘z va ma’noda.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 65,
+        "printed_page": null,
+        "anchor": "гътть",
+        "quote": "у:н ~ du:n, tep ~ дз:р ~ ds:r, tush ~ ду:ш ~ dii.s; - so‘z boshida к tovushi jaranglashadi: ketti ~ гътть ~ gbttb, kel ~ гт ~ gal, kun ~ гу:н ~ gu:n, ko‘z ~ го:з ~ go:z\\ 64",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "ko’z-go’z",
+        "quote": "(kishilarga) kabi; 4) so’z boshida t va k tovushlari jaranglashadi: til-dil, tilak-dilak, tuz- duz; ko’z-go’z, ko’k-go’k, keldi-geldi kabi. Ba‘zan o’rtada, ikki unli orasida ham t va k totsvushlari jaranglashadi: yetti-yeddi, ko’kimtir-go’gimtir kabi. Lekin bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidag",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-04",
+    "title": "So‘z boshidagi t → d",
+    "claim_uz": "til-dil, tilak-dilak, tuz-duz misollari bor.",
+    "scope": "O‘g‘uz guruhining ayrim so‘zlari.",
+    "bot_application": "Turk, paxta, tesha, kamon, kema uchun maqoladagi istisnolarni saqla.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "til-dil",
+        "quote": "angan: kishi-kishilar-kishilara (kishilarga) kabi; 4) so’z boshida t va k tovushlari jaranglashadi: til-dil, tilak-dilak, tuz- duz; ko’z-go’z, ko’k-go’k, keldi-geldi kabi. Ba‘zan o’rtada, ikki unli orasida ham t va k totsvushlari jaranglashadi: yetti-yeddi, ko’kimtir-go’gimtir kabi. Lekin bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalar",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "tesha",
+        "quote": "o’gimtir kabi. Lekin bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli talaffuz etiladi: achchiq – aji, ipning uchi – ipin uji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-05",
+    "title": "Ichki jaranglashish",
+    "claim_uz": "Yetti-yeddi va ko‘kimtir-go‘gimtir misollari keltiriladi.",
+    "scope": "Ayrim so‘zlar.",
+    "bot_application": "Hamma t va k ni almashtirma.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "yetti-yeddi",
+        "quote": "’k-go’k, keldi-geldi kabi. Ba‘zan o’rtada, ikki unli orasida ham t va k totsvushlari jaranglashadi: yetti-yeddi, ko’kimtir-go’gimtir kabi. Lekin bunday jarangli aytish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-06",
+    "title": "e/a variantlari",
+    "claim_uz": "Kel-gal, dedi-dadi va berdi-bardi; gel ko‘hna e bilan ham berilgan.",
+    "scope": "Manba va hududga bog‘liq.",
+    "bot_application": "Gal va gel orasini botda bitta yozuvga majburlama.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 65,
+        "printed_page": null,
+        "anchor": "dedi",
+        "quote": " (o‘simlik) - от ~ o:t (olov); - dastlabki bo‘g‘inda e unlisi a/a unlisiga o‘tadi: kel ~ гэл ~ gal, dedi - дэ&ъ ~ dadi, berdi ~ бэрдъ ~ bardi; -дэй ~ da} qo‘shimchasidagi э/а unlisi ьЛ’ unlisiga o‘tadi: shunday ~ шундьй ~ sundij,bunday ~ бундьй ~ bundij; - so‘z boshida t undoshi jaranglashadi: til ~ дъл ~ dil, tun ~ ду:н ~ du:n, tep ~ дз:р ~ ds:r, tush ~ ду:ш ~ dii.s; - so‘z boshida к tovushi jara",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "ko‘hna e",
+        "quote": " tovushlar jaranglashmaydi: tilagi ~ тьлэкь ~ tilaki, sochigM ~ сачацъ ~ sacaqi; - ayrim shevalarda ko‘hna e unlisi talaffuzda bor: kel ~ гел ~ gel, ber ~ 6ep ~ her, er ~ e:p ~ e:r. Morfologik xususiyatlari: - qaratqich kelishigi affiksining -ъц ьц ~ щ/щ varianti ham qoMlanadi: otning boshi ~ атьц башь ~ atirj basi, bizning shahrimiz ~ бъзъц щпамьс ~ bizirj qalam'is. Urganch, Xeva shevalarida qara",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-07",
+    "title": "ch ning jarangli varianti",
+    "claim_uz": "Achchiq-aji va ipning uchi-ipin uji misollari berilgan.",
+    "scope": "Ayrim o‘g‘uz birliklari.",
+    "bot_application": "Ilmiy c harfi j affrikatasini bildirishi mumkin; c har safar ch emas.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "achchiq",
+        "quote": "rzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli talaffuz etiladi: achchiq – aji, ipning uchi – ipin uji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo’llaniladi: davlat – do’ulat, quvladi – qo’uladi kabi; 8) chuqur til orqa undoshi q so’z oxirida, ba‘zan so’z o’rtasida tushiriladi: sariq – sari, sichqon – sichon kabi; 9) a unlisi y undoshi old",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 7,
+        "printed_page": 6,
+        "anchor": "qorishiq",
+        "quote": "angli. sof undosh 29. Sh sh 幻 Til oldi. sirg'aluvchi. jarangsiz, sol'undosli 30. Ch ch 야 f i\\ oldi. qorishiq, jarangsi/. 31. Yy Yy Til oldi, sirg'aluvchi. jarangli, sof undosh 32 Ng ng П)ц Til orqa, portlovchi, jarangli, sof undosli 33. -U •lj Til oldi, sirg'aluvchi, jarangli, sof undosh 34. Jj Cc Til oldi. portlovchi, jarangli, qorisliiq undosh 公",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-08",
+    "title": "q tushishi",
+    "claim_uz": "Sariq-sari, sichqon-sichon kabi misollar bor.",
+    "scope": "Ayrim so‘z va tovush muhiti.",
+    "bot_application": "Barcha q harfini o‘chirib tashlama.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "sichqon",
+        "quote": "i kabi; 8) chuqur til orqa undoshi q so’z oxirida, ba‘zan so’z o’rtasida tushiriladi: sariq – sari, sichqon – sichon kabi; 9) a unlisi y undoshi oldida i bilan almashinadi: ishlay – ishliy, qo’ymay – qo’ymiy kabi. Morfologik xususiyatlar: 1) kelishik qo’shimchalari qo’yidagicha:",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-09",
+    "title": "a/y muhitida i",
+    "claim_uz": "Ishlay-ishliy, qo‘ymay-qo‘ymiy shakllari qayd etiladi.",
+    "scope": "Muayyan fonetik muhit.",
+    "bot_application": "Inkor qo‘shimchasi yo‘qolmasin.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "ishlay",
+        "quote": "tushiriladi: sariq – sari, sichqon – sichon kabi; 9) a unlisi y undoshi oldida i bilan almashinadi: ishlay – ishliy, qo’ymay – qo’ymiy kabi. Morfologik xususiyatlar: 1) kelishik qo’shimchalari qo’yidagicha:",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-10",
+    "title": "Bo‘l/ol",
+    "claim_uz": "Bo‘l fe’lining b tushgan varianti qayd etilgan.",
+    "scope": "Ba’zi o‘g‘uz shevalari.",
+    "bot_application": "Bo‘ldi, o‘ldi va olmoqni aralashtirish xavfi; universal b→nol yo‘q.",
+    "evidence": [
+      {
+        "source_id": "T1",
+        "pdf_page": 66,
+        "printed_page": null,
+        "anchor": "b undoshi",
+        "quote": "andaj, G‘arib - Г(г)ары:п~ y(g)ari:p, togMar ~ да:г(г)ла: ~ da:y(g)la:; - “bol” fe’lining boshidagi b undoshi tushib, on ~ ol tarzida talaffuz etiladi. - к/к, к/q undoshlari bilan tugagan so'zlarga qo‘shimcha qo‘shilganda, bu tovushlar jaranglashmaydi: tilagi ~ тьлэкь ~ tilaki, sochigM ~ сачацъ ~ sacaqi; - ayrim shevalarda ko‘hna e unlisi talaffuzda bor: kel ~ гел ~ gel, ber ~ 6ep ~ her, er ~ e:p ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+        "source_sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "o’l",
+        "quote": "ish hodisasi ro’y bermaydigan so’zlar ham bor: turk, paxta, tesha, kamon, kema va boshqalarda. 5) «bo’l» fe`lining boshidagi b undoshi tushib qolib, o’l tarzida talaffuz etiladi; 6) ikki unli tovush orasida ch undoshi ko’pincha jarangli talaffuz etiladi: achchiq – aji, ipning uchi – ipin uji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo’llaniladi: davlat – do’ulat, quvladi – ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-11",
+    "title": "j-lashish hududga bog‘liq",
+    "claim_uz": "Gurlanning ayrim Amudaryoga yaqin joylari va shimoldan Xivaga kamayish qaydi bor.",
+    "scope": "X4 mualliflarining hududiy kuzatuvi.",
+    "bot_application": "Urganch-Xiva profiliga shimoliy j-lashishni majburan qo‘shma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 5,
+        "printed_page": 389,
+        "anchor": "Amudaryo",
+        "quote": " shevalar mavjud. Bunga Gurlan va Yangibozor shevalarini misol qilishimiz mumkin. Gurlan tumanining Amudaryo bilan chegaradosh bo‘lgan joylarida “j” lashishlarga duch kelinadi. Shimoliy Xorazmdan Xiva tomonga qarab “j”lashish kamayib boradi. Bu 389 http://compling.navoiy-uni.uz/",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X3",
+        "pdf_page": 6,
+        "printed_page": null,
+        "anchor": "й-lashgan",
+        "quote": "2. й-lashgan shevalar – Amudaryo, Gurlan, Beruniy, To‗rtko‗l tumanlaridagi qishloq shevalari. 3. ə-lashgan shevalar – Gurlan, Urganch, Hazorasp, Shovot tumanlari qishloq shevalari. 4. Aralash tipdagi qipchoq-o‗g‗uz shevalari – Urganch, Qo‗shko‗pir, Yangibozor, Xonqa tumanlari qishloq shevalari. Xorazm ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+        "source_sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-12",
+    "title": "Diftong kuzatuvi",
+    "claim_uz": "Davlat-do‘ulat va quvladi-qo‘uladi misollari keltiriladi.",
+    "scope": "T2 darsligidagi o‘g‘uz tavsifi.",
+    "bot_application": "Faqat ko‘rsatilgan birliklar; har bir o yoki u birikmasini o‘zgartirma.",
+    "evidence": [
+      {
+        "source_id": "T2",
+        "pdf_page": 85,
+        "printed_page": null,
+        "anchor": "quvladi",
+        "quote": "ji kabi; 7) bir qator so’zlarda öu//o’u tipidagi diftong ancha keng qo’llaniladi: davlat – do’ulat, quvladi – qo’uladi kabi; 8) chuqur til orqa undoshi q so’z oxirida, ba‘zan so’z o’rtasida tushiriladi: sariq – sari, sichqon – sichon kabi; 9) a unlisi y undoshi oldida i bilan almashinadi: ishlay – ishliy, qo’ymay – qo’ymiy kabi. Morfologik xususiyatlar: 1) kelishik qo’shimchalari qo’yidagicha:",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+        "source_sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XF-13",
+    "title": "Transkripsiya oddiy imlo emas",
+    "claim_uz": "Lug‘at cho‘ziqlik, old/orqa unlilar, parallel shakl va qavs belgilarini izohlaydi.",
+    "scope": "X1 ilmiy yozuvi.",
+    "bot_application": "Asl transkripsiya, OCR va oddiy o‘qiladigan shaklni ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 8,
+        "printed_page": 7,
+        "anchor": "parallel",
+        "quote": "yani bildiradi. > , < - o'tish yoki o'zgarish hodisasini ko'rsatadi. || - ikki tovush yoki so'zning parallel qo'llanishiga ishora qiladi. ( ) - qavs ichidagi liarf ifodalagan tovushning ba'zan nutqda talaHuzciilmmasligini bildiradi. [ ] - katta qavs matndagi bo4g‘in, so‘z, transkripsiya qilingan birliklarni ajratibko'rsatishga xizmat qiladi. SIIARTL1 QISQARTMALAR: Xv. - Xiva timiani Grin. — Gurlan",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 6,
+        "printed_page": 5,
+        "anchor": "TRANSKRIPSIYA",
+        "quote": "TRANSKRIPSIYA VA DIAKRITIK BELGILAR ~t--- . - - ■ ■ ■ i ■ Tovushning o*/hck ;ilii1)〇sicl:i^i rranskripsion I/.oh I /r h ard belgisi 1. A a A a Orqa qator. qu\\ i kcng. lablanmagan uni ini ifodalaydi 2 . A a A a Old qator. quvi kcng. lablanmagan unlini ifodalaydi 3 . A a Л a Orqa qator. c|ii\\ i kcng. ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "kind": "printed_dialogue_editorial_reading",
+  "readable_turns": [
+    "Xapamisan mannan?",
+    "Yoq.",
+    "Asana axir indamisan sira?"
+  ],
+  "standard_meaning": [
+    "Mendan xafamisan?",
+    "Yo‘q.",
+    "Unda nega umuman gapirmayapsan?"
+  ],
+  "evidence": [
+    {
+      "source_id": "X1",
+      "pdf_page": 24,
+      "anchor": "asanii [asana]",
+      "quote": "bma deyddi. asamat [asamat] —Bog‘ot tumanidagi qishloq nomi. Jipkcini AsdmciUi gcilm 公6»/}’公 дй목кап asanii [asana] - nega, nimaga, so‘roq olmoshi o‘mida qollaniladi (Urg., Shvt., Xnq., Bg‘t” Q.kpr.). —Xcipamisan tnciman ? — Yoq 一A sdna ax'ir inckinuscin sirci 23",
+      "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+      "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+      "evidence_kind": "book_extracted_text",
+      "modern_street_usage_verified": false
+    }
+  ],
+  "source_image": "/workspace/research/xorazm/images/X1_024.png",
+  "notes": "Oddiy lotinda muharrirlik talqini; ilmiy transkripsiyaning aynan nusxasi emas. Haqiqiy Telegram suhbati yoki zamonaviy yoshlar slengi dalili emas.",
+  "chat_observed": false,
+  "audio_verified": false
+}

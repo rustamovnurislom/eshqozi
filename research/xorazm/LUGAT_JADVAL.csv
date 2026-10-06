@@ -1,0 +1,210 @@
+id,form,meaning,role,regions,source_pages,note
+XL-001,abajon,voydod; kuchli hayajon undovi,hissiyot,Xiva; Yangiariq; Bog‘ot,X1 PDF 9,Oddiy ota murojaati emas.
+XL-002,abgor,muhtoj; ahvoli og‘ir,holati,Urganch; Xiva; Xonqa,X1 PDF 9,Achinish yoki holat tavsifi; adresatga majburan yopishtirilmaydi.
+XL-003,adan,poygah; xonaning eshikka yaqin qismi,ro‘zg‘or,Urganch; Bog‘ot; Shovot; Xonqa; Yangibozor; Gurlan; Xiva,X1 PDF 9,Joy ma’nosi.
+XL-004,adi,edi; to‘liqsiz fe’l,grammatika,Xiva; Bog‘ot; Hazorasp; Urganch; Shovot; Xonqa,X1 PDF 9,Zamon va modal vazifasi kontekst bilan.
+XL-005,adik,etik,ro‘zg‘or,Xonqa; Urganch; Shovot; Bog‘ot,X1 PDF 9,Barcha oyoq kiyimining universal nomi emas.
+XL-006,adiyol,ko‘rpa; yopinchiq,ro‘zg‘or,Xiva; Bog‘ot; Urganch,X1 PDF 9,Uy buyumi.
+XL-007,ajab,xo‘b; mayli; kesatiqli tasdiq ham bo‘lishi mumkin,diskurs,Xonqa; Urganch; Xiva,X1 PDF 10,Ijobiy rozilik va kinoyani ajrat.
+XL-008,aji-buji,g‘alati; bachkana; g‘ayrioddiy,baho,Xiva; Urganch; Bog‘ot,X1 PDF 10,Baho adresat va ohangga bog‘liq.
+XL-009,aka,ota; dada,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 10,Standart katta aka ma’nosiga avtomatik tenglashtirilmaydi; tuman jadvali alohida.
+XL-010,akan,ekan,grammatika,Xiva; Urganch; Bog‘ot,X1 PDF 10,Natija yoki modal ma’noni saqla.
+XL-011,akin,ekin,xo‘jalik,Xiva; Xonqa; Qo‘shko‘pir; Yangiariq; Bog‘ot; Hazorasp,X1 PDF 11,Agrar mavzu.
+XL-012,akizak,egizak,oila,Xonqa,X1 PDF 11,Boshqa egiz varianti ham bor.
+XL-013,akkal,olib kel,fe’l,Xiva; Urganch; Bog‘ot,X1 PDF 11,Buyruq; akkelmoq bilan tuman farqi bor.
+XL-014,akkelmoq,olib kelmoq,fe’l,Gurlan; Yangibozor; Bog‘ot,X1 PDF 11,Bog‘ot kodi vizual sahifadan tiklandi.
+XL-015,akmoq,ekmoq,fe’l,Bog‘ot; Xiva,X1 PDF 11,Kelmoq bilan adashtirma.
+XL-016,akslik,qaysarlik,baho,Xiva; Urganch; Bog‘ot,X1 PDF 12,Holatni baholaydi.
+XL-017,al,qo‘l,tana,Xonqa; Xiva,X1 PDF 12,Gurlan/Yangibozorda el varianti manbada alohida.
+XL-018,alak,elak,ro‘zg‘or,Urganch; Bog‘ot; Xonqa; Shovot; Xiva,X1 PDF 12,Uy buyumi.
+XL-019,alam I,hasrat; g‘am,hissiyot,lug‘atda: barcha Xorazm hududlari,X1 PDF 12,Bayroq ma’nosi alohida karta.
+XL-020,alam II,bayroq,lokal ma’no,Xivaning ayrim hududlari,X1 PDF 13,Barcha alam so‘zlarini bayroq deb olma.
+XL-021,alashtirmoq,aybga buyurmoq; koyishga oid,muomala,Xiva; Xonqa; Hazorasp; Yangiariq; Urganch; Bog‘ot; Qo‘shko‘pir,X1 PDF 13,Lug‘at izohi noqulay; misol inkor shaklida aybga buyurmang degan vazifada.
+XL-022,aldin,oldin; avval,vaqt,Xiva; Xonqa; Urganch; Yangiariq,X1 PDF 13,Vaqt tartibi saqlanadi.
+XL-023,allag‘aloy,yaxshi; ajoyib; o‘zgacha,baho,Gurlan; Yangibozor,X1 PDF 14,Bir necha baho ma’nosi bor.
+XL-024,almisoq,juda eski; qadimdan qolgan,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 15,Ko‘chma baho.
+XL-025,amdolli,fikrni qayta ta’kidlash uchun modal so‘z,diskurs,Xiva; Xonqa; Hazorasp; Yangiariq; Urganch; Bog‘ot,X1 PDF 16,Emdolli kartasiga mutlaq tenglashtirilmaydi.
+XL-026,ana I,buvi; katta ayolga hurmat shakli,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 16,Ona yoki ko‘rsatish olmoshi ana bilan aralashtirma.
+XL-027,ana II,qiz yoki yosh kelinga undov murojaat,murojaat,Xivaning ayrim hududlari,X1 PDF 16,Har suhbatdoshga ishlatish tavsiya qilinmaydi.
+XL-028,anaqo‘y,qizlarni erkalash murojaati,murojaat,Xorazmning ayrim hududlari,X1 PDF 17,Adresatga moslikni tekshir.
+XL-029,anuv,anavi,olmosh,Gurlan; Yangibozor; Bog‘ot,X1 PDF 18,Ko‘z oldida bo‘lmagan narsaga ham ishora.
+XL-030,anyaqo,u yoqqa,makon,Gurlan; Yangibozor; Bog‘ot,X1 PDF 18,Harakat yo‘nalishi.
+XL-031,anzurt / anzurut,noyob; kam topiladigan,baho,Urganch; Xonqa; Xiva,X1 PDF 19,Ot yoki narsa bahosi.
+XL-032,apashlamoq / apashaklamoq,avaylamoq; ehtiyot qilmoq,fe’l,Xiva; Urganch; Shovot; Bog‘ot; Qo‘shko‘pir; Xonqa,X1 PDF 19,Epashlamoq varianti ham bor.
+XL-033,apka / appiyi / apcha,opa; hurmatli ayolga murojaat,qarindoshlik,Xiva; Urganch; Shovot; Bog‘ot; Qo‘shko‘pir; Xonqa,X1 PDF 19,Apa ona ma’nosi bilan ajrat.
+XL-034,apkaldi / akkaldi / apkildi,olib keldi,fe’l shakli,Urganch; Xiva; Xonqa; Hazorasp; Yangiariq; Yangibozor; Gurlan,X1 PDF 20,"Lug‘at umumiy olib kelmoq deb izohlaydi, shakl esa o‘tgan zamon; avtomatik lemma emas."
+XL-035,aplama,naridan-beri; tartibsiz bajarilgan,baho,Xiva; Urganch; Gurlan; Yangibozor,X1 PDF 20,Ish sifati bahosi.
+XL-036,aplamoq,eplamoq; uddalamoq,fe’l,Urganch; Shovot; Xonqa,X1 PDF 20,Bilmoq yordamchi fe’li bilan imkoniyat konteksti ham bor.
+XL-037,apli,epli; uddalay oladigan,baho,Xiva; Urganch,X1 PDF 20,Qobiliyat bahosi.
+XL-038,appar / apparibar,olib ber,fe’l,Xonqa; Qo‘shko‘pir; Urganch; Bog‘ot,X1 PDF 20,Buyruq; hudud bo‘yicha appermak varianti bor.
+XL-039,appermak,olib bermoq,fe’l,Gurlan; Yangibozor,X1 PDF 21,Fe’lning shaxsi va maylini saqla.
+XL-040,ar I,er; turmush o‘rtoq,oila,lug‘atda: barcha Xorazm hududlari,X1 PDF 21,Ar II erta tong ma’nosi alohida.
+XL-041,ar II,erta tong; sahar,vaqt,Xorazmning ayrim hududlari,X1 PDF 21,Ar I er ma’nosi bilan ajrat.
+XL-042,arimak I,erimoq,fe’l,Xiva; Xonqa; Hazorasp; Yangiariq; Urganch; Qo‘shko‘pir,X1 PDF 22,Arimoq dard ketishi ma’nosi bilan ajrat.
+XL-043,arimoq II,dard yoki alam ketmoq,fe’l,Xiva; Urganch; Bog‘ot,X1 PDF 23,Omonim yoki yaqin variant kontekstga bog‘liq.
+XL-044,arik,o‘rik,meva,Qo‘shko‘pir; Urganch; Xonqa; Shovot; Bog‘ot; Xiva,X1 PDF 23,Ariq suv yo‘li ma’nosi bilan adashtirma.
+XL-045,artang / ertang,ertaga,vaqt,Urganch; Shovot; Bog‘ot; Hazorasp,X1 PDF 24,Oddiy yozuvda ng bilan; transkripsiya saqlangan rasmdan tekshirildi.
+XL-046,arzimidi,arzimaydi; rahmatga javob,muomala,Bog‘ot; Xiva,X1 PDF 24,"Lug‘at boshligi arzimoq, misolda arzimidi; infinitiv deb bermaymiz."
+XL-047,asa,esa,diskurs,Xiva; Xonqa; Bog‘ot; Shovot,X1 PDF 24,Qiyos va mavzu o‘tishi.
+XL-048,asana,nega; nimaga,savol,Urganch; Shovot; Xonqa; Bog‘ot; Qo‘shko‘pir,X1 PDF 24,"Savol, tanbeh ohangi vaziyatga bog‘liq."
+XL-049,assalom,salomlashish shakli,muomala,Xiva; Urganch; Bog‘ot,X1 PDF 25,"Ilmiy transkripsiya assalam, qavsdagi oddiy yozuv assalom."
+XL-050,assammakim,assalomu alaykumning qisqargan shakli,muomala,Urganch; Shovot; Xonqa; Bog‘ot,X1 PDF 25,Kundalik suhbatga; rasmiy matnda majburiy emas.
+XL-051,atmak,qilmoq,fe’l,Xiva; Xonqa; Bog‘ot,X1 PDF 26,Aytmoq emas; ish-harakat fe’li.
+XL-052,ay,mensimaslik tusi bo‘lishi mumkin bo‘lgan undov,pragmatika,Xiva; Xonqa; Yangiariq; Urganch,X1 PDF 26,Botning odatiy samimiy murojaati sifatida majburan qo‘shilmaydi.
+XL-053,ayar,agar,bog‘lovchi,Bog‘ot; Urganch; Shovot; Xonqa; Qo‘shko‘pir; Yangiariq,X1 PDF 26,Shart ma’nosi saqlanadi.
+XL-054,ayyom / eyyom,allaqachon,vaqt,Xiva; Xonqa; Hazorasp; Yangiariq; Urganch; Bog‘ot; Qo‘shko‘pir,X1 PDF 27,Vaqt munosabati; eyyam varianti alohida sahifada.
+XL-055,ashunchakki / ovinchakki / oshundin,shunaqa; shunday,olmosh,Xorazmning ayrim hududlari,X1 PDF 28,Yozuv aniqligi qayta mahalliy tekshiruvga muhtoj.
+XL-056,odosh,adash; bir xil ismli kishi,murojaat,Bog‘ot; Urganch; Yangibozor; Gurlan,X1 PDF 31,Adashmoq fe’li emas.
+XL-057,ojji-suji,achchiq-chuchuk salat,taom,Qo‘shko‘pir,X1 PDF 32,Taom; transkripsiya j tovushini alohida bildiradi.
+XL-058,oldoqchi,yolg‘onchi; aldamchi,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 33,Adresatga dalilsiz aytilmaydi.
+XL-059,olpadim,olgan edim,fe’l shakli,Xonqa,X1 PDF 34,Lokal murakkab o‘tgan zamon shakli.
+XL-060,omonliq,eson-omonlik; tinchlik,muomala,lug‘atda: barcha Xorazm hududlari,X1 PDF 35,Hol-ahvol va eson-omonlik savoli.
+XL-061,omosog‘,eson-omon; sog‘-salomat,holati,lug‘atda: barcha Xorazm hududlari,X1 PDF 35,Amasag transkripsiya; oddiy yozuv qavsidan.
+XL-062,opo / apa,ona; oyi,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 36,"Manbada qavs opo, bosh shakl apa; opa apka ma’nosi alohida."
+XL-063,opobiyi,katta opa,qarindoshlik,Gurlan; Yangibozor,X1 PDF 36,Biyi kelinoyi ma’nosi bilan ajrat.
+XL-064,oqliq I,qatiq va sut mahsulotlari,taom,Xonqa; Urganch tumani,X1 PDF 37,Oqliq II oq mato va sovchilik roziligi boshqa ma’no.
+XL-065,oqliq II,sovchilikda rozilik sifatida beriladigan oq mato,marosim,Bog‘ot; Urganch; Yangibozor; Xiva; Yangiariq,X1 PDF 37,Madaniy kontekst.
+XL-066,oqtiq-chovliq,nevara-chevara,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 38,Qarindoshlik avlodi.
+XL-067,oroyish,osoyishtalik,holati,Xiva; Xonqa; Hazorasp,X1 PDF 39,Lokal ma’no.
+XL-068,ori I,toza; yangi,baho,Yangiariq; Xiva,X1 PDF 39,Ori ari yoki nari varianti bilan adashtirma.
+XL-069,ori III / orroq,nari; uzoqroq,makon,Xorazmning ayrim hududlari,X1 PDF 40,Ori I toza va ari hasharot ma’nolari alohida.
+XL-070,arqa / orqo II,shimol tomon,makon,Hazorasp; Urganch; Shovot; Bog‘ot; Qo‘shko‘pir; Gurlan; Yangibozor,X1 PDF 41,Orqa tana qismi boshqa ma’no.
+XL-071,orqoyin / arqoyin,xotirjam; betashvish,holati,lug‘atda: barcha Xorazm hududlari,X1 PDF 41,Shoshmaydigan kishi ma’nosi ham alohida izohlangan.
+XL-072,ort / art,tozala; art,fe’l,Urganch; Shovot; Gurlan; Yangibozor; Xiva; Xonqa; Yangiariq; Bog‘ot; Hazorasp; Qo‘shko‘pir,X1 PDF 42,Yuk ortmoq ma’nosi bilan ajrat.
+XL-073,ortmoq / artmoq II,yuklamoq; yuk ortmoq,fe’l,Xiva; Urganch,X1 PDF 43,Tozalamoq fe’lining yozuviga yaqin.
+XL-074,oston,sekin; ohista,ravish,lug‘atda: barcha Xorazm hududlari,X1 PDF 45,Shoshmasdan harakat qilish.
+XL-075,ov / hov,iye; hayajon undovi,hissiyot,lug‘atda: barcha Xorazm hududlari,X1 PDF 48,Ov qilish ma’nosi bilan ajrat.
+XL-076,ovo / ava,ha; tasdiq,diskurs,Qo‘shko‘pir; Shovot; Urganch,X1 PDF 48,Barcha javobda ishlatilishi shart emas.
+XL-077,oviz,og‘iz suti; yangi tuqqan sigir suti,xo‘jalik,Yangibozor; Gurlan,X1 PDF 49,Oddiy tana a’zosi og‘iz bilan adashtirma.
+XL-078,ovrimoq,og‘rimoq,holati,Yangibozor; Gurlan; Bog‘ot,X1 PDF 50,"Tibbiy tashxis emas, so‘z izohi."
+XL-079,ovzibirchilik,hamjihatlik; birdamlik,ijtimoiy,Gurlan; Yangibozor; Bog‘ot,X1 PDF 50,Ko‘chma ma’no.
+XL-080,ovushmoq III,ortib qolmoq,fe’l,Gurlan,X1 PDF 51,Ichi achishmoq yoki og‘rimoq ma’nosi emas.
+XL-081,oxtiq / axtiq,nevara,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 51,"Oxtiq qavsdagi, axtiq keyingi bo‘limdagi shakl."
+XL-082,oyoq II,qishloqning quyi qismi,makon,Hazorasp; Bog‘ot; Xonqa,X1 PDF 52,Tana a’zosi oyoq ma’nosiga qo‘shimcha lokal ma’no.
+XL-083,oydin I,ish-harakatning yaxshiligi,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 53,Aydin karta bilan variant; ko‘l chuquri ma’nosi alohida.
+XL-084,oydin II,ko‘lning eng chuqur joyi,makon,lug‘atda: barcha Xorazm hududlari,X1 PDF 53,Yaxshi ma’nosi bilan ajrat.
+XL-085,oyno,ko‘zgu,ro‘zg‘or,lug‘atda: barcha Xorazm hududlari,X1 PDF 55,Deraza ma’nosiga avtomatik o‘tkazma; lug‘at misoli aks etish haqida.
+XL-086,oynonin,erkalash murojaati,murojaat,Xiva; Urganch,X1 PDF 55,Notanishga majburiy murojaat emas.
+XL-087,oyri I,alohida,diskurs,Urganch; Qo‘shko‘pir; Xonqa; Hazorasp,X1 PDF 56,Bog‘lovchi va yog‘och ma’nolari ham bor.
+XL-088,oytmoq,aytmoq; demoq,fe’l,lug‘atda: barcha Xorazm hududlari,X1 PDF 57,Atmak qilmoq bilan adashtirma.
+XL-089,ozondo / azanda,ertalab,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 57,Vaqt ko‘rsatkichi.
+XL-090,ozg‘ino / azgina,ozgina,miqdor,lug‘atda: barcha Xorazm hududlari,X1 PDF 58,"Pitta bilan yaqin ma’no, son bitta boshqa."
+XL-091,og‘o,aka; xo‘jayin,murojaat,lug‘atda: barcha Xorazm hududlari,X1 PDF 58,Roli kontekstga bog‘liq; aka ota ma’nosi bilan ajrat.
+XL-092,osh,mastava; guruch yoki jugaridan suyuq ovqat,taom,lug‘atda: barcha Xorazm hududlari,X1 PDF 60,Har osh so‘zini palov deb olma; yozuv sifati ehtiyot.
+XL-093,oshoq,past; quyi,makon,Hazorasp; Shovot; Bog‘ot; Qo‘shko‘pir; Xiva,X1 PDF 60,Makon.
+XL-094,ochilishmoq I,kayfiyat yaxshilanmoq; kasaldan tuzala boshlamoq,holati,Gurlan; Yangibozor; Bog‘ot; Shovot; Urganch; Xiva; Xonqa; Yangiariq,X1 PDF 62,Ma’no kontekst bilan.
+XL-095,ochilishmoq II,dilkash suhbatlashmoq; erkin his qilmoq,muomala,lug‘atda: barcha Xorazm hududlari,X1 PDF 62,Birinchi ma’no bilan ajrat.
+XL-096,ong,oling,fe’l shakli,Urganch; Gurlan; Yangibozor; Xiva; Xonqa; Hazorasp; Yangiariq; Shovot,X1 PDF 62,Boshqa ong tushunchasi bilan adashtirma; shakl vizual tekshiruvga muhtoj.
+XL-097,ongsot / angsat,oson,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 64,Oddiy yozuv qavsdagi ongsot; angsat transkripsiya yaqinlashtirishi.
+XL-098,a:lakim / alakim,salomga alik,muomala,Urganch; Bog‘ot; Yangibozor; Gurlan; Xonqa,X1 PDF 65,Rasmda a:läkim va qavsda a:lakim; cho‘ziqlik oddiy yozuvda berilmasligi mumkin.
+XL-099,oljoq,olmoqchi,fe’l shakli,Urganch; Qo‘shko‘pir,X1 PDF 66,Niyat ma’nosi; kelajak shakllari bilan bog‘liq.
+XL-100,arqoyin,xotirjam,holati,Urganch; Xiva; Xonqa; Hazorasp; Bog‘ot; Qo‘shko‘pir,X1 PDF 69,Orqoyin varianti bilan ma’no yaqin.
+XL-101,axsham,kecha,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 70,Bu lug‘atda yesterday; boshqa tillardagi evening ma’nosini avtomatik bermang.
+XL-102,aydin,yaxshi; ajoyib,baho,Qo‘shko‘pir; Urganch; Xiva; Bog‘ot; Yangibozor,X1 PDF 70,Ishlaring aydinmi? salomlashuvdagi hol-ahvol konteksti.
+XL-103,ag‘ach,yog‘och,ro‘zg‘or,Urganch; Qo‘shko‘pir; Xiva; Yangiariq,X1 PDF 71,Predmet.
+XL-104,baklamoq,berkitmoq; yopmoq,fe’l,Urganch; Qo‘shko‘pir; Bog‘ot; Yangiariq; Shovot,X1 PDF 74,Baklama tuzlama taomi boshqa ma’no.
+XL-105,bakli,berkilgan; yopiq,holati,lug‘atda: barcha Xorazm hududlari,X1 PDF 74,Predmet holati.
+XL-106,balli,ma’lum; belgilangan,baho,Urganch; Xiva; Xonqa; Hazorasp; Yangiariq,X1 PDF 75,Standart maqtov balli bilan avtomatik birlashtirma.
+XL-107,barak I / bo‘rak,chuchvara,taom,Xorazmning ayrim hududlari,X1 PDF 75,Barak marosimi bilan ajrat.
+XL-108,barak II,to‘yning ertasidagi kelin ko‘rdi,marosim,Qo‘shko‘pir; Urganch; Xonqa; Yangibozor; Bog‘ot,X1 PDF 75,Madaniy kontekst.
+XL-109,ba:s,bahs; tortishuv,diskurs,Xorazmning ayrim hududlari,X1 PDF 75,"OCR bars bo‘lib buzilgan, rasmda ba:s; cho‘ziqlik."
+XL-110,bavak / buvak,chaqaloq,oila,Urganch; Xiva; Yangiariq; Xonqa,X1 PDF 75,Yosh haqida aynan chaqaloq.
+XL-111,bo / ba:,bor; mavjud,grammatika,lug‘atda: barcha Xorazm hududlari,X1 PDF 76,Cho‘ziqlik ilmiy shaklda; ko‘chma borlik emas.
+XL-112,bol,asal,taom,lug‘atda: barcha Xorazm hududlari,X1 PDF 77,Bo‘lmoq fe’li bilan ajrat.
+XL-113,boldiz,qayin singil,qarindoshlik,Qo‘shko‘pir; Urganch; Xonqa; Yangibozor; Bog‘ot,X1 PDF 78,Er/xotinga nisbatan qarindoshlik roli aniqlanadi.
+XL-114,bo:no I,bahona,diskurs,Urganch; Xiva; Xonqa; Hazorasp; Shovot,X1 PDF 78,Bo:no II buyoqqa bilan ajrat.
+XL-115,bo:no II,bu yoqqa,makon,Urganch; Xonqa; Xiva,X1 PDF 79,Makon yo‘nalishi; bahona ma’nosi emas.
+XL-116,borlamoq I,yo‘qlamoq; xabar olmoq,fe’l,Xiva; Yangiariq; Qo‘shko‘pir,X1 PDF 80,Qidirmoq ma’nosi alohida.
+XL-117,borlamoq II,qidirmoq,fe’l,Xorazmning ayrim hududlari,X1 PDF 80,Kontekstga qarab.
+XL-118,boybo‘y,voybo‘; hayrat yoki salbiy namuncha undovi,hissiyot,lug‘atda: barcha Xorazm hududlari,X1 PDF 84,Faqat ijobiy undov sifatida ishlatma.
+XL-119,bozorgun / bazargun,yakshanba,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 85,Har qanday bozor boriladigan kun emas.
+XL-120,beda,bu yerda,makon,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 86,Beda o‘simligi bilan ajrat.
+XL-121,bargi / bergi,qarz,ijtimoiy,Xorazmning ayrim hududlari,X1 PDF 88,Barg o‘simlik qismi bilan adashtirma.
+XL-122,bikash / bikach,qayinsingil; qizlar orasida hazil murojaati,murojaat,Urganch; Xiva,X1 PDF 89,Adresat va munosabatga bog‘liq.
+XL-123,bilak II,bilag‘on,baho,Xorazmning ayrim hududlari,X1 PDF 91,Tana a’zosi bilak boshqa ma’no.
+XL-124,biltir,bultur; o‘tgan yili,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 92,Vaqt.
+XL-125,birdin / birdiy,birdek; baravar,ravish,Xorazmning ayrim hududlari,X1 PDF 94,Qiyos.
+XL-126,biryonnon / biryannan,bir boshdan; batafsil,diskurs,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 96,"Lug‘at ikki shaklni ko‘rsatadi, talaffuz bir xilda majburiy emas."
+XL-127,birzomon / birzaman,bir lahza,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 96,Vaqt.
+XL-128,bitir,bitkaz; tugat,fe’l,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq; Gurlan; Yangibozor,X1 PDF 96,Fe’l.
+XL-129,bitta / pitta,ozgina,miqdor,Hazorasp; Xonqa; Urganch; Xiva,X1 PDF 97,Standart bitta son ma’nosiga avtomatik tenglashtirilmaydi.
+XL-130,biyi I / bexi / begi,behi,meva,lug‘atda: barcha Xorazm hududlari,X1 PDF 98,Meva.
+XL-131,biyi II / bivi / yengga,kelinoyi; katta ayolga murojaat,qarindoshlik,Xiva; Urganch; Shovot; Bog‘ot; Qo‘shko‘pir,X1 PDF 98,Biyi behi ma’nosi boshqa.
+XL-132,bo‘la,xolavachcha,qarindoshlik,Gurlan,X1 PDF 101,Bola yosh farzand bilan ajrat.
+XL-133,bo‘ldirmoq,tugatmoq; yakunlamoq,fe’l,Xiva,X1 PDF 103,Universal bo‘lmoq emas.
+XL-134,buyun,bugun,vaqt,Urganch; Xiva; Xonqa; Hazorasp; Yangiariq,X1 PDF 106,Vaqt.
+XL-135,buz,muz,ro‘zg‘or,Qo‘shko‘pir; Shovot; Xiva; Urganch; Yangiariq,X1 PDF 106,Cho‘ziqlik bu:z; sifat konteksti ham bor.
+XL-136,dagan / dayan,degan,grammatika,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 109,Sifatdosh va aytish ma’nosi saqlanadi.
+XL-137,dak,jim; tinch harakatsiz,holati,Xorazmning ayrim hududlari,X1 PDF 109,O‘tir buyruq konteksti; qo‘pol buyruqqa aylantirma.
+XL-138,damir,temir,ro‘zg‘or,Urganch; Xiva; Xonqa; Hazorasp; Qo‘shko‘pir,X1 PDF 110,Modda nomi.
+XL-139,dapa,tepa,makon,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 112,Makon.
+XL-140,dapa gurring I,quruq gap; safsata,diskurs,Urganch; Yangiariq,X1 PDF 112,"Oddiy suhbat ma’nosi ham bor, baho vaziyati bilan."
+XL-141,dapa gurring II,gurung; muloqot,diskurs,Yangiariq; Yangibozor; Bog‘ot,X1 PDF 112,Oldingi salbiy ma’no bilan ajrat.
+XL-142,darruv / darro‘m,darhol; tez,vaqt,lug‘atda: barcha Xorazm hududlari,X1 PDF 115,Darrom OCRdagi o yozuvi cho‘ziq bo‘lishi mumkin.
+XL-143,dars I,go‘ng; mahalliy o‘g‘it,xo‘jalik,lug‘atda: barcha Xorazm hududlari,X1 PDF 115,Dars mashg‘ulot bilan kontekstda ajrat.
+XL-144,dars II,dars; mashg‘ulot,ta’lim,lug‘atda: barcha Xorazm hududlari,X1 PDF 116,Dars I bilan ajrat.
+XL-145,dasmal siqmoq,laganbardorlik qilmoq,ibora,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 116,So‘zma-so‘z mato siqish tarjimasi emas.
+XL-146,domoq I,tomoq,tana,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 118,Ovqat ma’nosi alohida.
+XL-147,domoq II,ovqat; taom,taom,Xorazmning ayrim hududlari,X1 PDF 118,Tana a’zosi tomoq boshqa ma’no.
+XL-148,donimoq,tanimoq,fe’l,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 119,Kimni tanish obyektini saqla.
+XL-149,doyi,to‘g‘a,qarindoshlik,lug‘atda: barcha Xorazm hududlari,X1 PDF 122,Murojaat adresatga mos bo‘lsin.
+XL-150,dagin / don,yana; shuningdek,diskurs,Urganch; Xiva; Xonqa; Qo‘shko‘pir,X1 PDF 123,X4dagi ta’kid don bilan avtomatik birlashtirma.
+XL-151,deshon,tashqari,makon,lug‘atda: barcha Xorazm hududlari,X1 PDF 125,Makon.
+XL-152,dil I,til; tana a’zosi,tana,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 126,Standart dil yurak/ko‘ngil ma’nosiga avtomatik tenglashtirma.
+XL-153,dim,juda; g‘oyat,daraja,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 127,Kuchaytirgich; har gapga majburiy emas.
+XL-154,dimotolo / dimatala,birato‘la; bir yo‘la,ravish,Yangibozor; Gurlan; Hazorasp,X1 PDF 127,Dim bilan alohida ma’no.
+XL-155,dinnoq I,tirnoq,tana,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 128,Dinnoq II poydevor boshqa.
+XL-156,dinnoq II,poydevor,ro‘zg‘or,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 128,Qurilish ma’nosi.
+XL-157,din,jim bo‘l; tinchlan,pragmatika,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 131,Diniy din bilan kontekstda ajrat; adresatga qo‘pol buyruq ehtimoli.
+XL-158,diyma,tugma,ro‘zg‘or,Urganch; Xiva; Xonqa,X1 PDF 134,Uy buyumi.
+XL-159,dish I,tish,tana,Urganch; Xiva; Xonqa; Yangiariq; Shovot,X1 PDF 134,Dish II astar boshqa.
+XL-160,duvoq,qopqoq,ro‘zg‘or,Shovot; Yangiariq; Xiva; Qo‘shko‘pir,X1 PDF 136,Duvak/tuvak idishi boshqa ma’no.
+XL-161,duxtir,shifokor,kasb,lug‘atda: barcha Xorazm hududlari,X1 PDF 136,Faqat so‘z izohi.
+XL-162,dupdurus / dubdurus,tuppa-tuzuk,baho,manbada hudud belgilanmagan,X1 PDF 137,Holat bahosi.
+XL-163,dur,to‘xta,fe’l,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 140,Fe’l va holat konteksti.
+XL-164,duvak / tuvak I,beshik tuvagi,ro‘zg‘or,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq; Gurlan; Yangibozor,X1 PDF 141,Qopqoq duvoq bilan ajrat.
+XL-165,duvak / tuvak II,gul tuvagi,ro‘zg‘or,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq; Gurlan; Yangibozor,X1 PDF 141,Beshik buyumi ma’nosi boshqa.
+XL-166,duzuvli,tuzuk; yaxshi,baho,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq,X1 PDF 143,Ishlaydigan holat sifatida ham.
+XL-167,dushunmak,tushunmoq,fe’l,Hazorasp; Xonqa; Shovot,X1 PDF 144,Lug‘atda infinitiv boshliq tushunmadim deb izohlangan; misol inkor-o‘tgan zamon. Ma’no shaxs-zamon bilan olinadi.
+XL-168,dog‘ri,to‘g‘ri; rost,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 146,"Yo‘nalish, haqiqat va baho konteksti."
+XL-169,ejoyip / ejayip,yaxshi; zo‘r,baho,lug‘atda: barcha Xorazm hududlari,X1 PDF 149,"Qavsda ejoyip, transkripsiya ejayipga yaqin; mahalliy kundalik imlo tasdiqlanmagan."
+XL-170,el I,qo‘l,tana,Yangibozor; Gurlan,X1 PDF 150,El xalq ma’nosi boshqa.
+XL-171,el II,xalq; xaloyiq,ijtimoiy,Urganch; Xonqa; Qo‘shko‘pir; Bog‘ot; Yangiariq; Xiva; Yangibozor; Gurlan,X1 PDF 150,Qo‘l ma’nosi bilan ajrat.
+XL-172,elasa,shunday bo‘lsa,diskurs,Xorazmning ayrim hududlari,X1 PDF 151,Diskurs o‘tishi.
+XL-173,elashtirmoq,aybga buyurmoq; inkorda uzr mazmuni,muomala,Bog‘ot; Yangibozor; Urganch,X1 PDF 151,Shakl va inkor ma’nosini saqla.
+XL-174,elot,mahalla; guzar,makon,Xiva; Xonqa; Hazorasp; Yangiariq; Yangibozor; Gurlan,X1 PDF 151,Mahalla tashkiloti va joyi.
+XL-175,emdolli,yaxshi; soz; modal qabul,diskurs,Xorazmning ayrim hududlari,X1 PDF 152,Amdolli ta’kid bilan ma’no doirasi bir xil deb olinmaydi.
+XL-176,ertay,ertak,ta’lim,Xiva; Xonqa,X1 PDF 154,Hikoya janri.
+XL-177,et,go‘sht,taom,Xiva; Xonqa; Urganch,X1 PDF 155,"X4 jadvalida Xiva bilan cheklangan boshqa kuzatuv, qarama-qarshilik saqlanadi."
+XL-178,etyoji I,mabodo; ehtimollik,diskurs,lug‘atda: barcha Xorazm hududlari,X1 PDF 155,Et yoji tahlil qilinmaydi; modal birlik.
+XL-179,etyoji II,zaxira; g‘amlab qo‘yilgan narsa,ro‘zg‘or,Xorazmning ayrim hududlari,X1 PDF 155,Birinchi ma’no bilan ajrat.
+XL-180,eyar I,agar,bog‘lovchi,Xorazmning ayrim hududlari,X1 PDF 156,Egar ma’nosi boshqa.
+XL-181,eyar II,egar,xo‘jalik,Urganch; Qo‘shko‘pir; Xiva; Xonqa; Bog‘ot; Hazorasp; Shovot; Yangiariq; Yangibozor; Gurlan,X1 PDF 156,Shart bog‘lovchisi ma’nosi bilan ajrat.
+XL-182,eyyom / eyyam,allaqachon,vaqt,Xorazmning ayrim hududlari,X1 PDF 158,Vaqt.
+XL-183,eshik,tashqari; tashqi hovli,makon,lug‘atda: barcha Xorazm hududlari,X1 PDF 159,Manbada tashqi erkaklar hovlisi ma’nosi ham bor; X4dagi eshik qopi jadvali boshqa ma’no.
+XL-184,engsadan deyish,asabga tegish,ibora,Yangibozor; Gurlan,X1 PDF 159,So‘zma-so‘z ensa tegishi emas.
+XL-185,yimirta,tuxum,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-01da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-186,gashir,sabzi,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-02da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-187,timittin,binoyiday,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-03da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-188,parahatchiliq,tinchlik,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-04da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-189,navlin,bilmadim,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-05da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-190,zangi,narvon,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-06da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-191,ejashdi,hazillashdi,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-09da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-192,chapak,qarsak,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-10da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-193,nerda,qayerda,savol,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-11da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-194,man,men,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-12da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-195,qopi,eshik,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-13da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-196,qarinja,chumoli,lug‘aviy yoki gap shakli,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-14da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-197,borosonmi / borsommi / borosomo,borasanmi,savol,Urganch; Xiva; Qo‘shko‘pir; Gurlan,X4 PDF 5,Tuman variantlari XJ-16da. So‘z turkumi yorlig‘i muallifniki; navlin va borosonmi shaxs-zamonli gap shakllari.
+XL-198,binga,bunga,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-199,yunga,unga,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-200,vundan,undan,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-201,onoshu,ana shu,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-202,inashu,mana shu,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-203,ono,ana,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-204,ina,mana,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-205,monga,menga,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-206,songa,senga,olmosh / ko‘rsatish birligi,X4 maqolasida tumani ko‘rsatilmagan,X4 PDF 6,Maqoladagi rasm-jadval; boshqa manga/sanga variantlari grammatika kartasida.
+XL-207,kadi,qovoq,lug‘aviy ma’no,Manbada aniq tuman ko‘rsatilmagan,X4 PDF 6,Sabzavot ma’nosi; sevgan kishi ma’nosi bilan kontekstda ajratiladi.
+XL-208,kadi,sevgan qizi yoki yigiti,lug‘aviy ma’no,Manbada aniq tuman ko‘rsatilmagan,X4 PDF 6,Faqat X4 maqolasidagi izoh; zamonaviy ommaviy qo‘llanish tekshirilmagan.
+XL-209,ulli,katta,lug‘aviy ma’no,Manbada aniq tuman ko‘rsatilmagan,T2 PDF 87,Darslikning o‘g‘uz leksikasi; hamma tuman uchun yagona variant emas.

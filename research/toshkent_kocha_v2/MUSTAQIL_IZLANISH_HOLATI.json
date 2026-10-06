@@ -1,0 +1,72 @@
+{
+  "requested": "Foydalanuvchi eksporti bilan cheklanmay, bugungi mustaqil ochiq manbalarni topish.",
+  "attempted_access": [
+    {
+      "id": "google",
+      "url": "https://www.google.com/search?q=Tashkent+slang+Uzbek+Russian+youth+language",
+      "after_network_permission": true,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "content_read": false
+    },
+    {
+      "id": "github",
+      "url": "https://api.github.com/search/repositories?q=uzbek+slang",
+      "after_network_permission": true,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "content_read": false
+    },
+    {
+      "id": "openalex",
+      "url": "https://api.openalex.org/works?search=Uzbek+youth+slang&per-page=5",
+      "after_network_permission": true,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "content_read": false
+    },
+    {
+      "id": "cyberleninka",
+      "url": "https://cyberleninka.ru/search?q=%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9+%D1%81%D0%BB%D0%B5%D0%BD%D0%B3",
+      "after_network_permission": true,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "content_read": false
+    },
+    {
+      "id": "telegram_http",
+      "url": "http://t.me/Tashkent_Chat_Go",
+      "after_network_permission": true,
+      "error": "HTTP Error 403: Forbidden",
+      "content_read": false
+    },
+    {
+      "url": "https://www.gazeta.uz/oz/",
+      "method": "urllib with approved escalation",
+      "content_read": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://kun.uz/",
+      "method": "urllib with approved escalation",
+      "content_read": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://en.wiktionary.org/wiki/%D0%B1%D1%80%D0%B0%D1%82%D0%B0%D0%BD",
+      "method": "urllib with approved escalation",
+      "content_read": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "new_external_content_read": 0,
+  "external_citations_verified": 0,
+  "blocked_reason": "Proxy CONNECT 403; tarmoq ruxsati berilgan holda ham ulanish ochilmadi.",
+  "still_unfulfilled": "2026-yilga oid kamida boshqa mustaqil chat/maqola/ochiq video matni bilan dalilni qiyoslash.",
+  "search_queries_to_resume": [
+    "Toshkent yoshlar slengi ruscha o‘zbekcha",
+    "ташкентский сленг молодёжь",
+    "Uzbek youth slang Russian Uzbek code switching Tashkent"
+  ],
+  "do_not_count_as_read_sources": [
+    "Qidiruv URLlari",
+    "Ochib bo‘lmagan lug‘at sahifasi",
+    "O‘qilmagan OAV bosh sahifasi"
+  ]
+}

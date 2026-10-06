@@ -1,0 +1,99 @@
+{
+  "uploaded_sources": [
+    {
+      "id": "T1",
+      "file_id": "file_00000000aa4c81f4825560aaecbea46f",
+      "path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "pages": 139,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+      "characters": 260904,
+      "author": "Samixon Ashirboyev",
+      "title": "O‘zbek dialektologiyasi",
+      "year": 2016,
+      "publisher": "Navro‘z, Toshkent",
+      "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "text_extraction": "PDF matn qatlami; fonetik shrift/OCR buzilishlari bo‘lishi mumkin",
+      "exact_duplicates_in_previous_regions": [
+        {
+          "region": "fargona",
+          "source_id": "F1"
+        },
+        {
+          "region": "namangan",
+          "source_id": "N2"
+        },
+        {
+          "region": "samarqand",
+          "source_id": "M1"
+        }
+      ],
+      "independent_field_observation_proven": false
+    },
+    {
+      "id": "T2",
+      "file_id": "file_0000000013d881f4a42f7ea8582e3dc2",
+      "path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+      "pages": 96,
+      "sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d",
+      "characters": 161885,
+      "author": "Yoqub Saidov",
+      "title": "O‘zbek dialektologiyasi (to‘ldirilgan va qayta nashri)",
+      "year": 2021,
+      "publisher": "Durdona, Buxoro",
+      "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+      "text_extraction": "PDF matn qatlami; fonetik shrift/OCR buzilishlari bo‘lishi mumkin",
+      "exact_duplicates_in_previous_regions": [],
+      "independent_field_observation_proven": false
+    },
+    {
+      "id": "T3",
+      "file_id": "file_00000000187881f48aa077617a660d76",
+      "path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf",
+      "pages": 88,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+      "characters": 243755,
+      "author": "Sh. Xudoyqulova",
+      "title": "O‘zbek dialektologiyasi, o‘quv-uslubiy majmua",
+      "year": 2008,
+      "publisher": "Guliston",
+      "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf",
+      "text_extraction": "PDF matn qatlami; fonetik shrift/OCR buzilishlari bo‘lishi mumkin",
+      "exact_duplicates_in_previous_regions": [
+        {
+          "region": "andijon",
+          "source_id": "A2"
+        },
+        {
+          "region": "fargona",
+          "source_id": "F2"
+        },
+        {
+          "region": "jizzax",
+          "source_id": "J2"
+        },
+        {
+          "region": "samarqand",
+          "source_id": "M2"
+        }
+      ],
+      "independent_field_observation_proven": false
+    },
+    {
+      "id": "T4",
+      "file_id": "file_000000008e0c81f491c3fe2369312bd3",
+      "path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+      "pages": 302,
+      "sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+      "characters": 650235,
+      "author": "Nazar Rajabov",
+      "title": "O‘zbek shevashunosligi",
+      "year": 1996,
+      "publisher": "O‘qituvchi, Toshkent",
+      "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+      "text_extraction": "PDF matn qatlami; fonetik shrift/OCR buzilishlari bo‘lishi mumkin",
+      "exact_duplicates_in_previous_regions": [],
+      "independent_field_observation_proven": false
+    }
+  ],
+  "source_reuse_note": "Bir xil SHA yangi mustaqil dalil hisoblanmaydi. Turli darsliklar bir tarixiy materialni takrorlagan bo‘lishi ham mumkin."
+}

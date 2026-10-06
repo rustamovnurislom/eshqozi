@@ -1,0 +1,79 @@
+{
+  "source_file_id": "file_000000009bd08211a0b7d3d5b627927f",
+  "source_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+  "sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+  "root_keys": [
+    "name",
+    "type",
+    "id",
+    "messages"
+  ],
+  "declared_chat_type": "public_supergroup",
+  "total_export_records": 21505,
+  "service_records": 656,
+  "ordinary_message_records": 20849,
+  "nonempty_text_messages": 17575,
+  "analysis_eligible_messages": 17450,
+  "distinct_author_ids_ordinary": 263,
+  "distinct_author_codes_nonempty": 257,
+  "export_all_record_date_range": [
+    "2021-04-23T14:38:37",
+    "2026-09-18T00:35:27"
+  ],
+  "ordinary_message_date_range": [
+    "2021-04-23T14:40:14",
+    "2023-10-22T21:03:07"
+  ],
+  "nonempty_text_date_range": [
+    "2021-04-23T14:40:14",
+    "2023-10-22T21:03:07"
+  ],
+  "ordinary_messages_by_year": {
+    "2021": 20767,
+    "2022": 60,
+    "2023": 22
+  },
+  "nonempty_text_by_year": {
+    "2021": 17505,
+    "2022": 50,
+    "2023": 20
+  },
+  "eligible_messages_by_year": {
+    "2021": 17381,
+    "2022": 49,
+    "2023": 20
+  },
+  "exclusion_reason_counts": {
+    "matnsiz": 3274,
+    "forward": 29,
+    "reklama_shabloni": 14,
+    "oyin_botining_jadvali": 4,
+    "bot_buyrugi": 89
+  },
+  "largest_two_author_share_of_nonempty_text": 0.4157041251778094,
+  "nonempty_text_length_median": 9,
+  "nonempty_text_shorter_than_30_chars": 16312,
+  "script_distribution_nonempty": {
+    "latin_only": 12022,
+    "no_letters": 1611,
+    "cyrillic_only": 3861,
+    "latin_and_cyrillic": 81
+  },
+  "media_types": {
+    "voice_message": 1792,
+    "sticker": 448,
+    "video_file": 229,
+    "video_message": 253,
+    "animation": 291,
+    "audio_file": 109
+  },
+  "ordinary_reply_messages": 11624,
+  "eligible_replies_with_parent_in_export": 7495,
+  "audio_read_or_transcribed": false,
+  "export_has_media_metadata_but_media_files_not_uploaded": true,
+  "verified_participant_gender_age_location": false,
+  "modern_2026_slang_verified": false,
+  "all_records_parsed": true,
+  "all_messages_read_line_by_line": false,
+  "source_instructions_executed": false
+}

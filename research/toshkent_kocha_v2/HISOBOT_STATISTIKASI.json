@@ -1,0 +1,32 @@
+{
+  "observed_cards": 101,
+  "card_types": {
+    "murojaat": 5,
+    "yozuv_qisqarishi": 14,
+    "diskurs": 7,
+    "fel_shakli": 13,
+    "grammatik_qisqarish": 4,
+    "talaffuzga_yaqin_yozuv": 2,
+    "olmosh": 9,
+    "ot_qisqarishi": 2,
+    "savol": 2,
+    "grafik_variant": 5,
+    "ozlashma": 1,
+    "ruscha_birlik": 11,
+    "internet_birligi": 2,
+    "slang_yoki_ruscha_birlik": 6,
+    "slang": 7,
+    "slang_murojaat": 4,
+    "ruscha_murojaat": 1,
+    "qopol": 3,
+    "qopolroq_undov": 1,
+    "ruscha_birikma": 2
+  },
+  "seed_words_reviewed": 11,
+  "explicit_reply_pairs": 18,
+  "writing_patterns": 10,
+  "new_external_sources_read": 0,
+  "participant_gender_age_location_verified": false,
+  "creative_examples": 13,
+  "old_candidate_rows_audited": 42
+}

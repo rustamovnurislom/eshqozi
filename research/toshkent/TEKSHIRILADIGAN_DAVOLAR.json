@@ -1,0 +1,424 @@
+[
+  {
+    "id": "TEK-001",
+    "label": "T2 unli ro‘yxati buzilgan",
+    "meaning_or_analysis_uz": "Oltita deb i ikki marta, sakkizta deb oltita belgi keltiriladi. Tovushlar jadvali shu ro‘yxatdan qurilmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 80,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "m ulardagi unlilar miqdori ko’p emas, ular 6-8 dan oshmaydi. Jumladan, Toshkent shevasida oltita (i, o, e, a, i, o’), Namangan",
+        "search_needle": "oltita",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "shevasida sakkizta (u, a, a, o, u, e), Samarqand-Buxoro shevasida oltita (o, e, a,` o’, o’) fonema mavjud; 4) hozirgi o’zbek adabiy tilida so’zning oxirida q kelganda, ushbu lahjada ham keladi: issi",
+        "search_needle": "sakkizta",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-002",
+    "label": "T2 q keladi degan jumla misolga zid",
+    "meaning_or_analysis_uz": "Issiq→issi, tirnoq→tirno, sandiq→sandi misollari tushishni ko‘rsatadi. Da’vo va misol ajratiladi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": ", a,` o’, o’) fonema mavjud; 4) hozirgi o’zbek adabiy tilida so’zning oxirida q kelganda, ushbu lahjada ham keladi: issiq-issi, tirnoq-tirno, sandiq-sandi kabi; Morfologik xususiyatlari quyidagilardan iborat: 1) aniq hozirgi zamon fe`lni ifodalovchi ikki morfologik belgiga esa: a) – vot, Naman",
+        "search_needle": "ushbu lahjada ham keladi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-003",
+    "label": "T2 qilutti shaxs glossi",
+    "meaning_or_analysis_uz": "Qilutti qilyapman deb berilgan; III shaxs bilan I shaxs bir xil emas. Bu tenglik o‘qitish jufti sifatida olinmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "vchi ikki morfologik belgiga esa: a) – vot, Namangan shevasida –ut: borvotman, borvotsan, qilutti (qilyapman), qiluttimiz (qilayapmiz) kabi, Namangan shakli –ut fonetik qonuniyatlar asosida o’zgargan bo’lib, u aslida –vot qo’shimchasiga borib taqaladi; b) –yap qo’shimchasi Farg`ona vodiys",
+        "search_needle": "qilutti (qilyapman)",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-004",
+    "label": "T2 zavutta ishlatadi / ishlaydi",
+    "meaning_or_analysis_uz": "Ishlatadi va ishlaydi harakat vazifasi bilan farq qiladi; sof talaffuz almashtirish jufti emas.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "’lmaydi) kabi; 4) ayrim hollarda o’rin-payt kelishigi –ta qo’shimchasi bilan shakllanadi: zavutta ishlatadi (zavodda ishlaydi), Toshkentta yashaydi (Toshkentda yashaydi) kabi;",
+        "search_needle": "zavutta ishlatadi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-005",
+    "label": "T2 lahjada singarmonizm yo‘q",
+    "meaning_or_analysis_uz": "Butun lahjaga umumlashtirish T1 shimoliy singarmonizmli qarluq shevalari istisnosiga zid.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 80,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "si y lashgan shevalardandir; 3) lahjada unli tovush uyg`unligi yoki ohangdoshlik hodisasi uchramaydi. Shuning uchun ham ulardagi unlilar miqdori ko’p emas, ular 6-8 dan oshmaydi. Jumladan, Toshkent shevasida oltita (i, o, e, a, i, o’), Namangan",
+        "search_needle": "uchramaydi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 57,
+        "printed_page": 56,
+        "anchor_normalized_whitespace": "irgan shevalaming aksariyati turkiy tillarga xos bo‘lgan singarmonizmni yo‘qotgan. Bundan shimoliy o‘zbek shevalarigina mustasnodir. Bu lahjaning boshqa lahjalardan farqi uning singarmonizmni saqlashiga ko‘ra ikki guruhga ajralishidir, ya’ni shahar va shahar tipidagi shevalarda singarmonizm qonuni ",
+        "search_needle": "shimoliy o‘zbek shevalarigina",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-006",
+    "label": "T3 adabiy tilda 9 unli",
+    "meaning_or_analysis_uz": "Fonema/allofon/transkripsiya mezoni ochiq emas; zamonaviy adabiy tilga tayyor fonemik xulosa emas.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": "abiy tildagidan kamroq. Chunki hozirgi o’zbek adabiy tilida xuddi eski o’zbek tilidagidek 9 unli tovush mavjud. Ammo ular 6 ta harf bilan ifodalanadi. O’zbek shevalari undosh tovushlar tizimi jihatidan ham o’zaro farqlanadi. Chunonchi, Toshkent va Farg’ona guruh lahjalarda la",
+        "search_needle": "9 unli",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-007",
+    "label": "T3 v yo‘q talqini",
+    "meaning_or_analysis_uz": "39-bet lab-tish v haqida; 40-bet lab-lab v ni qayd qiladi. Lotin v harfini butunlay taqiqlash noto‘g‘ri.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "anchor_normalized_whitespace": " tizimi jihatidan ham o’zaro farqlanadi. Chunonchi, Toshkent va Farg’ona guruh lahjalarda lab-tish f va v, til oldi sirg’aluvchi j, affrikat ts, bo’g’iz h undoshlari yo’q. Bu undoshlar tabiatan o’ziga yaqin bo’lgan boshqa tovushlar bilan almashadi: foyda>pəydə, vagon>vvəgən, ts",
+        "search_needle": "lab-tish",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      },
+      {
+        "source_id": "T3",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "anchor_normalized_whitespace": "a (f) tovushi (p) tovushiga o’tadi: k’ft>k’pt, kasofat> kəsəpət. Shahar guruh shevalarida lab-lab, sirg’aluvchi, jarangli (v) undoshi adabiy tildagi ushbu tovushdan deyarli farq qilmaydi: vədj - vadj, savug’-savuq, ikov-ikkav. Andijon shevasida m>n jarayonini ham uchratish mumkin: momaguldr",
+        "search_needle": "lab-lab, sirg’aluvchi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-008",
+    "label": "T3 ovoz/orzu arabcha degan umumlashtirish",
+    "meaning_or_analysis_uz": "Shakllar saqlanadi; etimologik belgi shu paragraflardan avtomatik meros olinmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "an juda ko’p so’zlar o’zlashgan. Shahar guruh shevalarda ism guruhida va ravish turkumida arabcha so’zlar anchagina. Masalan: Toshkent shevasida əvəz (adabiy imloda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (",
+        "search_needle": "arabcha so’zlar",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-009",
+    "label": "T1 harakat nomi qatori",
+    "meaning_or_analysis_uz": "-ish harakat nomi deya yetishdi/qurishdi misoli berilgan; -ish va -di vazifalari alohida tahlil talab qiladi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "arkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгьшть ~ jetisti, qurishdi ~ куруштъ ~ qurusti. -ляр ~ lar affiksi va uning variantlari hurmat va uluglash ma’nosini ifodalaydi. -лъг/луг ",
+        "search_needle": "harakat nomining",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-010",
+    "label": "Parkentda faqat -ot",
+    "meaning_or_analysis_uz": "T1 -ot ni qayd etgan, T4 -vat ham mavjudligini aytadi. Bir-birini inkor qiluvchi profil tuzilmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "tb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгьшть ~ jetisti, qurishdi ~ куруштъ ~ q",
+        "search_needle": "Parkentda",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "в э т т ъ , ъ шлэ- в эт м ъз дегэи Карноб) вабошкалар Тошкент ва Карнобдаги бу хусусичтни Паркент шевасидч *ам учратамиз: чърнъллъ ъдэра учунэпке- в э т т ъ м ь , \\а ъдэрага э п к е в э т т ъ м , э п к е в э к э н Къзъмъз Сетка лэйук йэр-йэр каби. Аник ^озирги замон феълининг ",
+        "search_needle": "Паркент",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-011",
+    "label": "T4 -na davomiy o‘tgan",
+    "meaning_or_analysis_uz": "Ta’rif bor, lekin shu paragrafda misol yetishmaydi; bot uchun yangi paradigma yasalmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 224,
+        "printed_page": 226,
+        "anchor_normalized_whitespace": "и *ам мавжуд, яъни феъл узаги би­ лон утган замон аник феълининг -дъ кУшимчаси Ур- тясила -н э и[и-харакатнинг хали тамом б^лмаганлиги- ни, лавом этаётганлигини англатади. Узбек тилининг ципчок ла^жасида апиклик майли замон шаклларининг ифодаланиши жи^атидаи узига хос www.z",
+        "search_needle": "-н э",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-012",
+    "label": "O‘g‘ir / keli ma’nosi",
+    "meaning_or_analysis_uz": "T3 jadvalida o‘g‘ir, T3 p56 uy buyumlari qatori bor; aniq adabiy ma’noni mustaqil lug‘at bilan tasdiqlash kerak.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "shevasida chəqələ: chaqaloq buvək much(ъ)chə musъcha mъsъəchə gərъmdorъ qalampur qalampъr o’gъr o’g’ur kelъ Nazorat topshiriqlari 1.Lahjaning leksik xususiyatlari haqida fikr yuritishga harakat qiling (kategoriya- idrok). 2.Qavm-qarindoshlik atamalarini o’z shevangiz va adab",
+        "search_needle": "o’gъr",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      },
+      {
+        "source_id": "T3",
+        "pdf_page": 56,
+        "printed_page": 56,
+        "anchor_normalized_whitespace": "inch, keshek. Uy-ro’zg’or buyumlarining atamalari: qozon-qazon, tevek-tabaq, legen-leget, og’r- keli-so:kъ, panshaxa-beshlik, xurma-xurmeche. Agar biz o’zbek shevalari leksikasida mavjud bo’lgan so’zlarni tarixiy-traditsion nuqtai –nazardan qaraydigan bo’lsak, shuningdek shevalar",
+        "search_needle": "og’r- keli",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-013",
+    "label": "Eski bog‘bon matni va yoshlar nutqi",
+    "meaning_or_analysis_uz": "T1 matnida so‘zlovchi qariganini aytadi; texnologiya/yoshlar slengi haqida bevosita dalil bermaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "ъ бэ:. Эзгънэ сэвзъ-пъйэз, кэртьшкэйэм еккэммэн, йегулувгэ йэрэшэ. Бэллэ ДЭЛЭДЭ ЪШЛЭШЭДЪ. Кэръп кзлдъм, КЭДЪМ мэнэм дэлэдэ ъшлэр-ъдъм. Хэзър тэмэркэгэ еккэн нэрсэлэ:гэ, тэккэ кэрэп турэмэн. Джъм туръболэдъ дъйъсмъ, ъшлэп оргэнгэн эдэмгэ. Иэздэ дэлэ бэгьдэ кэрзвулчълъйэм КЬЛЭМЗН, бэ",
+        "search_needle": "Кэръп кзлдъм",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-014",
+    "label": "Xalqona davo haqidagi gap",
+    "meaning_or_analysis_uz": "Uzum ming bir dardga davo degan ibora monologning baholovchi xalqona fikri; tibbiy bilim sifatida kiritilmaydi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "ъп беръй, кэрсъллэтьп йеп корън, ошэндэ бълэсъс бэггь, узъммъ хэсъйэтьнъ. Узъм джэнъвэрэм мън бър дэрткэ дэвэ. Е, рэстэнэм бъ-нъмэ дъвэтувдъм. Хъ, бэ:дэрчълъйгэ кесэв (< келсак), куздэ узъмлэ узъп элъцгэндэн кегьн тэккъ комъш керэй. Комъшдэн элдън узъммъ зэцгь, нэвдэлэрънъ ъшкэмдэн чушъръ",
+        "search_needle": "мън бър дэрткэ дэвэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-015",
+    "label": "Adabiy til = aynan Toshkent emas",
+    "meaning_or_analysis_uz": "T1 shartli tayanch deb beradi va bir-ikki sheva bilan bog‘lash to‘g‘ri emasligini qo‘shadi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 76,
+        "printed_page": 75,
+        "anchor_normalized_whitespace": "i. Tillar tarixida “o‘lik tillar” mavjudligi haqida ma’lumotlar ko‘p. 0 ‘zbek adabiy tili shartli ravishda fonetik jihatdan Toshkent shahar dialektiga, morfologik jihatdan esa Farg‘ona dialektiga tayanadi. Ma’lumki, Toshkent shevalari 6ta unlili (y/u, о/о, э/а, e/e, ъ/i, o/a) dialektdi",
+        "search_needle": "shartli ravishda",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 76,
+        "printed_page": 75,
+        "anchor_normalized_whitespace": "abul qilingan. Aslida adabiy tilni bir yoki ikki sheva yoki dialekt bilan bog‘lab qo‘yish juda ham to‘g‘ri emas, balki o‘zbek adabiy tili shevalar hisobiga boyib, mukammallashib boradi. Shu ma’noda shevalar adabiy tilning boyish manbai bo‘lib qoladi. Garchand, adabiy tilda qarluq-chigil-uyg",
+        "search_needle": "juda ham to‘g‘ri emas",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "TEK-016",
+    "label": "T2 katalog 74, PDF 96",
+    "meaning_or_analysis_uz": "Nashr metama’lumoti 74 bet deydi; yuborilgan PDF 96 sahifa. Havolalar PDF tartib raqamiga bog‘lanadi.",
+    "area": "Manba sifati va talqin",
+    "notes": "",
+    "evidence_status": "tayyor_qoida_emas",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "k qo’llanma / Y. Saidov. - Buxoro : \"Sadriddin Salim Buxoriy\" Durdona nashriyoti, 2021. - 74 b. KBК 81.2O'zb-67 Mazkur o’quv-metodik qo’llanmada o’zbek dialektologiyasining fan sifatidagi xususiyatlari, shakllanishi, o’zbek sheva, lahja, dilektlari va ularga xos sifatlar, sh",
+        "search_needle": "74 b.",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

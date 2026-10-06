@@ -1,0 +1,159 @@
+[
+  {
+    "id": "XI-01",
+    "title": "Og‘zini suvi oqdi",
+    "claim_uz": "Juda charchadi; holdan toydi.",
+    "scope": "X4 sheva tavsifi.",
+    "bot_application": "Istak/ishtahti ma’nosidagi boshqa umumiy ibora bilan ajrat.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "Og‘zini suvi oqdi",
+        "quote": "oda keladigan holatlarni kuzatishimiz mumkin. Og‘zaki nutqda juda charchamoq ma’nosini bildiruvchi “Og‘zini suvi oqdi” iborasi mavjud bo‘lib, bu ibora o‘zbek adabiy tilidagi “Holdan toymoq” iborasiga teng keladi. Shuningdek, ushbu iboraning Xorazm shevasida “Oyoqinnan o‘t chiqdi” sinonim iborasi ham uchrab turadi. Bu iboraning birinchi iboradan deyarli farqi yo‘q. Misol uchun, “to‘y o‘yda ish atav",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XI-02",
+    "title": "Oyoqinnan o‘t chiqdi",
+    "claim_uz": "Juda charchash iborasi.",
+    "scope": "X4 sheva tavsifi.",
+    "bot_application": "Jismoniy voqea deb talqin qilma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "Oyoqinnan",
+        "quote": "dabiy tilidagi “Holdan toymoq” iborasiga teng keladi. Shuningdek, ushbu iboraning Xorazm shevasida “Oyoqinnan o‘t chiqdi” sinonim iborasi ham uchrab turadi. Bu iboraning birinchi iboradan deyarli farqi yo‘q. Misol uchun, “to‘y o‘yda ish atavarip, oyoqimnon o‘t chiqdi” yoki “og‘zimni suvi oqdi” birikmasini ham qo‘llash mumkin. Jumladan, Qo‘shko‘pir aholi shevasi nutqida bu iboralar bilan yana bitta",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XI-03",
+    "title": "Go‘zzini go‘ki so‘kildi",
+    "claim_uz": "Ko‘z bilan ishlashdan qattiq charchash.",
+    "scope": "Qo‘shko‘pir; kompyuter yoki tikuv ishi.",
+    "bot_application": "Barcha umumiy charchoqga avtomatik ishlatma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "Go‘zzini go‘ki",
+        "quote": "aholi shevasi nutqida bu iboralar bilan yana bitta sinonimlik hosil qiluvchi ibora borki, bu ibora “Go‘zzini go‘ki so‘kildi” tarzida qo‘llanadi. Bu ibora ham “qattiq charchadi” ma’nosini bildiradi. Garchi uning ma’nosi ham yuqoridagi iboralar bilan deyarli bir xil bo‘lsa-da, bu iboraning ahamiyatli jihati ham borki, ibora sal tor ma’noda ishlatilib, faqat ko‘z orqali qilinadigan jismoniy harakatla",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XI-04",
+    "title": "Borg‘ono boldiz, galgana yengga",
+    "claim_uz": "Kerakli-keraksiz joyda paydo bo‘ladigan odamga baho.",
+    "scope": "X4 sheva tavsifi.",
+    "bot_application": "Boldiz/yengga qarindoshlik so‘zlarini literal odamlar deb tushunma.",
+    "evidence": [
+      {
+        "source_id": "X4",
+        "pdf_page": 6,
+        "printed_page": 390,
+        "anchor": "Borg‘ono boldiz",
+        "quote": "kavarip go‘zzimni go‘ki so‘kildi (Qo‘shko‘pir sheva og‘zaki nutqidan). Shuningdek ushbu shevalarda “Borg‘ono boldiz, galgana yengga” kerakli va keraksiz joylarga ham boraveradigan, hamma joyda topiladigan, odamga nisbatan qo‘llaniladi. “O‘lmagay bi bolo hammeda bo bi borg‘ono boldiz, galgana yenggachilik atip.” 390 http://compling.navoiy-uni.uz/",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+        "source_sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XI-05",
+    "title": "Dasmal siqmoq",
+    "claim_uz": "Laganbardorlik qilish.",
+    "scope": "X1dagi bir necha tuman.",
+    "bot_application": "Xushomad vaziyati bilan.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 116,
+        "printed_page": 115,
+        "anchor": "laganbardorlik",
+        "quote": "rvcicJcir. nerlcidcin gdlyal'irscm ? diismal siqmaq [dasmol siqmoq] - ibora, soyasiga salom bermoq, laganbardorlik qilmoq. (Urg., Q.kpr., Xv., Xnq., Bg't., H.asp., Shvt.,Y.ariq.). Dasmal siqip hiimmdini cingsdsim qat'infi. diistii [dasta] — turli asboblarning qo‘l bilan ushlanadigan qismi; sop. tutqich, tutqa, qabza (Urg., Q.kpr., Xv” Xnq., Bg4., H.asp., Slivt” Y.ariq., Grin., Y.bzr.). Belm cldstc",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      },
+      {
+        "source_id": "X1",
+        "pdf_page": 121,
+        "printed_page": 120,
+        "anchor": "laganbardorlik",
+        "quote": " dasniallan'i ne.dci qoydisla, azarmcin buna tap'ib bilmin yunbmdn. dasmal siqmaq [dasmal siqmaq] - laganbardorlik qilmoq, o‘z manfaati uchun mansabdor oldida o4zini juda tuban tutib, unga xushomad qilishga tirishadigan pastkash odam, xushomadgo'y (Urg., Q.kpr., Xv., Xnq., H.asp., Shvt., Y.ariq.). V'ilam gorsdijizld bar'ib dasmal s'icfib yai'ibdila. datmaq [dotmoq] — tatimoq, ta’m, ma’za kabilarni",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": false,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  },
+  {
+    "id": "XI-06",
+    "title": "Engsadan deyish",
+    "claim_uz": "Asabga tegish.",
+    "scope": "Yangibozor/Gurlan.",
+    "bot_application": "Jismoniy ensaga tegish ma’nosi bilan ajrat.",
+    "evidence": [
+      {
+        "source_id": "X1",
+        "pdf_page": 159,
+        "printed_page": 158,
+        "anchor": "asabga tegish",
+        "quote": "r bermoq (Xnq., X v ”Urg.). Pariam leyinnan eyil'ip гщксШш aldim. eqsadan deyi§ [engsadan deyish] - asabga tegish, ibora vazifasida qoMlaniladi (Y.bzr., Grin.). A^'i gappi yaman etjscidan deydi lek'in. en§a§mak [engshashmak] - gap talashmoq, o4zimkini m a ’qullash uchun harakat qilmoq, talashmoq, bahslashmoq, o4chakishmoq (Urg., Q.kpr., X v ” Xnq., B g 4 ，H.asp., Shvt.,Y.ariq, Y.bzr., Grin.). San ",
+        "quote_format": "extracted_text_whitespace_collapsed",
+        "pdf_path": "/workspace/attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+        "source_sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b",
+        "visual_page_reviewed": true,
+        "evidence_kind": "text",
+        "audio_verified": false
+      }
+    ],
+    "universal_replace_rule": false,
+    "audio_verified": false
+  }
+]

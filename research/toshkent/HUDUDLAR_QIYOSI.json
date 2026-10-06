@@ -1,0 +1,272 @@
+[
+  {
+    "id": "HUD-001",
+    "label": "Toshkent—Farg‘ona davom zamoni",
+    "meaning_or_analysis_uz": "T1 Toshkent -vot, T2 Andijon/Marg‘ilon/Qo‘qon -yap; Namangan alohida. Farg‘onaning barcha shevalari bir xil emas.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 58,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "pb ~ pica:ni sapi, otni min ~ ottb тъп ~ atti min; - hozirgi zamon davom fe’li Toshkentda -вот - vat (кевотть ~ kevatti), Parkentda -от ~ at (боротть ~ baratti) variantlarida qoilanadi. -ш/ъш/уш ~ s/is/us affiksi harakat nomining asosiy affiksi hisoblanadi: yetishdi ~ йепгь",
+        "search_needle": "-вот",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "t qo’shimchasiga borib taqaladi; b) –yap qo’shimchasi Farg`ona vodiysidagi barcha shahar (Andijon, Marg`ilon, Qo’qon kabi) hamda o’sha shaharlarga yaqin bo’lgan qishloq shevalariga xosdir: boryapman, kelayapman kabi. Farg`ona shevalaridagi bu qo’shimcha Namangan shevasidan tas",
+        "search_needle": "Andijon",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-002",
+    "label": "Toshkent—Namangan -ut",
+    "meaning_or_analysis_uz": "T2 -ut variantini Namanganga bog‘laydi. T4 Uychi -vat/-ot misolini ham qayd etadi; viloyatlar o‘rtasida belgilar ustma-ust kelishi mumkin.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "n iborat: 1) aniq hozirgi zamon fe`lni ifodalovchi ikki morfologik belgiga esa: a) – vot, Namangan shevasida –ut: borvotman, borvotsan, qilutti (qilyapman), qiluttimiz (qilayapmiz) kabi, Namangan shakli –ut fonetik qonuniyatlar asosida o’zgargan bo’lib, u aslida –vot qo’shimcha",
+        "search_needle": "Namangan",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 208,
+        "printed_page": 210,
+        "anchor_normalized_whitespace": "даги баъзи кишлок шевалари- да, масалан, Чннлаул шевасида *ам ишлатилади. Наманган вилоят Уйчи шевасидаги аник *озирги замон феълининг ясалиши з^зм ( бэ рв эт мэн , бэрвэт* сан, к а л в э т м э н , к э л в э т с э н каби) -вэт, о т швкллари -билан келиб чикиши жи^атидан бир",
+        "search_needle": "Уйчи",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-003",
+    "label": "Toshkent—Buxoro/Samarqand -op",
+    "meaning_or_analysis_uz": "T1 Toshkent borvotti, Buxoro boropti qatorlarini yonma-yon beradi.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": "ndoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv assimilatsiyaga uchraydi:",
+        "search_needle": "борвоттъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 47,
+        "printed_page": 46,
+        "anchor_normalized_whitespace": " undoshi ham regressiv assimilatsiyaga uchraydi: бороммэн ~ baramman, боропсэн~ barapsan, бороптъ ~ barapti, бороммъз ~ barammiz, боропсьз ~ barapsiz, бороптълэ ~ baraptila. Qipchoq shevalaridagi -джатьр ~ zatir, -ватьр ~ vatir, Xorazm shevalaridagi -йатъг ~ jat'ir affikslarin",
+        "search_needle": "бороптъ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-004",
+    "label": "Ona nomlari",
+    "meaning_or_analysis_uz": "Toshkent oyi; T4 Farg‘ona aya/buvi, T2 Buxoro qalampur bilan qiyoslash ham bor. Bu so‘zlar faqat shu hududlarda bo‘ladi degani emas.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 269,
+        "printed_page": 271,
+        "anchor_normalized_whitespace": " адабий тил билан бирга, шеваларда хам мавжуддир Адабий тилдаги она сУзи Тошкент шевасида ой и, Фаррона шевасида айа, буви, уруз шеваларида эн э каби шаклда фаол ишлатилади Улар адабий тилдаги она с^зи билан биргаликда бир услу- бий шаклдошликни ташкил килади. Ёки бошка мис",
+        "search_needle": "ой и",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T2",
+        "pdf_page": 82,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "ada uchraydi. Misol: adabiy tildagi ona so’zi Toshkent shevasida oyi, Farg`ona, shevasida ayya, buvi shaklida faol qo’llaniladi. Yoki adabiy tildagi qalampir so’zi Toshkent shevasida garmdori, Buxoro shevasida qalampur; adabiy tildagi o’rik so’zi Samarqand-Buxoro shevasida zardol",
+        "search_needle": "ayya, buvi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-005",
+    "label": "Chumoli—mo‘rcha—chumalik",
+    "meaning_or_analysis_uz": "T2 Toshkent, Samarqand/Buxoro, Farg‘ona ustunlari. Fonetik va leksik farq birga.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "rg`unchoq alvonch hayunchak sarindjaq qalgancha duxoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chac",
+        "search_needle": "chumoli",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-006",
+    "label": "Shoti ma’nosi",
+    "meaning_or_analysis_uz": "T4 Toshkent arava qismi; Farg‘ona narvon. T3 Farg‘onada arava qismi ma’nosi ham bor deydi.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 276,
+        "printed_page": 278,
+        "anchor_normalized_whitespace": " э м л э екзэмъннъ еттэ етгэмэн элзмэн дъдълэ. эйэ, кэнттэн бъйэм кълэ то: (ъп берън каби Ш э т ъ с^зи Тошкент шевасида араванинг бир цисми, Фаргона шевасида нарвон. Т э к й э с^зи купгина узбек шева- ларида кипчокда бош кийими, иъни дуппи маъносида келса, Карноб шевасида у ё ",
+        "search_needle": "Ш э т ъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T3",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "qa - boshqa ma’nolarni anglatadi. Toshkent - aravaning qismi Shet Farg’ona – a) narvon, b)arava qismi; Toshkent pashsha (muxa) Pashsha Farg’ona chivin (komar). Nazorat topshiriqlari: 2.1.O’zbek lahjashunosligiga tegishli o’quv darsliklari va qo’llanmalarda keng qatlamga mansub so’",
+        "search_needle": "arava qismi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-007",
+    "label": "Toshkent—Jizzax umumiy belgilar",
+    "meaning_or_analysis_uz": "T4 -la/ula va hech nima qisqarishini ikkala hududda qayd etadi. Bular hududni yolg‘iz o‘zi aniqlamaydi.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 166,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "д); б ъ з л э р бэлък эвыгэ бэрдък (турк) каби. 'Гошкенг, Бухоро, Шахрисабз, КаттакУргон, Жиз* зах, Карши, Ургут шеваларида куплик курсаткичининг тулик шакли каттик ва юмшок кУлланилади, факат эгалик кушимчаларидан олдин бу кУшимчанинг тулик холати келиши мумкин. Масалан, ",
+        "search_needle": "Жиз",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      },
+      {
+        "source_id": "T4",
+        "pdf_page": 138,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "да: кн> й д: теракни — т е р з й дъ; Жизэах, Тошкеит шевала- рйда: ч н > ш т : хеч нима — х ъ ш тъмэ//хе ш тм з ка- би. Шуиингдек, узб.*к тилининг кипчок шеваларида муряккаб ассимиляциянинг туликсиз шакли уэакларга кушимчалар кушиш нагижасида юзага келади. Маса- лая. бд>пт: макга",
+        "search_needle": "х ъ ш тъмэ",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-008",
+    "label": "Toshkent—Qarshi umumiy shaxs affikslari",
+    "meaning_or_analysis_uz": "T1 -vuz, -sila, -yla bir necha hududda qayd etilgan. Qashqadaryo ham yaxlit bitta profil emas.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 38,
+        "printed_page": 37,
+        "anchor_normalized_whitespace": ", boryapmiz ~ бэрвэммъзэ ~ barvammiza (Toshkent), -вуз/вузэ ~ vuz/vuza varianti Toshkent, Qarshi kabi shevalarida qoMlanadi: ishlajmiz ~ ъш1ъйвуз(э) ~ islijvuz(a), qilamiz ~ /д>Ьвуз ~ qilavuz, -пъз/пьз/с/ ~ piz/p'ibz/s/ varianti (aslida u assimilativ variant) singarmonizmli s",
+        "search_needle": "Qarshi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      },
+      {
+        "source_id": "T1",
+        "pdf_page": 42,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "tildagi sungari birlikning hurmat shakli sifatida qoMlanadi. -йлэ ~ jla affiksi Toshkent, Qarshi kabi shevalarda qayd qilinadi: kelinglar ~ келъйлэ ~ kelijla, olib boringlar ~ оборъйлэ ~ abarijla. -(ъ)цЬ/(ь)ц1а ~ @)щ1э/@)щ1а affikslari Xorazm, QorakoM va Olot shevalariga xosd",
+        "search_needle": "Qarshi",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "HUD-009",
+    "label": "Surxondaryo bilan cheklangan qiyos",
+    "meaning_or_analysis_uz": "T1 Surxondaryo y-lovchi shevalarida jo‘nalish/o‘rin-payt bitta ko‘rsatkich bo‘lishini aytadi. Buni Toshkent shahar qoidasiga ko‘chirishga asos yo‘q.",
+    "area": "Manbalarda nomlangan hududlar qiyosi",
+    "notes": "",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 33,
+        "printed_page": 32,
+        "anchor_normalized_whitespace": "ya’ni qaratqich va tushum kelishiklari bir ko‘rsatkich bilan ifodalanadi. Qarshi, Buxoro, Surxondaryoning “й~ j ” lovchi shevalarida 4ta kelishik qayd qilinadi, ya’ni qaratqich va tushum kelishiklari bitta ko‘rsatkich bilan, jo ‘nalish va o‘rin-payt kelishigi ham bitta ko‘rsatkich bil",
+        "search_needle": "Surxondaryoning",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "toshkent_kocha",
+  "display_name": "Toshkent ko‘cha",
+  "version": "0.1-creative-draft",
+  "base_region_profile": "/workspace/research/toshkent/HUDUDIY_PROFILLAR.json",
+  "type": "Toshkent shahar grammatikasi + ruscha/o‘zbekcha norasmiy slangdan ijodiy uslub",
+  "real_chat_calibrated": false,
+  "default_intensity": "kuchli",
+  "levels": {
+    "kuchli": "Ko‘p seziladigan slang, qisqa va norasmiy nutq, mat talab qilinmaydi.",
+    "raw": "Kuchli uslubga qo‘pol hissiy undovlar ham qo‘shilishi mumkin; har gapga majburiy emas."
+  },
+  "register_behavior": {
+    "friend_chat": "senlash va yaqin murojaat mumkin",
+    "user_uses_siz": "sizlash saqlanadi",
+    "technical_or_serious": "slang qisqarishi mumkin; aniqlik va to‘liqlik saqlanadi"
+  },
+  "address_rotation": [
+    "bratan",
+    "bratishka",
+    "rodnoy",
+    "brat"
+  ],
+  "grammar_refs": [
+    {
+      "source_id": "T1",
+      "pdf_page": 47,
+      "anchor": "t undoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv ass",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 167,
+      "anchor": "и билдириш учун *амда якка шахе учун кУллани- лади. Масалан. э кэмлэ, д э д э м л э (Тошкент). ул къшъ э ц у в ч ъ л э , к е с ъ л л э (Фаргона) каби. Бундай хусусиятлар Наманган шевасида хам учрайди. -лэр кУшимчаси тулик холати ва узгариб, -лэ тар- зида келишида",
+      "source_text_path": "/workspace/research/toshkent/T4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    {
+      "source_id": "T4",
+      "pdf_page": 174,
+      "anchor": "сУзловчининг нутки каратилган объектга булгап муносабатини (оддийлик, назар-писанд килмас- лик каби) англагиб келадн. Бу олмошлар Тошкент, Туркистон ва Чимкент каби шеваларда мавжуд. www.ziyouz.com kutubxonasi",
+      "source_text_path": "/workspace/research/toshkent/T4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    }
+  ],
+  "lexicon_path": "/workspace/research/toshkent_kocha/SLANG_LUGAT.json",
+  "prompt_path": "/workspace/research/toshkent_kocha/BOT_USLUB_PROMPTI.txt",
+  "examples_path": "/workspace/research/toshkent_kocha/KREATIV_NAMUNALAR.json",
+  "training_performed": false,
+  "bot_runtime_modified": false,
+  "next_required_evidence": "Telegram eksporti yoki foydalanish mumkin bo‘lgan ochiq korpus; haqiqiy matn, sana va kontekst bilan tekshirish."
+}

@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "export_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+  "all_export_records_parsed": 21505,
+  "cards_count_and_regex_stats_verified": 101,
+  "seed_queries_verified": 11,
+  "explicit_reply_links_verified": 18,
+  "quote_refs_matched_to_original_export": 282,
+  "unique_quote_messages_verified": 206,
+  "creative_examples_separate_from_quotes": 13,
+  "csv_rows_verified": 101,
+  "previous_pdf_hashes_verified": 3,
+  "previous_pdf_ocr_anchors_verified": 10,
+  "new_independent_web_sources_read": 0,
+  "not_verified": [
+    "Barcha misollarning yagona semantik ma’nosi",
+    "Toshkentga xoslik",
+    "2026-yil dolzarbligi",
+    "Audio talaffuz",
+    "Ijodiy namunalar tabiiyligi bo‘yicha mahalliy baho"
+  ],
+  "source_instructions_executed": false,
+  "report_file_links_verified": 14
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "KN2-01",
+    "scenario": "salom_va_davra",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-001",
+      "SL2-008",
+      "SL2-038"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-02",
+    "scenario": "yaqin_murojaat",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-002",
+      "SL2-078",
+      "SL2-009"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-03",
+    "scenario": "javobni_qaytarish",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-075",
+      "SL2-037",
+      "SL2-036"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-04",
+    "scenario": "rozilik_va_yordam",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-056",
+      "SL2-037",
+      "SL2-041"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-05",
+    "scenario": "muammoni_aniqlash",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-004",
+      "SL2-078"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-06",
+    "scenario": "samimiy_rahmat",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-089",
+      "SL2-088",
+      "SL2-055"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-07",
+    "scenario": "gapni_jamlash",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-077",
+      "SL2-030"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-08",
+    "scenario": "jiddiylik",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-073",
+      "SL2-037"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-09",
+    "scenario": "ijobiy_baho",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-076",
+      "SL2-075"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-10",
+    "scenario": "suhbatga_chaqirish",
+    "intensity": "tez_chat",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-061",
+      "SL2-046",
+      "SL2-037"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-11",
+    "scenario": "xatoni_tan_olish",
+    "intensity": "kuchli",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-078",
+      "SL2-041"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-12",
+    "scenario": "raw_yumshoqroq",
+    "intensity": "raw",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-086",
+      "SL2-077"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  },
+  {
+    "id": "KN2-13",
+    "scenario": "raw_keskin",
+    "intensity": "raw",
+    "origin": "assistant_constructed",
+    "authentic_chat_quote": false,
+    "component_evidence_card_ids": [
+      "SL2-085",
+      "SL2-025"
+    ],
+    "whole_sentence_observed_in_chat": false,
+    "native_speaker_validated": false,
+    "note": "Komponentlar korpusga bog‘langan. To‘liq gapning tabiiyligi alohida tekshirilishi kerak."
+  }
+]

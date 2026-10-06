@@ -1,0 +1,1527 @@
+[
+  {
+    "id": "LUG-001",
+    "label": "muchicha",
+    "meaning_or_analysis_uz": "musicha",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "Qarluq-chigil-uyg`ur O’g`uz Qipchoq Toshkent Samarqand Buxoro Farg`ona muchicha musicha musicha misilcha qumri musichi arg`imchoq arg`unchoq alvonch hayunchak sarindjaq qalgancha duxoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarin",
+        "search_needle": "muchicha",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "muchicha"
+  },
+  {
+    "id": "LUG-002",
+    "label": "arg`imchoq",
+    "meaning_or_analysis_uz": "tebranib uchiladigan arg‘imchoq",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "ipchoq Toshkent Samarqand Buxoro Farg`ona muchicha musicha musicha misilcha qumri musichi arg`imchoq arg`unchoq alvonch hayunchak sarindjaq qalgancha duxoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir",
+        "search_needle": "arg`imchoq",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "umumiy",
+    "approximate_latin_analyst_reading": "arg‘imchoq"
+  },
+  {
+    "id": "LUG-003",
+    "label": "duxoba",
+    "meaning_or_analysis_uz": "baxmal",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "usicha misilcha qumri musichi arg`imchoq arg`unchoq alvonch hayunchak sarindjaq qalgancha duxoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yu",
+        "search_needle": "duxoba",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "duxoba"
+  },
+  {
+    "id": "LUG-004",
+    "label": "chumoli",
+    "meaning_or_analysis_uz": "chumoli",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "rg`unchoq alvonch hayunchak sarindjaq qalgancha duxoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chac",
+        "search_needle": "chumoli",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "umumiy",
+    "approximate_latin_analyst_reading": "chumoli"
+  },
+  {
+    "id": "LUG-005",
+    "label": "asalari",
+    "meaning_or_analysis_uz": "asalari",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "xoba baxmal baxmal barqit baxmal baxmal chumoli mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chach chach sach sach U yoki bu ma’nodoshlar qatoriga ",
+        "search_needle": "asalari",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "umumiy",
+    "approximate_latin_analyst_reading": "asalari"
+  },
+  {
+    "id": "LUG-006",
+    "label": "tuxum",
+    "meaning_or_analysis_uz": "tuxum",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": " mo’rcha mo’rcha chumalik qarindja chumali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chach chach sach sach U yoki bu ma’nodoshlar qatoriga kirgan so’zlarning ba‘zilari adabiy tilda va ",
+        "search_needle": "tuxum",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "umumiy",
+    "approximate_latin_analyst_reading": "tuxum"
+  },
+  {
+    "id": "LUG-007",
+    "label": "yuray",
+    "meaning_or_analysis_uz": "yurak",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "ali asalari asalari asalari asalari zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chach chach sach sach U yoki bu ma’nodoshlar qatoriga kirgan so’zlarning ba‘zilari adabiy tilda va lahjalarda uchramasligi mumkin. Shevada",
+        "search_needle": "yuray",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "fonetik_variant",
+    "approximate_latin_analyst_reading": "yuray"
+  },
+  {
+    "id": "LUG-008",
+    "label": "choch",
+    "meaning_or_analysis_uz": "soch",
+    "area": "Toshkent shahar",
+    "notes": "Jadval hududlar qiyosi; boshqa shevalarda yo‘qligini isbotlamaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T2",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_normalized_whitespace": "zambir asalari tuxum tuxum tuxum tuxum yumo’rta mayak yuray yurak yurak yurak yurak jurak choch soch chach chach sach sach U yoki bu ma’nodoshlar qatoriga kirgan so’zlarning ba‘zilari adabiy tilda va lahjalarda uchramasligi mumkin. Shevadagi bunday ma’nodoshlar ma’no va tala",
+        "search_needle": "choch",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "fonetik_variant",
+    "approximate_latin_analyst_reading": "choch"
+  },
+  {
+    "id": "LUG-009",
+    "label": "buvə",
+    "meaning_or_analysis_uz": "bobo; katta ota",
+    "area": "Toshkent shahar",
+    "notes": "Andijondagi kətətə bilan qiyoslangan; buvi bilan almashtirilmasin.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "larda ba’zi atamalar o’ziga xos tarzida qo’llaniladi. Kətətə >kette: (kette ete) (And.) – buvə (Toshkent), əpeqъ, təg’ə, əməkъ, xələ, kel’n, kuyəv, jiyən, qəynənə, qəynətə, qəyn’nъ, qəynъsngъl, qəynəg’ə, qəynəgəchъ va boshqalar. Turmush tarzi bilan bog’liq holda kishilarnin",
+        "search_needle": "buvə",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "buva"
+  },
+  {
+    "id": "LUG-010",
+    "label": "mən",
+    "meaning_or_analysis_uz": "men",
+    "area": "Toshkent shahar",
+    "notes": "ə belgisi oddiy a harfi bilan aynan teng emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "ksik qatlamdan tashkil topgan. Turkiy qatlam. Bash, yo’rək, bъr, bor (Toshkent, Andijon), mən (Toshkent), men(Andijon). O’gъl (Toshkent), og’ul (Farg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), ",
+        "search_needle": "mən",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "man"
+  },
+  {
+    "id": "LUG-011",
+    "label": "O’gъl",
+    "meaning_or_analysis_uz": "o‘g‘il",
+    "area": "Toshkent shahar",
+    "notes": "Fonetik yozuvdagi ъ oddiy lotin imlosida to‘liq ifodalanmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " Turkiy qatlam. Bash, yo’rək, bъr, bor (Toshkent, Andijon), mən (Toshkent), men(Andijon). O’gъl (Toshkent), og’ul (Farg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch ",
+        "search_needle": "O’gъl",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "o‘g‘il"
+  },
+  {
+    "id": "LUG-012",
+    "label": "o’chə",
+    "meaning_or_analysis_uz": "o‘choq",
+    "area": "Toshkent shahar",
+    "notes": "So‘z oxiridagi q saqlanmagan variant.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "ent, Andijon), mən (Toshkent), men(Andijon). O’gъl (Toshkent), og’ul (Farg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent,",
+        "search_needle": "o’chə",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "o‘cha"
+  },
+  {
+    "id": "LUG-013",
+    "label": "o’pkə",
+    "meaning_or_analysis_uz": "o‘pka",
+    "area": "Toshkent shahar",
+    "notes": "Talaffuz varianti; alohida mahalliy predmet emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "ndijon). O’gъl (Toshkent), og’ul (Farg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepe",
+        "search_needle": "o’pkə",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "o‘pka"
+  },
+  {
+    "id": "LUG-014",
+    "label": "o’rdəy",
+    "meaning_or_analysis_uz": "o‘rdak",
+    "area": "Toshkent shahar",
+    "notes": "So‘z oxiridagi k/y mosligi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "arg’ona, Andijon), o’chə (Toshkent), ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qud",
+        "search_needle": "o’rdəy",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "o‘rday"
+  },
+  {
+    "id": "LUG-015",
+    "label": "chəch",
+    "meaning_or_analysis_uz": "soch",
+    "area": "Toshkent shahar",
+    "notes": "T2 choch deb beradi; bu grafik/talaffuz farqi saqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "ochaq (Farg’ona), o’pkə (Toshkent), θpkə (Farg’ona), o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyk",
+        "search_needle": "chəch",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "chach"
+  },
+  {
+    "id": "LUG-016",
+    "label": "sъgъr",
+    "meaning_or_analysis_uz": "sigir",
+    "area": "Toshkent shahar",
+    "notes": "Toshkent va Farg‘ona birgalikda berilgan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "o’rdəy (Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyki, lahjadagi o’zaro yoki yodgorliklar bilan yuz berga",
+        "search_needle": "sъgъr",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "sigir"
+  },
+  {
+    "id": "LUG-017",
+    "label": "sъyъr",
+    "meaning_or_analysis_uz": "sigir",
+    "area": "Toshkent shahar",
+    "notes": "Toshkent va Farg‘ona birgalikda berilgan; hamma holatdagi g→y emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "Toshkent), θrdək (Farg’ona), chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyki, lahjadagi o’zaro yoki yodgorliklar bilan yuz bergan tafovu",
+        "search_needle": "sъyъr",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "siyir"
+  },
+  {
+    "id": "LUG-018",
+    "label": "kepeley",
+    "meaning_or_analysis_uz": "kapalak",
+    "area": "Toshkent shahar",
+    "notes": "T3 kepeley, Farg‘ona kepelek deb qiyoslaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " chəch (Toshkent), chach - chəch (Farg’ona, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyki, lahjadagi o’zaro yoki yodgorliklar bilan yuz bergan tafovutlar so’zlarda fonetik o’zgari",
+        "search_needle": "kepeley",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "kepeley"
+  },
+  {
+    "id": "LUG-019",
+    "label": "qudu",
+    "meaning_or_analysis_uz": "quduq",
+    "area": "Toshkent shahar",
+    "notes": "Leksik qayd; q undoshini har bir so‘zdan tushirish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "na, Andijon), sъgъr - sъyъr (Toshkent, Farg’ona), kepeley (Toshkent), kepelek (Farg’ona), qudu (Toshkent), qudug’ (Farg’ona) va boshqalar. Tabiiyki, lahjadagi o’zaro yoki yodgorliklar bilan yuz bergan tafovutlar so’zlarda fonetik o’zgarishlar, fonetik jarayonlar bilan ko’pr",
+        "search_needle": "qudu",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "qudu"
+  },
+  {
+    "id": "LUG-020",
+    "label": "mъxnet",
+    "meaning_or_analysis_uz": "mehnat",
+    "area": "Toshkent shahar",
+    "notes": "T1 mixnat shakli bilan qiyoslash mumkin.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "qatlamiday bo’lib ketgan. Masalan, məl (Toshkent, Farg’ona), adabiy imloda mol (arabcha), mъxnet (Toshkent) adabiy imloda mehnat (arabcha), g’em(Toshkent), g’am(Farg’ona) (arabcha), zerъl (Toshkent) adabiy imloda zarur(arabcha), əzъz(Toshkent, Farg’ona), adabiy imloda aziz(ar",
+        "search_needle": "mъxnet",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "mixnat"
+  },
+  {
+    "id": "LUG-021",
+    "label": "g’em",
+    "meaning_or_analysis_uz": "g‘am",
+    "area": "Toshkent shahar",
+    "notes": "Unli belgisi fonetik transkripsiyada saqlanadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "Farg’ona), adabiy imloda mol (arabcha), mъxnet (Toshkent) adabiy imloda mehnat (arabcha), g’em(Toshkent), g’am(Farg’ona) (arabcha), zerъl (Toshkent) adabiy imloda zarur(arabcha), əzъz(Toshkent, Farg’ona), adabiy imloda aziz(arabcha),ъnag’əm(Toshkent), adabiy imloda in’om (a",
+        "search_needle": "g’em",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "g‘am"
+  },
+  {
+    "id": "LUG-022",
+    "label": "zerъl",
+    "meaning_or_analysis_uz": "zarur",
+    "area": "Toshkent shahar",
+    "notes": "Faqat shu qaydga tayaniladi; zamonaviy faol qo‘llanish tekshirilmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "xnet (Toshkent) adabiy imloda mehnat (arabcha), g’em(Toshkent), g’am(Farg’ona) (arabcha), zerъl (Toshkent) adabiy imloda zarur(arabcha), əzъz(Toshkent, Farg’ona), adabiy imloda aziz(arabcha),ъnag’əm(Toshkent), adabiy imloda in’om (arabcha), juvop (Toshkent, Farg’ona) adabiy ",
+        "search_needle": "zerъl",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "zeril"
+  },
+  {
+    "id": "LUG-023",
+    "label": "əzъz",
+    "meaning_or_analysis_uz": "aziz",
+    "area": "Toshkent shahar",
+    "notes": "Toshkent va Farg‘ona uchun umumiy qayd.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " g’em(Toshkent), g’am(Farg’ona) (arabcha), zerъl (Toshkent) adabiy imloda zarur(arabcha), əzъz(Toshkent, Farg’ona), adabiy imloda aziz(arabcha),ъnag’əm(Toshkent), adabiy imloda in’om (arabcha), juvop (Toshkent, Farg’ona) adabiy imloda javob (arabcha), qъmat (Toshkent), adab",
+        "search_needle": "əzъz",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "aziz"
+  },
+  {
+    "id": "LUG-024",
+    "label": "ъnag’əm",
+    "meaning_or_analysis_uz": "in’om",
+    "area": "Toshkent shahar",
+    "notes": "Noodatiy shakl: PDF tasvirida ham bor; botga avtomatik kiritilmasin.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "kent) adabiy imloda zarur(arabcha), əzъz(Toshkent, Farg’ona), adabiy imloda aziz(arabcha),ъnag’əm(Toshkent), adabiy imloda in’om (arabcha), juvop (Toshkent, Farg’ona) adabiy imloda javob (arabcha), qъmat (Toshkent), adabiy imloda qimmat (arabcha), nəxt (Toshkent), adabiy imlod",
+        "search_needle": "ъnag’əm",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "inag‘am"
+  },
+  {
+    "id": "LUG-025",
+    "label": "juvop",
+    "meaning_or_analysis_uz": "javob",
+    "area": "Toshkent shahar",
+    "notes": "Toshkent va Farg‘ona uchun umumiy qayd.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " Farg’ona), adabiy imloda aziz(arabcha),ъnag’əm(Toshkent), adabiy imloda in’om (arabcha), juvop (Toshkent, Farg’ona) adabiy imloda javob (arabcha), qъmat (Toshkent), adabiy imloda qimmat (arabcha), nəxt (Toshkent), adabiy imloda naqd (arabcha) , dərəx (Toshkent) , daraq- dar",
+        "search_needle": "juvop",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "juvop"
+  },
+  {
+    "id": "LUG-026",
+    "label": "qъmat",
+    "meaning_or_analysis_uz": "qimmat",
+    "area": "Toshkent shahar",
+    "notes": "Fonetik variant; faqat Toshkentga xos deb olinmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " adabiy imloda in’om (arabcha), juvop (Toshkent, Farg’ona) adabiy imloda javob (arabcha), qъmat (Toshkent), adabiy imloda qimmat (arabcha), nəxt (Toshkent), adabiy imloda naqd (arabcha) , dərəx (Toshkent) , daraq- darax (Andijon, Farg’ona) , adabiy imloda daraxt (tojikcha) t",
+        "search_needle": "qъmat",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "qimat"
+  },
+  {
+    "id": "LUG-027",
+    "label": "nəxt",
+    "meaning_or_analysis_uz": "naqd",
+    "area": "Toshkent shahar",
+    "notes": "Jarangsizlanish va undoshlar birikmasi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "arg’ona) adabiy imloda javob (arabcha), qъmat (Toshkent), adabiy imloda qimmat (arabcha), nəxt (Toshkent), adabiy imloda naqd (arabcha) , dərəx (Toshkent) , daraq- darax (Andijon, Farg’ona) , adabiy imloda daraxt (tojikcha) tez (Toshkent, Andijon, Farg’ona), adabiy imloda t",
+        "search_needle": "nəxt",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "naxt"
+  },
+  {
+    "id": "LUG-028",
+    "label": "dərəx",
+    "meaning_or_analysis_uz": "daraxt",
+    "area": "Toshkent shahar",
+    "notes": "So‘z oxirida t yo‘q variant.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": "oshkent), adabiy imloda qimmat (arabcha), nəxt (Toshkent), adabiy imloda naqd (arabcha) , dərəx (Toshkent) , daraq- darax (Andijon, Farg’ona) , adabiy imloda daraxt (tojikcha) tez (Toshkent, Andijon, Farg’ona), adabiy imloda tez (tojikcha) bechərə (Toshkent) adabiy imloda be",
+        "search_needle": "dərəx",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "darax"
+  },
+  {
+    "id": "LUG-029",
+    "label": "bechərə",
+    "meaning_or_analysis_uz": "bechora",
+    "area": "Toshkent shahar",
+    "notes": "Umumiy so‘zning fonetik ko‘rinishi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_normalized_whitespace": " imloda daraxt (tojikcha) tez (Toshkent, Andijon, Farg’ona), adabiy imloda tez (tojikcha) bechərə (Toshkent) adabiy imloda bechora 41",
+        "search_needle": "bechərə",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "bechara"
+  },
+  {
+    "id": "LUG-030",
+    "label": "shəhər - shəər-shə:r",
+    "meaning_or_analysis_uz": "shahar",
+    "area": "Toshkent shahar",
+    "notes": "h tushishi va cho‘ziqlik; barcha h ga tatbiq etilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "(tojikcha), shəhər - shəər-shə:r (Toshkent), adabiy imloda shahar (tojikcha ), dos (Toshkent), adabiy imloda do’st (tojikcha) nərx (Toshkent),nəx (Andijon), adabiy imloda narx (tojikcha). O’zbek xalqi tojik xalqi",
+        "search_needle": "shəhər - shəər-shə:r",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "shahar → sha:r"
+  },
+  {
+    "id": "LUG-031",
+    "label": "dos",
+    "meaning_or_analysis_uz": "do‘st",
+    "area": "Toshkent shahar",
+    "notes": "Oxirgi undosh birikmasining qisqarishi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "(tojikcha), shəhər - shəər-shə:r (Toshkent), adabiy imloda shahar (tojikcha ), dos (Toshkent), adabiy imloda do’st (tojikcha) nərx (Toshkent),nəx (Andijon), adabiy imloda narx (tojikcha). O’zbek xalqi tojik xalqi bilan juda uzoq vaqtdan buyon yaqin munosabatda b",
+        "search_needle": "dos",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "dos"
+  },
+  {
+    "id": "LUG-032",
+    "label": "nərx",
+    "meaning_or_analysis_uz": "narx",
+    "area": "Toshkent shahar",
+    "notes": "Ma’no o‘zgarmagan; talaffuz qaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "shkent), adabiy imloda shahar (tojikcha ), dos (Toshkent), adabiy imloda do’st (tojikcha) nərx (Toshkent),nəx (Andijon), adabiy imloda narx (tojikcha). O’zbek xalqi tojik xalqi bilan juda uzoq vaqtdan buyon yaqin munosabatda bo’lganligi sababli o’zbek tiliga tojik tilidan j",
+        "search_needle": "nərx",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "narx"
+  },
+  {
+    "id": "LUG-033",
+    "label": "əvəz",
+    "meaning_or_analysis_uz": "ovoz",
+    "area": "Toshkent shahar",
+    "notes": "Etimologiyasi shu sahifadagi arabcha degan umumlashtirishdan olinmadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "a ism guruhida va ravish turkumida arabcha so’zlar anchagina. Masalan: Toshkent shevasida əvəz (adabiy imloda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar ",
+        "search_needle": "əvəz",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "avaz"
+  },
+  {
+    "id": "LUG-034",
+    "label": "əyne",
+    "meaning_or_analysis_uz": "oyna",
+    "area": "Toshkent shahar",
+    "notes": "Lotinlashtirish taxminiy; ə fonetik belgisi yo‘qotilmasin.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "urkumida arabcha so’zlar anchagina. Masalan: Toshkent shevasida əvəz (adabiy imloda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar bir-biri bilan nafaqat fon",
+        "search_needle": "əyne",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "ayna"
+  },
+  {
+    "id": "LUG-035",
+    "label": "əgə",
+    "meaning_or_analysis_uz": "ogoh",
+    "area": "Toshkent shahar",
+    "notes": "Qisqargan tarixiy qayd; faol nutqqa qo‘llashdan oldin tekshirish kerak.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "hagina. Masalan: Toshkent shevasida əvəz (adabiy imloda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar bir-biri bilan nafaqat fonetik, morfologik, balki lek",
+        "search_needle": "əgə",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "aga"
+  },
+  {
+    "id": "LUG-036",
+    "label": "ərəm",
+    "meaning_or_analysis_uz": "orom",
+    "area": "Toshkent shahar",
+    "notes": "Umumiy so‘zning talaffuz varianti.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": " shevasida əvəz (adabiy imloda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar bir-biri bilan nafaqat fonetik, morfologik, balki leksik jihatidan ham ba’zan f",
+        "search_needle": "ərəm",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "aram"
+  },
+  {
+    "id": "LUG-037",
+    "label": "ərzъ",
+    "meaning_or_analysis_uz": "orzu",
+    "area": "Toshkent shahar",
+    "notes": "Unli belgilarining qiymati oddiy imloda aynan berilmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "oda ovoz) əyne (adabiy imloda oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar bir-biri bilan nafaqat fonetik, morfologik, balki leksik jihatidan ham ba’zan farqlanadi. Qiyoslang: Toshk",
+        "search_needle": "ərzъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "arzi"
+  },
+  {
+    "id": "LUG-038",
+    "label": "əptəv",
+    "meaning_or_analysis_uz": "oftob",
+    "area": "Toshkent shahar",
+    "notes": "f/p va oxirgi undosh farqi; etimologiya alohida tekshiriladi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "da oyna ), əgə (adabiy imloda ogoh) ərəm (adabiy imloda orom) ,ərzъ (adabiy imloda orzu), əptəv (adabiy imloda oftob) va boshqalar. Shevalar bir-biri bilan nafaqat fonetik, morfologik, balki leksik jihatidan ham ba’zan farqlanadi. Qiyoslang: Toshkent shevasida Samarqand shev",
+        "search_needle": "əptəv",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "aptav"
+  },
+  {
+    "id": "LUG-039",
+    "label": "chəqələ:",
+    "meaning_or_analysis_uz": "chaqaloq",
+    "area": "Toshkent shahar",
+    "notes": "T3 p55 Chəqəlog‘ boshqa shaklini ham beradi; ularni bir shaklga tuzatmadik.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "m ba’zan farqlanadi. Qiyoslang: Toshkent shevasida Samarqand shevasida Farg’ona shevasida chəqələ: chaqaloq buvək much(ъ)chə musъcha mъsъəchə gərъmdorъ qalampur qalampъr o’gъr o’g’ur kelъ Nazorat topshiriqlari 1.Lahjaning leksik xususiyatlari haqida fikr yuritishga harakat qili",
+        "search_needle": "chəqələ:",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "chaqala:"
+  },
+  {
+    "id": "LUG-040",
+    "label": "gərъmdorъ",
+    "meaning_or_analysis_uz": "qalampir",
+    "area": "Toshkent shahar",
+    "notes": "T2 garmdori; T4 ham shu ma’noni beradi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_normalized_whitespace": "amarqand shevasida Farg’ona shevasida chəqələ: chaqaloq buvək much(ъ)chə musъcha mъsъəchə gərъmdorъ qalampur qalampъr o’gъr o’g’ur kelъ Nazorat topshiriqlari 1.Lahjaning leksik xususiyatlari haqida fikr yuritishga harakat qiling (kategoriya- idrok). 2.Qavm-qarindoshlik atamalari",
+        "search_needle": "gərъmdorъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "variant",
+    "approximate_latin_analyst_reading": "garimdori"
+  },
+  {
+    "id": "LUG-041",
+    "label": "ой и",
+    "meaning_or_analysis_uz": "ona",
+    "area": "Toshkent shahar",
+    "notes": "Buvi/buvi=ona hududiy ma’nolari bilan aralashtirmaslik.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 269,
+        "printed_page": 271,
+        "anchor_normalized_whitespace": " адабий тил билан бирга, шеваларда хам мавжуддир Адабий тилдаги она сУзи Тошкент шевасида ой и, Фаррона шевасида айа, буви, уруз шеваларида эн э каби шаклда фаол ишлатилади Улар адабий тилдаги она с^зи билан биргаликда бир услу- бий шаклдошликни ташкил килади. Ёки бошка мис",
+        "search_needle": "ой и",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "oyi"
+  },
+  {
+    "id": "LUG-042",
+    "label": "са п ч а",
+    "meaning_or_analysis_uz": "xomak",
+    "area": "Toshkent shahar",
+    "notes": "Manba xomak bilan tenglaydi; barcha xom meva degan kengaytirish yo‘q.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 269,
+        "printed_page": 271,
+        "anchor_normalized_whitespace": "нт шевасида), к а л а м ф у р (Самарканд, Бухоро шевала­ рида); х о м а к (адабий тилда), са п ч а (Тошкент шева­ сида); ы з л а м а к , иста мок. к и д и р м о к маънодош сузлари шевалар нуктаи наэаридан цуйидагича: ъстэ- мэк (Фаргона ва Уш шеваларида), к ъ д ъ р м э к (Тош“ к",
+        "search_needle": "са п ч а",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "sapcha"
+  },
+  {
+    "id": "LUG-043",
+    "label": "қъйъқчэ",
+    "meaning_or_analysis_uz": "erkaklar beliga bog‘lanadigan, cheti gullangan belbog‘ materiali",
+    "area": "Toshkent shahar",
+    "notes": "Qo‘lyozilgan tasvir transkripsiyasi; PDF matn qatlami q harfini yo‘qotgan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 272,
+        "printed_page": 274,
+        "anchor_normalized_whitespace": "кжон, КаРн°б ва Корабулл^ шеваларида чэрсъ// ч о р с у деб цулланилса, Тошкент шсвасида ц ъ й ъ к ч э деб ишлатилади #>уз ла^жасида: г в н / / д и л с и з / / г э м л э м э с / / и н д эм эс/ / л эл/ /генэ л эк/ /сеалэмэс в э рси з//ве- а а с и з / / э л д э к ч и / / й э л р о н ",
+        "search_needle": "ъ й ъ к ч э",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "qiyiqcha"
+  },
+  {
+    "id": "LUG-044",
+    "label": "Шэтъ",
+    "meaning_or_analysis_uz": "aravaning bir qismi",
+    "area": "Toshkent shahar",
+    "notes": "Farg‘onadagi narvon ma’nosi bu yerga avtomatik ko‘chirilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T4",
+        "pdf_page": 276,
+        "printed_page": 278,
+        "anchor_normalized_whitespace": " э м л э екзэмъннъ еттэ етгэмэн элзмэн дъдълэ. эйэ, кэнттэн бъйэм кълэ то: (ъп берън каби Ш э т ъ с^зи Тошкент шевасида араванинг бир цисми, Фаргона шевасида нарвон. Т э к й э с^зи купгина узбек шева- ларида кипчокда бош кийими, иъни дуппи маъносида келса, Карноб шевасида у ё ",
+        "search_needle": "Ш э т ъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "shoti"
+  },
+  {
+    "id": "LUG-045",
+    "label": "chekch-chekich",
+    "meaning_or_analysis_uz": "nonni bezab teshadigan yog‘och va simli asbob",
+    "area": "Toshkent shahar",
+    "notes": "Nonper patdan yasalishi bilan dastlab farqlangan; keyinchalik ma’nolar yaqinlashgan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": " shevalarida qo’llanadigan nonper // nomper so’zi Toshkent gruppa shevalarida uchraydigan chekch-chekich so’ziga munosabatdoshdek ko’rinadi. Lekin bu ikki predmet vazifa jihatdan o’xshash bo’lsada, shakl jihatdan boshqa – boshqadir. Nonper- patdan yasaladi, chekich yog’och va simdan ",
+        "search_needle": "chekch-chekich",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "chekich"
+  },
+  {
+    "id": "LUG-046",
+    "label": "Pashsha",
+    "meaning_or_analysis_uz": "pashsha (muxa)",
+    "area": "Toshkent shahar",
+    "notes": "Farg‘ona chivin (komar) deb qiyoslangan; barcha vodiyga birday tarqatilmasin.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_normalized_whitespace": "a’nolarni anglatadi. Toshkent - aravaning qismi Shet Farg’ona – a) narvon, b)arava qismi; Toshkent pashsha (muxa) Pashsha Farg’ona chivin (komar). Nazorat topshiriqlari: 2.1.O’zbek lahjashunosligiga tegishli o’quv darsliklari va qo’llanmalarda keng qatlamga mansub so’zlarni aniqlash va",
+        "search_needle": "Toshkent pashsha",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "pashsha"
+  },
+  {
+    "id": "LUG-047",
+    "label": "dovuchchə",
+    "meaning_or_analysis_uz": "dovuchcha; hali pishmagan o‘rik",
+    "area": "Toshkent shahar",
+    "notes": "Jadval Farg‘onada g‘ora deb beradi; meva turi boshqa lug‘at bilan ham tekshirilishi mumkin.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_normalized_whitespace": "h’chə mus’cha m’s’lchə qumri mΥsichi //mΥchchi gər’mdorъ qalampur qalampъr burch qalampъr dovuchchə davuchcha g’ora dΥvchə dəvchə qələmchə qalamcha ch’kəldək qalamcha qalamcha ch’ttəy - Dj’nqarchə Chitlo’q - Tuvog’ qapqoq qapqaq Duvaq qapqaq- qaqmaq duxobə baxmal Barqt baxmal ba",
+        "search_needle": "dovuchchə",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "dovuchcha"
+  },
+  {
+    "id": "LUG-048",
+    "label": "qələmchə",
+    "meaning_or_analysis_uz": "qalamcha",
+    "area": "Toshkent shahar",
+    "notes": "Jadvalda kontekst yetarli emas: ma’no toraytirilmagan.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_normalized_whitespace": "Υchchi gər’mdorъ qalampur qalampъr burch qalampъr dovuchchə davuchcha g’ora dΥvchə dəvchə qələmchə qalamcha ch’kəldək qalamcha qalamcha ch’ttəy - Dj’nqarchə Chitlo’q - Tuvog’ qapqoq qapqaq Duvaq qapqaq- qaqmaq duxobə baxmal Barqt baxmal baxmal chəchvon Chashpan(t) ch’mmət - chi",
+        "search_needle": "qələmchə",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "qalamcha"
+  },
+  {
+    "id": "LUG-049",
+    "label": "Tuvog’",
+    "meaning_or_analysis_uz": "qopqoq",
+    "area": "Toshkent shahar",
+    "notes": "Jadvalning Toshkent ustuni; so‘nggi g‘/q qiymati tasvir tekshiruvi talab qiladi.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T3",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_normalized_whitespace": "vchə dəvchə qələmchə qalamcha ch’kəldək qalamcha qalamcha ch’ttəy - Dj’nqarchə Chitlo’q - Tuvog’ qapqoq qapqaq Duvaq qapqaq- qaqmaq duxobə baxmal Barqt baxmal baxmal chəchvon Chashpan(t) ch’mmət - chimmət Dialektal so’zlarning semantik gruppalari juda ko’p bo’lib ulardan ayri",
+        "search_needle": "Tuvog’",
+        "page_image_inspected": false,
+        "pdf_path": "/workspace/attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "leksik_yoki_semantik_variant",
+    "approximate_latin_analyst_reading": "tuvog‘"
+  },
+  {
+    "id": "LUG-050",
+    "label": "ъшкэм",
+    "meaning_or_analysis_uz": "tok ko‘tariladigan ishkom",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "So‘z umumxalq tilida ham bor; monologdagi kasbiy qo‘llanish.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "Ертэ кохлэм тэк эчълэдъ, шорэсъ осъи кетмэстэн. Пэйэлэ съцгэн, бэгэзлэ чушъп кеткэм босэ, ъшкэм, бэшкэттэн ъшлэнэдъ. Бу шундэ: болэдъ: съцгэн пэйэнъ эп тэшэп, оннъгэ йечгь пэйэ койълэдъ, кегьн пэйэлэ erin ъшкэм кьлънэдъ. Пэйэгэ йэмбэшлэгьп бэгэз бэйлэнэдъ. Бэгэззъ ъстэй мънэ",
+        "search_needle": "ъшкэм",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "ishkom"
+  },
+  {
+    "id": "LUG-051",
+    "label": "пэйэ",
+    "meaning_or_analysis_uz": "ishkomning tayanch poyasi",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Kontekstga bog‘liq; odamning oyog‘i ma’nosi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": "ъ-берэкэтьй. Бо.нъйэм джэ ъшъ коп болэдъ. Ертэ кохлэм тэк эчълэдъ, шорэсъ осъи кетмэстэн. Пэйэлэ съцгэн, бэгэзлэ чушъп кеткэм босэ, ъшкэм, бэшкэттэн ъшлэнэдъ. Бу шундэ: болэдъ: съцгэн пэйэнъ эп тэшэп, оннъгэ йечгь пэйэ койълэдъ, кегьн пэйэлэ erin ъшкэм кьлънэдъ. Пэйэгэ йэмбэш",
+        "search_needle": "Пэйэлэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "poya"
+  },
+  {
+    "id": "LUG-052",
+    "label": "бэгэз",
+    "meaning_or_analysis_uz": "ishkomda poyalarga yonboshlatib bog‘lanadigan qism",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Aniq predmet tuzilishi etnografik tekshiruvga muhtoj.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 89,
+        "printed_page": 88,
+        "anchor_normalized_whitespace": ".нъйэм джэ ъшъ коп болэдъ. Ертэ кохлэм тэк эчълэдъ, шорэсъ осъи кетмэстэн. Пэйэлэ съцгэн, бэгэзлэ чушъп кеткэм босэ, ъшкэм, бэшкэттэн ъшлэнэдъ. Бу шундэ: болэдъ: съцгэн пэйэнъ эп тэшэп, оннъгэ йечгь пэйэ койълэдъ, кегьн пэйэлэ erin ъшкэм кьлънэдъ. Пэйэгэ йэмбэшлэгьп бэгэз бэ",
+        "search_needle": "бэгэз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "bog‘oz"
+  },
+  {
+    "id": "LUG-053",
+    "label": "ъстэй",
+    "meaning_or_analysis_uz": "tolning ingichka novdasi; bog‘lash uchun",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Monolog o‘zi ta’riflaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "бэйлъйвуз. Тэллъ ъдгъчкэ нэвдэсънъ ъстэй дъйвуз. Кегьн тэккъ ьшкэмгэ котэрэвуз. Нэвдэлэрънъ тэрэп, чъптэмънэм бэгэзгэ бэйлэп койовуз. Йэздэ тэк осъп, ъшкэммъ орэп кеткэндэ хэмтов (< хэмток) кълэвуз. Бомэсэ, нэвдэ пъшмъй кэлэдъ,",
+        "search_needle": "ъстэй дъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "istay"
+  },
+  {
+    "id": "LUG-054",
+    "label": "хэмтов (< хэмток)",
+    "meaning_or_analysis_uz": "quyosh tushishi uchun tok barglarini yulish amali",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Xomtov/xomtav yozuvi manba ichida almashadi; tibbiy tavsiya emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "вдэлэрънъ тэрэп, чъптэмънэм бэгэзгэ бэйлэп койовуз. Йэздэ тэк осъп, ъшкэммъ орэп кеткэндэ хэмтов (< хэмток) кълэвуз. Бомэсэ, нэвдэ пъшмъй кэлэдъ, узъмэм бемэзэ болэдъ. Хомтэв къгэндэ, кун йэхшъ чушэдъ. Нэвдэйэм пъшэдъ, узъмэм шърэлъ болэдъ. Кун йэхшъ чушъшьйчун бэ:йлэнъ йулъп тэшлэшшъ х",
+        "search_needle": "хэмтов (< хэмток)",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "xomtov"
+  },
+  {
+    "id": "LUG-055",
+    "label": "хэвэзэ",
+    "meaning_or_analysis_uz": "ishkom ustida qush qo‘rishga va yotishga qilingan joy",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Bu monologdagi bog‘dorchilik ma’nosi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "ьйчун бэ:йлэнъ йулъп тэшлэшшъ хэмтэв дъйвуз. Узъм пъшкэндэ, ъшкэммъ устьгэ бэггь оттэсъгэ хэвэзэ кълэвуз. Хэвэзэдэ отьръп кушшъ коръйвуз. Йэздэ тут пъшъгьдэм бэшлэп кэрэйэлэ:, чугурчу: келэдъ. Коръп турмэсэц, узъммъ шълъп кетэдъ. Тэртэрэй чэлсэц КЭЧЭДЪ. Энув кэттэ йэцнэ.гэйэм",
+        "search_needle": "хэвэзэ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "havaza"
+  },
+  {
+    "id": "LUG-056",
+    "label": "Тэртэрэй",
+    "meaning_or_analysis_uz": "qush qochirish uchun chalinadigan narsa",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Moslama qanday tuzilishi manbada batafsil ochilmagan.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "здэ тут пъшъгьдэм бэшлэп кэрэйэлэ:, чугурчу: келэдъ. Коръп турмэсэц, узъммъ шълъп кетэдъ. Тэртэрэй чэлсэц КЭЧЭДЪ. Энув кэттэ йэцнэ.гэйэм коннъро: кьп койэмэн, куш коръшкэ. К,°НЧ'ьрэ:нъ пэкърдэн КЪЛЭМЭН. Пэкърръ ъчъгэ бъттэ темърръ эсълтъръп бэйлэп, пэкърръ йовдэ:нъ уччъгэ эсъп ",
+        "search_needle": "Тэртэрэй",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "tartaray"
+  },
+  {
+    "id": "LUG-057",
+    "label": "Пэкър",
+    "meaning_or_analysis_uz": "qo‘ng‘iroq sifatida ishlatilgan paqir",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Umumiy so‘z; shevaga mutlaq xos emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": " Энув кэттэ йэцнэ.гэйэм коннъро: кьп койэмэн, куш коръшкэ. К,°НЧ'ьрэ:нъ пэкърдэн КЪЛЭМЭН. Пэкърръ ъчъгэ бъттэ темърръ эсълтъръп бэйлэп, пэкърръ йовдэ:нъ уччъгэ эсъп койэмэн. Ъчъдэгъ темъргэ кэнэп бэйлэп хэвэзэгэ тэртъп келэмэн. Хэвэзэдэн туръп кэнэппъ тэртьп кэсэм, дэрэнн-дуру",
+        "search_needle": "Пэкърръ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "paqir"
+  },
+  {
+    "id": "LUG-058",
+    "label": "шэкэрэцгуллъ",
+    "meaning_or_analysis_uz": "shakar angur nomi bilan izohlangan uzum",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Muallif tojikcha shaklni qavsda keltiradi; botda har qanday uzumga qo‘llanmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": " бър келъйлэ. Хэвэзэгэ джэй къ-бърэмэн, ошэндэ бълэсъс хэвэзэнъ гэштънъ. Еттэмэн ъккъ ваш шэкэрэцгуллъ (тож. шакар ангур) сувгэ сэп, муздэй къп беръй, кэрсъллэтьп йеп корън, ошэндэ бълэсъс бэггь, узъммъ хэсъйэтьнъ. Узъм джэнъвэрэм мън бър дэрткэ дэвэ. Е, рэстэнэм бъ-нъмэ дъвэтувдъм",
+        "search_needle": "шэкэрэцгуллъ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "shakarangur"
+  },
+  {
+    "id": "LUG-059",
+    "label": "кондэ:",
+    "meaning_or_analysis_uz": "tok novdalarini yig‘ib, bog‘lab qo‘yish",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Ko‘mishdan oldingi amal; manbadagi o‘z ta’rifi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": " нэвдэлэ кесъп тэшлэнэдъ. Кегьн кондэ: кьлънэдъ. Узъммъ нэвдэлэрънъ йъгьп, бэйлзп куйъшшъ кондэ: дъйвуз. Кондэ: къгэндэ, узъммъ нэвдэлэръ йэткьзълъп, узун кьп нэвдзмънэм бэйлэп койълэдъ. Кегьн устъдэн бэрдъ йэпсэйэм болэдъ, турпэ: йэпсэйэм болэдъ. Мэн бэрдъгэ комэмэн. Энув кэлэвэттъ",
+        "search_needle": "кондэ: дъйвуз",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "konda:"
+  },
+  {
+    "id": "LUG-060",
+    "label": "ЭЙМЭКЬ",
+    "meaning_or_analysis_uz": "ko‘milmay, qishda ham qoldiriladigan tokka oid qayd",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Nav nomimi yoki parvarish usulimi: monologning o‘zi yetarli emas.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 90,
+        "printed_page": 89,
+        "anchor_normalized_whitespace": "йэпсэйэм болэдъ, турпэ: йэпсэйэм болэдъ. Мэн бэрдъгэ комэмэн. Энув кэлэвэттъ устьдэгь тэк ЭЙМЭКЬ. Унъ коммъймэн, оргэнгэн, кьштэйэм турвурэдъ. Энувнъйэм ЭЙМЭКЬ кьмэкчъмэн. Джъйдэнъ устъга чъкэрвэрэмэн. Ошэнъ усгьдэ сэп йэтвурсън, хэвлъгэйэм сэйэ берэдъ. Келгусъ йъл мэмбъ кърм",
+        "search_needle": "ЭЙМЭКЬ",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "aymaki"
+  },
+  {
+    "id": "LUG-061",
+    "label": "пэрхъш",
+    "meaning_or_analysis_uz": "tokni ko‘paytirishga oid amal",
+    "area": "Toshkent; kitobdagi bog‘dorchilik monologi",
+    "notes": "Aniq texnik usul tasdiqlanmagan; qatlamlash deb avtomatik kengaytirilmaydi.",
+    "evidence_status": "tekshirish_kerak",
+    "refs": [
+      {
+        "source_id": "T1",
+        "pdf_page": 91,
+        "printed_page": 90,
+        "anchor_normalized_whitespace": "пэрхъш къмз: чъмэн, пэрхъш къп копэйтърэмэн. Мундэнэм бъттэ соръ къп куйъй, йэхшъ турэдъгэн узъм, мэгьзъйэм кэттэкоргэннъкъдэн кэлъшмъйдъ. К^элэмчэсъдэн съзгэйэм бъттэ екъп беръй, бэхэнэ",
+        "search_needle": "пэрхъш",
+        "page_image_inspected": true,
+        "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf"
+      }
+    ],
+    "exclusive_to_region": null,
+    "audio_verified": false,
+    "independent_modern_usage_verified": false,
+    "model_training_performed": false,
+    "lexical_kind": "kasbiy_kontekst",
+    "approximate_latin_analyst_reading": "parxish"
+  }
+]

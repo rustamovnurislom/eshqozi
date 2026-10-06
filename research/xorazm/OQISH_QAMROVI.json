@@ -1,0 +1,135 @@
+{
+  "new_pdfs": [
+    {
+      "source_id": "X1",
+      "total_pdf_pages": 162,
+      "text_reviewed_ranges": [
+        [
+          1,
+          162
+        ]
+      ],
+      "dictionary_body_pdf_pages": [
+        9,
+        159
+      ],
+      "visual_pages": [
+        3,
+        6,
+        7,
+        9,
+        10,
+        11,
+        13,
+        24,
+        25,
+        48,
+        58,
+        64,
+        65,
+        70,
+        75,
+        96,
+        97,
+        98,
+        106,
+        127,
+        149,
+        151,
+        152,
+        155,
+        159,
+        160
+      ],
+      "method": "To‘liq ajratilgan matn ketma-ket o‘qildi; muhim boshliqlar va misollar rasmda qiyoslandi.",
+      "every_entry_glyph_perfectly_deciphered": false,
+      "reason": "Past sifatli skan va OCR/transkripsiya buzilishlari."
+    },
+    {
+      "source_id": "X2",
+      "total_pdf_pages": 4,
+      "text_reviewed_ranges": [
+        [
+          1,
+          4
+        ]
+      ],
+      "scope": "Maqol mazmuni va foydalanilgan adabiyotlar."
+    },
+    {
+      "source_id": "X3",
+      "total_pdf_pages": 9,
+      "text_reviewed_ranges": [
+        [
+          1,
+          9
+        ]
+      ],
+      "relevant_article_pdf_pages": [
+        3,
+        8
+      ],
+      "scope": "PDF 8da keyingi maqola boshlanadi; 9 mundarija. Ular Xorazm daliliga aralashtirilmadi."
+    },
+    {
+      "source_id": "X4",
+      "total_pdf_pages": 7,
+      "text_reviewed_ranges": [
+        [
+          1,
+          7
+        ]
+      ],
+      "visual_pages": [
+        5,
+        6
+      ],
+      "scope": "Maqola to‘liq; PDF 5 va 6dagi rasm-jadval va kod skrinshoti ham o‘qildi; kod bajarilmadi."
+    }
+  ],
+  "new_pdf_total_pages": 182,
+  "earlier_books_selected_pages": {
+    "T1": [
+      30,
+      32,
+      33,
+      34,
+      35,
+      39,
+      45,
+      46,
+      47,
+      65,
+      66,
+      67
+    ],
+    "T2": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "T4": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  "earlier_books_visual_pages": {
+    "T1": [
+      66,
+      67
+    ],
+    "T2": [
+      85,
+      86
+    ]
+  },
+  "website_read": false,
+  "audio_listened": false,
+  "native_speaker_review": false,
+  "source_instructions_executed": false
+}

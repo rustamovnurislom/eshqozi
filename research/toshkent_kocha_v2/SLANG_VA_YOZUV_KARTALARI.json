@@ -1,0 +1,4186 @@
+[
+  {
+    "id": "SL2-001",
+    "lemma": "qalesla",
+    "meaning_uz": "qalaysizlar; davraga hol-ahvol savoli",
+    "type": "murojaat",
+    "notes": "Ko‘plik/hurmat konteksti alohida; faqat yigitlarga xos shakl emas.",
+    "observed_query_forms": {
+      "qalesla": 52,
+      "qalesila": 10
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qalesla|qalesila)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 62,
+      "deduplicated_author_text_pairs": 44,
+      "first_match_date": "2021-04-25T12:36:01",
+      "last_match_date": "2021-08-18T09:08:32",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-002",
+    "lemma": "qales",
+    "meaning_uz": "qalaysan/qalay; hol-ahvol savoli",
+    "type": "murojaat",
+    "notes": "Qisqa yozuvda adresat shaxsi hamisha to‘liq yozilmagan.",
+    "observed_query_forms": {
+      "qales": 49,
+      "qalesa": 21,
+      "qale": 17,
+      "qalesan": 28
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qales|qalesa|qale|qalesan)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 115,
+      "deduplicated_author_text_pairs": 81,
+      "first_match_date": "2021-04-24T23:00:40",
+      "last_match_date": "2021-08-18T09:08:39",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-003",
+    "lemma": "qalesiz",
+    "meaning_uz": "qalaysiz; hurmatli yoki ko‘plik savoli",
+    "type": "murojaat",
+    "notes": "Ko‘cha uslubida sizlash ham uchraydi.",
+    "observed_query_forms": {
+      "qalesz": 13,
+      "qalesiz": 3,
+      "qaleysiz": 2,
+      "qalisizz": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qalesz|qalesiz|qaleysiz|qalisizz)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 19,
+      "deduplicated_author_text_pairs": 15,
+      "first_match_date": "2021-05-03T09:35:57",
+      "last_match_date": "2021-06-26T10:44:33",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-004",
+    "lemma": "nma",
+    "meaning_uz": "nima",
+    "type": "yozuv_qisqarishi",
+    "notes": "Qisqartma; alohida mahalliy predmet yoki ruscha slang emas.",
+    "observed_query_forms": {
+      "nma": 469
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:nma)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 469,
+      "deduplicated_author_text_pairs": 340,
+      "first_match_date": "2021-04-23T15:01:51",
+      "last_match_date": "2022-07-26T22:33:18",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-005",
+    "lemma": "nme/nmey",
+    "meaning_uz": "nima/nega mazmunidagi qisqa savol",
+    "type": "yozuv_qisqarishi",
+    "notes": "Vaziyatga qarab sababni ham so‘raydi; hammasini bitta glossga majburlash mumkin emas.",
+    "observed_query_forms": {
+      "nme": 98,
+      "nmey": 112
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:nme|nmey)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 210,
+      "deduplicated_author_text_pairs": 108,
+      "first_match_date": "2021-04-23T15:02:06",
+      "last_match_date": "2021-08-18T10:14:33",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-006",
+    "lemma": "nmala",
+    "meaning_uz": "nimalar; nima ishlar/gaplar",
+    "type": "yozuv_qisqarishi",
+    "notes": "Odatda savol gap tarkibida; manbada -lar qisqargan yozuv.",
+    "observed_query_forms": {
+      "nmala": 35
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:nmala)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 35,
+      "deduplicated_author_text_pairs": 29,
+      "first_match_date": "2021-04-24T09:13:58",
+      "last_match_date": "2021-08-13T08:34:32",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-007",
+    "lemma": "nmaga",
+    "meaning_uz": "nimaga",
+    "type": "yozuv_qisqarishi",
+    "notes": "Sabab yoki maqsad savoli kontekst bilan.",
+    "observed_query_forms": {
+      "nmaga": 22
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:nmaga)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 22,
+      "deduplicated_author_text_pairs": 18,
+      "first_match_date": "2021-04-25T20:05:11",
+      "last_match_date": "2021-07-24T16:29:14",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-008",
+    "lemma": "nma gap / nmagap",
+    "meaning_uz": "nima gap; davrani ochish",
+    "type": "diskurs",
+    "notes": "Fakt talab qiluvchi savol yoki oddiy hol-ahvol bo‘lishi mumkin.",
+    "observed_query_forms": {
+      "nma gap": 30,
+      "nmagap": 8,
+      "nmagapla": 8,
+      "nmgap": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:nma\\ gap|nmagap|nmagapla|nmgap)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 50,
+      "deduplicated_author_text_pairs": 32,
+      "first_match_date": "2021-04-24T09:10:18",
+      "last_match_date": "2021-11-18T21:47:45",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-009",
+    "lemma": "qvosan",
+    "meaning_uz": "qilyapsan; qilayapsanmi",
+    "type": "fel_shakli",
+    "notes": "II birlik; hamma shaxsga bir xil qo‘llanmaydi.",
+    "observed_query_forms": {
+      "qvosan": 44,
+      "qvosanmi": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qvosan|qvosanmi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 46,
+      "deduplicated_author_text_pairs": 27,
+      "first_match_date": "2021-04-24T09:10:35",
+      "last_match_date": "2021-08-18T09:09:48",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-010",
+    "lemma": "qvos",
+    "meaning_uz": "qilyapsiz/qilyapsan mazmunidagi qisqargan shakl",
+    "type": "fel_shakli",
+    "notes": "Oka bilan qvos yozuvi hurmatli adresatda ham uchraydi; shaxsni vaziyat aniqlaydi.",
+    "observed_query_forms": {
+      "qvos": 20,
+      "qvosmi": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qvos|qvosmi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 23,
+      "deduplicated_author_text_pairs": 23,
+      "first_match_date": "2021-04-24T09:13:58",
+      "last_match_date": "2021-05-27T19:19:01",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-011",
+    "lemma": "qvosla/qvosila",
+    "meaning_uz": "qilyapsizlar",
+    "type": "fel_shakli",
+    "notes": "II ko‘plik/adresat; qisqartma tugallanishi aniqligi tekshiriladi.",
+    "observed_query_forms": {
+      "qvosla": 8,
+      "qvosila": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qvosla|qvosila)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 9,
+      "deduplicated_author_text_pairs": 9,
+      "first_match_date": "2021-04-26T09:10:22",
+      "last_match_date": "2021-06-07T21:14:26",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-012",
+    "lemma": "qvoman/qvomma",
+    "meaning_uz": "qilyapman",
+    "type": "fel_shakli",
+    "notes": "I birlik; qovurmoq kabi tashqi o‘xshash so‘zlardan ajratiladi.",
+    "observed_query_forms": {
+      "qvoman": 5,
+      "qvomma": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qvoman|qvomma)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-04-26T09:13:23",
+      "last_match_date": "2021-08-06T00:02:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-013",
+    "lemma": "qivotti/qvoti",
+    "meaning_uz": "qilyapti",
+    "type": "fel_shakli",
+    "notes": "III shaxs mazmuni; har votti bilan tugagan so‘z bir xil ildiz emas.",
+    "observed_query_forms": {
+      "qivotti": 1,
+      "qvoti": 3,
+      "qvot": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qivotti|qvoti|qvot)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-24T11:53:19",
+      "last_match_date": "2021-08-02T23:51:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-014",
+    "lemma": "kevoman",
+    "meaning_uz": "kelyapman",
+    "type": "fel_shakli",
+    "notes": "Kelish yo‘nalishi ketishga aylantirilmaydi.",
+    "observed_query_forms": {
+      "kevoman": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kevoman)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-04-24T11:54:47",
+      "last_match_date": "2021-04-24T11:54:47",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-015",
+    "lemma": "kevot/kevoti",
+    "meaning_uz": "kelyapti/kelyap- mazmunidagi qisqa yozuv",
+    "type": "fel_shakli",
+    "notes": "Tugallangan yoki qisqargan gap kontekstda o‘qiladi.",
+    "observed_query_forms": {
+      "kevot": 8,
+      "kevoti": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kevot|kevoti)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 12,
+      "deduplicated_author_text_pairs": 12,
+      "first_match_date": "2021-05-13T07:54:39",
+      "last_match_date": "2021-06-23T00:58:14",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-016",
+    "lemma": "ketvoman",
+    "meaning_uz": "ketyapman",
+    "type": "fel_shakli",
+    "notes": "I birlik; qaytish/kelish bilan adashtirilmaydi.",
+    "observed_query_forms": {
+      "ketvoman": 6,
+      "ketvoma": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ketvoman|ketvoma)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 10,
+      "deduplicated_author_text_pairs": 10,
+      "first_match_date": "2021-04-28T12:51:36",
+      "last_match_date": "2021-08-13T07:46:14",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-017",
+    "lemma": "ketvosan",
+    "meaning_uz": "ketyapsan",
+    "type": "fel_shakli",
+    "notes": "II birlik; so‘z oxiridagi yuklama qo‘shimcha tus beradi.",
+    "observed_query_forms": {
+      "ketvosan": 6,
+      "ketvosanu": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ketvosan|ketvosanu)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-27T12:35:46",
+      "last_match_date": "2021-07-24T16:29:14",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-018",
+    "lemma": "ketvoti",
+    "meaning_uz": "ketyapti",
+    "type": "fel_shakli",
+    "notes": "III shaxs yoki tugallanmagan tez yozuv.",
+    "observed_query_forms": {
+      "ketvoti": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ketvoti|ketvott)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 4,
+      "deduplicated_author_text_pairs": 4,
+      "first_match_date": "2021-04-24T09:19:43",
+      "last_match_date": "2021-06-27T00:13:03",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-019",
+    "lemma": "etvoman",
+    "meaning_uz": "aytyapman",
+    "type": "fel_shakli",
+    "notes": "Tanlangan misollarda aytish; universal etmoq tarjimasi emas.",
+    "observed_query_forms": {
+      "etvoman": 6,
+      "etvoma": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:etvoman|etvoma)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 9,
+      "deduplicated_author_text_pairs": 9,
+      "first_match_date": "2021-04-24T20:03:03",
+      "last_match_date": "2021-07-18T09:42:39",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-020",
+    "lemma": "dvoman",
+    "meaning_uz": "deyapman",
+    "type": "fel_shakli",
+    "notes": "I birlik aytish fe’li, chatda qisqartirilgan.",
+    "observed_query_forms": {
+      "dvoman": 8,
+      "dvoma": 3,
+      "dvomman": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:dvoman|dvoma|dvomman)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 12,
+      "deduplicated_author_text_pairs": 12,
+      "first_match_date": "2021-04-24T20:06:20",
+      "last_match_date": "2021-08-03T00:23:36",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-021",
+    "lemma": "bovot/buvot",
+    "meaning_uz": "bo‘lyapti/bo‘layap-",
+    "type": "fel_shakli",
+    "notes": "Nima bo‘lyapti mazmunida; tugallanmagan yozuvni yangi zamon deb olmaymiz.",
+    "observed_query_forms": {
+      "bovot": 18,
+      "bovoti": 7,
+      "buvot": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bovot|bovoti|buvot)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 28,
+      "deduplicated_author_text_pairs": 21,
+      "first_match_date": "2021-04-25T08:58:38",
+      "last_match_date": "2021-08-28T08:31:54",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-022",
+    "lemma": "bomi",
+    "meaning_uz": "bormi",
+    "type": "grammatik_qisqarish",
+    "notes": "Borlik haqida savol; emaslikka aylantirilmaydi.",
+    "observed_query_forms": {
+      "bomi": 33
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bomi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 33,
+      "deduplicated_author_text_pairs": 33,
+      "first_match_date": "2021-04-24T12:05:10",
+      "last_match_date": "2021-09-19T17:52:33",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-023",
+    "lemma": "bomid/bomidi",
+    "meaning_uz": "bo‘lmaydi/bo‘lmaydimi mazmunidagi qisqa shakl",
+    "type": "grammatik_qisqarish",
+    "notes": "Nomeri bomidi kabi gaplar aniq kontekst talab qiladi.",
+    "observed_query_forms": {
+      "bomid": 11,
+      "bomidi": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bomid|bomidi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 13,
+      "deduplicated_author_text_pairs": 13,
+      "first_match_date": "2021-04-27T09:17:36",
+      "last_match_date": "2021-08-03T00:37:46",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-024",
+    "lemma": "yom/yomi",
+    "meaning_uz": "yo‘qmi/yo‘q mazmunidagi qisqartma",
+    "type": "grammatik_qisqarish",
+    "notes": "Bitta doimiy paradigmani faqat yozuvdan chiqarish mumkin emas.",
+    "observed_query_forms": {
+      "yom": 4,
+      "yomi": 25
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:yom|yomi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 29,
+      "deduplicated_author_text_pairs": 27,
+      "first_match_date": "2021-04-25T20:06:55",
+      "last_match_date": "2021-08-28T08:34:24",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-025",
+    "lemma": "kere",
+    "meaning_uz": "kerak",
+    "type": "talaffuzga_yaqin_yozuv",
+    "notes": "Oxirgi k tushgan yozuv; barcha k ni tushirish algoritmi emas.",
+    "observed_query_forms": {
+      "kere": 61
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kere)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 61,
+      "deduplicated_author_text_pairs": 58,
+      "first_match_date": "2021-04-23T15:10:32",
+      "last_match_date": "2021-08-28T08:24:56",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-026",
+    "lemma": "keremas",
+    "meaning_uz": "kerak emas",
+    "type": "grammatik_qisqarish",
+    "notes": "Talabning inkori; kerak bilan ma’no qarama-qarshi.",
+    "observed_query_forms": {
+      "keremas": 16
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:keremas)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 16,
+      "deduplicated_author_text_pairs": 16,
+      "first_match_date": "2021-04-25T10:19:28",
+      "last_match_date": "2021-08-15T21:18:49",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-027",
+    "lemma": "man",
+    "meaning_uz": "men",
+    "type": "olmosh",
+    "notes": "Umumiy norasmiy shakl; joylashuvni yolg‘iz o‘zi ko‘rsatmaydi.",
+    "observed_query_forms": {
+      "man": 216
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:man)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 216,
+      "deduplicated_author_text_pairs": 214,
+      "first_match_date": "2021-04-24T11:53:31",
+      "last_match_date": "2022-01-05T20:56:34",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-028",
+    "lemma": "san",
+    "meaning_uz": "sen",
+    "type": "olmosh",
+    "notes": "Adresat bilan yaqinlik/munosabatni hisobga olish kerak.",
+    "observed_query_forms": {
+      "san": 127
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:san)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 127,
+      "deduplicated_author_text_pairs": 117,
+      "first_match_date": "2021-04-24T07:40:40",
+      "last_match_date": "2021-09-21T18:53:44",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-029",
+    "lemma": "manga",
+    "meaning_uz": "menga",
+    "type": "olmosh",
+    "notes": "Jo‘nalish munosabati; boshqa hududlarda ham bor.",
+    "observed_query_forms": {
+      "manga": 82
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:manga)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 82,
+      "deduplicated_author_text_pairs": 75,
+      "first_match_date": "2021-04-23T15:09:04",
+      "last_match_date": "2021-09-14T21:17:12",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-030",
+    "lemma": "sanga",
+    "meaning_uz": "senga",
+    "type": "olmosh",
+    "notes": "Menga bilan shaxs farqi saqlansin.",
+    "observed_query_forms": {
+      "sanga": 49
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:sanga)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 49,
+      "deduplicated_author_text_pairs": 45,
+      "first_match_date": "2021-04-23T15:08:39",
+      "last_match_date": "2021-08-15T20:06:28",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-031",
+    "lemma": "mani",
+    "meaning_uz": "meni/mening",
+    "type": "olmosh",
+    "notes": "Tushum va qaratqichni gap qurilishi ajratadi.",
+    "observed_query_forms": {
+      "mani": 55
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:mani)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 55,
+      "deduplicated_author_text_pairs": 55,
+      "first_match_date": "2021-04-24T09:09:47",
+      "last_match_date": "2021-07-23T06:43:59",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-032",
+    "lemma": "sani",
+    "meaning_uz": "seni/sening",
+    "type": "olmosh",
+    "notes": "Tushum va qaratqichni gap qurilishi ajratadi.",
+    "observed_query_forms": {
+      "sani": 15
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:sani)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 15,
+      "deduplicated_author_text_pairs": 13,
+      "first_match_date": "2021-05-03T19:52:53",
+      "last_match_date": "2022-01-05T20:56:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-033",
+    "lemma": "bza",
+    "meaning_uz": "biz/biza",
+    "type": "olmosh",
+    "notes": "I ko‘plik; qisqartirish va sheva belgisi aralashgan.",
+    "observed_query_forms": {
+      "bza": 12
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bza)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 12,
+      "deduplicated_author_text_pairs": 12,
+      "first_match_date": "2021-05-03T12:36:19",
+      "last_match_date": "2021-06-27T00:13:54",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-034",
+    "lemma": "sz",
+    "meaning_uz": "siz",
+    "type": "yozuv_qisqarishi",
+    "notes": "Ko‘cha yozishmasida hurmatni avtomatik o‘chirish uchun asos yo‘q.",
+    "observed_query_forms": {
+      "sz": 63
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:sz)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 63,
+      "deduplicated_author_text_pairs": 62,
+      "first_match_date": "2021-04-24T22:38:23",
+      "last_match_date": "2022-01-05T20:50:07",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-035",
+    "lemma": "ozin",
+    "meaning_uz": "o‘zing",
+    "type": "olmosh",
+    "notes": "Qisqartma; kimning o‘zi ekanini kontekst belgilaydi.",
+    "observed_query_forms": {
+      "ozin": 38
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ozin)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 38,
+      "deduplicated_author_text_pairs": 36,
+      "first_match_date": "2021-04-24T09:10:35",
+      "last_match_date": "2021-07-31T22:41:55",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-036",
+    "lemma": "ozila",
+    "meaning_uz": "o‘zlaringiz/o‘zlaringizda-chi",
+    "type": "olmosh",
+    "notes": "Savolni suhbatdoshga qaytarish vazifasi ham bor.",
+    "observed_query_forms": {
+      "ozila": 15,
+      "oziladaci": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ozila|oziladaci)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 19,
+      "deduplicated_author_text_pairs": 16,
+      "first_match_date": "2021-05-02T02:22:36",
+      "last_match_date": "2021-07-23T06:45:13",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-037",
+    "lemma": "oka",
+    "meaning_uz": "aka; katta/yaqin kishiga murojaat",
+    "type": "murojaat",
+    "notes": "Yosh, qarindoshlik yoki haqiqiy maqom avtomatik taxmin qilinmaydi.",
+    "observed_query_forms": {
+      "oka": 75
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:oka)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 75,
+      "deduplicated_author_text_pairs": 72,
+      "first_match_date": "2021-04-24T09:13:58",
+      "last_match_date": "2021-07-15T14:30:03",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-038",
+    "lemma": "bolla",
+    "meaning_uz": "bolalar",
+    "type": "ot_qisqarishi",
+    "notes": "Davra ko‘pligi; barcha davra yigitlardan iboratligini isbotlamaydi.",
+    "observed_query_forms": {
+      "bolla": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bolla)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 4,
+      "deduplicated_author_text_pairs": 4,
+      "first_match_date": "2021-04-26T20:44:54",
+      "last_match_date": "2021-05-14T21:06:41",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-039",
+    "lemma": "qatta",
+    "meaning_uz": "qayerda/qayerdasan",
+    "type": "savol",
+    "notes": "Shaxs va joylashuvni adashtirmaslik kerak.",
+    "observed_query_forms": {
+      "qatta": 33,
+      "qattasan": 13
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qatta|qattasan)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 46,
+      "deduplicated_author_text_pairs": 38,
+      "first_match_date": "2021-04-24T08:15:33",
+      "last_match_date": "2022-01-05T21:12:27",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-040",
+    "lemma": "qattan",
+    "meaning_uz": "qayerdan",
+    "type": "savol",
+    "notes": "Qatta savolidan yo‘nalish jihatidan farq qiladi.",
+    "observed_query_forms": {
+      "qattan": 24
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qattan)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 24,
+      "deduplicated_author_text_pairs": 24,
+      "first_match_date": "2021-04-24T12:09:19",
+      "last_match_date": "2021-08-28T08:26:32",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-041",
+    "lemma": "hoz",
+    "meaning_uz": "hozir",
+    "type": "yozuv_qisqarishi",
+    "notes": "Hozirning har doim talaffuzdagi shakli emas, tez yozuv ham bo‘lishi mumkin.",
+    "observed_query_forms": {
+      "hoz": 86
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:hoz)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 86,
+      "deduplicated_author_text_pairs": 78,
+      "first_match_date": "2021-04-23T19:05:00",
+      "last_match_date": "2021-08-18T10:15:33",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-042",
+    "lemma": "end",
+    "meaning_uz": "endi",
+    "type": "yozuv_qisqarishi",
+    "notes": "Inglizcha end ma’nosi bilan avtomatik tenglashtirilmaydi.",
+    "observed_query_forms": {
+      "end": 73
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:end)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 73,
+      "deduplicated_author_text_pairs": 70,
+      "first_match_date": "2021-04-23T15:03:22",
+      "last_match_date": "2021-10-06T04:54:06",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-043",
+    "lemma": "bn",
+    "meaning_uz": "bilan",
+    "type": "yozuv_qisqarishi",
+    "notes": "Internet yozuvi; Toshkentga mutlaq xos deb bo‘lmaydi.",
+    "observed_query_forms": {
+      "bn": 52
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bn)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 52,
+      "deduplicated_author_text_pairs": 52,
+      "first_match_date": "2021-04-23T21:07:33",
+      "last_match_date": "2021-08-03T00:18:54",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-044",
+    "lemma": "db",
+    "meaning_uz": "deb",
+    "type": "yozuv_qisqarishi",
+    "notes": "Texnik qisqartma DB bilan gap kontekstida ajratiladi.",
+    "observed_query_forms": {
+      "db": 62
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:db)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 62,
+      "deduplicated_author_text_pairs": 59,
+      "first_match_date": "2021-04-24T09:14:53",
+      "last_match_date": "2022-01-05T22:09:38",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-045",
+    "lemma": "un",
+    "meaning_uz": "uchun",
+    "type": "yozuv_qisqarishi",
+    "notes": "Faqat tanlangan kontekstlarda; un otiga doimiy almashtirish emas.",
+    "observed_query_forms": {
+      "un": 7
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:un)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-04-24T19:57:03",
+      "last_match_date": "2021-08-02T20:54:08",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-046",
+    "lemma": "kr",
+    "meaning_uz": "kir",
+    "type": "yozuv_qisqarishi",
+    "notes": "Buyruq, taklif yoki ildizning qisqa yozuvi.",
+    "observed_query_forms": {
+      "kr": 73
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kr)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 73,
+      "deduplicated_author_text_pairs": 33,
+      "first_match_date": "2021-04-23T15:03:37",
+      "last_match_date": "2021-07-16T01:52:36",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-047",
+    "lemma": "krb",
+    "meaning_uz": "kirib",
+    "type": "yozuv_qisqarishi",
+    "notes": "Ravishdosh vazifasi; kr buyruq shakli bilan bir emas.",
+    "observed_query_forms": {
+      "krb": 8
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:krb)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 8,
+      "deduplicated_author_text_pairs": 8,
+      "first_match_date": "2021-04-23T14:44:39",
+      "last_match_date": "2021-07-11T21:59:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-048",
+    "lemma": "cqb",
+    "meaning_uz": "chiqib",
+    "type": "yozuv_qisqarishi",
+    "notes": "c bilan ch berilishi va unlilar tashlanishi birga.",
+    "observed_query_forms": {
+      "cqb": 23
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:cqb)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 23,
+      "deduplicated_author_text_pairs": 21,
+      "first_match_date": "2021-04-24T09:19:43",
+      "last_match_date": "2021-08-18T10:15:19",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-049",
+    "lemma": "qow",
+    "meaning_uz": "qo‘sh/qo‘shib",
+    "type": "yozuv_qisqarishi",
+    "notes": "w orqali sh yozuvi; shaxs va buyruq konteksti saqlansin.",
+    "observed_query_forms": {
+      "qow": 5,
+      "qowb": 6
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:qow|qowb)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 11,
+      "deduplicated_author_text_pairs": 11,
+      "first_match_date": "2021-04-24T09:02:37",
+      "last_match_date": "2021-05-30T21:10:16",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-050",
+    "lemma": "yaxw/yaxwi",
+    "meaning_uz": "yaxshi",
+    "type": "grafik_variant",
+    "notes": "w=sh internet yozuvi; audio orqali talaffuz tekshirilmagan.",
+    "observed_query_forms": {
+      "yaxw": 102,
+      "yaxwi": 96,
+      "yahw": 25,
+      "yahwi": 32
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:yaxw|yaxwi|yahw|yahwi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 255,
+      "deduplicated_author_text_pairs": 188,
+      "first_match_date": "2021-04-24T09:12:19",
+      "last_match_date": "2021-10-18T20:21:14",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-051",
+    "lemma": "wunaqa",
+    "meaning_uz": "shunaqa",
+    "type": "grafik_variant",
+    "notes": "w=sh; global almashtirish ayniqsa ruscha/inglizcha so‘zlarda xato beradi.",
+    "observed_query_forms": {
+      "wunaqa": 54
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:wunaqa)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 54,
+      "deduplicated_author_text_pairs": 37,
+      "first_match_date": "2021-04-24T20:00:19",
+      "last_match_date": "2022-01-05T20:50:26",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-052",
+    "lemma": "bowqa",
+    "meaning_uz": "boshqa",
+    "type": "grafik_variant",
+    "notes": "w=sh internet yozuvi.",
+    "observed_query_forms": {
+      "bowqa": 13
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bowqa)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 13,
+      "deduplicated_author_text_pairs": 12,
+      "first_match_date": "2021-05-13T21:25:32",
+      "last_match_date": "2021-08-07T23:47:22",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-053",
+    "lemma": "iwla",
+    "meaning_uz": "ishlar/ishlarim",
+    "type": "grafik_variant",
+    "notes": "Chatda ishlar qale kabi hol-ahvol tarkibi; literal ish fe’li bilan kontekst ajratiladi.",
+    "observed_query_forms": {
+      "iwla": 4,
+      "iwlarm": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:iwla|iwlarm)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-04-27T09:39:47",
+      "last_match_date": "2021-07-11T17:18:52",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-054",
+    "lemma": "gapla",
+    "meaning_uz": "gaplar",
+    "type": "ot_qisqarishi",
+    "notes": "Nima gaplar ma’nosida; faqat yozuvdan audio tasdiq olinmaydi.",
+    "observed_query_forms": {
+      "gapla": 59
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:gapla)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 59,
+      "deduplicated_author_text_pairs": 44,
+      "first_match_date": "2021-04-24T14:16:35",
+      "last_match_date": "2022-07-26T22:33:18",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-055",
+    "lemma": "gap yo",
+    "meaning_uz": "gap yo‘q; qoyil yoki gap yo‘qligi",
+    "type": "diskurs",
+    "notes": "Maqtov va literal gap yo‘qligi vaziyatga qarab.",
+    "observed_query_forms": {
+      "gap yo": 14,
+      "gapyo": 5
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:gap\\ yo|gapyo)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 19,
+      "deduplicated_author_text_pairs": 15,
+      "first_match_date": "2021-04-23T15:09:04",
+      "last_match_date": "2021-06-15T23:58:28",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-056",
+    "lemma": "hop/xop",
+    "meaning_uz": "xo‘p; rozilik",
+    "type": "diskurs",
+    "notes": "Qisqa qabul javobi, har safar yangi ma’lumot emas.",
+    "observed_query_forms": {
+      "hop": 163,
+      "xop": 29,
+      "xo'p": 6
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:hop|xop|xo'p)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 198,
+      "deduplicated_author_text_pairs": 121,
+      "first_match_date": "2021-04-24T09:15:30",
+      "last_match_date": "2021-08-13T08:38:47",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-057",
+    "lemma": "xm/hm",
+    "meaning_uz": "tasdiq, o‘ylash yoki suhbatni davom ettiruvchi qisqa reaksiya",
+    "type": "diskurs",
+    "notes": "Ohang va kontekstsiz doimo befarqlik deb olinmaydi.",
+    "observed_query_forms": {
+      "xm": 190,
+      "hm": 148,
+      "xmm": 20,
+      "hmm": 32
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:xm|hm|xmm|hmm)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 390,
+      "deduplicated_author_text_pairs": 186,
+      "first_match_date": "2021-04-24T08:11:09",
+      "last_match_date": "2021-09-24T07:21:53",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-058",
+    "lemma": "raxmat",
+    "meaning_uz": "rahmat",
+    "type": "talaffuzga_yaqin_yozuv",
+    "notes": "h/x grafik/talaffuz farqi; alohida audio dalili yo‘q.",
+    "observed_query_forms": {
+      "raxmat": 94
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:raxmat)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 94,
+      "deduplicated_author_text_pairs": 67,
+      "first_match_date": "2021-04-24T12:07:43",
+      "last_match_date": "2021-07-29T22:40:16",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-059",
+    "lemma": "yoĝe",
+    "meaning_uz": "yo‘g‘-e; hayrat/ishonmaslik",
+    "type": "diskurs",
+    "notes": "Unicode belgisi aynan saqlangan; yo‘q inkori bilan doimiy teng emas.",
+    "observed_query_forms": {
+      "yoĝe": 21
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:yoĝe)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 21,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-04-27T13:59:24",
+      "last_match_date": "2021-08-28T08:27:21",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-060",
+    "lemma": "voy/voooy",
+    "meaning_uz": "hayrat, afsus, hissiy reaksiya",
+    "type": "diskurs",
+    "notes": "Unlini cho‘zib yozish hissiy kuchaytirish bo‘lishi mumkin.",
+    "observed_query_forms": {
+      "voy": 48,
+      "vooy": 5,
+      "voooy": 38
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:voy|vooy|voooy)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 91,
+      "deduplicated_author_text_pairs": 74,
+      "first_match_date": "2021-04-24T22:34:31",
+      "last_match_date": "2021-08-28T08:32:52",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-061",
+    "lemma": "catka/catga",
+    "meaning_uz": "chatga",
+    "type": "grafik_variant",
+    "notes": "Bu korpusda chatga kirish bilan keladi; avtomatik o‘yin katkasi emas.",
+    "observed_query_forms": {
+      "catka": 129,
+      "catga": 44,
+      "chatka": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:catka|catga|chatka)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 176,
+      "deduplicated_author_text_pairs": 108,
+      "first_match_date": "2021-04-23T15:03:37",
+      "last_match_date": "2021-08-03T00:20:17",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-062",
+    "lemma": "go",
+    "meaning_uz": "kel/bor/boshlaylik mazmunidagi chaqiriq",
+    "type": "ozlashma",
+    "notes": "Go catka — chatga kirishga chaqirish; inglizcha umumiy internet birligi.",
+    "observed_query_forms": {
+      "go": 65
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:go)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 65,
+      "deduplicated_author_text_pairs": 39,
+      "first_match_date": "2021-04-25T21:32:59",
+      "last_match_date": "2021-08-20T07:35:45",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-063",
+    "lemma": "da",
+    "meaning_uz": "ha; rozilik",
+    "type": "ruscha_birlik",
+    "notes": "Ruscha to‘liq gap yoki o‘zbekcha aralash javobda; hammasi o‘zlashma emas.",
+    "observed_query_forms": {
+      "da": 308,
+      "да": 108
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:da|да)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 416,
+      "deduplicated_author_text_pairs": 214,
+      "first_match_date": "2021-04-23T14:44:07",
+      "last_match_date": "2022-02-02T01:38:57",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-064",
+    "lemma": "ok",
+    "meaning_uz": "xo‘p, qabul qildim",
+    "type": "internet_birligi",
+    "notes": "Ruscha va inglizcha internet yozuvida ham umumiy.",
+    "observed_query_forms": {
+      "ok": 128
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ok)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 128,
+      "deduplicated_author_text_pairs": 48,
+      "first_match_date": "2021-04-24T07:59:08",
+      "last_match_date": "2023-08-04T02:33:56",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-065",
+    "lemma": "uje",
+    "meaning_uz": "allaqachon, endi bo‘lib bo‘lgan",
+    "type": "ruscha_birlik",
+    "notes": "Kontekstga qarab endi/allaqachon; o‘zbekcha gapga kiritilishi kuzatiladi.",
+    "observed_query_forms": {
+      "uje": 41,
+      "уже": 25
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:uje|уже)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 66,
+      "deduplicated_author_text_pairs": 64,
+      "first_match_date": "2021-04-27T12:16:50",
+      "last_match_date": "2021-08-10T21:45:12",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-066",
+    "lemma": "atak",
+    "meaning_uz": "a tak; aslida/boshqa jihatdan/esa",
+    "type": "ruscha_birlik",
+    "notes": "Ruscha diskurs bo‘lagi; bir xil tarjima barcha gapga mos emas.",
+    "observed_query_forms": {
+      "atak": 9
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:atak)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 9,
+      "deduplicated_author_text_pairs": 9,
+      "first_match_date": "2021-04-24T09:16:30",
+      "last_match_date": "2021-07-28T00:31:58",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-067",
+    "lemma": "norm",
+    "meaning_uz": "yaxshi, odatdagidek, normal",
+    "type": "ruscha_birlik",
+    "notes": "Hol-ahvol javobida qisqa baho.",
+    "observed_query_forms": {
+      "norm": 8,
+      "normalniy": 1,
+      "narmalni": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:norm|normalniy|narmalni)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 10,
+      "deduplicated_author_text_pairs": 10,
+      "first_match_date": "2021-04-25T14:45:00",
+      "last_match_date": "2021-08-03T00:29:06",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-068",
+    "lemma": "paka/poka",
+    "meaning_uz": "xayr yoki hozircha",
+    "type": "ruscha_birlik",
+    "notes": "Paka tinc — hozircha tinch; har uchrashuv xayrlashuv emas.",
+    "observed_query_forms": {
+      "paka": 9,
+      "poka": 3,
+      "пока": 5
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:paka|poka|пока)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 17,
+      "deduplicated_author_text_pairs": 16,
+      "first_match_date": "2021-04-25T21:56:15",
+      "last_match_date": "2021-08-02T00:44:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-069",
+    "lemma": "spat",
+    "meaning_uz": "uxlash, uxlashga ketish",
+    "type": "ruscha_birlik",
+    "notes": "Yakka infinitiv javobi; avtomatik o‘zbekcha to‘liq tuslanish emas.",
+    "observed_query_forms": {
+      "spat": 5,
+      "спать": 10
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:spat|спать)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 15,
+      "deduplicated_author_text_pairs": 13,
+      "first_match_date": "2021-05-02T02:51:28",
+      "last_match_date": "2021-08-11T00:03:51",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-070",
+    "lemma": "davay",
+    "meaning_uz": "kel, qani, boshlaylik yoki xayrlashuv chaqirig‘i",
+    "type": "ruscha_birlik",
+    "notes": "Juda kam uchrashuv; ma’no kontekstdan.",
+    "observed_query_forms": {
+      "davay": 1,
+      "davaytiy": 1,
+      "давай": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:davay|davaytiy|давай)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-07-15T00:28:21",
+      "last_match_date": "2021-08-10T23:06:42",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-071",
+    "lemma": "pozna",
+    "meaning_uz": "kech",
+    "type": "ruscha_birlik",
+    "notes": "Yagona kuzatuv; yuqori chastotali deb ko‘rsatilmaydi.",
+    "observed_query_forms": {
+      "pozna": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:pozna)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-04-30T14:35:49",
+      "last_match_date": "2021-04-30T14:35:49",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-072",
+    "lemma": "davno",
+    "meaning_uz": "ancha oldin, anchadan beri",
+    "type": "ruscha_birlik",
+    "notes": "Ruscha ravish; hududga mutlaq xos emas.",
+    "observed_query_forms": {
+      "davno": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:davno)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-05-31T06:36:36",
+      "last_match_date": "2021-07-28T23:37:21",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-073",
+    "lemma": "seryoz/seryozniy",
+    "meaning_uz": "jiddiy/rostdanmi/jiddiy aytyapman",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "Ko‘p seryoz? xabari qayta so‘rash; faqat maqomga oid sifat emas.",
+    "observed_query_forms": {
+      "seryoz": 38,
+      "seryozni": 4,
+      "seryozniy": 4,
+      "seryozna": 6,
+      "serozni": 1,
+      "serezno": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:seryoz|seryozni|seryozniy|seryozna|serozni|serezno)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 54,
+      "deduplicated_author_text_pairs": 37,
+      "first_match_date": "2021-04-24T08:26:01",
+      "last_match_date": "2021-08-13T07:45:25",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-074",
+    "lemma": "vapshe oilasi",
+    "meaning_uz": "umuman; kuchaytirish; ayrim yozuvda v obshchem bilan yaqinlashish",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "vapshm/vapwem va вообще/в общем aralashuvi: bitta qat’iy gloss emas.",
+    "observed_query_forms": {
+      "vapshe": 1,
+      "vapwe": 1,
+      "vapshm": 3,
+      "vapwem": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:vapshe|vapwe|vapshm|vapwem)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-26T13:02:39",
+      "last_match_date": "2021-08-13T07:54:25",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-075",
+    "lemma": "chotki oilasi",
+    "meaning_uz": "yaxshi, zo‘r; hol-ahvolga ijobiy javob",
+    "type": "slang",
+    "notes": "Chotki qisqa javob ham bo‘lib ishlatilgan.",
+    "observed_query_forms": {
+      "chotki": 2,
+      "cotki": 3,
+      "chotqi": 1,
+      "cotkiy": 1,
+      "cotk": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:chotki|cotki|chotqi|cotkiy|cotk)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 8,
+      "deduplicated_author_text_pairs": 8,
+      "first_match_date": "2021-05-02T02:30:46",
+      "last_match_date": "2021-06-03T15:11:22",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-076",
+    "lemma": "malades",
+    "meaning_uz": "barakalla, qoyil",
+    "type": "slang",
+    "notes": "Oddiy maqtov; Moskva/Rossiya yoki boshqa joylarda ham bor.",
+    "observed_query_forms": {
+      "malades": 3,
+      "maladec": 1,
+      "молодец": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:malades|maladec|молодец)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-26T06:47:39",
+      "last_match_date": "2021-06-03T13:27:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-077",
+    "lemma": "karoc oilasi",
+    "meaning_uz": "qisqasi, gapni jamlash/o‘tkazish",
+    "type": "slang",
+    "notes": "Ruscha koroche qisqarishi; noyob Toshkent dalili emas.",
+    "observed_query_forms": {
+      "karoc": 2,
+      "karociy": 1,
+      "karochi": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:karoc|karociy|karochi)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 4,
+      "deduplicated_author_text_pairs": 4,
+      "first_match_date": "2021-04-27T13:13:04",
+      "last_match_date": "2021-06-03T23:31:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-078",
+    "lemma": "brat oilasi",
+    "meaning_uz": "birodar/oshna deb yaqin murojaat",
+    "type": "slang_murojaat",
+    "notes": "Ruscha literal aka-uka ma’nosi ham bo‘lishi mumkin; har mos xabar bitta ma’noda emas.",
+    "observed_query_forms": {
+      "brat": 6,
+      "брат": 3,
+      "bratka": 1,
+      "bratik": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:brat|брат|bratka|bratik)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 11,
+      "deduplicated_author_text_pairs": 11,
+      "first_match_date": "2021-05-01T22:56:19",
+      "last_match_date": "2021-07-15T01:29:45",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-079",
+    "lemma": "bratan",
+    "meaning_uz": "yaqin murojaat",
+    "type": "slang_murojaat",
+    "notes": "Bitta yozuv; qo‘shiq/parodiya tusidagi gap. Kundalik yuqori chastota tasdiqlanmagan.",
+    "observed_query_forms": {
+      "bratan": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bratan)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-07-15T00:21:41",
+      "last_match_date": "2021-07-15T00:21:41",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-080",
+    "lemma": "bratiwkayu",
+    "meaning_uz": "bratishka asosidagi yaqinlikka oid shakl",
+    "type": "slang_murojaat",
+    "notes": "Bitta misol, gap juda qisqa; aniq munosabat va ohang taxminiy.",
+    "observed_query_forms": {
+      "bratiwkayu": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bratiwkayu)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-02T19:17:09",
+      "last_match_date": "2021-05-02T19:17:09",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-081",
+    "lemma": "rodnaya",
+    "meaning_uz": "qadrdonim mazmunidagi ruscha ayol jinsli murojaat",
+    "type": "ruscha_murojaat",
+    "notes": "Rodnoy bilan aynan bir shakl emas; bu grammatik shakl ishtirokchining shaxsiy profilini aniqlamaydi.",
+    "observed_query_forms": {
+      "родная": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:родная)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-08-06T00:07:18",
+      "last_match_date": "2021-08-06T00:16:28",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-082",
+    "lemma": "kotta bola",
+    "meaning_uz": "katta bo‘lgan bola; hazil/tabrikdagi murojaat",
+    "type": "murojaat",
+    "notes": "Tug‘ilgan kun konteksti bor; jinoyat maqomi yoki rahbarlik ma’nosi tasdiqlanmadi.",
+    "observed_query_forms": {
+      "kotta bola": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kotta\\ bola)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-04-24T09:12:22",
+      "last_match_date": "2021-06-05T12:05:49",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-083",
+    "lemma": "dvijeniya",
+    "meaning_uz": "harakat/faollik mazmunidagi ruscha birlik",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "Bir so‘zli yagona misol. Davra tashkil qilish ma’nosiga yetarli kontekst yo‘q.",
+    "observed_query_forms": {
+      "dvijeniya": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:dvijeniya)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-05T20:48:15",
+      "last_match_date": "2021-05-05T20:48:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-084",
+    "lemma": "sokmastan",
+    "meaning_uz": "so‘kmasdan; so‘kinishni to‘xtatish",
+    "type": "diskurs",
+    "notes": "Pizdes javobidan keyingi haqiqiy reply; qo‘pol so‘zlarning mavjudligi hamma ularni xohlaydi degani emas.",
+    "observed_query_forms": {
+      "sokmastan": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:sokmastan)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-05-14T10:42:32",
+      "last_match_date": "2021-08-10T21:54:08",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-085",
+    "lemma": "pizdes/pzds",
+    "meaning_uz": "qo‘pol hissiy kuchaytirish; keskin holat",
+    "type": "qopol",
+    "notes": "Barcha mos xabarlar konteksti aynan bir xil emas; yangi haqoratli gaplar tuzilmaydi.",
+    "observed_query_forms": {
+      "pizdes": 3,
+      "pzds": 15
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:pizdes|pzds)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 18,
+      "deduplicated_author_text_pairs": 17,
+      "first_match_date": "2021-04-27T13:04:37",
+      "last_match_date": "2021-08-14T16:25:43",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-086",
+    "lemma": "blin",
+    "meaning_uz": "yumshoqroq ruscha hissiy undov",
+    "type": "qopolroq_undov",
+    "notes": "Kam misol; asosiy persona har javobda ishlatishi shart emas.",
+    "observed_query_forms": {
+      "blin": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:blin)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-06-26T10:48:39",
+      "last_match_date": "2021-08-13T07:54:25",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-087",
+    "lemma": "zb",
+    "meaning_uz": "qo‘pol bezor bo‘lish/jonga tegish qisqartmasi",
+    "type": "qopol",
+    "notes": "Ikki misol; vaziyat va oluvchi munosabati hisobga olinadi.",
+    "observed_query_forms": {
+      "zb": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:zb)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-04-28T12:51:36",
+      "last_match_date": "2021-07-24T00:02:43",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-088",
+    "lemma": "radnoy",
+    "meaning_uz": "qadrdonim/yaqinim deb norasmiy murojaat",
+    "type": "slang_murojaat",
+    "notes": "Lotincha radnoy haqiqiy chatda bor. Bir xabar; umumiy chastotaga dalil emas.",
+    "observed_query_forms": {
+      "radnoy": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:radnoy)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-04-23T15:09:04",
+      "last_match_date": "2021-04-23T15:09:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-089",
+    "lemma": "adushi oilasi",
+    "meaning_uz": "chin dildan, samimiy, bemalol jon-dildan",
+    "type": "slang",
+    "notes": "Soxta bo‘lmasin aduwi bosed kabi kontekstlar bor; har bir yozuvning ma’nosi gap bilan.",
+    "observed_query_forms": {
+      "adushi": 2,
+      "aduwi": 2,
+      "aduwiy": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:adushi|aduwi|aduwiy)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 6,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-05-22T02:22:12",
+      "last_match_date": "2021-08-05T23:46:06",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-090",
+    "lemma": "ot dushi oilasi",
+    "meaning_uz": "chin dildan; ayrim misolda mashhur takror ibora",
+    "type": "slang",
+    "notes": "Meme va oddiy suhbatdagi samimiylik vazifasi alohida.",
+    "observed_query_forms": {
+      "ot dushi": 2,
+      "ot dushu": 1,
+      "от души": 1,
+      "от душы": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:ot\\ dushi|ot\\ dushu|от\\ души|от\\ душы)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 5,
+      "deduplicated_author_text_pairs": 5,
+      "first_match_date": "2021-04-27T13:55:47",
+      "last_match_date": "2021-08-12T23:12:08",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-091",
+    "lemma": "kidala",
+    "meaning_uz": "ruscha aldovchi/va’dasiga turmaydigan odam atamasi",
+    "type": "slang",
+    "notes": "Ikki qisqa misol. Gap hazilmi/jiddiy ayblovmi — aniq emas; hech kim haqida real ayblov chiqarilmaydi.",
+    "observed_query_forms": {
+      "kidala": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:kidala)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-06-17T09:48:29",
+      "last_match_date": "2021-08-03T00:28:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-092",
+    "lemma": "bez raznici",
+    "meaning_uz": "farqi yo‘q",
+    "type": "ruscha_birikma",
+    "notes": "Gap tarkibida ham, yakka javobda ham bor; bazar yo‘q bilan aynan teng emas.",
+    "observed_query_forms": {
+      "bez raznici": 2
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bez\\ raznici)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 2,
+      "deduplicated_author_text_pairs": 2,
+      "first_match_date": "2021-05-02T02:33:17",
+      "last_match_date": "2021-05-04T09:17:04",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-093",
+    "lemma": "bomba",
+    "meaning_uz": "juda zo‘r/faol/kuchli taassurotli degan ko‘chma baho",
+    "type": "slang",
+    "notes": "Chat/davra/tadbirni maqtash misollari; asl portlovchi buyum ma’nosi emas.",
+    "observed_query_forms": {
+      "bomba": 7
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:bomba)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 7,
+      "deduplicated_author_text_pairs": 7,
+      "first_match_date": "2021-05-02T02:41:43",
+      "last_match_date": "2021-07-28T00:31:58",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-094",
+    "lemma": "kruto",
+    "meaning_uz": "zo‘r",
+    "type": "ruscha_birlik",
+    "notes": "Ruscha javoblarda bor; krutoy sifatining mahalliy chastotasi emas.",
+    "observed_query_forms": {
+      "круто": 4
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:круто)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 4,
+      "deduplicated_author_text_pairs": 4,
+      "first_match_date": "2021-05-02T18:13:49",
+      "last_match_date": "2021-08-02T00:40:28",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-095",
+    "lemma": "blyat oilasi",
+    "meaning_uz": "qo‘pol hissiy undov",
+    "type": "qopol",
+    "notes": "Bla alohida noaniq qisqartma bo‘lgani uchun bu qidiruvga avtomatik kiritilmagan.",
+    "observed_query_forms": {
+      "blyat": 1,
+      "бля": 3,
+      "блять": 3,
+      "блят": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:blyat|бля|блять|блят)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 8,
+      "deduplicated_author_text_pairs": 6,
+      "first_match_date": "2021-04-29T20:43:12",
+      "last_match_date": "2021-08-10T21:40:15",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-096",
+    "lemma": "prosta",
+    "meaning_uz": "shunchaki/oddiygina; izoh va ta’kid",
+    "type": "ruscha_birlik",
+    "notes": "O‘zbekcha aralash gaplarda ham bor; har birida bitta tarjima majburiy emas.",
+    "observed_query_forms": {
+      "prosta": 19,
+      "просто": 10
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:prosta|просто)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 29,
+      "deduplicated_author_text_pairs": 29,
+      "first_match_date": "2021-04-25T14:11:39",
+      "last_match_date": "2021-08-12T19:11:57",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-097",
+    "lemma": "po faktu",
+    "meaning_uz": "fakt bo‘yicha/amaldagi holat bo‘yicha",
+    "type": "ruscha_birikma",
+    "notes": "Bir so‘z-birikmali yozuv; ko‘p uchraydigan deb bo‘lmaydi.",
+    "observed_query_forms": {
+      "по факту": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:по\\ факту)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-06-19T14:20:29",
+      "last_match_date": "2021-06-19T14:20:29",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-098",
+    "lemma": "tema",
+    "meaning_uz": "mavzu, gap ketayotgan narsa",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "PUBG tema qilmang va mening temam kabi turli kontekst; noqonuniy ish ma’nosi yuklanmaydi.",
+    "observed_query_forms": {
+      "tema": 2,
+      "тема": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:tema|тема)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-04-27T13:19:38",
+      "last_match_date": "2021-08-10T23:16:29",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-099",
+    "lemma": "prikol",
+    "meaning_uz": "hazil, qiziq yoki g‘alati holat",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "Hazil va masxara ma’nosi gapdagi vaziyatga qarab.",
+    "observed_query_forms": {
+      "prikol": 2,
+      "прикол": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:prikol|прикол)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 3,
+      "deduplicated_author_text_pairs": 3,
+      "first_match_date": "2021-05-15T21:58:58",
+      "last_match_date": "2021-05-22T02:01:17",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-100",
+    "lemma": "realni",
+    "meaning_uz": "haqiqiy/jiddiy mazmunidagi ruscha sifat varianti",
+    "type": "slang_yoki_ruscha_birlik",
+    "notes": "Bir misol; alohida nufuz yoki ishonchlilik ma’nosiga dalil emas.",
+    "observed_query_forms": {
+      "realni": 1
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:realni)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 1,
+      "deduplicated_author_text_pairs": 1,
+      "first_match_date": "2021-05-26T23:53:37",
+      "last_match_date": "2021-05-26T23:53:37",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  },
+  {
+    "id": "SL2-101",
+    "lemma": "top",
+    "meaning_uz": "yuqori baho, zo‘r",
+    "type": "internet_birligi",
+    "notes": "Ruscha maqtov misollari bor. Lotincha top o‘zbekcha topmoq bo‘lishi ham mumkin; qidiruv soni faqat maqtov chastotasi emas. Top Players bot jadvallari chiqarilgan.",
+    "observed_query_forms": {
+      "top": 2,
+      "топ": 3
+    },
+    "corpus_scope": "Foydalanuvchi yuklagan bitta chat; matnlar 2021–2023, asosan 2021.",
+    "query_pattern": "(?<!\\w)(?:top|топ)(?!\\w)",
+    "match_stats": {
+      "matching_messages": 5,
+      "deduplicated_author_text_pairs": 5,
+      "first_match_date": "2021-05-11T21:26:03",
+      "last_match_date": "2021-08-05T23:55:38",
+      "count_meaning": "Qidiruvga mos xabarlar soni; har birining semantik ma’nosi aynan bir xil ekanini o‘z-o‘zidan isbotlamaydi."
+    },
+    "evidence": [
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      },
+      {
+        "source_id": "TG1",
+        "source_sha256": "84f29bfb9c90dba20d8012341bc96608ef2803f8f3e781cfc6983c80884f01aa",
+        "original_json_path": "/workspace/attachments/cfa53008-32fc-429b-93d7-3f239b8e643d/result.json",
+        "authentic_export_quote": true,
+        "live_telegram_verified": false
+      }
+    ],
+    "observed_in_uploaded_export": true,
+    "manual_meaning_review_required_beyond_selected_examples": true,
+    "independent_external_confirmation": false,
+    "exclusive_to_tashkent_verified": false,
+    "current_2026_usage_verified": false,
+    "audio_verified": false
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "checked_existing_pdfs": [
+    {
+      "id": "T1",
+      "title": "O‘zbek dialektologiyasi",
+      "year": 2016,
+      "pdf_path": "/workspace/attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+      "modern_street_slang_corpus": false
+    },
+    {
+      "id": "T4",
+      "title": "O‘zbek shevashunosligi",
+      "year": 1996,
+      "pdf_path": "/workspace/attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+      "sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31",
+      "modern_street_slang_corpus": false
+    },
+    {
+      "id": "Q4",
+      "title": "O‘zbek xalq shevalari lug‘ati",
+      "year": 1971,
+      "pdf_path": "/workspace/attachments/a3a82354-817b-48d5-9018-fa152b5a9f3f/Ўзбек халқ шевалари луғати.pdf",
+      "sha256": "647b3c71480c78099dac407887e41825828126c02858d7e9b4ed672ff3b07f3c",
+      "modern_street_slang_corpus": false
+    }
+  ],
+  "checked_page_refs": {
+    "register": {
+      "source_id": "T1",
+      "pdf_page": 55,
+      "anchor": "‘rni bilan qabul qilib borish zarur. 0‘zbek shevalariga xos so‘zlarni jargon va argolardan farqlash lozim, dialektal so‘zlar barcha sheva vakillari uchun tushunarli boMadi. Jargonlar va argolar esa dialektal xarakterga ega boMmaydi, balki ma’lum ijtimoiy guruh yoki bir toifa kis",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "definition": {
+      "source_id": "T1",
+      "pdf_page": 56,
+      "anchor": "ture of dialects] - ma’lum bir shevadagi barcha so‘zlar yig‘indisisi. Jargon [slang] - ijtimoiy guruhlarning o‘ziga xos so‘zlari. Masalan, tartibot, savdo xodimlari. Leksik qatlam [lexic layer] - tildagi (shevadagi) tub va o‘zlashgan so'zlarning guruhlari. Mavzu: ",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "present": {
+      "source_id": "T1",
+      "pdf_page": 47,
+      "anchor": "t undoshi regressiv assimilyatsiyaga uchraydi: борвоммэн ~ barvamman, борвоссэн ~ barvassan, борвоттъ ~ barvatti, борвзммъз(э) ~ barvammiz(a), борвоссълэ ~ barvassila, Ьогъшвотть ~ barisvattL Buxoro shevalarida -on ~ ap affiksidagi p undoshi ham regressiv ass",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "plural": {
+      "source_id": "T4",
+      "pdf_page": 167,
+      "anchor": "и билдириш учун *амда якка шахе учун кУллани- лади. Масалан. э кэмлэ, д э д э м л э (Тошкент). ул къшъ э ц у в ч ъ л э , к е с ъ л л э (Фаргона) каби. Бундай хусусиятлар Наманган шевасида хам учрайди. -лэр кУшимчаси тулик холати ва узгариб, -лэ тар- зида келишида",
+      "source_text_path": "/workspace/research/toshkent/T4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "social": {
+      "source_id": "T4",
+      "pdf_page": 174,
+      "anchor": "сУзловчининг нутки каратилган объектга булгап муносабатини (оддийлик, назар-писанд килмас- лик каби) англагиб келадн. Бу олмошлар Тошкент, Туркистон ва Чимкент каби шеваларда мавжуд. www.ziyouz.com kutubxonasi",
+      "source_text_path": "/workspace/research/toshkent/T4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "bratishka_gloss": {
+      "source_id": "Q4",
+      "pdf_page": 355,
+      "anchor": "т». 2. ёш жи^атдан кичик булган ки- шиларга мурожаат «браток, братец, братишка (при обращении к младшим по возрасту)». укэ-съйнъ//укэ-съцлъ (К^ о р л у ц) //укэ-сицил//укэ-сиц- ни//укэ-сицли (К^ и п ч о ц) укэ-сийни//укэ-си:ни (У р у з) ука-сиигил «младший б",
+      "source_text_path": "/workspace/research/qashqadaryo/Q4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "koki": {
+      "source_id": "T1",
+      "pdf_page": 55,
+      "anchor": "chungina tushunarli boMadi. Masalan, savdogarlar tilida dollar o‘mida ko'ki , yallathilar tilida to‘y o‘rnida otar, pul o‘mida yakan so‘zi qoMlanadiki, ular ijtimoij diafektga oiddir. Takrorlasb uchun savollar: 1. 0‘zbek shevalarining lug‘at tarkibi degan",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "otar": {
+      "source_id": "T1",
+      "pdf_page": 55,
+      "anchor": "dogarlar tilida dollar o‘mida ko'ki , yallathilar tilida to‘y o‘rnida otar, pul o‘mida yakan so‘zi qoMlanadiki, ular ijtimoij diafektga oiddir. Takrorlasb uchun savollar: 1. 0‘zbek shevalarining lug‘at tarkibi deganda nimani tushunasiz? 2. 0‘zbek shevala",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "yakan": {
+      "source_id": "T1",
+      "pdf_page": 55,
+      "anchor": "ollar o‘mida ko'ki , yallathilar tilida to‘y o‘rnida otar, pul o‘mida yakan so‘zi qoMlanadiki, ular ijtimoij diafektga oiddir. Takrorlasb uchun savollar: 1. 0‘zbek shevalarining lug‘at tarkibi deganda nimani tushunasiz? 2. 0‘zbek shevalaridagi dialektal s",
+      "source_text_path": "/workspace/research/toshkent/T1.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    },
+    "historical_bias": {
+      "source_id": "T4",
+      "pdf_page": 57,
+      "anchor": "л булиб хизмат килади Ижтимоий жаргонлар эса миллий гилнинг бузилган, тубанликка ва чиркшга юз тутган шаклидир Уларнинг ривожланиб, мустацил миллий тил даражасига кугари- лиши *акида муло^аза юритмаса зам булади. Чунки улар халу оммасига эмас, балки баъзи бир ",
+      "source_text_path": "/workspace/research/toshkent/T4.txt",
+      "claim_scope": "Faqat ko‘rsatilgan grammatik, nazariy yoki lug‘aviy mazmun; zamonaviy Toshkent ko‘cha chastotasi emas."
+    }
+  },
+  "user_seed": {
+    "count": 11,
+    "description": "Shu suhbatdagi foydalanuvchi keltirgan so‘zlar; chat korpusidan olingan dalil emas."
+  },
+  "telegram_url": "https://t.me/Tashkent_Chat_Go",
+  "telegram_content_read": false,
+  "new_external_sources_read": 0,
+  "network_permission_requested_and_granted": true,
+  "network_result": "Proxy CONNECT 403 Forbidden; to‘g‘ridan-to‘g‘ri ulanishda DNS Temporary failure in name resolution.",
+  "network_log": "/workspace/research/toshkent_kocha/NETWORK_PROBES.json",
+  "modern_tashkent_slang_evidence": "Hozircha mustaqil tasdiqlanmagan. Umumiy ruscha slang ma’nosi Toshkentka xosligini yoki foydalanish chastotasini isbotlamaydi."
+}

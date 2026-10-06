@@ -1,0 +1,35 @@
+{
+  "id": "xorazm_kocha_research_pending_chats",
+  "status": "partial_blocked_chat_evidence",
+  "target": "Xorazm yoshlarining norasmiy ko‘cha yozishmasi",
+  "dialect_base": "Oldingi Urganch–Xiva o‘g‘uz nomzodi; qipchoq va aralash variantlar alohida.",
+  "base_profile_path": "/workspace/research/xorazm/USLUB_PROFILI.json",
+  "target_features_to_observe": [
+    "murojaat va tanishlik darajasi",
+    "qisqa replikalar va javob bog‘lanishi",
+    "kinoya va o‘zaro hazil",
+    "shaxs-zamonli lokal fe’l shakllari",
+    "ruscha/o‘zbekcha aralashishning vazifasi",
+    "chat qisqartmalari va tovushga yaqin imlo",
+    "qo‘pol so‘zning hazil, g‘azab yoki haydashdagi farqi"
+  ],
+  "target_features_are_observed_results": false,
+  "register_options_as_design_candidates": [
+    "samimiy norasmiy",
+    "do‘stlar orasidagi hazil",
+    "dag‘alroq ko‘cha ohangi"
+  ],
+  "lexical_support_file": "NORASMIY_MUOMALA_TAYANCHLARI.json",
+  "new_modern_street_slang_cards": 0,
+  "real_chat_dialogue_pairs": 0,
+  "readable_chat_messages": 0,
+  "new_external_web_sources_read": 0,
+  "native_validation": false,
+  "ready_to_claim_modern_xorazm_street_style": false,
+  "toshkent_slang_auto_imported": false,
+  "limitations": [
+    "C1 messages bo‘sh",
+    "C2 yuklash vositasiga sig‘madi",
+    "Internet proksi 403, to‘g‘ridan-to‘g‘ri DNS xatosi"
+  ]
+}

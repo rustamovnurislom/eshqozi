@@ -1,0 +1,102 @@
+id,lemma,meaning,type,messages,authors,example_ids,notes
+SL2-001,qalesla,qalaysizlar; davraga hol-ahvol savoli,murojaat,62,33,"1367,5885",Ko‘plik/hurmat konteksti alohida; faqat yigitlarga xos shakl emas.
+SL2-002,qales,qalaysan/qalay; hol-ahvol savoli,murojaat,115,31,"1737,1738",Qisqa yozuvda adresat shaxsi hamisha to‘liq yozilmagan.
+SL2-003,qalesiz,qalaysiz; hurmatli yoki ko‘plik savoli,murojaat,19,11,"6496,7295",Ko‘cha uslubida sizlash ham uchraydi.
+SL2-004,nma,nima,yozuv_qisqarishi,469,60,"28,254",Qisqartma; alohida mahalliy predmet yoki ruscha slang emas.
+SL2-005,nme/nmey,nima/nega mazmunidagi qisqa savol,yozuv_qisqarishi,210,22,"30,795",Vaziyatga qarab sababni ham so‘raydi; hammasini bitta glossga majburlash mumkin emas.
+SL2-006,nmala,nimalar; nima ishlar/gaplar,yozuv_qisqarishi,35,14,"287,2334",Odatda savol gap tarkibida; manbada -lar qisqargan yozuv.
+SL2-007,nmaga,nimaga,yozuv_qisqarishi,22,9,"1863,4440",Sabab yoki maqsad savoli kontekst bilan.
+SL2-008,nma gap / nmagap,nima gap; davrani ochish,diskurs,50,19,"254,860",Fakt talab qiluvchi savol yoki oddiy hol-ahvol bo‘lishi mumkin.
+SL2-009,qvosan,qilyapsan; qilayapsanmi,fel_shakli,46,2,"2703,3342",II birlik; hamma shaxsga bir xil qo‘llanmaydi.
+SL2-010,qvos,qilyapsiz/qilyapsan mazmunidagi qisqargan shakl,fel_shakli,23,12,287,Oka bilan qvos yozuvi hurmatli adresatda ham uchraydi; shaxsni vaziyat aniqlaydi.
+SL2-011,qvosla/qvosila,qilyapsizlar,fel_shakli,9,5,"2334,6653",II ko‘plik/adresat; qisqartma tugallanishi aniqligi tekshiriladi.
+SL2-012,qvoman/qvomma,qilyapman,fel_shakli,7,3,"2347,11257",I birlik; qovurmoq kabi tashqi o‘xshash so‘zlardan ajratiladi.
+SL2-013,qivotti/qvoti,qilyapti,fel_shakli,6,5,"389,7743",III shaxs mazmuni; har votti bilan tugagan so‘z bir xil ildiz emas.
+SL2-014,kevoman,kelyapman,fel_shakli,1,1,394,Kelish yo‘nalishi ketishga aylantirilmaydi.
+SL2-015,kevot/kevoti,kelyapti/kelyap- mazmunidagi qisqa yozuv,fel_shakli,12,6,"10521,14988",Tugallangan yoki qisqargan gap kontekstda o‘qiladi.
+SL2-016,ketvoman,ketyapman,fel_shakli,10,6,"4499,8326",I birlik; qaytish/kelish bilan adashtirilmaydi.
+SL2-017,ketvosan,ketyapsan,fel_shakli,7,2,"3438,12076",II birlik; so‘z oxiridagi yuklama qo‘shimcha tus beradi.
+SL2-018,ketvoti,ketyapti,fel_shakli,4,4,"317,10158",III shaxs yoki tugallanmagan tez yozuv.
+SL2-019,etvoman,aytyapman,fel_shakli,9,4,667,Tanlangan misollarda aytish; universal etmoq tarjimasi emas.
+SL2-020,dvoman,deyapman,fel_shakli,12,6,"685,2113","I birlik aytish fe’li, chatda qisqartirilgan."
+SL2-021,bovot/buvot,bo‘lyapti/bo‘layap-,fel_shakli,28,10,"1207,2161",Nima bo‘lyapti mazmunida; tugallanmagan yozuvni yangi zamon deb olmaymiz.
+SL2-022,bomi,bormi,grammatik_qisqarish,33,14,"509,1223",Borlik haqida savol; emaslikka aylantirilmaydi.
+SL2-023,bomid/bomidi,bo‘lmaydi/bo‘lmaydimi mazmunidagi qisqa shakl,grammatik_qisqarish,13,6,"3300,5081",Nomeri bomidi kabi gaplar aniq kontekst talab qiladi.
+SL2-024,yom/yomi,yo‘qmi/yo‘q mazmunidagi qisqartma,grammatik_qisqarish,29,11,"1880,2726",Bitta doimiy paradigmani faqat yozuvdan chiqarish mumkin emas.
+SL2-025,kere,kerak,talaffuzga_yaqin_yozuv,61,23,"57,426",Oxirgi k tushgan yozuv; barcha k ni tushirish algoritmi emas.
+SL2-026,keremas,kerak emas,grammatik_qisqarish,16,8,"1341,2614",Talabning inkori; kerak bilan ma’no qarama-qarshi.
+SL2-027,man,men,olmosh,216,34,"391,394",Umumiy norasmiy shakl; joylashuvni yolg‘iz o‘zi ko‘rsatmaydi.
+SL2-028,san,sen,olmosh,127,11,"134,2083",Adresat bilan yaqinlik/munosabatni hisobga olish kerak.
+SL2-029,manga,menga,olmosh,82,22,"47,494",Jo‘nalish munosabati; boshqa hududlarda ham bor.
+SL2-030,sanga,senga,olmosh,49,8,"46,55",Menga bilan shaxs farqi saqlansin.
+SL2-031,mani,meni/mening,olmosh,55,27,"251,841",Tushum va qaratqichni gap qurilishi ajratadi.
+SL2-032,sani,seni/sening,olmosh,15,10,"7233,9202",Tushum va qaratqichni gap qurilishi ajratadi.
+SL2-033,bza,biz/biza,olmosh,12,5,"6776,11134",I ko‘plik; qisqartirish va sheva belgisi aralashgan.
+SL2-034,sz,siz,yozuv_qisqarishi,63,26,"892,1312",Ko‘cha yozishmasida hurmatni avtomatik o‘chirish uchun asos yo‘q.
+SL2-035,ozin,o‘zing,olmosh,38,6,"258,1052",Qisqartma; kimning o‘zi ekanini kontekst belgilaydi.
+SL2-036,ozila,o‘zlaringiz/o‘zlaringizda-chi,olmosh,19,11,"5001,5060",Savolni suhbatdoshga qaytarish vazifasi ham bor.
+SL2-037,oka,aka; katta/yaqin kishiga murojaat,murojaat,75,17,3975,"Yosh, qarindoshlik yoki haqiqiy maqom avtomatik taxmin qilinmaydi."
+SL2-038,bolla,bolalar,ot_qisqarishi,4,4,"2742,7668",Davra ko‘pligi; barcha davra yigitlardan iboratligini isbotlamaydi.
+SL2-039,qatta,qayerda/qayerdasan,savol,46,10,"201,2188",Shaxs va joylashuvni adashtirmaslik kerak.
+SL2-040,qattan,qayerdan,savol,24,8,"443,482",Qatta savolidan yo‘nalish jihatidan farq qiladi.
+SL2-041,hoz,hozir,yozuv_qisqarishi,86,15,"77,1165","Hozirning har doim talaffuzdagi shakli emas, tez yozuv ham bo‘lishi mumkin."
+SL2-042,end,endi,yozuv_qisqarishi,73,15,"36,1878",Inglizcha end ma’nosi bilan avtomatik tenglashtirilmaydi.
+SL2-043,bn,bilan,yozuv_qisqarishi,52,16,"101,348",Internet yozuvi; Toshkentga mutlaq xos deb bo‘lmaydi.
+SL2-044,db,deb,yozuv_qisqarishi,62,18,"293,1052",Texnik qisqartma DB bilan gap kontekstida ajratiladi.
+SL2-045,un,uchun,yozuv_qisqarishi,7,1,641,Faqat tanlangan kontekstlarda; un otiga doimiy almashtirish emas.
+SL2-046,kr,kir,yozuv_qisqarishi,73,3,"38,4857","Buyruq, taklif yoki ildizning qisqa yozuvi."
+SL2-047,krb,kirib,yozuv_qisqarishi,8,6,"23,1376",Ravishdosh vazifasi; kr buyruq shakli bilan bir emas.
+SL2-048,cqb,chiqib,yozuv_qisqarishi,23,4,"317,984",c bilan ch berilishi va unlilar tashlanishi birga.
+SL2-049,qow,qo‘sh/qo‘shib,yozuv_qisqarishi,11,2,"233,19701",w orqali sh yozuvi; shaxs va buyruq konteksti saqlansin.
+SL2-050,yaxw/yaxwi,yaxshi,grafik_variant,255,39,"270,620",w=sh internet yozuvi; audio orqali talaffuz tekshirilmagan.
+SL2-051,wunaqa,shunaqa,grafik_variant,54,11,"656,1157",w=sh; global almashtirish ayniqsa ruscha/inglizcha so‘zlarda xato beradi.
+SL2-052,bowqa,boshqa,grafik_variant,13,6,"10817,15246",w=sh internet yozuvi.
+SL2-053,iwla,ishlar/ishlarim,grafik_variant,7,5,"3353,17166",Chatda ishlar qale kabi hol-ahvol tarkibi; literal ish fe’li bilan kontekst ajratiladi.
+SL2-054,gapla,gaplar,ot_qisqarishi,59,23,"543,1035",Nima gaplar ma’nosida; faqat yozuvdan audio tasdiq olinmaydi.
+SL2-055,gap yo,gap yo‘q; qoyil yoki gap yo‘qligi,diskurs,19,12,"47,310",Maqtov va literal gap yo‘qligi vaziyatga qarab.
+SL2-056,hop/xop,xo‘p; rozilik,diskurs,198,37,"349,730","Qisqa qabul javobi, har safar yangi ma’lumot emas."
+SL2-057,xm/hm,"tasdiq, o‘ylash yoki suhbatni davom ettiruvchi qisqa reaksiya",diskurs,390,56,"200,425",Ohang va kontekstsiz doimo befarqlik deb olinmaydi.
+SL2-058,raxmat,rahmat,talaffuzga_yaqin_yozuv,94,24,"432,725",h/x grafik/talaffuz farqi; alohida audio dalili yo‘q.
+SL2-059,yoĝe,yo‘g‘-e; hayrat/ishonmaslik,diskurs,21,3,"4574,3678",Unicode belgisi aynan saqlangan; yo‘q inkori bilan doimiy teng emas.
+SL2-060,voy/voooy,"hayrat, afsus, hissiy reaksiya",diskurs,91,21,"954,3444",Unlini cho‘zib yozish hissiy kuchaytirish bo‘lishi mumkin.
+SL2-061,catka/catga,chatga,grafik_variant,176,14,"38,540",Bu korpusda chatga kirish bilan keladi; avtomatik o‘yin katkasi emas.
+SL2-062,go,kel/bor/boshlaylik mazmunidagi chaqiriq,ozlashma,65,4,"2115,3727",Go catka — chatga kirishga chaqirish; inglizcha umumiy internet birligi.
+SL2-063,da,ha; rozilik,ruscha_birlik,416,46,"130,266",Ruscha to‘liq gap yoki o‘zbekcha aralash javobda; hammasi o‘zlashma emas.
+SL2-064,ok,"xo‘p, qabul qildim",internet_birligi,128,20,"276,1173",Ruscha va inglizcha internet yozuvida ham umumiy.
+SL2-065,uje,"allaqachon, endi bo‘lib bo‘lgan",ruscha_birlik,66,11,"3423,6823",Kontekstga qarab endi/allaqachon; o‘zbekcha gapga kiritilishi kuzatiladi.
+SL2-066,atak,a tak; aslida/boshqa jihatdan/esa,ruscha_birlik,9,5,"303,6587",Ruscha diskurs bo‘lagi; bir xil tarjima barcha gapga mos emas.
+SL2-067,norm,"yaxshi, odatdagidek, normal",ruscha_birlik,10,8,"1715,6842",Hol-ahvol javobida qisqa baho.
+SL2-068,paka/poka,xayr yoki hozircha,ruscha_birlik,17,7,"2159,3341",Paka tinc — hozircha tinch; har uchrashuv xayrlashuv emas.
+SL2-069,spat,"uxlash, uxlashga ketish",ruscha_birlik,15,5,"5160,9170",Yakka infinitiv javobi; avtomatik o‘zbekcha to‘liq tuslanish emas.
+SL2-070,davay,"kel, qani, boshlaylik yoki xayrlashuv chaqirig‘i",ruscha_birlik,6,4,"24121,25620",Juda kam uchrashuv; ma’no kontekstdan.
+SL2-071,pozna,kech,ruscha_birlik,1,1,4530,Yagona kuzatuv; yuqori chastotali deb ko‘rsatilmaydi.
+SL2-072,davno,"ancha oldin, anchadan beri",ruscha_birlik,2,2,"19822,25910",Ruscha ravish; hududga mutlaq xos emas.
+SL2-073,seryoz/seryozniy,jiddiy/rostdanmi/jiddiy aytyapman,slang_yoki_ruscha_birlik,54,14,"667,1109,1225",Ko‘p seryoz? xabari qayta so‘rash; faqat maqomga oid sifat emas.
+SL2-074,vapshe oilasi,umuman; kuchaytirish; ayrim yozuvda v obshchem bilan yaqinlashish,slang_yoki_ruscha_birlik,6,3,"2601,17354,28540",vapshm/vapwem va вообще/в общем aralashuvi: bitta qat’iy gloss emas.
+SL2-075,chotki oilasi,"yaxshi, zo‘r; hol-ahvolga ijobiy javob",slang,8,7,"5060,9195,20551",Chotki qisqa javob ham bo‘lib ishlatilgan.
+SL2-076,malades,"barakalla, qoyil",slang,6,5,"15559,19746",Oddiy maqtov; Moskva/Rossiya yoki boshqa joylarda ham bor.
+SL2-077,karoc oilasi,"qisqasi, gapni jamlash/o‘tkazish",slang,4,4,"3606,15426",Ruscha koroche qisqarishi; noyob Toshkent dalili emas.
+SL2-078,brat oilasi,birodar/oshna deb yaqin murojaat,slang_murojaat,11,8,"4939,20456",Ruscha literal aka-uka ma’nosi ham bo‘lishi mumkin; har mos xabar bitta ma’noda emas.
+SL2-079,bratan,yaqin murojaat,slang_murojaat,1,1,24075,Bitta yozuv; qo‘shiq/parodiya tusidagi gap. Kundalik yuqori chastota tasdiqlanmagan.
+SL2-080,bratiwkayu,bratishka asosidagi yaqinlikka oid shakl,slang_murojaat,1,1,5994,"Bitta misol, gap juda qisqa; aniq munosabat va ohang taxminiy."
+SL2-081,rodnaya,qadrdonim mazmunidagi ruscha ayol jinsli murojaat,ruscha_murojaat,2,2,"27514,27577",Rodnoy bilan aynan bir shakl emas; bu grammatik shakl ishtirokchining shaxsiy profilini aniqlamaydi.
+SL2-082,kotta bola,katta bo‘lgan bola; hazil/tabrikdagi murojaat,murojaat,2,2,"271,21122",Tug‘ilgan kun konteksti bor; jinoyat maqomi yoki rahbarlik ma’nosi tasdiqlanmadi.
+SL2-083,dvijeniya,harakat/faollik mazmunidagi ruscha birlik,slang_yoki_ruscha_birlik,1,1,8863,Bir so‘zli yagona misol. Davra tashkil qilish ma’nosiga yetarli kontekst yo‘q.
+SL2-084,sokmastan,so‘kmasdan; so‘kinishni to‘xtatish,diskurs,3,1,20456,Pizdes javobidan keyingi haqiqiy reply; qo‘pol so‘zlarning mavjudligi hamma ularni xohlaydi degani emas.
+SL2-085,pizdes/pzds,qo‘pol hissiy kuchaytirish; keskin holat,qopol,18,3,"20454,28540",Barcha mos xabarlar konteksti aynan bir xil emas; yangi haqoratli gaplar tuzilmaydi.
+SL2-086,blin,yumshoqroq ruscha hissiy undov,qopolroq_undov,3,3,"23036,28540",Kam misol; asosiy persona har javobda ishlatishi shart emas.
+SL2-087,zb,qo‘pol bezor bo‘lish/jonga tegish qisqartmasi,qopol,2,1,"3953,25311",Ikki misol; vaziyat va oluvchi munosabati hisobga olinadi.
+SL2-088,radnoy,qadrdonim/yaqinim deb norasmiy murojaat,slang_murojaat,1,1,47,Lotincha radnoy haqiqiy chatda bor. Bir xabar; umumiy chastotaga dalil emas.
+SL2-089,adushi oilasi,"chin dildan, samimiy, bemalol jon-dildan",slang,6,5,"15045,20192",Soxta bo‘lmasin aduwi bosed kabi kontekstlar bor; har bir yozuvning ma’nosi gap bilan.
+SL2-090,ot dushi oilasi,chin dildan; ayrim misolda mashhur takror ibora,slang,5,1,"3667,18882",Meme va oddiy suhbatdagi samimiylik vazifasi alohida.
+SL2-091,kidala,ruscha aldovchi/va’dasiga turmaydigan odam atamasi,slang,2,1,"22427,26992",Ikki qisqa misol. Gap hazilmi/jiddiy ayblovmi — aniq emas; hech kim haqida real ayblov chiqarilmaydi.
+SL2-092,bez raznici,farqi yo‘q,ruscha_birikma,2,1,"5093,7743","Gap tarkibida ham, yakka javobda ham bor; bazar yo‘q bilan aynan teng emas."
+SL2-093,bomba,juda zo‘r/faol/kuchli taassurotli degan ko‘chma baho,slang,7,1,"5155,23418",Chat/davra/tadbirni maqtash misollari; asl portlovchi buyum ma’nosi emas.
+SL2-094,kruto,zo‘r,ruscha_birlik,4,3,"5782,26591",Ruscha javoblarda bor; krutoy sifatining mahalliy chastotasi emas.
+SL2-095,blyat oilasi,qo‘pol hissiy undov,qopol,8,5,"4340,12533",Bla alohida noaniq qisqartma bo‘lgani uchun bu qidiruvga avtomatik kiritilmagan.
+SL2-096,prosta,shunchaki/oddiygina; izoh va ta’kid,ruscha_birlik,29,15,"2203,9314,15237",O‘zbekcha aralash gaplarda ham bor; har birida bitta tarjima majburiy emas.
+SL2-097,po faktu,fakt bo‘yicha/amaldagi holat bo‘yicha,ruscha_birikma,1,1,22541,Bir so‘z-birikmali yozuv; ko‘p uchraydigan deb bo‘lmaydi.
+SL2-098,tema,"mavzu, gap ketayotgan narsa",slang_yoki_ruscha_birlik,3,2,"3640,20240,28137",PUBG tema qilmang va mening temam kabi turli kontekst; noqonuniy ish ma’nosi yuklanmaydi.
+SL2-099,prikol,"hazil, qiziq yoki g‘alati holat",slang_yoki_ruscha_birlik,3,3,"12111,14762,14945",Hazil va masxara ma’nosi gapdagi vaziyatga qarab.
+SL2-100,realni,haqiqiy/jiddiy mazmunidagi ruscha sifat varianti,slang_yoki_ruscha_birlik,1,1,17446,Bir misol; alohida nufuz yoki ishonchlilik ma’nosiga dalil emas.
+SL2-101,top,"yuqori baho, zo‘r",internet_birligi,5,3,"26096,26780,27445",Ruscha maqtov misollari bor. Lotincha top o‘zbekcha topmoq bo‘lishi ham mumkin; qidiruv soni faqat maqtov chastotasi emas. Top Players bot jadvallari chiqarilgan.

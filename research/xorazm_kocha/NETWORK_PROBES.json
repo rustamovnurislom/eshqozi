@@ -1,0 +1,37 @@
+[
+  {
+    "label": "dictionary",
+    "url": "https://xorazmcha.uz/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "elapsed_seconds": 0.02,
+    "content_read": false
+  },
+  {
+    "label": "dictionary_www",
+    "url": "https://www.xorazmcha.uz/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "elapsed_seconds": 0.02,
+    "content_read": false
+  },
+  {
+    "label": "search_google",
+    "url": "https://www.google.com/search?q=Xorazm+yoshlar+sleng+sheva",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "elapsed_seconds": 0.02,
+    "content_read": false
+  },
+  {
+    "label": "search_ddg",
+    "url": "https://html.duckduckgo.com/html/?q=Xorazm+kocha+shevasi+sleng",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "elapsed_seconds": 0.01,
+    "content_read": false
+  },
+  {
+    "label": "dictionary_direct",
+    "url": "https://xorazmcha.uz/",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
+    "content_read": false,
+    "elapsed_seconds": 0.01
+  }
+]
