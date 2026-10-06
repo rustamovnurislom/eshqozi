@@ -1,0 +1,59 @@
+{
+  "comparisons": [
+    {
+      "topic": "Takror kitob",
+      "sources": [
+        "B2",
+        "Samarqand M5"
+      ],
+      "result": "SHA-256 teng; bir manba ikki mustaqil tasdiq emas."
+    },
+    {
+      "topic": "Bir muallifning ikki nashri",
+      "sources": [
+        "B1, 2011",
+        "Samarqand M1 / Qashqadaryo Q3, 2016"
+      ],
+      "result": "Fayllar aynan teng emas; umumiy tasnifning takrori yangi dala qaydi sifatida hisoblanmaydi."
+    },
+    {
+      "topic": "Belanchak",
+      "sources": [
+        "E1:17",
+        "B5:678"
+      ],
+      "result": "Buxoro alvonj / Qashqadaryo alvonch. Shu juftlikdan barcha ch tovushini j ga almashtirish qoidasi chiqarilmaydi."
+    },
+    {
+      "topic": "Quvur",
+      "sources": [
+        "E1:75",
+        "B5:678"
+      ],
+      "result": "Buxoro g‘ulva/g‘ulba, Qashqadaryo g‘alva; lug‘atda sopol quvur ma’nosi aniq."
+    },
+    {
+      "topic": "Taom nomlari",
+      "sources": [
+        "E1:43",
+        "Samarqand M4-B:205"
+      ],
+      "result": "Buxoro barak va Samarqand barak chuchvara turida qayd etilgan; viloyatga mutlaq xos so‘z deb olinmaydi. Buxoro barak alohida yangi yozuv sifatida ushbu lug‘at ro‘yxatiga qo‘shilmadi."
+    },
+    {
+      "topic": "Qalampir",
+      "sources": [
+        "B2:75",
+        "Samarqand M2:42"
+      ],
+      "result": "Qalamfur / qalampur yozuv farqi saqlandi; talaffuz audio bilan tasdiqlanmagan."
+    },
+    {
+      "topic": "Og‘iz suti va jimlik",
+      "sources": [
+        "E1:78,272"
+      ],
+      "result": "Dammakak va falla uchun lug‘at Buxoro bilan birga Samarqandni ham ko‘rsatadi."
+    }
+  ]
+}

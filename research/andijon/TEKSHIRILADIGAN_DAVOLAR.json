@@ -1,0 +1,213 @@
+[
+  {
+    "claim": "Andijon viloyati bitta bir xil shevada gapiradi.",
+    "status": "manbalarning hududiy tafovutlari bilan mos kelmaydi",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "so‘kichak",
+        "evidence_extracted": "     Andijon,  Baliqchi  tumanlarida:  so‘rtak,  Paxtaobod,  Ulug‘nor,  Shahrixon,  Oltinko‘l,\nJalaquduq, tumanlarida: so‘kichak, Izboskan, Qo‘rg‘ontepa tumanlarida: valish tarzida aytiladi.\n     Oddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom (boshqa shu kabi pishiriqlardan\nqatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A7",
+        "pdf_page": 33,
+        "printed_pages": [
+          33
+        ],
+        "anchor_extracted": "Chinobod",
+        "evidence_extracted": "O‘rmonbek, Orolxonga nisbatan Sizada “dj”lashish zaifroq, chunki mazkur qishloq shaharga\nnisbatan yaqin masofada joylashgan va o‘rtada “y”lovchi Chinobod qishlog‘i bor.\n     Chiqib o‘rnida [çɪg‘ɪp]; ena [inə]; ota [ata] deyuvchilar asosan shu tumanga joylashgan.\n    Bu kabi qipchoq lahjasida so‘zlashuvchi aholini tumandagi Yettiqashqa, Tovuldi, Sirmoq,\nO‘lmas,   Katta  o‘lmas,  Kichik  o‘lmas, Puchug‘oy,  Oqtikon, Tumor; Izboskan tumanida\nQipchoqovul,  Qipchoqqo‘rg‘on,  Chang‘aroqchi, Puchug‘oy,  Bo‘g‘och,  Tuyachi,  Elatan,\nQo‘g‘ay,  Oqbo‘yra, Qipchoq,  O‘lmas;  Oltinko‘l  tumanidagi  Tumor  (Dumar), Oqtumor,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "A4ning 1971-yil lug‘atida Jizzax birliklari yo‘q degan gapini qabul qilish.",
+    "status": "oldingi tekshirilgan Jizzax/Forish/Zomin qaydlariga zid",
+    "source_refs": [
+      {
+        "source": "A4",
+        "pdf_page": 2,
+        "printed_pages": [
+          23
+        ],
+        "anchor_extracted": "Jizzax va Navoiy",
+        "evidence_extracted": "            1.    Оксокол. 2. Раxбар.\n    Ushbu  lug‘atda  Jizzax va Navoiy  viloyatlari shevasiga xos  so‘zlardan\nmanbaga kiritilmagan. Bu hududlarni ham shevasini qo‘shimcha qilish kitobni\n\n\n\n                              23",
+        "extraction": "pdf_text"
+      }
+    ],
+    "cross_reference": "../jizzax/LUGAT.json; E1 manbasi"
+  },
+  {
+    "claim": "A5dagi barcha fonetik misollar Andijonniki.",
+    "status": "noto‘g‘ri hududga biriktirish; Oltiariq maqolasi",
+    "source_refs": [
+      {
+        "source": "A5",
+        "pdf_page": 1,
+        "printed_pages": [],
+        "anchor_extracted": "OLTIARIQ",
+        "evidence_extracted": "   FARGʻONA (OLTIARIQ) GURUHI SHEVALARINING FONETIK\n                   TAHLILIGA DOIR\n\n                                          G.Jo‘raboyeva, FarDU dotsenti,\n                                     M.Tursunboyeva, FarDU talabasi\n      Annotatsiya: Ushbu maqolada Fargʻona (Oltiariq) guruhi shevalari fonetik",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "A9 Iqon maqolasining misollari Andijon nutqidir.",
+    "status": "Andijon bibliografiya va nazariy iqtibosda; mustaqil mahalliy dalil emas",
+    "source_refs": [
+      {
+        "source": "A9",
+        "pdf_page": 55,
+        "printed_pages": [
+          55
+        ],
+        "anchor_extracted": "Андижон шеваси",
+        "evidence_extracted": "        3. Ashirboуev S. Oʻzbek dialektologiyasi. – Toshkent: Navroʻz, 2016. Б. 27.\n        4. Иброҳимов С. Ўзбек тилининг Андижон шеваси. – Тошкент: ФАН, 1967. –Б. 98-\n104.\n        5. Маҳмудов Қ. Ўзбек тилининг тарихий фонетикаси. – Тошкент: Ижод, 2006. – Б.\n67-69.\n        6. Муҳаммаджонов Қ. Жанубий Қозоғистондаги ўзбек шевалари.Тошкент: ФАН,\n1981. – Б. 5.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Dardoq maqolasidagi cho‘ziqlikning barcha tarixiy tasniflari bir xil qat’iy.",
+    "status": "aniqlashtirish kerak: birlamchi/ikkilamchi/emfatik atamalari va o‘zlashma misollari aralash",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 74,
+        "printed_pages": [
+          74
+        ],
+        "anchor_extracted": "birlamchi turkiy cho‘ziq",
+        "evidence_extracted": "lilarni quyidagi hollarda uchratishimiz mumkin:\n    - birlamchi turkiy cho‘ziq unlilar: bӓ:rї, qӓ:rї, mo:rї, tӧ:rї, sӧ:rї, nӓ:munӓ,\ncho:rї, te:rї, be:rї, nӓ:rї, i:mon, i:mom, qo:ri (qalb qo‘ri), bā:ri, qori (diniy ma­\nsalalar bilan shug‘ullanuvchi), dā:ri (tibbiyotdagi dori-darmon)…\n    - his-tuyg‘uni (shodlik, quvonch, qo‘rquv, hayratlanish, norozilik, ajabla­\nnish, taajjublanish) ifodalashda unlilar cho‘zib talaffuz qilinadi. Masalan, E::\n(o‘ta cho‘ziq), räsvā qïpsänu kijïmlärijnï, bāläm. O:: (o‘ta cho‘ziq), minčä čïrā:­",
+        "extraction": "pdf_text"
+      }
+    ],
+    "handling": "Kuzatilgan shakl saqlanadi, tarixiy kelib chiqishi va cho‘ziqlik sababi mustaqil isbotlangan deyilmaydi."
+  },
+  {
+    "claim": "A6dagi evere/arava juftligidan undosh metatezasi chiqarish.",
+    "status": "juftlikda undoshlar o‘rni almashinishi ko‘rsatilmagan",
+    "source_refs": [
+      {
+        "source": "A6",
+        "pdf_page": 83,
+        "printed_pages": [
+          162,
+          163
+        ],
+        "anchor_extracted": "evere (Andijon)",
+        "evidence_extracted": "2) metateza hodisasi tufayli kuchli fonetik o`zgarishga uchragan soʻzlar:\ngindjelek (Uychi) - jingalak; evere (Andijon) - arava; hayda-hadya; erves-obrez;\n\n3) soʻzlarning torayishi (qisqarishi) sababli izoh berilmasa, tushunish\nqiyin bo`lgan soʻzlar: kesh (Namangan) - kalish; e:de (Uycha) - ana u yerda;\nkochche - katta achabuvi; balsi - boyo`g`li (qush);\n",
+        "extraction": "reused_ocr"
+      }
+    ]
+  },
+  {
+    "claim": "Dardoqdagi juda- fe’li doim kuchaytiruvchi juda ravishidir.",
+    "status": "bu manbada judadim ishlarga ulgurolmaslik ma’nosida",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "ishlarga ulgurmaslik",
+        "evidence_extracted": "qïldïradï. (<Bolasi ham biram gajir bo‘lganeeey, aytganini qildiradi).\n   žuda-\\juda – ishlarga ulgurmaslik. Ishlar ko‘pligidan ulgura olmayotgan,\no‘zini eplay olmayotgan insonlarga, asosan ayol kishiga nisbatan qo‘llanadi­\ngan leksemadir. Bïr qolїmda bala, bïrïda žilkӓ sümkӓdӓ kӓrtiškӓ, birӓm žu­\ndadïm, birӓm žudadïm, jӓnӓ kӓmigӓ qazanda ustalarɣa aqat. (<Bitta qo‘limda\nbola, birida jilka sumkada kartoshka, biram judadim, biram judadim, yana ka­\nmiga qozonda ustalarga ovqat ham bor). Biram leksemasi shevada rosa, juda,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Nasvi etimologiyasi va push/pusht izohi qat’iy isbotlangan.",
+    "status": "muallif taxmini yoki talqini; qo‘shimcha dalil kerak",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "Taxminimizcha",
+        "evidence_extracted": "     Näsvi (nasvi) leksemasi to‘y-hashamga yoki marosimda ishtirok etgan insonlarga atalgan\ntuguncha. Taxminimizcha, ushbu leksema izohli lug‘atdagi hissa, ulush, rizq ma’nosidagi nasiba\nso‘zining fonetik jihatdan o‘zgargan shaklidir.\n     Toqsї tāvāq (to‘qsi tovoq) ushbu leksema buyumni atab kelib, ma’lum bo‘laklarga ajratilgan\ntaqsimchalar jamlanmasi. To‘qsi tovoqqa marosim va tadbirlarda shirinliklar yoki chaq-chuqlar\nsolinadi. Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär. (<Bu taksi tovoqda bodom kam ekan\nqo‘shib qo‘yinglar).",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "pusht so‘zining",
+        "evidence_extracted": "tashqari ko‘pib ketgan bo‘lsa, tandirga yopilgan non hali pishmay turib tushib ketadi. O‘zbek\ntilining izohli lug‘atida pusht so‘zining “kimsa yoki oilaning o‘zidan avvalgi avlodi yoki keyingi\navlodi, avlod-ajdod; nasl” ma’nolaridan tashqari “yoqtirmaslik, toqat qila olmaslik” kabi semasi\nham mavjud [O‘TIL, III tom 326]. Yuqoridagilardan kelib chiqib aytishimiz mumkinki, tandir\nhaddan ziyod issig‘ligiga toqat qila olmagan non tushib ketadi va bu jarayon sheva vakillarining\nnutqida nān püš tӓšӓdi (non push tashadi), tüšip ketti (tuship ketti) birikmalari bilan ifodalanadi.\n    Nān güllä (non gullamoq) birikmasi o‘rganilayotgan shevada to‘liq oshmagan xamirdan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Jezda maqolasidagi gloss berilmagan barcha shakllarga ma’no yasash.",
+    "status": "qabul qilinmaydi; anna, checha, toptora va boshqalar ma’nosiz sanalgan",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "toptora, anna",
+        "evidence_extracted": "      3. Leksik farqlar:  Jezda (pochcha), echeyen jezda (oddiy pochcha), karsang (tog’ora),\nboldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Badiiy dialogdagi buvi Andijonning barcha nutqida doim ona degani.",
+    "status": "to‘liq badiiy kontekst va alohida lug‘aviy qayd kerak",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 194,
+        "printed_pages": [
+          194
+        ],
+        "anchor_extracted": "Yo‘q, buvi",
+        "evidence_extracted": "liklaridan foydalangan.\n   – Yo‘q, buvi, siz nimanidir yashirayapsiz?\n   Halima aya gap topolmay kalovlandi.\n   – Hech nimani yashirayotganim yo‘q, o‘g‘lim. Faqat sizlarning qiynalayot­\nganingizni ko‘rib o‘pkam to‘lib ketdi. Qo‘y, o‘g‘lim, o‘shag‘lani (U.Hamdam).\n   – Quyidagi matnda ham qo‘llanilgan ena, ovo dialektal birliklari ham\nhududiy jihatdan mansublikni ifodalash uchun xizmat qilgan.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Qoqirim yoki Dardoqdagi ovqat berish misoli tibbiy ko‘rsatmadir.",
+    "status": "lingvistik manbadagi gap; davolash samarasi tekshirilmagan",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(qoqirim)",
+        "evidence_extracted": "qozonda pishiriladi” deb ta’riflagan. [Farmonov 1961:178]\n    Qāqїrїm (qoqirim) shamollashga qarshi ho‘plab ichiladigan taom. Ushbu taom qatiq, piyoz,\nmurch,  sariyog‘, ta’bga ko‘ra qalampir,  tuz va qaynagan suvdan  tayyorlanadi. Zulxumor\nXolmonova “O‘zbek shevalarining lakunar birliklar lug‘ati” kitobida ushbu taomni qaqurüm\n(qaqurum) tarzida beradi. [Xolmonova 2022:100].\n    Laz (laz) qish uchun konservalanadigan oziq-ovqat turi. Qizil bulg‘or qalampiri go‘sht\nmaydalagichdan chiqariladi, ta’bga ko‘ra pamidor ham qo‘shib qozonda qaynatiladi. Ushbu",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "pechal,",
+        "evidence_extracted": "lug‘atida berilmagan.\n   Dardoq shevasida pečӓl\\pechal, mӓžik\\majik, so‘zlari ko‘rinishidan qoni\nkam, rangi so‘lg‘in, immuniteti pastligidan nosog‘lom bolaga nisbatan ishlati­\nladi. Yuqoridagi so‘zlar ham izohli lug‘atda qayd qilinmagan. balaɳa žïzza qї\nber, kӧp-kӧp bulamїq qї ber, pečӓl bop qamasїn jӓnӓ. (<Bolangga jizza qilib ber,\nko‘p-ko‘p bulamiq qilib ber, pechal bo‘lib qolmasin yana).\n   Adabiy tilimizda qancha yesa ham to‘ymaydigan yoki ko‘p ovqat yeydigan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "claim": "Barcha katta konferensiya to‘plamlari to‘liq o‘qildi yoki barcha 2024 qaydlar 2026 og‘zaki nutqida tasdiqlandi.",
+    "status": "bunday da’vo yo‘q; tegishli maqolalar o‘qildi, mustaqil audio tekshiruvi o‘tkazilmadi"
+  }
+]

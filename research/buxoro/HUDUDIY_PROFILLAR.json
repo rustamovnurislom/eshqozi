@@ -1,0 +1,53 @@
+{
+  "profiles": [
+    {
+      "name": "Buxoro qarluq va Samarqand–Buxoro shahar guruhi",
+      "sources": [
+        "B1:35–36",
+        "B2:39",
+        "B3:119–121 (qarluq bo‘limlari)"
+      ],
+      "notes": "Shahar guruhi va viloyatning hamma aholisi bir xil emas. Tojik tili bilan aloqa va izofa bu qatlamda qayd etilgan."
+    },
+    {
+      "name": "Buxoro o‘g‘uz shevalari",
+      "sources": [
+        "B4:9,12–30",
+        "B3:119–120 (o‘g‘uz bo‘limlari)"
+      ],
+      "districts_as_research_scope": [
+        "Qorako‘l",
+        "Olot",
+        "Jondor",
+        "Romitan",
+        "Peshku",
+        "Shofirkon",
+        "Kogon",
+        "Buxoro"
+      ],
+      "notes": "Tumanlar dala materialining qamrovi; shu tumanlarning barcha aholisi o‘g‘uz degani emas. Ko‘p misol uchun alohida qishloq yorlig‘i avtoreferatda yo‘q."
+    },
+    {
+      "name": "G‘ijduvondagi yoshi katta kishilar nutqi kuzatuvi",
+      "sources": [
+        "B3:119 jölkirā"
+      ],
+      "notes": "Aynan bitta kuzatuv uchun hudud va yosh berilgan; qo‘shni barcha gaplar G‘ijduvonga avtomatik ko‘chirilmagan."
+    },
+    {
+      "name": "Buxoroning qipchoq nutqi",
+      "sources": [
+        "B1:31–32 tasnif"
+      ],
+      "notes": "Umumiy tasnifda borligi qayd etilgan. Yangi besh faylda alohida Buxoro qipchoq suhbati yetarli darajada berilmagani uchun to‘liq dialog profili tuzilmadi."
+    },
+    {
+      "name": "1971-yilgi Buxoro yorlig‘idagi lug‘aviy qatlam",
+      "sources": [
+        "E1 tanlangan maqolalari",
+        "B5:677–678"
+      ],
+      "notes": "Ko‘p birliklarda ichki lahja va bugungi yoshlar nutqi belgisi yo‘q; so‘zlarga qarluq/o‘g‘uz yorlig‘i taxminan qo‘yilmadi."
+    }
+  ]
+}

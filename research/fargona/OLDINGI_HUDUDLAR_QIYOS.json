@@ -1,0 +1,104 @@
+[
+  {
+    "topic": "Andijon va Farg‘ona",
+    "finding": "-yap va -di/-ti kabi belgilar ayrim Andijon–Marg‘ilon–Qo‘qon guruhlarida mushtarak; Farg‘onaga eksklyuziv emas.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_extracted": "Andijon, Marg‘ilon, Qo‘qon",
+        "evidence_extracted": "ь тузъ ~ asti tuzi;\n      - tushum kelishigi affiksidagi n undoshi d, t undoshi bilan almashadi.\nBu Andijon, Marg‘ilon, Qo‘qon guruh shevalarida qayd qilinadi. Bunda\njarangsiz undoshdan so‘ng -tb~ti, jarangli undoshdan so‘ng esa -<h>~di\n variantlari  qo‘shiladi: oshning mazasi ~ ошть мэзэсъ  ~asti mazasi,\n толдъ кестъ ~ taldi kesti;",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F3",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_extracted": "–yap qo’shimchasi",
+        "evidence_extracted": "\nqonuniyatlar asosida o’zgargan  bo’lib, u  aslida –vot qo’shimchasiga borib\n\ntaqaladi;\n\n        b) –yap qo’shimchasi Farg`ona vodiysidagi barcha shahar (Andijon,\n\nMarg`ilon, Qo’qon  kabi) hamda  o’sha  shaharlarga  yaqin bo’lgan  qishloq\n\nshevalariga xosdir: boryapman, kelayapman kabi. Farg`ona shevalaridagi bu\n\nqo’shimcha Namangan shevasidan tashqari –yap shakliga borib taqaladi va\n\nSamarqand-Buxoro   shevasidagi  –op   ko’rsatgichiga  ham   yaqinlash",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "topic": "Samarqand–Buxoro bilan",
+    "finding": "F3 jadvalida Farg‘ona misilcha/hayunchak/barqit/chumalik va Samarqand–Buxoro musicha/arg‘unchoq-alvonch/baxmal/mo‘rcha qiyoslangan. Butun viloyatning yagona shakli deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_extracted": "hayunchak",
+        "evidence_extracted": "cha    musicha     musicha    misilcha     qumri       musichi\n\narg`imchoq  arg`unchoq   alvonch    hayunchak   sarindjaq    qalgancha\n\nduxoba      baxmal      baxmal      barqit       baxmal     baxmal\n\nchumoli     mo’rcha     mo’rcha    chumalik     qarindja     chumali\n\nasalari        asalari         asalari       asalari      zambir       asalari\n\ntuxum      tuxum      tuxum     tuxum       yumo’rta   mayak\n\nyuray        yurak        yurak  ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "topic": "Toshkent bilan ma’no farqi",
+    "finding": "Buvi (ona/buvi), shoti (narvon/arava qismi), pashsha (chivin/pashsha) shakli bir xil bo‘lsa ham ma’no hudud va kontekstga bog‘liq.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 54,
+        "printed_page": 53,
+        "anchor_extracted": "Farg‘onada ona",
+        "evidence_extracted": "Toshkentda arava qismi nomi, Farg‘onada narvon;\n    byvb ~ buvi  - Toshkentda ota va onaning onasi, Farg‘onada ona\n ma’nosida.\n   пэшшэ ~ passa  - Toshkentda chaqmaydigan hashorat, Farg‘ona va\n shimoliy o‘zbek shevalarida chaqadigan hashorat.\n\n\n\n                                             53",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_extracted": "narvon, b)arava qismi",
+        "evidence_extracted": "qa ma’nolarni anglatadi.\n              Toshkent - aravaning qismi\nShet\n               Farg’ona – a) narvon, b)arava qismi;\n\n              Toshkent pashsha (muxa)\nPashsha\n               Farg’ona chivin (komar).\n\n                 Nazorat topshiriqlari:\n2.1.O’zbek  lahjashunosligiga  tegishli o’quv  darsliklari va  qo’llanmalarda keng\nqatlamga mansub so’zlarni aniqlash va uni dalillar asosida isbotlash.\n2.2.Amaliy mashg’ulotlar uchun keng qatlamga aloqador so’",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_extracted": "Farg’ona chivin",
+        "evidence_extracted": " Farg’ona – a) narvon, b)arava qismi;\n\n              Toshkent pashsha (muxa)\nPashsha\n               Farg’ona chivin (komar).\n\n                 Nazorat topshiriqlari:\n2.1.O’zbek  lahjashunosligiga  tegishli o’quv  darsliklari va  qo’llanmalarda keng\nqatlamga mansub so’zlarni aniqlash va uni dalillar asosida isbotlash.\n2.2.Amaliy mashg’ulotlar uchun keng qatlamga aloqador so’zlar kartotekasini (100)\nso’zdan iborat) tuzib ko’rsatish.\n2.3.O’rta  qatlam  v",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "topic": "Jizzax, Surxondaryo, Qashqadaryo bilan",
+    "finding": "Qipchoq qatlamlar bir necha viloyatda mavjud; j-lashish, a-lashish yoki singarmonizmni faqat bir viloyatga bog‘lash mumkin emas.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 84,
+        "printed_page": 83,
+        "anchor_extracted": "Qashqadaryo, Surxondaryo",
+        "evidence_extracted": " Ohangaron vodiysi, Fargona,\nAndijon  viloyatlarida ham  yashaydilar.  Sirdaryo, Samarqand, Buxoro,\nQashqadaryo, Surxondaryo va Xorazm viloyatlari aholisining ko‘pchilik\nqismi ham qipchoq  lahjasining  vakillaridir. Bugina emas, o'zbek   tili\n\nqipchoq   lahjasining  shevalari  Qozog'iston,  Qirg‘iziston,  Tojikiston\nrespublikalari territoriyasida ham  bor.\n    0‘zbek  tilining qipchoq  shevalari  faqat  dialektologiar uchungina\nemas, balki folklorshunoslar uch",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "topic": "Namangan chegarasi",
+    "finding": "Farg‘ona guruhi termini Namangan dialektini ham qamraydi, ammo Farg‘ona viloyati profili Namangandagi -ut/-vot yoki umlautni umumiy qoida qilib olmaydi.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 86,
+        "printed_page": 85,
+        "anchor_extracted": "Namangan dialekti",
+        "evidence_extracted": "arga  boiish\nmumkin:\n       I. Farg‘ona guruhi. U bir necha dialektlami o‘z ichiga oladi:\n\n      1. Namangan dialekti. Bu dialektga Namangan shahar shevasi va\nshahar  tipidagi  Namangan  atrofidagi  shevalar  (masalan,  Uychi  va\nboshqalar) taalluqlidir (Namangan atrofidagi qipchoq shevalari, tabiiyki,\nbu dialektga kirmaydi.).\n    Mazkur  dialektga  oid  shevalar  uyg‘ur  tiliga  maksimal  darajada\n\n yaqinligi bilan xarakterlanadi.\n      2. Andijon-Shah",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F3",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_extracted": "Namangan  shakli",
+        "evidence_extracted": "gan  shevasida  –ut: borvotman,  borvotsan,  qilutti\n\n(qilyapman),  qiluttimiz  (qilayapmiz)  kabi, Namangan  shakli  –ut  fonetik\n\nqonuniyatlar asosida o’zgargan  bo’lib, u  aslida –vot qo’shimchasiga borib\n\ntaqaladi;\n\n        b) –yap qo’shimchasi Farg`ona vodiysidagi barcha shahar (Andijon,\n\nMarg`ilon, Qo’qon  kabi) hamda  o’sha  shaharlarga  yaqin bo’lgan  qishloq\n\nshevalariga xosdir: boryapman, kelayapman kabi. Farg`ona shevalaridagi bu\n\nqo’shimcha",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  }
+]

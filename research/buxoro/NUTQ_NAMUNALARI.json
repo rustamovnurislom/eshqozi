@@ -1,0 +1,118 @@
+{
+  "description": "Manbadagi yozma misollar. B3 fonetik j ko‘pincha y ni, ž esa j ni bildiradi; avtomatik j-lovchi profil deb talqin qilinmaydi.",
+  "sample_count": 8,
+  "samples": [
+    {
+      "id": "BS001",
+      "source_id": "B3",
+      "pdf_page": 2,
+      "printed_pages": [
+        119
+      ],
+      "source_text_extracted": "Muni išlätkännän kijin žājigä qāj, män qidirip jurmäj.",
+      "meaning_uz": "Buni ishlatgandan keyin joyiga qo‘y, men qidirib yurmay.",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "genre": "Misol jumla",
+      "translation_status": "Tahririy adabiy o‘qilish; maqolada alohida adabiy tarjima yo‘q",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS002",
+      "source_id": "B3",
+      "pdf_page": 2,
+      "printed_pages": [
+        119
+      ],
+      "source_text_extracted": "Körpäjä öränip jāt",
+      "meaning_uz": "Ko‘rpaga o‘ranib yot",
+      "scope": "B3 o‘g‘uz konteksti",
+      "genre": "Misol jumla",
+      "translation_status": "Manbaning o‘z tarjimasi",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS003",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "source_text_extracted": "Körpäčäjä ötir",
+      "meaning_uz": "Ko‘rpachaga o‘tir",
+      "scope": "B3 o‘g‘uz konteksti",
+      "genre": "Misol jumla",
+      "translation_status": "Manbaning o‘z tarjimasi",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS004",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "source_text_extracted": "Sixakti opke",
+      "meaning_uz": "Qirg‘ichni olib kel",
+      "scope": "B3 o‘g‘uz konteksti",
+      "genre": "Misol jumla",
+      "translation_status": "Manbaning o‘z tarjimasi",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS005",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "source_text_extracted": "Lövlādi tāzäläš keräk",
+      "meaning_uz": "Loviyani tozalash kerak",
+      "scope": "B3 o‘g‘uz konteksti",
+      "genre": "Misol jumla",
+      "translation_status": "Manbaning o‘z tarjimasi",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS006",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "source_text_extracted": "Ānämä āldim",
+      "meaning_uz": "Onamga oldim",
+      "scope": "B3 o‘g‘uz konteksti",
+      "genre": "Misol jumla",
+      "translation_status": "Manbaning o‘z tarjimasi",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS007",
+      "source_id": "B3",
+      "pdf_page": 4,
+      "printed_pages": [
+        121
+      ],
+      "source_text_extracted": "Nān-pān, čāj-pāj, kölä-pölä [sho‘rdanak] keräjmäsmi?",
+      "meaning_uz": "Non-pon, choy-poy, sho‘rdanak kabi narsalar kerak emasmi?",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "genre": "Misol jumla",
+      "translation_status": "Tahririy adabiy o‘qilish; sho‘rdanak izohi manbaning o‘zida",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    },
+    {
+      "id": "BS008",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "source_text_extracted": "Iki žörä bäčäliktän birä kättä bölänlä. Dävr kelip ikkäläsijäm öz bäxtini izläp\n     jölä čiqan.",
+      "meaning_uz": "Ikki jo‘ra bolalikdan birga katta bo‘lgan. Vaqti kelib ikkalasi ham o‘z baxtini izlab yo‘lga chiqqan.",
+      "scope": "B3: o‘g‘uz misollari orasida, aniq qishloq ko‘rsatilmagan",
+      "genre": "Hikoya parchasi",
+      "translation_status": "Tahririy adabiy o‘qilish; to‘liq gapma-gap tarjima maqolada yo‘q",
+      "usage": "Manba namunasi; bot yaratgan yoki zamonaviy audio bilan tasdiqlangan dialog emas."
+    }
+  ]
+}

@@ -1,0 +1,2646 @@
+[
+  {
+    "id": "AL001",
+    "display_form": "hilvaligim",
+    "meanings": [
+      "xushbichim, xipcha bel, nozik va chiroyli qomat haqidagi shakl"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ijobiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbada egalik qo‘shimchali shakl. Mustaqil hilva lemma taxmin qilinmadi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 170,
+        "printed_pages": [
+          170
+        ],
+        "anchor_extracted": "hilvaligim",
+        "evidence_extracted": "lar qanča? Tabiiy, insonlar bilan so‘zlashuv chog‘ida jumlada qo‘llangan\nhïlvalïgïm\\hilvaligim leksemasining ma’nosi yanglish tuyuldi. Ma’lum\nbo‘lishicha, hïlvalïgïm so‘zi “xushbichim, xipcha bel, nozik, chiroyli qomat”\nma’nosini ifodalar ekan.\n   O‘zbek tilining izohli lug‘atida čajïr\\chayir so‘zining ikki xil ma’nosi izoh­\nlangan: 1. Tolalari mahkam birikkan, yorilishi, ishlanishi qiyin (yog‘och-tax­\nta, o‘tin). 2. Quruq dashtlarga moslashgan, gullari sarg‘ish, ozuqabop va",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL002",
+    "display_form": "chayir",
+    "meanings": [
+      "jussasi kichik bo‘lsa ham chaqqon, chapdast kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ijobiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Yog‘ochning chayirligi ma’nosidan ajratiladi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 170,
+        "printed_pages": [
+          170
+        ],
+        "anchor_extracted": "chayir degan",
+        "evidence_extracted": "ham hamma ishni qila oladigan chaqqon, chapdast insonga nisbatan čajïr\\\nchayir degan so‘z qo‘llaniladi. Ma’lumot sifatida shuni aytib o‘tmoqchimizki,\njelovchi Qashqadaryo shevasida bunday sifatga ega odamlarga nisbatan ga­\n\n                               170",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL003",
+    "display_form": "chikalak",
+    "meanings": [
+      "tengdoshlariga nisbatan bo‘yi past, jussasi kichik bola"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ko‘rinishni baholash",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Har bir bola uchun betaraf murojaat emas.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "chikalak leksemasi",
+        "evidence_extracted": "ki, tengdoshlariga nisbatan bo‘yi past, jussasi kichkina bolalarga nisbatan\nčikӓlӓk\\chikalak leksemasi qo‘llanadi: ӧzi čikӓlӓkdӓj bovalïp bilmӓgӓn\nnӓrsӓsi joq (<o‘zi chikalakday bo‘lib olib bilmagan narsasi yo‘q). Ma’lumot\no‘rnida shuni ta’kidlab o‘tmoqchimizki, ushbu so‘z o‘zbek tilining izohli\nlug‘atida berilmagan.\n   Dardoq shevasida pečӓl\\pechal, mӓžik\\majik, so‘zlari ko‘rinishidan qoni\nkam, rangi so‘lg‘in, immuniteti pastligidan nosog‘lom bolaga nisbatan ishlati­",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL004",
+    "display_form": "pechal",
+    "meanings": [
+      "rangi so‘lg‘in, nosog‘lom ko‘rinadigan bola"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "baholovchi",
+    "variants": [
+      "majik"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallifning tashqi ko‘rinish tavsifi; klinik tashxis emas. Misoldagi ovqat berish gapi tibbiy tavsiya sifatida olinmadi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "pechal,",
+        "evidence_extracted": "lug‘atida berilmagan.\n   Dardoq shevasida pečӓl\\pechal, mӓžik\\majik, so‘zlari ko‘rinishidan qoni\nkam, rangi so‘lg‘in, immuniteti pastligidan nosog‘lom bolaga nisbatan ishlati­\nladi. Yuqoridagi so‘zlar ham izohli lug‘atda qayd qilinmagan. balaɳa žïzza qї\nber, kӧp-kӧp bulamїq qї ber, pečӓl bop qamasїn jӓnӓ. (<Bolangga jizza qilib ber,\nko‘p-ko‘p bulamiq qilib ber, pechal bo‘lib qolmasin yana).\n   Adabiy tilimizda qancha yesa ham to‘ymaydigan yoki ko‘p ovqat yeydigan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL005",
+    "display_form": "nakas",
+    "meanings": [
+      "yebto‘ymas, ochko‘z",
+      "ayrim kontekstlarda ziqna, xasis"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Adabiy nokasning barcha ma’nolari bilan avtomatik tenglashtirilmaydi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "nakas so‘zi",
+        "evidence_extracted": "insonga nisbatan ochko‘z atamasi qo‘llaniladi. Dardoq shevasida esa ochko‘z\nso‘ziga sinonim sifatida nӓkӓs\\nakas so‘zi qo‘llaniladi. Bu so‘z faqatgina yeb­\nto‘ymas ma’nosida emas, ba’zi bir kontekstual matnlarda ziqna, xasis ma’no­\nlarida ham keladi. Nӓkӓs so‘zi ham izohli lug‘atda qayd qilinmagan. Forscha\nnokas so‘zi berilgan. Ushbu so‘zning ma’nosi izohli lug‘atda vijdoni, insofi yo‘q,\npastkash, yaramas, qabih kabi izohlanadi. Ata üjimdӓgi jan qošnїmїz nӓkӓs\nadamijdi. Üjimizdӓgi hӓmmӓ pišip qaɣan mevӓ-čevӓlӓrimizi terip čїqїp ketӓrdi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL006",
+    "display_form": "piska",
+    "meanings": [
+      "ko‘zi qisiq haqida aytiladigan sifat"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ko‘rinishni baholash",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif etnik o‘xshatish ham ishlatadi; u aholiga umumiy belgi yoki botning murojaat odati qilinmaydi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "piska leksemasi",
+        "evidence_extracted": "latiladigan turli xil sifatlar talaygina. Ana shunday sifatlardan biri piskä\\\npiska leksemasidir. Ushbu leksema o‘rganilayotgan sheva vakillari tomoni­\ndan ko‘zi qisiq, karisqovoq (koreys millatiga mansub insonlarning ko‘zi)\ninsonlarning ko‘ziga nisbatan ishlatiladigan sifatdir. Masalan: Vaj, bü žiži­\nni kӧzi minčӓ piskӓ, kimi tārtqan? (<Voy, bu jijining ko‘zi namuncha piska,\nkimga tortgan?)\n   Endi e’tiborimizni ushbu gapga qaratsak: jo unï kelin qїmїjmїz, u žüdӓ",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL007",
+    "display_form": "uziqara",
+    "meanings": [
+      "urishqoq, aytishadigan kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Shaxsni tanqid qilish konteksti.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 171,
+        "printed_pages": [
+          171
+        ],
+        "anchor_extracted": "uziqara so‘zi",
+        "evidence_extracted": "so‘zi salbiy ma’noga ega ekanligi ma’lum bo‘lmoqda. Ushbu sheva vakillarida\nuziqara so‘zi urishqoq insonlarga nisbatan ishlatiladigan sifatdir.\n   Adabiy tilda uy tutumi yaxshi bo‘lmagan, saranjom-sarishta o‘tirmagan\ninsonlarga nisbatan ishlatiladigan leksema mavjud emas. Dardoq shevasi\nvakillarida esa bunday tutumdagi insonlarga nisbatan tülas, palpis (<tu­\n\n                               171",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL008",
+    "display_form": "tulos",
+    "meanings": [
+      "uy tutumi saranjom bo‘lmagan kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "tanbeh",
+    "variants": [
+      "polpis"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Tulos/polpis manba yozuvida tülas/palpis shakllari bilan ham berilgan.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "Tülӓsgә",
+        "evidence_extracted": "los, polpis) leksemalari ishlatiladi: Tülӓsgә oxšamastan jїɣїštїrїš anavi čӓčilip\njatqan nӓrsӓlӓrdi, taza turadi qїz bala bar üj, ujatmasmï, kӓp-kӓttӓ bopqa­\nlїšsaɳam. (<Tulosga o‘xshamasdan yig‘ishtirish anavi sochilib yotgan narsa­\nlarni, toza turadi qiz bola bor uy, uyat emasmi, kap-katta bo‘lib qolishsang\nham). Yuqorida keltirilgan leksemalar ham o‘zbek tilining izohli lug‘atidan\no‘rin egallamagan.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL009",
+    "display_form": "danak",
+    "meanings": [
+      "kichkina bo‘lsa ham gapga chechan yosh qizcha"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "baholovchi",
+    "variants": [
+      "daqqi"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Danakning meva urug‘i ma’nosi bilan aralashtirilmaydi. Manba yosh qizchalar haqida.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "Danak, daqqi",
+        "evidence_extracted": "mavjud:\n   Dӓnӓk, daqqї\\Danak, daqqi sifatlari o‘zi kichkina bo‘lishiga qaramay\nso‘zga, gapga chechan yosh qizchalarga nisbatan qo‘llaniladi: qïzïz dänäk qïz\nboptï. (<qizingiz danak qiz bo‘libdi.) Mamadana\\mamadana bo‘lar-bo‘lmas\nnarsaga gap talashadigan, ko‘p gapiradigan qiz. Bu so‘z adabiy tildagi mahma­\ndona so‘zi bilan ma’nodoshdir. Mamadanalïq qїma, kӓttӓ gӓpirgӓndӓ hop dejiš\nkere. (<Mahmadonalik qilma, katta gapirganda xo‘p deyish kerak).",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL010",
+    "display_form": "mamadana",
+    "meanings": [
+      "ko‘p gapiradigan, gap talashadigan qiz; mahmadona"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbadagi yosh/jins konteksti saqlanadi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "Mamadana",
+        "evidence_extracted": "so‘zga, gapga chechan yosh qizchalarga nisbatan qo‘llaniladi: qïzïz dänäk qïz\nboptï. (<qizingiz danak qiz bo‘libdi.) Mamadana\\mamadana bo‘lar-bo‘lmas\nnarsaga gap talashadigan, ko‘p gapiradigan qiz. Bu so‘z adabiy tildagi mahma­\ndona so‘zi bilan ma’nodoshdir. Mamadanalïq qїma, kӓttӓ gӓpirgӓndӓ hop dejiš\nkere. (<Mahmadonalik qilma, katta gapirganda xo‘p deyish kerak).\n   Šӓldir-šüldir\\shaldir-shuldir so‘zi kirishimli, hamma bilan chiqishib\nketa oladigan, ko‘nglida kiri yo‘q, sodda odamga nisbatan ishlatiladi: adam",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL011",
+    "display_form": "shaldir-shuldir",
+    "meanings": [
+      "kirishimli, sodda, hamma bilan chiqishadigan, ko‘nglida kiri yo‘q odam"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ijobiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bu qaydda shovqin-suron emas, kishining fe’li nazarda tutilgan.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "shaldir-shuldir so‘zi",
+        "evidence_extracted": "kere. (<Mahmadonalik qilma, katta gapirganda xo‘p deyish kerak).\n   Šӓldir-šüldir\\shaldir-shuldir so‘zi kirishimli, hamma bilan chiqishib\nketa oladigan, ko‘nglida kiri yo‘q, sodda odamga nisbatan ishlatiladi: adam\ndegӓn šӓldir-šüldir bӧliši kerej, dїmaɣdar bӧlip, keh sahlamaslïq kere. (<Odam\ndegan sodda, shaldir-shuldir bo‘lishi kerak, dimog‘dor bo‘lib, kek saqla­\nmaslik kerak).\n   Gӓžir\\Gajir – aytganini qildiradigan, qaysar, jangari. Bu so‘z insonga xos",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL012",
+    "display_form": "gajir",
+    "meanings": [
+      "aytganini qildiradigan, qaysar, jangari"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Insonga ham, bo‘ysundirish qiyin otga ham ishlatilishi qayd etilgan.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "Gajir –",
+        "evidence_extracted": "maslik kerak).\n   Gӓžir\\Gajir – aytganini qildiradigan, qaysar, jangari. Bu so‘z insonga xos\nbo‘lgan xususiyatni bildirishi bilan birga, ot jonzotiga nisbatan ham ishlati­\nladi. Bo‘ysundirish qiyin bo‘lgan, qaysar otni gajir ot deyishadi. Ushbu qish­\nloq shevasida otga nisbatan emas, balki insonlarga nisbatan ham bu leksik\nbirlikdan foydalaniladi. Masalan: balasïjam rasajam gӓžir boɣan-e:j, ajtganïnï\nqïldïradï. (<Bolasi ham biram gajir bo‘lganeeey, aytganini qildiradi).",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL013",
+    "display_form": "juda-",
+    "meanings": [
+      "ish ko‘pligidan ulgurolmay, o‘zini eplay olmay qolish"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "holat tavsifi",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Misolda judadim. Juda ravishi bilan bir xil tarjima qilinmaydi; fe’lning to‘liq paradigmasi berilmagan.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "ishlarga ulgurmaslik",
+        "evidence_extracted": "qïldïradï. (<Bolasi ham biram gajir bo‘lganeeey, aytganini qildiradi).\n   žuda-\\juda – ishlarga ulgurmaslik. Ishlar ko‘pligidan ulgura olmayotgan,\no‘zini eplay olmayotgan insonlarga, asosan ayol kishiga nisbatan qo‘llanadi­\ngan leksemadir. Bïr qolїmda bala, bïrïda žilkӓ sümkӓdӓ kӓrtiškӓ, birӓm žu­\ndadïm, birӓm žudadïm, jӓnӓ kӓmigӓ qazanda ustalarɣa aqat. (<Bitta qo‘limda\nbola, birida jilka sumkada kartoshka, biram judadim, biram judadim, yana ka­\nmiga qozonda ustalarga ovqat ham bor). Biram leksemasi shevada rosa, juda,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL014",
+    "display_form": "biram",
+    "meanings": [
+      "rosa; juda; juda ham"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "kuchaytirish",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Kuchaytiruvchi ma’no.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "Biram leksemasi",
+        "evidence_extracted": "bola, birida jilka sumkada kartoshka, biram judadim, biram judadim, yana ka­\nmiga qozonda ustalarga ovqat ham bor). Biram leksemasi shevada rosa, juda,\njuda ham ma’nolarida qo‘llanadi.\n   Alakӧtӓn\\olako‘tan – ko‘ngli toza. Ushbu leksema ko‘ngli toza, ko‘nglida\nkiri, g‘araz niyati yo‘q insonlarga nisbatan qo‘llanadi. Asosan, yoshi ulug‘ in­\nsonlar nutqida kuzatiladi: ї:mānï їssїɣ, alakӧtӓn žuvan äkӓn. (<Imoni issiq, ola­\nko‘tan juvon ekan.)",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL015",
+    "display_form": "olako‘tan",
+    "meanings": [
+      "ko‘ngli toza, g‘araz niyati yo‘q kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ijobiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif ko‘proq yoshi ulug‘ kishilar nutqida uchrashini aytadi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "olako‘tan",
+        "evidence_extracted": "juda ham ma’nolarida qo‘llanadi.\n   Alakӧtӓn\\olako‘tan – ko‘ngli toza. Ushbu leksema ko‘ngli toza, ko‘nglida\nkiri, g‘araz niyati yo‘q insonlarga nisbatan qo‘llanadi. Asosan, yoshi ulug‘ in­\nsonlar nutqida kuzatiladi: ї:mānï їssїɣ, alakӧtӓn žuvan äkӓn. (<Imoni issiq, ola­\nko‘tan juvon ekan.)\n   Ba’zida o‘zimiz istamagan holatda kimgadir tanbeh berishga majbur\nbo‘lamiz, shunda beixtiyor qo‘pol so‘zlardan foydalanib qo‘yamiz. Andijon",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL016",
+    "display_form": "tosbet",
+    "meanings": [
+      "gap ta’sir qilmaydigan, bezbet kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy; tanbeh",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Tosray- fe’li bilan yonma-yon berilgan; uni bir xil so‘z turkumi deb olmadim.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "tosbet).",
+        "evidence_extracted": "latiladigan sifatlardan biridir: Gӓpӓm tӓ’sir qїmajdï-ja, tasrajïp turïšïnï qara,\ntasbet. (<Gap ham ta’sir qilmaydi-ya, tosrayib turishini qara, tosbet). Adabiy\ntilimizda bu so‘zga sinonim sifatida bezbet so‘zi qo‘llaniladi.\n   Tülӓk\\tulak\\\\tülӓj\\tulay leksemalari ham shevaga xos so‘zlar bo‘lib, bu\nso‘zlar adabiy tilimizdagi ayyor so‘ziga ma’nodoshdir. Masalan, ӧlgüdej tülӓj\nӓ? Bu dӧsimidijӓm demedi, namüssiz. (<O‘lguday tulak, a? Bu do‘stim edi ham\ndemaydi, nomussiz.)",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL017",
+    "display_form": "tulak",
+    "meanings": [
+      "ayyor"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [
+      "tulay"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbada tulay varianti ham bor.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "tulak",
+        "evidence_extracted": "tilimizda bu so‘zga sinonim sifatida bezbet so‘zi qo‘llaniladi.\n   Tülӓk\\tulak\\\\tülӓj\\tulay leksemalari ham shevaga xos so‘zlar bo‘lib, bu\nso‘zlar adabiy tilimizdagi ayyor so‘ziga ma’nodoshdir. Masalan, ӧlgüdej tülӓj\nӓ? Bu dӧsimidijӓm demedi, namüssiz. (<O‘lguday tulak, a? Bu do‘stim edi ham\ndemaydi, nomussiz.)\n   Shuni aytib o‘tish lozimki, o‘rganilayotgan shevada insonlarga xos sal­\nbiy xususiyatlarni atab kelishda ham bir qancha leksemalar mavjud bo‘lib,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL018",
+    "display_form": "poyipaytava",
+    "meanings": [
+      "laganbardor; manfaat uchun xushomad qiladigan kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Tanqidiy atama.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "poyipaytava leksemasi",
+        "evidence_extracted": "ular o‘zbek tilining izohli lug‘atida uchramaydi. Shunday leksik birliklardan\nbiri pajïpajtava\\poyipaytava leksemasidir. Adabiy tildagi laganbardor – o‘z\nmanfaati uchun boshqalar oldida o‘zini juda tuban tutib, unga xushomad\nqilishga tirishadigan pastkash odamga nisbatan o‘rganilayotgan sheva vakil­\nlari nutqida pājipӓjtӓvӓ leksemasi qo‘llaniladi. Masalan: Hӓ, bu ӧzi šunaqa,\nkičkinӓligimizdӓjӓm bayvӓččӓ qїzlarga pajipӓjtӓvӓ bolï jürӓrdi, hӓlijӓm ozgar­\nmaptï, rahbarlarga lӓgӓnlїk qїlїp. (<Ha, bu o‘zi shunaqa, kichkinaligimizdayam",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL019",
+    "display_form": "genamas",
+    "meanings": [
+      "e’tiborsiz, boshqalarga past nazar bilan qaraydigan"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Yonidagi toɣat shaklining mustaqil ma’nosi aniqlashtirilmagan.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "Genämäs",
+        "evidence_extracted": "dor xulosaga kelinadi.\n   Genämäs, toɣat so‘zi e’tiborsizlik, past nazar bilan qaramoq degan ma’no­\nlarda keladi. Masalan: Vaj tӧbӓ:, kimgӓ oxšagan? Šünčӓlik genӓmӓs, gӓpirseɳ\nsen kimsӓnӓm demedi. (<Voy tavba, kimga o‘xshagan? Shunchalik genamas, ga­\npirsang sen kimsan ham demaydi.)\n   Qoramas\\qo‘ramas leksemasi ham insonga xos xususiyatlardan bi­\nrini atab keladi. Ushbu so‘z ham o‘zbek tilining izohli lug‘atidan o‘rin ol­",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL020",
+    "display_form": "qo‘ramas",
+    "meanings": [
+      "dangasa, ishyoqmas, tanbal"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Shaxsni malomat qilish konteksti.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "qo‘ramas",
+        "evidence_extracted": "pirsang sen kimsan ham demaydi.)\n   Qoramas\\qo‘ramas leksemasi ham insonga xos xususiyatlardan bi­\nrini atab keladi. Ushbu so‘z ham o‘zbek tilining izohli lug‘atidan o‘rin ol­\nmagan bo‘lib, mehnat qilib o‘zini qiynashni xohlamaydigan, dangasa, ish­\nyoqmas, tanbal insonlarga nisbatan ishlatiladigan leksik birlikdir. Katta\no:lïm qoramas bala boɣan, ɣїirt dӓnggӓsӓ, kimgӓ tartip qaɣan, hayram­\nman.(<Katta o‘g‘lim qo‘ramas bola bo‘lgan, g‘irt dangasa, kimga tortib",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL021",
+    "display_form": "arjay",
+    "meanings": [
+      "bo‘lar-bo‘lmasga kuladigan, o‘rinsiz hazil qiladigan kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "salbiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Kulgining har bir holatini bu so‘z bilan atash o‘rinli emas.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "arjay deb",
+        "evidence_extracted": "   Insonlardagi salbiy xususiyatlardan biri dardoq shevasi vakillarida\nӓržӓj\\arjay deb nomlanadi. Arjay so‘zi bo‘lar-bo‘lmasga kuladigan, o‘rin­\nsiz hazil qiladigan kishilarga nisbatan qo‘llanadi, bu leksemani o‘zbek\ntilining izohli lug‘atida ham uchratmaymiz. Masalan: Sen ünӓ: ӓrjӓj bala\nbomagïn, oɣїl bala üna: ӓržӓj bomedi, sӓl nӓrsӓgelӓ külormedi. (<Sen unaqa\narjay bola bo‘lmagin, o‘g‘il bola unaqa arjay bo‘lmaydi, sal narsagagina ku­\nlavermaydi).",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL022",
+    "display_form": "avirli",
+    "meanings": [
+      "obro‘li odam",
+      "ish, joy, kiyim, taom haqida ham hurmat/munosiblik bahosi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "ijobiy",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ikkinchi ma’no tahririy mazmuniy umumlashtirish; muallif avirli ish/joy/kiyim/taom birikmalarini sanaydi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 173,
+        "printed_pages": [
+          173
+        ],
+        "anchor_extracted": "avirli so‘zi",
+        "evidence_extracted": "lavermaydi).\n   Avïrlï\\avirli so‘zi obro‘li so‘zi bilan ma’nodosh bo‘lib, shaxs va narsalar\nuchun qo‘llaniladi. Obro‘li so‘zi esa faqat insonlar uchun ishlatiladi. Avirli\nodam, avirli ish, avirli joy, avirli kiyim, avirli taom. Hӓbbӓxanӓjӓni qїrqї bo­\n\n                               173",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL023",
+    "display_form": "chimxo‘r",
+    "meanings": [
+      "ovqatni tanlab, oz-oz yeydigan kishi"
+    ],
+    "region": "Andijon, Dardoq qishlog‘i; aniq tuman bu maqolada belgilanmagan",
+    "domain": "kundalik nutq",
+    "tone": "baholovchi",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Insonga nisbatan ishlatilishi qayd etilgan; boshqa shevalarda hayvon haqida ham deyiladi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "chimxo‘r atamasi",
+        "evidence_extracted": "   Ovqatni tanlab, oz-oz yeydigan, har qanday ovqatni yeyavermaydigan in­\nsonlarga nisbatan čїmxor\\chimxo‘r atamasi qo‘llanadi. Ko‘p sheva vakillarida\nbu so‘z, asosan, hayvonlarga nisbatan ishlatiladi, ammo o‘rganilayotgan sheva\nvakillari nutqida esa insonlarga nisbatan ham ko‘p qo‘llanadi: čïmxor hokïz\naštan olar. (<Chimxo‘r ho‘kiz ochdan o‘lar) (Maqol). Vaj, qїzїmej, büna: čimxor\nbӧmӓgin, unaqada azïp ketӓsӓn-u. Qara, bunini ӧzi qaptї-ju. Vaxtїda aqatlan.\n(<Voy, qizim-ey, bunaqa chimxo‘r bo‘lmagin, unaqada ozib ketasan-u. Qara,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL024",
+    "display_form": "xunon",
+    "meanings": [
+      "yoyilgan xamir ichiga qiyma solib pishiriladigan taom; xonim"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "o‘rama"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "O‘rama varianti Abdullabiy, Progress, Qizilto‘qay qishloqlari uchun berilgan. Adabiy o‘rama izohi boshqacha bo‘lishi mumkin.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 327,
+        "printed_pages": [
+          327
+        ],
+        "anchor_extracted": "(xunon)",
+        "evidence_extracted": "     Oziq-ovqat nomlari:\n    Xunān (xunon) xamirni yoyib, ichiga qiyma solib pishiriladigan ovqat turi [Farmonov\n1961:184]. Andijonning Abdullabiy, Progress, Qizilto‘qay qishloqlarida orämä (o‘rama) deb ham\nyuritiladi. Yurtimizning boshqa hududlarida hamda izohli lug‘atda ushbu taom xānim (xonim)\n\n\n1 Andijon viloyatining Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa hududlari",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL025",
+    "display_form": "po‘shkal",
+    "meanings": [
+      "yupqa yoyilib qozonda pishiriladigan, qatlamaga o‘xshash taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Hozirgi izohida ozroq masalliq bor; I. Farmonovdan keltirilgan izoh yog‘siz non turi. Ta’riflar farqi saqlanadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(po‘shkal)",
+        "evidence_extracted": "lug‘at, 161]ni atab kelgan.\n     Pöškäl (po‘shkal) qatlamaga o‘xshab yupqa qilib yoyilib ichiga ozroq masalliq solib\nqozonda pishiriladigan ovqat. I. Farmonov tadqiqotida po‘shkal so‘zi “nonning juda yog‘siz turi,\nqozonda pishiriladi” deb ta’riflagan. [Farmonov 1961:178]\n    Qāqїrїm (qoqirim) shamollashga qarshi ho‘plab ichiladigan taom. Ushbu taom qatiq, piyoz,\nmurch,  sariyog‘, ta’bga ko‘ra qalampir,  tuz va qaynagan suvdan  tayyorlanadi. Zulxumor\nXolmonova “O‘zbek shevalarining lakunar birliklar lug‘ati” kitobida ushbu taomni qaqurüm",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL026",
+    "display_form": "qoqirim",
+    "meanings": [
+      "qatiq, piyoz, murch, sariyog‘ va qaynagan suvdan tayyorlanadigan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "qaqurum"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Maqoladagi shamollash haqidagi ta’rif davolash samarasi isbotiga aylantirilmaydi. Qaqurum boshqa lug‘atdan keltirilgan shakl.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(qoqirim)",
+        "evidence_extracted": "qozonda pishiriladi” deb ta’riflagan. [Farmonov 1961:178]\n    Qāqїrїm (qoqirim) shamollashga qarshi ho‘plab ichiladigan taom. Ushbu taom qatiq, piyoz,\nmurch,  sariyog‘, ta’bga ko‘ra qalampir,  tuz va qaynagan suvdan  tayyorlanadi. Zulxumor\nXolmonova “O‘zbek shevalarining lakunar birliklar lug‘ati” kitobida ushbu taomni qaqurüm\n(qaqurum) tarzida beradi. [Xolmonova 2022:100].\n    Laz (laz) qish uchun konservalanadigan oziq-ovqat turi. Qizil bulg‘or qalampiri go‘sht\nmaydalagichdan chiqariladi, ta’bga ko‘ra pamidor ham qo‘shib qozonda qaynatiladi. Ushbu",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL027",
+    "display_form": "laz",
+    "meanings": [
+      "qizil bulg‘or qalampiridan qishga konservalanadigan mahsulot"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "lazi"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Lazi varianti Baliqchi va Ulug‘nor uchun alohida qayd etilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "Laz (laz)",
+        "evidence_extracted": "(qaqurum) tarzida beradi. [Xolmonova 2022:100].\n    Laz (laz) qish uchun konservalanadigan oziq-ovqat turi. Qizil bulg‘or qalampiri go‘sht\nmaydalagichdan chiqariladi, ta’bga ko‘ra pamidor ham qo‘shib qozonda qaynatiladi. Ushbu\nmahsulot Andijonning Baliqchi, Ulug‘nor tumanlarida läzi (lazi) shaklida qo‘llanadi.\n     Šäkärāp (shakarob) leksemasi Andijonda oshga qo‘shib yeyiladigan pamidor va piyozdan\ntayyorlanadigan salatning bir turi bo‘lib Toshkent shahrida aynan shu mahsulotga nisbatan\nachchiq-chuchuk  leksemasi   qo‘llanadi.  Janubi-sharqiy  Andijon  hududida  qish  uchun",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL028",
+    "display_form": "shakarob",
+    "meanings": [
+      "pomidor va piyozdan tayyorlanib osh bilan yeyiladigan salat"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Toshkentdagi achchiq-chuchuk bilan qiyoslangan; eksklyuziv Andijon so‘zi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(shakarob)",
+        "evidence_extracted": "mahsulot Andijonning Baliqchi, Ulug‘nor tumanlarida läzi (lazi) shaklida qo‘llanadi.\n     Šäkärāp (shakarob) leksemasi Andijonda oshga qo‘shib yeyiladigan pamidor va piyozdan\ntayyorlanadigan salatning bir turi bo‘lib Toshkent shahrida aynan shu mahsulotga nisbatan\nachchiq-chuchuk  leksemasi   qo‘llanadi.  Janubi-sharqiy  Andijon  hududida  qish  uchun\nsabzavotlardan tayyorlangan konserva mahsulotlari ham xāmšäkärāp (xomshakarop) (yog‘siz),\nqö:ürmä šäkärāp (qo‘urma shakarob) deb ataladi.\n     Xalqimiz orasida nonning ham turlari juda ko‘p. Ular nomi, tayyorlanish uslubi va mazasi",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL029",
+    "display_form": "xomshakarop",
+    "meanings": [
+      "qishga tayyorlanadigan yog‘siz sabzavot konservasi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Shakarobning salat ma’nosidan alohida.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(xomshakarop)",
+        "evidence_extracted": "achchiq-chuchuk  leksemasi   qo‘llanadi.  Janubi-sharqiy  Andijon  hududida  qish  uchun\nsabzavotlardan tayyorlangan konserva mahsulotlari ham xāmšäkärāp (xomshakarop) (yog‘siz),\nqö:ürmä šäkärāp (qo‘urma shakarob) deb ataladi.\n     Xalqimiz orasida nonning ham turlari juda ko‘p. Ular nomi, tayyorlanish uslubi va mazasi\nbilan bir-biridan farq qiladi. Masalan, Qo‘qon patir, Samarqand non, gijda non, lochira, qozon\npatir, to‘ntarma, qotirma (Jizzax), tosh non (Surxondaryo) kabi. Janubi-sharqiy Andijonda ham\nnonlarning boshqa hududlarda uchramaydigan turlari bor.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL030",
+    "display_form": "qo‘urma shakarob",
+    "meanings": [
+      "qishga tayyorlanadigan sabzavot konservasi turi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manba bu turga alohida to‘liq retsept bermaydi; qovurish usuli dalilsiz batafsillashtirilmadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(qo‘urma shakarob)",
+        "evidence_extracted": "sabzavotlardan tayyorlangan konserva mahsulotlari ham xāmšäkärāp (xomshakarop) (yog‘siz),\nqö:ürmä šäkärāp (qo‘urma shakarob) deb ataladi.\n     Xalqimiz orasida nonning ham turlari juda ko‘p. Ular nomi, tayyorlanish uslubi va mazasi\nbilan bir-biridan farq qiladi. Masalan, Qo‘qon patir, Samarqand non, gijda non, lochira, qozon\npatir, to‘ntarma, qotirma (Jizzax), tosh non (Surxondaryo) kabi. Janubi-sharqiy Andijonda ham\nnonlarning boshqa hududlarda uchramaydigan turlari bor.\n    Kömäč (ko‘mach) qozonda yoki o‘tda pishirilgan non. [Xolmonova 2022:73] Ushbu",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL031",
+    "display_form": "ko‘mach",
+    "meanings": [
+      "qozonda yoki o‘tda pishirilgan non"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif Mushkulkushot/Buseshanbi marosim kontekstini ham beradi; marosimdagi cheklovlar barcha ko‘machga universal qoida emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(ko‘mach)",
+        "evidence_extracted": "nonlarning boshqa hududlarda uchramaydigan turlari bor.\n    Kömäč (ko‘mach) qozonda yoki o‘tda pishirilgan non. [Xolmonova 2022:73] Ushbu\nmahsulot nonning bir turi bo‘lib, asosan, Mushkulkushot, Buseshanbi kabi kampirlar marosimida\npishiriladi.  Shartiga  ko‘ra ko‘mach non  achitqi  solinmasdan  irim  qilib  yettita  qo‘shni\nxonadonlardan tilangan undan  tul ayol tomonidan tayyorlanadi. Yoshi ulug‘ momolarning\naytishiga qaraganda, ko‘mach nonni faqat tul ayollar va oila qurmagan qizlargina yeyishi mumkin.\nMa’lumot o‘rnida aytib o‘tish joizki, “qovurilgan bug‘doy”ga nisbatan Qashqadaryo shevalarida",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL032",
+    "display_form": "chirik non",
+    "meanings": [
+      "piyoz, yog‘ va ziravor solib pishirilgan non"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Piyoz non bilan qiyoslanadi; buzilgan non ma’nosi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(chirik non)",
+        "evidence_extracted": "“ko‘rmach” so‘zi qo‘llanadi1.\n      čirik non (chirik non) - piyoz, yog‘, ziravorlar solinib  pishirilgan non shevada shu nom\nbilan yuritiladi. Yurtimizning ayrim hududlarida ushbu non piyoz non ham deyiladi.\n     γor-šor  (g‘o‘r-sho‘r)    leksemasi  janubi-sharqiy  Andijon  hududida  ho‘l meva  va\nsabzavotlarga nisbatan qo‘llanadi.\n    Bulamïq (bulamiq) suyuq taom bo‘lib, bolalar ovqati hisoblanadi. Un sariyog‘da qizartirib\nqovurilib sut quyib qaynatiladi. Ushbu taom, asosan, bolalar ona sutidan ajratilganda beriladi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL033",
+    "display_form": "g‘o‘r-sho‘r",
+    "meanings": [
+      "ho‘l meva va sabzavotlar"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallifning hududiy semantik qaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(g‘o‘r-sho‘r)",
+        "evidence_extracted": "bilan yuritiladi. Yurtimizning ayrim hududlarida ushbu non piyoz non ham deyiladi.\n     γor-šor  (g‘o‘r-sho‘r)    leksemasi  janubi-sharqiy  Andijon  hududida  ho‘l meva  va\nsabzavotlarga nisbatan qo‘llanadi.\n    Bulamïq (bulamiq) suyuq taom bo‘lib, bolalar ovqati hisoblanadi. Un sariyog‘da qizartirib\nqovurilib sut quyib qaynatiladi. Ushbu taom, asosan, bolalar ona sutidan ajratilganda beriladi.\nBulamiq leksemasini Jizzax hududida ham uchratishimiz mumkin, ammo ushbu hududda bulamiq\ntuxumni un bilan atalash jarayonida yuzaga kelgan aralashmaga nisbatan qo‘llanadi [Umurzoqova",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL034",
+    "display_form": "bulamiq",
+    "meanings": [
+      "un sariyog‘da qovurilib sut bilan qaynatilgan suyuq taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif bolalar ovqati deydi. Jizzaxdagi tuxum-un aralashmasi haqidagi qiyos aynan shu retsept emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(bulamiq)",
+        "evidence_extracted": "sabzavotlarga nisbatan qo‘llanadi.\n    Bulamïq (bulamiq) suyuq taom bo‘lib, bolalar ovqati hisoblanadi. Un sariyog‘da qizartirib\nqovurilib sut quyib qaynatiladi. Ushbu taom, asosan, bolalar ona sutidan ajratilganda beriladi.\nBulamiq leksemasini Jizzax hududida ham uchratishimiz mumkin, ammo ushbu hududda bulamiq\ntuxumni un bilan atalash jarayonida yuzaga kelgan aralashmaga nisbatan qo‘llanadi [Umurzoqova\n2021:299].\n     Kӧptirgi  (ko‘ptirgi), xämir türiš (xamir  turish) xamirni oshirish uchun solinadigan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL035",
+    "display_form": "ko‘ptirgi",
+    "meanings": [
+      "xamir oshirish uchun solinadigan achitqi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "xamir turish"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Kelasi xamir uchun oshgan xamirdan olib qo‘yish jarayoni bilan izohlangan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 328,
+        "printed_pages": [
+          328
+        ],
+        "anchor_extracted": "(ko‘ptirgi)",
+        "evidence_extracted": "2021:299].\n     Kӧptirgi  (ko‘ptirgi), xämir türiš (xamir  turish) xamirni oshirish uchun solinadigan\nmahsulot. Xamir ko‘pganda kelasi safar xamir qilish uchun oshirilgan xamirdan olib qo‘yiladi.\nUshbu mahsulot adabiy tilimizda achitqi [O‘TIL, II tom 122] deb ataladi. Shuning uchun ham\nshevada adabiy tildagi xamir oshdi birikmasi bilan birga xamir ko‘pdi birikmasi ham qo‘llanadi.\nKöpmaq, xämir köptirmaq (ko‘pmoq, xamir ko‘ptirmoq) tarzida O‘sh shevasida qo‘llanadi\n[Farmonov 1960:166].",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL036",
+    "display_form": "umoch osh",
+    "meanings": [
+      "un va sutdan tayyorlanadigan suyuq marosim taomi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Qashqadaryoning imach osh shakli qiyos; Andijonning o‘z varianti deb olinmadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "umoch osh",
+        "evidence_extracted": "    Umač āš\\umoch osh ushbu taom ham yuqorida nomi qayd etilgan marosimda pishiriladigan\nsuyuq taom bo‘lib, un va sutdan tayyorlanadi. Ushbu taom yog‘ochdan yasalgan cho‘mich\nyordamida kosalarga quyiladi. Taom iste’mol qilinganidan keyin idishlar yuvilib mevali daraxt\ntagiga to‘kiladi. Qashqadaryo shevalarda ushbu taom fonetik jihatdan o‘zgarib “imach osh” tarzida\nqo‘llanadi1.\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL037",
+    "display_form": "sutosh",
+    "meanings": [
+      "sutga kesilgan xamir yoki guruch solib tayyorlanadigan suyuq taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ayrim joylarda oshqovoq ham qo‘shilishi aytilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(sutosh)",
+        "evidence_extracted": "\n     Sutāš (sutosh)  sut va undan tayyorlanadigan suyuq ovqat. Sut qaynatilib ingichka qilib\nkesilgan xamir yoki guruch solib tayyorlanadi, ba’zi bir hududlarda ta’bga ko‘ra oshqovoq ham\nqo‘shiladi.\n     Tadqiqot ishi olib borilayotgan sheva vakillari nutqida söl (so‘l) leksemasi ikki xil ma’noda\nqo‘llanadi:\n      1.  Qo‘yiq ovqatlarga nisbatan suvi ko‘proq bo‘lishiga nisbatan ishlatiladi. Bugun kečka",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL038",
+    "display_form": "so‘l",
+    "meanings": [
+      "ovqatning suvi ko‘proq holati",
+      "qovurilgan go‘sht"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ikki ma’no muallifda alohida berilgan. Chap tomon ma’nosidagi adabiy so‘l bilan tenglashtirilmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(so‘l)",
+        "evidence_extracted": "qo‘shiladi.\n     Tadqiqot ishi olib borilayotgan sheva vakillari nutqida söl (so‘l) leksemasi ikki xil ma’noda\nqo‘llanadi:\n      1.  Qo‘yiq ovqatlarga nisbatan suvi ko‘proq bo‘lishiga nisbatan ishlatiladi. Bugun kečka\nsolli šävlä qilärkämmiz enäm äjtti.\n      2.  Qovurilgan go‘shtga nisbatan ham ishlatiladi. Baläŋi sāvuγï āšip ketipti, közini qärä, qoj\ngošini ālip žindej söl qïber.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL039",
+    "display_form": "suyg‘osh",
+    "meanings": [
+      "mayda kesilgan xamir solib mastavaga o‘xshatib pishiriladigan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Guruch o‘rniga xamir; kesilgan xamir zaxiraga quritilishi ham aytilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(suyg‘osh)",
+        "evidence_extracted": "gošini ālip žindej söl qïber.\n     Sujγāš (suyg‘osh) xamir yoyilib, mayda soch shaklida kesiladi, huddi mastava singari\npishiriladi, lekin guruch o‘rniga kesilgan xamir solinadi. Kesilgan xamirni oftobda quritilib zaxira\nuchun ham olib qo‘yish ham mumkin.\n    Keskän āš (kesgan osh), uzmä āš (uzma osh) xuddi osh qilganday masalliqlar solinib\nqovurib suv quyiladi. Xamir yoyilib, mayda soch shaklida kesiladi va oftobda  quritiladi,\nquritilgan xamir parchalarini quruq qozonda qizdirib, bir marta qovurib olinadi va elab ovqatga",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL040",
+    "display_form": "kesgan osh",
+    "meanings": [
+      "kesilib quritilgan xamirni qovurib ovqatga solib damlab tayyorlanadigan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "uzma osh"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manba kesgan deb yozadi; keskan transkripsiyasi ham berilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(kesgan osh)",
+        "evidence_extracted": "uchun ham olib qo‘yish ham mumkin.\n    Keskän āš (kesgan osh), uzmä āš (uzma osh) xuddi osh qilganday masalliqlar solinib\nqovurib suv quyiladi. Xamir yoyilib, mayda soch shaklida kesiladi va oftobda  quritiladi,\nquritilgan xamir parchalarini quruq qozonda qizdirib, bir marta qovurib olinadi va elab ovqatga\nsolinib, oshday damlanadi.\n    Nāmpalav (nompalov) taomi suvi qochgan va qotgan nondan tayyorlanadi. Go‘sht va\nbarcha sabzavotlar to‘g‘ralib qovurilib suv quyiladi, biroz qaynagach to‘g‘ralgan nonlar qo‘shib",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL041",
+    "display_form": "nompalov",
+    "meanings": [
+      "qotgan yoki suvi qochgan non bilan tayyorlanadigan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Nonpalov → nompalov izohi muallifniki.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(nompalov)",
+        "evidence_extracted": "solinib, oshday damlanadi.\n    Nāmpalav (nompalov) taomi suvi qochgan va qotgan nondan tayyorlanadi. Go‘sht va\nbarcha sabzavotlar to‘g‘ralib qovurilib suv quyiladi, biroz qaynagach to‘g‘ralgan nonlar qo‘shib\no‘n daqiqaga dimlanadi. Nonpalov so‘zi non+palov so‘zidan hosil bo‘lgan bo‘lib nutqda fonetik\njihatdan o‘zgarib nompalov tarzida qo‘llanadi.\n     Qish kunlarida qattiq sovuq bo‘lganda meva va sabzavotlarni ichiga muz kirib qoladi.\nBunday holatni ifodalash uchun adabiy tilimizda sovuq urmoq iborasi ishlatiladi. Ushbu shevada",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL042",
+    "display_form": "kalpatir",
+    "meanings": [
+      "qaymoq surilgan achitqisiz xamirdan tandirda yopiladigan non"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Sho‘rva bilan yeyish konteksti ham bor.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(kalpatir)",
+        "evidence_extracted": "paxal bilän oräp qojïš, üšüg ürüp ketmäsin. Ettädän čillä kirädi. Qïštï čilläsi heš närsäni äjämäjdi.\n     Kälpätir (kalpatir) nonning bir turi bo‘lib, achitqisiz xamir qoriladi, xamir yoyilib ichiga\nqaymoq suriladi, so‘ngra shakl berib tandirda yopiladi. Suyuq taomlar, asosan, sho‘rva bilan\nyeyish uchun tayyorlanadi.\n     U(v)uz (uvuz)  sigir yangi tug‘ganda birinchi sog‘ilgan sutini qaynatib tayyorlanadigan,\nko‘rinishi jihatdan tvarogsimon taom. Andijonning ayrim hududlarida āγiz suti  (og‘iz suti) deb\nham yuritiladi. Ushbu mahsulot tarkibi foydali moddalarga boy bo‘lganligi sababli bugungi kunda",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL043",
+    "display_form": "uvuz",
+    "meanings": [
+      "sigir yangi tug‘ganda birinchi sog‘ilgan sutini qaynatib tayyorlangan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "og‘iz suti"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bu qayd tayyor mahsulotni ta’riflaydi. Og‘iz suti ayrim Andijon hududlarida variant sifatida berilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(uvuz)",
+        "evidence_extracted": "yeyish uchun tayyorlanadi.\n     U(v)uz (uvuz)  sigir yangi tug‘ganda birinchi sog‘ilgan sutini qaynatib tayyorlanadigan,\nko‘rinishi jihatdan tvarogsimon taom. Andijonning ayrim hududlarida āγiz suti  (og‘iz suti) deb\nham yuritiladi. Ushbu mahsulot tarkibi foydali moddalarga boy bo‘lganligi sababli bugungi kunda\ntibbiyotda  dori-darmon  tayyorlashda ham keng  qo‘llanmoqda. Shu  mahsulotga  nisbatan\nyurtimizning Qashqadaryo, Surxondaryo va Samarqand hududlarida gilagay leksemasi qo‘llanadi.\n     Oziq-ovqat bilan bog‘liq leksik birliklar.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL044",
+    "display_form": "sut tortmoq",
+    "meanings": [
+      "sutdan qaymoq olish"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Tortmoqning barcha ma’nolariga tatbiq qilinmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(sut tortmoq)",
+        "evidence_extracted": "yolg‘iz va boshqa so‘zlar bilan birikkan holda bildirgan yigirmata ma’nosi berib o‘tilgan. Janubi-\nsharqiy Andijon shevasida ushbu fe’l sut so‘zi bilan birga  sut tārtmāq (sut tortmoq) tarzida\nqo‘llanib sutdan qaymoq olish jarayoniga nisbatan ham ishlatiladi.\n\n\n\n1 Шоимова Н. Ўрта Қашқадарё желовчи қипчоқ шевалари лексикаси. Тошкент. 1999 – Б 57",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL045",
+    "display_form": "sizg‘irmoq",
+    "meanings": [
+      "qaymoqni olovda qizdirib sariyog‘ olish"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Sariyog‘ bilan birga qo‘llanishi qayd etilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(sizg‘irmoq)",
+        "evidence_extracted": "     Sïzγïrmāq (sizg‘irmoq) leksemasi sariyog‘ so‘zi bilan birga qo‘llanib qaymoqni olovda\nqizdirib sariyog‘ olish jarayoniga nisbatan qo‘llanadi.\n     Jäşäŋ (yashang) - ho‘l mevaning va rezavorlarning yangi uzilganiga nisbatan ishlatiladi.\nAdabiy tilimizda ushbu so‘zning aynan muqobil varianti mavjud emas, shu sababli ham insonlar\nnutqida bu kabi o‘rinlarda yangi uzilgan birikmasi, ba’zi bir holatlarda rus tilidan o‘zlashgan\nсвежий so‘zi qo‘llanadi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL046",
+    "display_form": "yashang",
+    "meanings": [
+      "ho‘l meva yoki rezavorning yangi uzilgani haqida belgi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Murojaatdagi Yashang! bilan bir xil ma’no emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(yashang)",
+        "evidence_extracted": "qizdirib sariyog‘ olish jarayoniga nisbatan qo‘llanadi.\n     Jäşäŋ (yashang) - ho‘l mevaning va rezavorlarning yangi uzilganiga nisbatan ishlatiladi.\nAdabiy tilimizda ushbu so‘zning aynan muqobil varianti mavjud emas, shu sababli ham insonlar\nnutqida bu kabi o‘rinlarda yangi uzilgan birikmasi, ba’zi bir holatlarda rus tilidan o‘zlashgan\nсвежий so‘zi qo‘llanadi.\n     Näsvi (nasvi) leksemasi to‘y-hashamga yoki marosimda ishtirok etgan insonlarga atalgan\ntuguncha. Taxminimizcha, ushbu leksema izohli lug‘atdagi hissa, ulush, rizq ma’nosidagi nasiba",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL047",
+    "display_form": "nasvi",
+    "meanings": [
+      "to‘y yoki marosim qatnashchisiga atalgan tuguncha"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Nasiba bilan etimologik bog‘liqligi muallif taxmini; qat’iy fakt sifatida olinmadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(nasvi)",
+        "evidence_extracted": "свежий so‘zi qo‘llanadi.\n     Näsvi (nasvi) leksemasi to‘y-hashamga yoki marosimda ishtirok etgan insonlarga atalgan\ntuguncha. Taxminimizcha, ushbu leksema izohli lug‘atdagi hissa, ulush, rizq ma’nosidagi nasiba\nso‘zining fonetik jihatdan o‘zgargan shaklidir.\n     Toqsї tāvāq (to‘qsi tovoq) ushbu leksema buyumni atab kelib, ma’lum bo‘laklarga ajratilgan\ntaqsimchalar jamlanmasi. To‘qsi tovoqqa marosim va tadbirlarda shirinliklar yoki chaq-chuqlar\nsolinadi. Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär. (<Bu taksi tovoqda bodom kam ekan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL048",
+    "display_form": "to‘qsi tovoq",
+    "meanings": [
+      "bo‘laklarga ajratilgan taqsimchalar jamlanmasi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Shirinlik/chaq-chuq uchun. Taksiga aloqador shakl deb olinmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(to‘qsi tovoq)",
+        "evidence_extracted": "so‘zining fonetik jihatdan o‘zgargan shaklidir.\n     Toqsї tāvāq (to‘qsi tovoq) ushbu leksema buyumni atab kelib, ma’lum bo‘laklarga ajratilgan\ntaqsimchalar jamlanmasi. To‘qsi tovoqqa marosim va tadbirlarda shirinliklar yoki chaq-chuqlar\nsolinadi. Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär. (<Bu taksi tovoqda bodom kam ekan\nqo‘shib qo‘yinglar).\n     Āxsāxāltāvāq (oqsoqoltovoq) - yoshi ulug‘ keksalar uchun maxsus osh solingan lagan.\nSatvaldï ata ančadan beri kӓsӓl bolïp toj-hӓšӓmgӓ qošїlalmidi. Šü axsaxal tavaqtї nevӓrӓsidӓn",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL049",
+    "display_form": "oqsoqoltovoq",
+    "meanings": [
+      "keksalarga maxsus osh solingan lagan"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Marosimdan keksaga yuborish misoli bor.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(oqsoqoltovoq)",
+        "evidence_extracted": "qo‘shib qo‘yinglar).\n     Āxsāxāltāvāq (oqsoqoltovoq) - yoshi ulug‘ keksalar uchun maxsus osh solingan lagan.\nSatvaldï ata ančadan beri kӓsӓl bolïp toj-hӓšӓmgӓ qošїlalmidi. Šü axsaxal tavaqtї nevӓrӓsidӓn\nbervar. Sa:ap boladï. (<Sotiboldi ota anchadan beri kasal bo‘lib to‘y-hashamga qo‘shilolmaydi.\nShu oqsol tovoqni nevarasidan berib yubor. Savob bo‘ladi.)\n     Mäzär\\mazar so‘zi o‘rganilayotgan shevada ikki xil ma’noda qo‘llanadi:\n        I. Marosim ma’nosida. Tadqiqot ishi olib borilayotgan hududda to‘ydan avval o‘tkaziladigan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL050",
+    "display_form": "mazar",
+    "meanings": [
+      "to‘ydan avval sovg‘a-salom yuboriladigan marosim",
+      "kelin qarindoshlari to‘ydan keyingi qirq kunda olib boradigan ovqat"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Mozor ma’nosiga avtomatik bog‘lanmaydi; ikkala ma’no saqlandi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "Mäzär\\mazar",
+        "evidence_extracted": "Shu oqsol tovoqni nevarasidan berib yubor. Savob bo‘ladi.)\n     Mäzär\\mazar so‘zi o‘rganilayotgan shevada ikki xil ma’noda qo‘llanadi:\n        I. Marosim ma’nosida. Tadqiqot ishi olib borilayotgan hududda to‘ydan avval o‘tkaziladigan\nmarosim bo‘lib, kättä mäzär(kata mazar), kičik mäzär (kichik mazar)  kabi turlarga bo‘linadi.\nUshbu marosimda kelin tomonidan kuyovga yuboriladigan sovg‘a-salomlar yuboriladi.\n        II.  Kelinning yaqin qarindoshlari tomonidan  to‘ydan keyin qirq kun davomida  olib\nboriladigan ovqat.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL051",
+    "display_form": "peshdasturxon",
+    "meanings": [
+      "mehmon oldiga alohida patnisda yasatib keltiriladigan noz-ne’matlar"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "peshdasturxan"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Mehmon ketayotganda tugib berilishi qayd etilgan; oddiy dasturxon matosi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(peshdasturxan)",
+        "evidence_extracted": "boriladigan ovqat.\n     Pešdӓsturxān (peshdasturxan) to‘y va marakalarda mehmonning yoniga alohida yasatilib\npatnos (la’li)da keltirilgan non, shirinlik va shunga o‘xshagan mahsulotlar. Ushbu leksema pesh +\ndasturxon so‘zlarining birikuvidan hosil bo‘lgan, og‘zaki nutqda esa fonetik o‘zgarishga uchragan\npeshdasturxon tarzida talaffuz qilinadi. Pesh fors-tojik tilidan o‘zlashgan so‘z bo‘lib old ma’nosini\nbildiradi, dasturxon so‘zi izohli lug‘atda uy-ro‘zg‘or buyumi ma’nosi bilan birga noz-nematlar\ndegan ma’noni ham bildiradi. Demak, xulosa qilishimiz mumkinki, shevadagi peshdasturxon",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL052",
+    "display_form": "irimoq",
+    "meanings": [
+      "sut mahsulotining aynishi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif bu hududda faqat sut mahsulotiga tegishli deydi; barcha ovqatga kengaytirilmadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(irimoq)",
+        "evidence_extracted": "     Nutqimizda iste’mol uchun yaroqsiz holatga kelib qolgan ovqatlarga nisbatan aynib qolmoq,\nachimoq, irimoq leksemalari qo‘llanadi. Janubi-sharqiy Andijon shevasida irimāq (irimoq)\nleksemasi faqat sut mahsulotiga nisbatan qo‘llanadi.\n    Non mahsuloti agarda havo kirmaydigan idishlarda saqlansa, ilmiy  til bilan aytganda,\nnonning yuza qismida mog‘or zamburug‘i paydo bo‘ladi. Ushbu holatga o‘rganilayotgan shevada\npӧpӓnӓk bāstï (po‘panak bosdi), päŋlädi (pangladi) deyiladi. O‘zbek adabiy tilida ushbu leksema\nnonga  nisbatan  berilmaydi. Hovuzning  chetlarini har  xil po‘panak  o‘tlari  bosib  ketgan.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL053",
+    "display_form": "po‘panak bosdi",
+    "meanings": [
+      "nonni mog‘or bosishi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "pangladi"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbada fe’l shakli bilan; barcha suv o‘tlari ma’nosiga tenglashtirilmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(po‘panak bosdi)",
+        "evidence_extracted": "nonning yuza qismida mog‘or zamburug‘i paydo bo‘ladi. Ushbu holatga o‘rganilayotgan shevada\npӧpӓnӓk bāstï (po‘panak bosdi), päŋlädi (pangladi) deyiladi. O‘zbek adabiy tilida ushbu leksema\nnonga  nisbatan  berilmaydi. Hovuzning  chetlarini har  xil po‘panak  o‘tlari  bosib  ketgan.\n(G‘.G‘ulom, Shum bola). Shevada esa bu leksema asosan nonga nisbatan qo‘llanadi. Panglagan\nnon, po‘panak bosgan non kabi leksik birliklar faol qo‘llanadi. (Adabiy tilda mog‘or bosgan non\ndeyiladi). Nān pӧpӓnӓk bāsmästän āldin, küngӓ jӓjip qurїtїp qoj. (<Non po‘panak bomasdan oldin,\nkunga qo‘yib quritib qo‘y). Ma’lumot sifatida aytib o‘tishimiz o‘rinliki, pangladi so‘zi o‘rnida",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL054",
+    "display_form": "qaqirmachak",
+    "meanings": [
+      "oshning tagiga olgan qismi",
+      "tandirda qolib qattiq pishgan non qismi"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "To‘yda yomg‘ir haqidagi irim alohida folklor mazmuni, bashorat qoidasi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(qaqirmachak)",
+        "evidence_extracted": "Qashqadaryo “je”lovchi shevalarida “bo‘rsiq”1 so‘zi ishlatiladi.\n    Qäqirmäčäk (qaqirmachak) agarda osh damlanganda olov balandligidan osh tagining olishi\nyoki tandirdan non uzilganda tandirda qolib ketib singib pishgan qismiga nisbatan ushbu leksema\nqo‘llanadi. Xalq orasida shunday irim bor: kimki oshning qaqirmachog‘ini yesa, to‘yida yomg‘ir\nyog‘adi deyishadi. Qarnoq shevasida esa ovqatning qirib olinadigan qoldig‘i qïrïndï deb ataladi\n[Xolmedova, 2005:39].\n     Kešik (keshik) leksemasi o‘rganilayotgan shevada “kosada yegandan ortib qoldirilgan ovqat,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL055",
+    "display_form": "keshik",
+    "meanings": [
+      "kosada yeyishdan ortgan ovqat",
+      "marosimdan mehmonlar ketgach qolgan noz-ne’matlar"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ikki ko‘rinishli qoldiq ovqat ma’nosi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(keshik)",
+        "evidence_extracted": "[Xolmedova, 2005:39].\n     Kešik (keshik) leksemasi o‘rganilayotgan shevada “kosada yegandan ortib qoldirilgan ovqat,\nbiror marosim o‘tkazilganda mehmonlar kuzatilganidan keyin ortib qolgan noz-u nematlar”ga\nnisbatan  qo‘llanadi. Ushbu semani  bildiruvchi  so‘z  hali  o‘zbek  tilining  izohli  lug‘atiga\nkiritilmagan.\n\n         Adabiy til va yondosh shevalar bilan sinonimlikni hosil qiluvchi leksemalar",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL056",
+    "display_form": "kavartak",
+    "meanings": [
+      "uzum bargiga qiyma o‘ralib osh zirvagida pishiriladigan taom"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Tokoshi bilan qiyoslangan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(kavartak)",
+        "evidence_extracted": "         Adabiy til va yondosh shevalar bilan sinonimlikni hosil qiluvchi leksemalar\n     Kävärtäk (kavartak) yangi chiqqan uzum barglariga qiyma o‘ralib ipga tiziladi va osh\nzirvagida qaynatiladi, oshga qo‘shib tanovul qilinadi. Ushbu taom adabiy tilda va boshqa hududlar\n(Toshkent)da tokoshi deyiladi.\n     Doltä (do‘lta) sariyog‘ olish uchun qaymoq qizdirilganda tagiga cho‘kib qoluvchi qora\nquyqa. Adabiy tilimizda va boshqa hududlarda bu mahsulotga nisbatan durda lekemasi ishlatiladi.\nQashqadaryo shevasida fonetik jihatdan o‘zgarishga uchrab “to‘rta”2 shaklida qo‘llanadi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL057",
+    "display_form": "do‘lta",
+    "meanings": [
+      "qaymoqdan sariyog‘ olishda tagiga cho‘kadigan qora quyqa"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Adabiy durda va Qashqadaryodagi to‘rta bilan qiyoslangan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(do‘lta)",
+        "evidence_extracted": "(Toshkent)da tokoshi deyiladi.\n     Doltä (do‘lta) sariyog‘ olish uchun qaymoq qizdirilganda tagiga cho‘kib qoluvchi qora\nquyqa. Adabiy tilimizda va boshqa hududlarda bu mahsulotga nisbatan durda lekemasi ishlatiladi.\nQashqadaryo shevasida fonetik jihatdan o‘zgarishga uchrab “to‘rta”2 shaklida qo‘llanadi.\n    Hämäk (hamak), xamek (xomek) leksemasi adabiy tilimizdagi pishmagan qovun, sapcha\nso‘zlari o‘rnida qo‘llanadi [Farmonov 1960:183].\n     Čӓlap (chalop) so‘zi shevada qatiqqa suv va tuz solib tayyorlangan, asosan, yoz kunlarida",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL058",
+    "display_form": "hamak",
+    "meanings": [
+      "pishmagan qovun; sapcha"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "xomek"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbada xomek varianti ham bor.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(hamak)",
+        "evidence_extracted": "Qashqadaryo shevasida fonetik jihatdan o‘zgarishga uchrab “to‘rta”2 shaklida qo‘llanadi.\n    Hämäk (hamak), xamek (xomek) leksemasi adabiy tilimizdagi pishmagan qovun, sapcha\nso‘zlari o‘rnida qo‘llanadi [Farmonov 1960:183].\n     Čӓlap (chalop) so‘zi shevada qatiqqa suv va tuz solib tayyorlangan, asosan, yoz kunlarida\nichiladigan yaxna ichimlikka nisbatan aytiladi. Yurtimizning boshqa hududlarida aynan shu\nmahsulotga nisbatan ayron atamasi qo‘llanadi.\n    Qurtap (qurtop) qatiq suzmasiga tuz solib yumaloqlab, oftobdada quritib tayyorlanadigan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL059",
+    "display_form": "chalop",
+    "meanings": [
+      "qatiqqa suv va tuz solib tayyorlangan yaxna ichimlik"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ayron bilan qiyoslangan; faqat bu hududga xosligi tasdiqlanmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(chalop)",
+        "evidence_extracted": "so‘zlari o‘rnida qo‘llanadi [Farmonov 1960:183].\n     Čӓlap (chalop) so‘zi shevada qatiqqa suv va tuz solib tayyorlangan, asosan, yoz kunlarida\nichiladigan yaxna ichimlikka nisbatan aytiladi. Yurtimizning boshqa hududlarida aynan shu\nmahsulotga nisbatan ayron atamasi qo‘llanadi.\n    Qurtap (qurtop) qatiq suzmasiga tuz solib yumaloqlab, oftobdada quritib tayyorlanadigan\noziq-ovqat mahsuloti. Yurtimizning boshqa hududlarida bu turdagi oziq-ovqatga nisbatan qurut\nleksikasi qo‘llanadi [Farmonov 1960:186].",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL060",
+    "display_form": "qurtop",
+    "meanings": [
+      "tuzlangan suzmani yumaloqlab oftobda quritilgan mahsulot; qurut"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Fonetik ko‘rinish qurtap sifatida ham yozilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(qurtop)",
+        "evidence_extracted": "mahsulotga nisbatan ayron atamasi qo‘llanadi.\n    Qurtap (qurtop) qatiq suzmasiga tuz solib yumaloqlab, oftobdada quritib tayyorlanadigan\noziq-ovqat mahsuloti. Yurtimizning boshqa hududlarida bu turdagi oziq-ovqatga nisbatan qurut\nleksikasi qo‘llanadi [Farmonov 1960:186].\n    Toqač (to‘qoch) kichgina non, kulcha. Odatda yosh bolasi bor xonadonlarda non qilganda\nqo‘shib to‘qoch ham yopiladi. Toqāčli balä sujgunčik. (Maqol)\n    Maj toqač (moy to‘qoch) adabiy tilimizdagi xamiri yupqa yoyib yog‘da pishiriladigan, is",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL061",
+    "display_form": "to‘qoch",
+    "meanings": [
+      "kichkina non; kulcha"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bolali xonadonda non bilan qo‘shib yopilishi aytilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(to‘qoch)",
+        "evidence_extracted": "leksikasi qo‘llanadi [Farmonov 1960:186].\n    Toqač (to‘qoch) kichgina non, kulcha. Odatda yosh bolasi bor xonadonlarda non qilganda\nqo‘shib to‘qoch ham yopiladi. Toqāčli balä sujgunčik. (Maqol)\n    Maj toqač (moy to‘qoch) adabiy tilimizdagi xamiri yupqa yoyib yog‘da pishiriladigan, is\nchiqarganda xolvaytar bilan qo‘shnilarga tarqatiladigan cho‘zma, cho‘zma-chalpak milliy taomi\nushbu shevada shu nom bilan ataladi.\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL062",
+    "display_form": "moy to‘qoch",
+    "meanings": [
+      "yupqa xamirni yog‘da pishiriladigan cho‘zma-chalpak"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Is chiqarish marosimi kontekstida xolvaytar bilan tarqatilishi tasvirlangan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "(moy to‘qoch)",
+        "evidence_extracted": "qo‘shib to‘qoch ham yopiladi. Toqāčli balä sujgunčik. (Maqol)\n    Maj toqač (moy to‘qoch) adabiy tilimizdagi xamiri yupqa yoyib yog‘da pishiriladigan, is\nchiqarganda xolvaytar bilan qo‘shnilarga tarqatiladigan cho‘zma, cho‘zma-chalpak milliy taomi\nushbu shevada shu nom bilan ataladi.\n\n\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL063",
+    "display_form": "uyitqi",
+    "meanings": [
+      "qatiq qilish uchun sutga solinadigan ozgina qatiq; tomizg‘i"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Quramaning ujutqï shakli qiyos sifatida qoladi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 332,
+        "printed_pages": [
+          332
+        ],
+        "anchor_extracted": "(uyitqi)",
+        "evidence_extracted": "      Ujitqi (uyitqi) so‘zi o‘rganilayotgan shevada qatiq tayyorlash uchun sutga solinidagin\nozgina qatiqqa nisbatan qo‘llanadi. Qurama o‘zbek shevalarida ujutqï tarzida fonetik o‘zgarishga\nuchragan holda ishlatiladi [Farmonov 1960:171]. Adabiy tilda bu vazifadagi so‘z ivitqi, tomizg‘i,\noqliq kabi leksemalar bilan yuritiladi.\n\n          Adabiy til uchun lakunar ayrim birliklarning shevadagi dialektal nomlari",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL064",
+    "display_form": "chuli",
+    "meanings": [
+      "turshakni qaynatib yoki issiq suvda ivitib tayyorlangan ichimlik"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Yangi o‘rikning oddiy siqilgan sharbati emas. Maqolada 1971-yil lug‘atiga ishora bor.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 332,
+        "printed_pages": [
+          332
+        ],
+        "anchor_extracted": "(chuli)",
+        "evidence_extracted": "sharbati shaklidagi so‘z birikmasi orqali ifodalanadi. Janubi-sharqiy Andijon hududida ushbu\nchanqovbosdi mahsulot Çüli (chuli) (O‘XShL, 1971,) deyiladi. Ma’lumot sifatida aytib o‘tishimiz\njoizki, yurtimizning ayrim hududlari (Buxoro, Navoiy)da ayni shu tushunchani nomlovchi g‘o‘lin\nleksemasi ham qo‘llanadi [Hasanov 2021:247].\n     Shevalarda aynan o‘rik sharbati ma’nosini beruvchi chuli leksemasining qo‘llanishi uni xalq\norasida so‘z birikmasi shaklida emas alohida leksema sifatida qo‘llanishiga imkoniyat beradi.\n     Yog‘ leksemasi shu mazmundagi so‘zlar uchun umumiylikni kasb etadi. Shunday ekan xalq",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL065",
+    "display_form": "oxyog‘",
+    "meanings": [
+      "chigitdan olingan paxta yog‘i"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [
+      "oxmoy"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Har qanday yog‘ga qo‘llanmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 332,
+        "printed_pages": [
+          332
+        ],
+        "anchor_extracted": "(oxyog‘)",
+        "evidence_extracted": "o‘simligidan olingan yog‘ kungaboqar yog‘i singari so‘z birikmasi shaklida qo‘llanadi. Paxta\no‘simligidan aniqrog‘i chigitdan ishlangan yog‘ mahsuloti shevada āxjāγ (oxyog‘), āxmāj\n(oxmoy) deb yuritiladi [Farmonov 1960:177].\n     Suv qaynatilgan holatda ham qaynatilmagan (xom) holatida ham iste’mol qilinadi. Xalqimiz\norasidagi qaynatilgan suv janubi-sharqiy Andijon shevasida dāxsu (doxsu) deyiladi. Ma’lumot\nsifatida  aytib  o‘tishimiz  o‘rinliki,  yurtimizning ayrim  viloyatlari (Buxoro, Qashadaryo)da\nqaynatilgan suv objo‘sh nomi bilan ham ataladi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL066",
+    "display_form": "doxsu",
+    "meanings": [
+      "qaynatilgan suv"
+    ],
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "domain": "oziq-ovqat, uy-ro‘zg‘or yoki marosim",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Objo‘sh bilan boshqa hudud qiyosi bor; bir xil yozuv varianti deb olinmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 332,
+        "printed_pages": [
+          332
+        ],
+        "anchor_extracted": "(doxsu)",
+        "evidence_extracted": "     Suv qaynatilgan holatda ham qaynatilmagan (xom) holatida ham iste’mol qilinadi. Xalqimiz\norasidagi qaynatilgan suv janubi-sharqiy Andijon shevasida dāxsu (doxsu) deyiladi. Ma’lumot\nsifatida  aytib  o‘tishimiz  o‘rinliki,  yurtimizning ayrim  viloyatlari (Buxoro, Qashadaryo)da\nqaynatilgan suv objo‘sh nomi bilan ham ataladi.\n     Xulosa qilish mumkinki, oziq-ovqat bilan bog‘liq dialektizmlar aholimiz orasida talaygina,\nularni yig‘ish va ilm ahliga yetkazish orqali esa tilimizning ifoda ko‘lamini yanada kengaytirgan\nbo‘lamiz. Shevaga xos bo‘lgan so‘zlarni topish, ularni sinchiklab o‘rganish, dialektizmlardan",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL067",
+    "display_form": "so‘rtak",
+    "meanings": [
+      "ishkom; toklarni ko‘tarib yoyish uchun qurilgan so‘ri"
+    ],
+    "region": "Andijon va Baliqchi tumanlari",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Dam olish uchun oddiy so‘ri ma’nosi bu qaydda berilmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "so‘rtak",
+        "evidence_extracted": "yoysimon so‘ri atamasi hududlararo quyidagi nomlar bilan atalib kelinadi:\n     Andijon,  Baliqchi  tumanlarida:  so‘rtak,  Paxtaobod,  Ulug‘nor,  Shahrixon,  Oltinko‘l,\nJalaquduq, tumanlarida: so‘kichak, Izboskan, Qo‘rg‘ontepa tumanlarida: valish tarzida aytiladi.\n     Oddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom (boshqa shu kabi pishiriqlardan\nqatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL068",
+    "display_form": "so‘kichak",
+    "meanings": [
+      "ishkom"
+    ],
+    "region": "Paxtaobod, Ulug‘nor, Shahrixon, Oltinko‘l, Jalaquduq",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif tumanlar kesimida qayd etgan, barcha so‘zlovchiga universal emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "so‘kichak",
+        "evidence_extracted": "     Andijon,  Baliqchi  tumanlarida:  so‘rtak,  Paxtaobod,  Ulug‘nor,  Shahrixon,  Oltinko‘l,\nJalaquduq, tumanlarida: so‘kichak, Izboskan, Qo‘rg‘ontepa tumanlarida: valish tarzida aytiladi.\n     Oddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom (boshqa shu kabi pishiriqlardan\nqatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL069",
+    "display_form": "valish",
+    "meanings": [
+      "ishkom"
+    ],
+    "region": "Izboskan va Qo‘rg‘ontepa tumanlari",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Yostiq ma’nosidagi boshqa shakl bilan dalilsiz tenglashtirilmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "valish",
+        "evidence_extracted": "     Andijon,  Baliqchi  tumanlarida:  so‘rtak,  Paxtaobod,  Ulug‘nor,  Shahrixon,  Oltinko‘l,\nJalaquduq, tumanlarida: so‘kichak, Izboskan, Qo‘rg‘ontepa tumanlarida: valish tarzida aytiladi.\n     Oddiy xamirdan yupqa yoyib, yog‘da pishiriladigan taom (boshqa shu kabi pishiriqlardan\nqatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL070",
+    "display_form": "qallama",
+    "meanings": [
+      "qatlama"
+    ],
+    "region": "Shahrixon va Qo‘rg‘ontepa",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Taomning qatlamli ekanligi aytilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "qallama",
+        "evidence_extracted": "qatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi\nso‘zlashuv tilida chopqi (go‘sht, sabzavot va h.k to‘g‘rash uchun ishlatiladigan buyum) so‘zi\nadabiy  tildan  farqli o‘laroq dastkalla ko‘rinishida, ombur (mato va boshqalarni  bir-biriga\nmahkamlash uchun ishlatiladigan asbob) so‘zi esa gupsi tarzida ishlatiladi. Shunga o‘xshash,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL071",
+    "display_form": "malda",
+    "meanings": [
+      "qatlama"
+    ],
+    "region": "Baliqchi",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Taom kontekstida.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "malda",
+        "evidence_extracted": "qatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi\nso‘zlashuv tilida chopqi (go‘sht, sabzavot va h.k to‘g‘rash uchun ishlatiladigan buyum) so‘zi\nadabiy  tildan  farqli o‘laroq dastkalla ko‘rinishida, ombur (mato va boshqalarni  bir-biriga\nmahkamlash uchun ishlatiladigan asbob) so‘zi esa gupsi tarzida ishlatiladi. Shunga o‘xshash,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL072",
+    "display_form": "qahlama",
+    "meanings": [
+      "qatlama"
+    ],
+    "region": "Andijon tumani va yondosh qishloqlar",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Pahlava ayrim joylarda deyiladi, ammo aniq hududi belgilanmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "qahlama",
+        "evidence_extracted": "qatlamliligi bilan ajralib turadi), ya’ni qatlama atamasi Shahrixon va Qo‘rg‘ontepa hududlarida\nqallama, Baliqchi tumanida malda, Andijon tumani va unga yondosh qishloqlarda qahlama,\nayrim  joylarda  esa  pahlava  tarzida  qo‘llanadi.  Shuningdek,  ayrim  hududlarda  kundalik\nbuyumlarning nomlanishida ham o‘zgachalikka duch kelinadi. Masalan, Shahrixon tumani aholisi\nso‘zlashuv tilida chopqi (go‘sht, sabzavot va h.k to‘g‘rash uchun ishlatiladigan buyum) so‘zi\nadabiy  tildan  farqli o‘laroq dastkalla ko‘rinishida, ombur (mato va boshqalarni  bir-biriga\nmahkamlash uchun ishlatiladigan asbob) so‘zi esa gupsi tarzida ishlatiladi. Shunga o‘xshash,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL073",
+    "display_form": "dastkalla",
+    "meanings": [
+      "go‘sht yoki sabzavot to‘g‘rash uchun chopqi"
+    ],
+    "region": "Shahrixon",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Buyum ma’nosi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "dastkalla",
+        "evidence_extracted": "so‘zlashuv tilida chopqi (go‘sht, sabzavot va h.k to‘g‘rash uchun ishlatiladigan buyum) so‘zi\nadabiy  tildan  farqli o‘laroq dastkalla ko‘rinishida, ombur (mato va boshqalarni  bir-biriga\nmahkamlash uchun ishlatiladigan asbob) so‘zi esa gupsi tarzida ishlatiladi. Shunga o‘xshash,\nxaskash – xashak, xas-cho‘p va shu kabilarni yig‘ish, to‘plash, shuningdek, chopilgan yer\ntuprog‘ini maydalab tekislash uchun ishlatiladigan, uzun dastali, ko‘p tishli qishloq xo‘jalik quroli\nPaxtaobod tumanida otqi tarzida, Andijon tumani va uning boshqa hududlarida grabil va yertaroq\nko‘rinishida mavjud.  Baliqchi va uning atrof hududlarida ham noodatiy so‘zlardan foydalanib",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL074",
+    "display_form": "gupsi",
+    "meanings": [
+      "ombur"
+    ],
+    "region": "Shahrixon",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallifning ombur vazifasi tavsifi batafsil mustaqil tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "gupsi",
+        "evidence_extracted": "adabiy  tildan  farqli o‘laroq dastkalla ko‘rinishida, ombur (mato va boshqalarni  bir-biriga\nmahkamlash uchun ishlatiladigan asbob) so‘zi esa gupsi tarzida ishlatiladi. Shunga o‘xshash,\nxaskash – xashak, xas-cho‘p va shu kabilarni yig‘ish, to‘plash, shuningdek, chopilgan yer\ntuprog‘ini maydalab tekislash uchun ishlatiladigan, uzun dastali, ko‘p tishli qishloq xo‘jalik quroli\nPaxtaobod tumanida otqi tarzida, Andijon tumani va uning boshqa hududlarida grabil va yertaroq\nko‘rinishida mavjud.  Baliqchi va uning atrof hududlarida ham noodatiy so‘zlardan foydalanib\nkelinadi, asosan, katta avlod tilida xo‘pitmoq so‘zi amalda bo‘lib, suv havzalarida cho‘milmoq",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL075",
+    "display_form": "otqi",
+    "meanings": [
+      "xaskash"
+    ],
+    "region": "Paxtaobod",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Xashak/xas-cho‘p yig‘ish va yer tekislash quroli.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "otqi",
+        "evidence_extracted": "tuprog‘ini maydalab tekislash uchun ishlatiladigan, uzun dastali, ko‘p tishli qishloq xo‘jalik quroli\nPaxtaobod tumanida otqi tarzida, Andijon tumani va uning boshqa hududlarida grabil va yertaroq\nko‘rinishida mavjud.  Baliqchi va uning atrof hududlarida ham noodatiy so‘zlardan foydalanib\nkelinadi, asosan, katta avlod tilida xo‘pitmoq so‘zi amalda bo‘lib, suv havzalarida cho‘milmoq\nfe’li ma’nosini ifodalaydi. Ko‘p hududlarda uyning orqa tarafi ma’nosida hovli so‘zi ishlatilsa,\nbaliqchiliklar so‘zlashuv nutqida hayat so‘zidan foydalanishadi.\n      Dialektal  farqlar morfologik shakllarda ham ko‘zga  tashlanadi. Xarakterli misollarni",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL076",
+    "display_form": "grabil",
+    "meanings": [
+      "xaskash"
+    ],
+    "region": "Andijon tumani va boshqa hududlar; kengroq chegara aniq emas",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [
+      "yertaroq"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Yertaroq ham shu ma’noda berilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "grabil",
+        "evidence_extracted": "tuprog‘ini maydalab tekislash uchun ishlatiladigan, uzun dastali, ko‘p tishli qishloq xo‘jalik quroli\nPaxtaobod tumanida otqi tarzida, Andijon tumani va uning boshqa hududlarida grabil va yertaroq\nko‘rinishida mavjud.  Baliqchi va uning atrof hududlarida ham noodatiy so‘zlardan foydalanib\nkelinadi, asosan, katta avlod tilida xo‘pitmoq so‘zi amalda bo‘lib, suv havzalarida cho‘milmoq\nfe’li ma’nosini ifodalaydi. Ko‘p hududlarda uyning orqa tarafi ma’nosida hovli so‘zi ishlatilsa,\nbaliqchiliklar so‘zlashuv nutqida hayat so‘zidan foydalanishadi.\n      Dialektal  farqlar morfologik shakllarda ham ko‘zga  tashlanadi. Xarakterli misollarni",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL077",
+    "display_form": "xo‘pitmoq",
+    "meanings": [
+      "suv havzasida cho‘milmoq"
+    ],
+    "region": "Baliqchi va atrofi",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif asosan katta avlod tilida ishlatilishini ta’kidlaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "xo‘pitmoq",
+        "evidence_extracted": "ko‘rinishida mavjud.  Baliqchi va uning atrof hududlarida ham noodatiy so‘zlardan foydalanib\nkelinadi, asosan, katta avlod tilida xo‘pitmoq so‘zi amalda bo‘lib, suv havzalarida cho‘milmoq\nfe’li ma’nosini ifodalaydi. Ko‘p hududlarda uyning orqa tarafi ma’nosida hovli so‘zi ishlatilsa,\nbaliqchiliklar so‘zlashuv nutqida hayat so‘zidan foydalanishadi.\n      Dialektal  farqlar morfologik shakllarda ham ko‘zga  tashlanadi. Xarakterli misollarni\nBaliqchi shevasidan topish mumkin. Baliqchi shevasi qipchoq lahjasiga taalluqli bo‘lgani bois,\nkelishik qo‘shimchalarning qo‘llanishi bilan bog‘liq farqlar mavjud. Masalan, tushum va qaratqich",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL078",
+    "display_form": "hayat",
+    "meanings": [
+      "uyning orqa tarafi; hovli haqidagi qayd"
+    ],
+    "region": "Baliqchi",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Kontekstdagi uy/hovli ma’nosi; hayot so‘zini almashtirish qoidasi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "hayat",
+        "evidence_extracted": "fe’li ma’nosini ifodalaydi. Ko‘p hududlarda uyning orqa tarafi ma’nosida hovli so‘zi ishlatilsa,\nbaliqchiliklar so‘zlashuv nutqida hayat so‘zidan foydalanishadi.\n      Dialektal  farqlar morfologik shakllarda ham ko‘zga  tashlanadi. Xarakterli misollarni\nBaliqchi shevasidan topish mumkin. Baliqchi shevasi qipchoq lahjasiga taalluqli bo‘lgani bois,\nkelishik qo‘shimchalarning qo‘llanishi bilan bog‘liq farqlar mavjud. Masalan, tushum va qaratqich\nkelishigi shakllari ko‘pincha -di tarzida aytiladi: akamdi kitobi, guldi uzmoq kabi.\n      Ko‘rsatish olmoshlari hamda kompozitsion usuldagi qo‘shma ravishlarning iste’molda",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL079",
+    "display_form": "jezda",
+    "meanings": [
+      "pochcha"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Qoraqalpoq kelib chiqishli aholi nutqiga nisbat berilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "Jezda (pochcha)",
+        "evidence_extracted": "      6) o‘rin-payt kelishigi oldidan (i)n tovushi orttiriladi: bashinda, qashinda kabi.\n      3. Leksik farqlar:  Jezda (pochcha), echeyen jezda (oddiy pochcha), karsang (tog’ora),\nboldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL080",
+    "display_form": "echeyen jezda",
+    "meanings": [
+      "oddiy pochcha"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallifning ayni izohi; qarindoshlik turini aniqroq taxmin qilmadim.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "echeyen jezda",
+        "evidence_extracted": "      6) o‘rin-payt kelishigi oldidan (i)n tovushi orttiriladi: bashinda, qashinda kabi.\n      3. Leksik farqlar:  Jezda (pochcha), echeyen jezda (oddiy pochcha), karsang (tog’ora),\nboldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL081",
+    "display_form": "karsang",
+    "meanings": [
+      "tog‘ora"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Uy-ro‘zg‘or atamasi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "karsang (",
+        "evidence_extracted": "      6) o‘rin-payt kelishigi oldidan (i)n tovushi orttiriladi: bashinda, qashinda kabi.\n      3. Leksik farqlar:  Jezda (pochcha), echeyen jezda (oddiy pochcha), karsang (tog’ora),\nboldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL082",
+    "display_form": "boldiz",
+    "meanings": [
+      "kelinning opa-singlisi"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Manbaning ayni ta’rifi; boshqa tillardagi qarindoshlik izohlari qo‘shilmadi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "boldiz (",
+        "evidence_extracted": "      3. Leksik farqlar:  Jezda (pochcha), echeyen jezda (oddiy pochcha), karsang (tog’ora),\nboldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL083",
+    "display_form": "chavgon",
+    "meanings": [
+      "qumg‘on"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Ushbu mahalliy qaydda idish; ot o‘yini ma’nosi bilan bir xil emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "chavgon (",
+        "evidence_extracted": "boldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL084",
+    "display_form": "manglay",
+    "meanings": [
+      "peshona"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Boshqa hududlarda ham uchrashi mumkin.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "manglay",
+        "evidence_extracted": "boldiz (kelinning opa­singlisi), so’rtak, hari, toptora, anna, checha, ona (opa), qalpoq, jayron,\njun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL085",
+    "display_form": "bo‘rk",
+    "meanings": [
+      "telpak"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bosh kiyim.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "bo‘rk",
+        "evidence_extracted": "jun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida\no‘rganish va ularni hozirgi adabiy tilimizni yanada boyitish hamda mukammallashtirish nuqtaiy",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL086",
+    "display_form": "emgak",
+    "meanings": [
+      "mehnat"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Samarqand/Forish tarixiy so‘z maqolalaridagi har bir ma’no shu mahalliy qaydga ko‘chirilmaydi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "emgak",
+        "evidence_extracted": "jun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida\no‘rganish va ularni hozirgi adabiy tilimizni yanada boyitish hamda mukammallashtirish nuqtaiy",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL087",
+    "display_form": "ko‘lik",
+    "meanings": [
+      "transport"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif izohi keng transport ma’nosida.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "ko‘lik",
+        "evidence_extracted": "jun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida\no‘rganish va ularni hozirgi adabiy tilimizni yanada boyitish hamda mukammallashtirish nuqtaiy",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL088",
+    "display_form": "mo‘ncha",
+    "meanings": [
+      "hammom"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Muallif yozuvi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "mo‘ncha",
+        "evidence_extracted": "jun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida\no‘rganish va ularni hozirgi adabiy tilimizni yanada boyitish hamda mukammallashtirish nuqtaiy",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL089",
+    "display_form": "qangli",
+    "meanings": [
+      "ikki g‘ildirakli arava"
+    ],
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi nutqi; A7-Q",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bu qaydda buyum nomi; urug‘ nomi ma’nosida emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "qangli",
+        "evidence_extracted": "jun, tuya, meng, chavgon (qumg‘on), o‘rtoq, dag‘i, qut,  el, quroq, qalqon, aynak, manglay\n(peshona), bo‘rk (telpak), emgak (mehnat), qo‘noq, ko‘lik (transport), mo‘ncha (hammom), qangli\n(ikki g‘ildirakli arava) kabi.\n     Demak, shevalar va ularning xususiyatlarini mukammal ravishda o‘rganish tilimizning\nhozirgi holati va tarixini o‘rganish borasidagina emas, balki xalqimiz tarixini to‘laroq o‘rganish\nsohasida ham katta ahamiyat kasb etadi. Bu shevalarni hozirgi adabiy tilimiz ichki manbasi sifatida\no‘rganish va ularni hozirgi adabiy tilimizni yanada boyitish hamda mukammallashtirish nuqtaiy",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL090",
+    "display_form": "kette:",
+    "meanings": [
+      "bobo"
+    ],
+    "region": "Andijon; umumiy qo‘llanmadagi qayd",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [
+      "kette ete"
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Katta ota bilan bog‘langan shakl; Toshkent buva shakli bilan qiyoslangan.",
+    "source_refs": [
+      {
+        "source": "A2",
+        "pdf_page": 41,
+        "printed_pages": [
+          41
+        ],
+        "anchor_extracted": "kette:",
+        "evidence_extracted": "    Shuningdek ayrim shevalarda ba’zi atamalar o’ziga xos tarzida qo’llaniladi.\nKətətə >kette: (kette ete) (And.) – buvə (Toshkent), əpeqъ, təg’ə, əməkъ, xələ, kel’n,\nkuyəv,  jiyən, qəynənə, qəynətə, qəyn’nъ, qəynъsngъl, qəynəg’ə, qəynəgəchъ va\nboshqalar.\n Turmush  tarzi  bilan  bog’liq  holda  kishilarning  hududlarda  qaysi  soha  bilan\nshug’ullanishlariga qarab, o’sha sohani aks ettiruvchi atamalar ko’p qo’llaniladi.\nMasalan, qulun (yilqining bir yoshgacha bo’lgan bolasi), kəltətəy (bir yoshdan ikki",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AL091",
+    "display_form": "evere",
+    "meanings": [
+      "arava"
+    ],
+    "region": "Andijon; umumiy qo‘llanmadagi qayd",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bosma 162-sahifa vizual tekshirildi. Muallif metateza guruhida sanaydi, lekin bu juftlikdan undosh o‘rin almashinuvi qoidasi chiqarilmadi.",
+    "source_refs": [
+      {
+        "source": "A6",
+        "pdf_page": 83,
+        "printed_pages": [
+          162,
+          163
+        ],
+        "anchor_extracted": "evere (Andijon)",
+        "evidence_extracted": "2) metateza hodisasi tufayli kuchli fonetik o`zgarishga uchragan soʻzlar:\ngindjelek (Uychi) - jingalak; evere (Andijon) - arava; hayda-hadya; erves-obrez;\n\n3) soʻzlarning torayishi (qisqarishi) sababli izoh berilmasa, tushunish\nqiyin bo`lgan soʻzlar: kesh (Namangan) - kalish; e:de (Uycha) - ana u yerda;\nkochche - katta achabuvi; balsi - boyo`g`li (qush);\n",
+        "extraction": "reused_ocr"
+      }
+    ]
+  },
+  {
+    "id": "AL092",
+    "display_form": "peshe",
+    "meanings": [
+      "chivin (ruscha komar)"
+    ],
+    "region": "Andijon; Sayram, Chimkent, Forish bilan birga",
+    "domain": "kundalik nutq",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bosma 160-sahifa vizual tekshirildi. Shu nomning boshqa hududlarda pashsha ma’nosi bilan kelishi alohida qiyoslangan.",
+    "source_refs": [
+      {
+        "source": "A6",
+        "pdf_page": 82,
+        "printed_pages": [
+          160,
+          161
+        ],
+        "anchor_extracted": "peshe (Sayram",
+        "evidence_extracted": "vakllari tomonidan qo`llanadi va ularning ma`nolari nutq jarayonida tushinarli\norazin Qiyoslang, peshe (Sayram, Chimkent, Forish, Andijon) – peshshe\n\nia иа ipch., QQ R-o`ʻzb., Buxoro, Fargʻona) — peshshe (Хогагт-о\" 12) –\nга АОЛ chivin (комар), chibin (Xorazm-qipch., QQAR - o`zb.) – chivin\n(ура mog uz) - chopon И. chovon (Buxoro) — chi:vin (Qoramurt) — chu:n\natagan bu xil so'li cha (муха). Sh.Rahmatullayev “dialektizm-ma'no” deb",
+        "extraction": "reused_ocr"
+      }
+    ]
+  },
+  {
+    "id": "AL093",
+    "display_form": "papa",
+    "meanings": [
+      "harorat; issiqlik"
+    ],
+    "region": "Andijon va Qo‘qon, kichik yoshdagi bolalar nutqi",
+    "domain": "bolalar nutqi",
+    "tone": "betaraf",
+    "variants": [],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "evidence_type": "yozma manbada hududga nisbat berilgan; dala suhbatiga mustaqil kirish yo‘q",
+    "usage_note": "Bolalar va ular bilan muloqot qiluvchi kattalar registri. Oddiy kattalar suhbati uchun universal so‘z emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 119,
+        "printed_pages": [
+          119
+        ],
+        "anchor_extracted": "harorat (issiqlik)",
+        "evidence_extracted": "Xorazm shevasida so‘zlashuvchi bolalar papa so‘zini chqaloqqa nisbatan qo‘llaydilar. Andijon,\nQo‘qon kabi shevalarda so‘zlashuvchi bolalar bu so‘z orqali harorat (issiqlik)ni ifodalaydilar.\n\n\n                                         119",
+        "extraction": "pdf_text"
+      }
+    ]
+  }
+]

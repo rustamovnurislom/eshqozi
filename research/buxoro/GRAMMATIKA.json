@@ -1,0 +1,465 @@
+{
+  "rule_count": 25,
+  "rules": [
+    {
+      "id": "BG001",
+      "source_id": "B3",
+      "pdf_page": 2,
+      "printed_pages": [
+        119
+      ],
+      "standard": "buzildi",
+      "dialect_reading": "buzilli",
+      "kind": "ld → ll assimilatsiyasi",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG002",
+      "source_id": "B3",
+      "pdf_page": 2,
+      "printed_pages": [
+        119
+      ],
+      "standard": "buni",
+      "dialect_reading": "muni",
+      "kind": "olmosh asosi",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "note": "Gap misoli bor; G‘ijduvon yorlig‘i matnda aynan jölkirā kuzatuviga berilgan, barcha qo‘shni misollarga yoyilmadi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG003",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "standard": "ko‘rpachaga o‘tir",
+      "dialect_reading": "Körpäčäjä ötir",
+      "kind": "jo‘nalish -ga/-ya varianti",
+      "scope": "B3 o‘g‘uz konteksti",
+      "note": "Manba j belgisi bu o‘rinda y o‘qiladi; yigit→jigit deb talqin qilinmaydi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG004",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "standard": "onamga oldim",
+      "dialect_reading": "Ānämä āldim",
+      "kind": "jo‘nalish -a varianti",
+      "scope": "B3 o‘g‘uz konteksti",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG005",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "standard": "opamning kitobi",
+      "dialect_reading": "Āpämiƞ kitāpi",
+      "kind": "qaratqich va egalik",
+      "scope": "B3 o‘g‘uz konteksti",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG006",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "standard": "butun, bus-butun",
+      "dialect_reading": "buppä-butun",
+      "kind": "kuchaytiruvchi takror",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG007",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "printed_pages": [
+        120
+      ],
+      "standard": "gap-so‘z, mish-mish",
+      "dialect_reading": "gäp-päp / gäp-säp",
+      "kind": "takror va pragmatik ma’no",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "note": "Noaniqlik, shubha yoki befarqlik kontekstlari; har bir gapda majburiy takror emas.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG008",
+      "source_id": "B3",
+      "pdf_page": 4,
+      "printed_pages": [
+        121
+      ],
+      "standard": "non, choy, sho‘rdanak kabi narsalar",
+      "dialect_reading": "nān-pān, čāj-pāj, kölä-pölä",
+      "kind": "takror bilan sanash",
+      "scope": "B3 qarluq konteksti; aniq qishloq ko‘rsatilmagan",
+      "note": "Taklif jumlasidagi shakllar; pān/pāj/pölä alohida buyum nomi sifatida olinmadi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG009",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "standard": "aytdi",
+      "dialect_reading": "aytti",
+      "kind": "td → tt assimilatsiyasi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG010",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "standard": "keldi",
+      "dialect_reading": "gelli",
+      "kind": "ld → ll va k/g farqi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "B4:20 da geldi varianti ham bor; ikki yozuv saqlandi, bittasi hamma joyga majburiy emas.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG011",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "standard": "nondan",
+      "dialect_reading": "nonnan",
+      "kind": "nd → nn assimilatsiyasi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG012",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "standard": "bizni / sizni",
+      "dialect_reading": "bizzi / sizzi",
+      "kind": "zn → zz assimilatsiyasi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG013",
+      "source_id": "B4",
+      "pdf_page": 17,
+      "printed_pages": [
+        17
+      ],
+      "standard": "yomg‘ir",
+      "dialect_reading": "yog‘mir",
+      "kind": "metateza",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG014",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "standard": "bilgan",
+      "dialect_reading": "bilen",
+      "kind": "-gan/-an sifatdosh varianti",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Manbaning yumshoq unlisi oddiy e bilan yaqinlashtirilgan; fonetik yozuv bılǝn.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG015",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "standard": "boshlagan",
+      "dialect_reading": "boshlan",
+      "kind": "unli asosdan keyingi -n",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Boshlan- fe’l asosi va boshlagan ma’nosidagi sifatdosh kontekst bilan ajratiladi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG016",
+      "source_id": "B4",
+      "pdf_page": 21,
+      "printed_pages": [
+        21
+      ],
+      "standard": "borgan emish",
+      "dialect_reading": "boranmish",
+      "kind": "emish qisqarishi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Eshitilganlik ma’nosi saqlanadi; oddiy bordi bilan teng emas.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG017",
+      "source_id": "B4",
+      "pdf_page": 21,
+      "printed_pages": [
+        21
+      ],
+      "standard": "qolgan ekan",
+      "dialect_reading": "qolankan",
+      "kind": "ekan qisqarishi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG018",
+      "source_id": "B4",
+      "pdf_page": 21,
+      "printed_pages": [
+        21
+      ],
+      "standard": "ketgan edi",
+      "dialect_reading": "gidendi",
+      "kind": "edi qisqarishi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Manbadagi gıdǝndı shaklining sodda o‘qilishi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG019",
+      "source_id": "B4",
+      "pdf_page": 23,
+      "printed_pages": [
+        23
+      ],
+      "standard": "kiyimlar / sigirlar",
+      "dialect_reading": "giyimlar / inekler",
+      "kind": "ko‘plik va unli uyg‘unligi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG020",
+      "source_id": "B4",
+      "pdf_page": 25,
+      "printed_pages": [
+        25
+      ],
+      "standard": "yerni ag‘darmoq",
+      "dialect_reading": "yeri ag‘darish",
+      "kind": "tushum -i varianti",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Manba yеrı аğdаrïș; yordamchi harakat nomi ham misolda farqlanadi.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG021",
+      "source_id": "B4",
+      "pdf_page": 25,
+      "printed_pages": [
+        25
+      ],
+      "standard": "ko‘lga qaramoq",
+      "dialect_reading": "ko‘la qaramaq",
+      "kind": "jo‘nalish -a varianti",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG022",
+      "source_id": "B4",
+      "pdf_page": 25,
+      "printed_pages": [
+        25
+      ],
+      "standard": "sovuqda qolmoq",
+      "dialect_reading": "sovuqda qalmaq",
+      "kind": "o‘rin-payt -da saqlanishi",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "Butun Buxoroda -da ni yo‘qotish haqidagi avtomatik qoidaga asos yo‘q.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG023",
+      "source_id": "B4",
+      "pdf_page": 26,
+      "printed_pages": [
+        26
+      ],
+      "standard": "sen bilan qolmoq",
+      "dialect_reading": "sen vilan qalmaq",
+      "kind": "bilan/vilan varianti",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG024",
+      "source_id": "B4",
+      "pdf_page": 28,
+      "printed_pages": [
+        28
+      ],
+      "standard": "deb aytdi",
+      "dialect_reading": "diyip aytti",
+      "kind": "ko‘chirma gapni bog‘lash",
+      "scope": "B4 Buxoro o‘g‘uz materiali; ichki variant va adabiy til ta’siri hisobga olinadi",
+      "note": "",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    },
+    {
+      "id": "BG025",
+      "source_id": "B2",
+      "pdf_page": 11,
+      "printed_pages": [
+        18,
+        19
+      ],
+      "standard": "boradigan",
+      "dialect_reading": "boratugan",
+      "kind": "sifatdosh varianti",
+      "scope": "Samarqand–Buxoro guruhi, bosma 19",
+      "note": "Manbaning maxsus unlilari oddiy yozuvda yaqinlashtirilgan; sahifa rasmi tekshirildi. Bu aniq audio transkripsiya emas.",
+      "application": "Misol doirasida; kontekstsiz umumiy matn almashtirish qoidasi emas.",
+      "writing_status": "Sodda o‘qilish; to‘liq fonetik transkripsiya alohida manba matnida."
+    }
+  ],
+  "observations": [
+    {
+      "source_id": "B1",
+      "pdf_pages": [
+        19,
+        20
+      ],
+      "scope": "Darslikning tarixiy guruh bayoni",
+      "observation": "Qaratqich/tushum va jo‘nalish/o‘rin-payt formalari birlashishi tasvirlangan. «Buxoroda 4 kelishik» barcha hozirgi nutq profillarining qat’iy soni sifatida olinmadi. Qorako‘l/Olot uchun tushum -i varianti aniq qayd etilgan."
+    },
+    {
+      "source_id": "B1",
+      "pdf_page": 22,
+      "observation": "Buxoro hozirgi zamonida -ap ko‘rsatkichi darslikda qayd etilgan; o‘g‘uzning -yatir variantlari bilan bitta majburiy qoida qilinmadi."
+    },
+    {
+      "source_id": "B2",
+      "pdf_page": 20,
+      "printed_pages": [
+        36,
+        37
+      ],
+      "observation": "Umumiy darslik f→p bayonida Samarqand–Buxoroni istisno qiladi. B4:14–15 o‘g‘uz materiali f o‘rnida p ni qayd etadi. «Buxoro» yorlig‘i bilan barcha f larni p ga aylantirish profil farqini yo‘qotadi."
+    },
+    {
+      "source_id": "B2",
+      "pdf_page": 29,
+      "printed_pages": [
+        54,
+        55
+      ],
+      "observation": "Samarqand–Buxoro guruhida -ga/-da almashinuvi; shu sahifadagi Jizzax va Qarshi gaplari Buxoroga tegishli bevosita gap deb olinmadi."
+    },
+    {
+      "source_id": "B2",
+      "pdf_page": 39,
+      "printed_pages": [
+        74,
+        75
+      ],
+      "observation": "Ikki tilli Buxoro nutqidagi izofali birikmalar va gap tartibi tasvirlangan; matnda Buxoro guruhida sifatdosh kesimning shaxs-son bilan moslashmasligi ham qayd etilgan. Keltirilgan man kelgan jumlasidan barcha kesimlarda shaxs qo‘shimchasini olib tashlash qoidasi chiqarilmaydi."
+    },
+    {
+      "source_id": "B4",
+      "pdf_pages": [
+        12,
+        13,
+        14,
+        28,
+        29
+      ],
+      "observation": "Muallif sheva xususiyatini saqlagan o‘g‘uz vakillari uchun 13 unli haqidagi tasnifni beradi; ayrim tovushlar yosh va adabiy til ta’siriga bog‘langan. Bu butun Buxoroning bir xil tovushlar tizimi degani emas."
+    },
+    {
+      "source_id": "B4",
+      "pdf_page": 21,
+      "observation": "Hozirgi zamon -y, -yatir/-vatir va -yatan turidagi variantlar; -yap/-moqda kamroq deyilgan. Variantlar ichki hudud va vaziyatga qarab tanlanadi; o‘tgan zamonga ko‘chirilmaydi."
+    },
+    {
+      "source_id": "B4",
+      "pdf_pages": [
+        23,
+        25
+      ],
+      "observation": "Adabiy til ta’sirida -ning, -gan va boshqa shakllar markazga yaqin nutqda uchrashi qayd etiladi; lahja affikslarini har gapga majburlash asoslanmaydi."
+    }
+  ],
+  "source_conflicts": [
+    {
+      "source_id": "B4",
+      "pdf_pages": [
+        20,
+        29
+      ],
+      "issue": "Asosiy matnda aniq o‘tgan zamon -dı/-dï, -tı/-tï misollar bilan berilgan; xulosa 5-bandda -dır/-dïr/-tır/-tïr deb yozilgan.",
+      "decision": "-di ni hamma joyda -dir ga almashtirish olinmadi. Aniq keldi/geldi/gelli va aytdi/aytti misollari alohida saqlandi."
+    },
+    {
+      "source_id": "B3",
+      "pdf_page": 3,
+      "issue": "Bay-may va o‘qigan-mo‘qigan uchun istehzoli izoh berilgan.",
+      "decision": "Boy emas yoki ilmli emas degan ma’nolar barcha takror shakllariga majburiy biriktirilmadi; istehzo va befarqlik konteksti alohida talab qilinadi."
+    }
+  ]
+}

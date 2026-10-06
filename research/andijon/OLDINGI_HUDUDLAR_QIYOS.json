@@ -1,0 +1,88 @@
+{
+  "duplicates": [
+    {
+      "current": "A1",
+      "previous": [
+        "buxoro/B1"
+      ],
+      "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe"
+    },
+    {
+      "current": "A2",
+      "previous": [
+        "qashqadaryo/Q2",
+        "samarqand/M2",
+        "jizzax/J2"
+      ],
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "current": "A3",
+      "previous": [
+        "samarqand/M4",
+        "jizzax/J1"
+      ],
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98"
+    },
+    {
+      "current": "A6",
+      "previous": [
+        "samarqand/M5",
+        "buxoro/B2"
+      ],
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae"
+    }
+  ],
+  "semantic_comparisons": [
+    {
+      "form": "bulamiq",
+      "andijon": "Unni sariyog‘da qovurib sut bilan qaynatilgan taom",
+      "jizzax_comparison_in_article": "Tuxum va unni atalashdan olingan aralashma",
+      "source_refs": [
+        {
+          "source": "A7",
+          "pdf_page": 328,
+          "printed_pages": [
+            328
+          ],
+          "anchor_extracted": "(bulamiq)",
+          "evidence_extracted": "sabzavotlarga nisbatan qo‘llanadi.\n    Bulamïq (bulamiq) suyuq taom bo‘lib, bolalar ovqati hisoblanadi. Un sariyog‘da qizartirib\nqovurilib sut quyib qaynatiladi. Ushbu taom, asosan, bolalar ona sutidan ajratilganda beriladi.\nBulamiq leksemasini Jizzax hududida ham uchratishimiz mumkin, ammo ushbu hududda bulamiq\ntuxumni un bilan atalash jarayonida yuzaga kelgan aralashmaga nisbatan qo‘llanadi [Umurzoqova\n2021:299].\n     Kӧptirgi  (ko‘ptirgi), xämir türiš (xamir  turish) xamirni oshirish uchun solinadigan",
+          "extraction": "pdf_text"
+        }
+      ]
+    },
+    {
+      "form": "doxsu / obdish / objo‘sh",
+      "relation": "Qaynatilgan suv haqida hududlararo qiyos; bitta talaffuz andozasi emas",
+      "source_refs": [
+        {
+          "source": "A7",
+          "pdf_page": 332,
+          "printed_pages": [
+            332
+          ],
+          "anchor_extracted": "(doxsu)",
+          "evidence_extracted": "     Suv qaynatilgan holatda ham qaynatilmagan (xom) holatida ham iste’mol qilinadi. Xalqimiz\norasidagi qaynatilgan suv janubi-sharqiy Andijon shevasida dāxsu (doxsu) deyiladi. Ma’lumot\nsifatida  aytib  o‘tishimiz  o‘rinliki,  yurtimizning ayrim  viloyatlari (Buxoro, Qashadaryo)da\nqaynatilgan suv objo‘sh nomi bilan ham ataladi.\n     Xulosa qilish mumkinki, oziq-ovqat bilan bog‘liq dialektizmlar aholimiz orasida talaygina,\nularni yig‘ish va ilm ahliga yetkazish orqali esa tilimizning ifoda ko‘lamini yanada kengaytirgan\nbo‘lamiz. Shevaga xos bo‘lgan so‘zlarni topish, ularni sinchiklab o‘rganish, dialektizmlardan",
+          "extraction": "pdf_text"
+        }
+      ]
+    },
+    {
+      "form": "chuli / g‘o‘lin",
+      "relation": "Turshak ichimligi; Andijon va Buxoro/Navoiy qiyosi",
+      "source_refs": [
+        {
+          "source": "A7",
+          "pdf_page": 332,
+          "printed_pages": [
+            332
+          ],
+          "anchor_extracted": "(chuli)",
+          "evidence_extracted": "sharbati shaklidagi so‘z birikmasi orqali ifodalanadi. Janubi-sharqiy Andijon hududida ushbu\nchanqovbosdi mahsulot Çüli (chuli) (O‘XShL, 1971,) deyiladi. Ma’lumot sifatida aytib o‘tishimiz\njoizki, yurtimizning ayrim hududlari (Buxoro, Navoiy)da ayni shu tushunchani nomlovchi g‘o‘lin\nleksemasi ham qo‘llanadi [Hasanov 2021:247].\n     Shevalarda aynan o‘rik sharbati ma’nosini beruvchi chuli leksemasining qo‘llanishi uni xalq\norasida so‘z birikmasi shaklida emas alohida leksema sifatida qo‘llanishiga imkoniyat beradi.\n     Yog‘ leksemasi shu mazmundagi so‘zlar uchun umumiylikni kasb etadi. Shunday ekan xalq",
+          "extraction": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "notation": "j harfi va maxsus fonetik belgilar turli manbalarda bir xil kod deb olinmaydi; asliy transkripsiya bilan display farqlanadi."
+}

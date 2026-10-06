@@ -1,0 +1,51 @@
+{
+  "excluded_private_corpus_files": [
+    {
+      "path": "research/toshkent_kocha_v2/HAQIQIY_SUHBAT_JUFTLARI.json",
+      "reason": "Raw chat content or participant/message-level corpus data"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/TAKRORLAR.json",
+      "reason": "Raw chat content or participant/message-level corpus data"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/TOKENLAR.json",
+      "reason": "Raw chat content or participant/message-level corpus data"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/XABARLAR_INDEKSI.jsonl",
+      "reason": "Raw chat content or participant/message-level corpus data"
+    }
+  ],
+  "sanitized_street_research_files": [
+    "research/toshkent_kocha/HISOBOT_STATISTIKASI.json",
+    "research/toshkent_kocha/KREATIV_NAMUNALAR.json",
+    "research/toshkent_kocha/MANBALAR.json",
+    "research/toshkent_kocha/NETWORK_PROBES.json",
+    "research/toshkent_kocha/QIDIRUV_YONALISHLARI.json",
+    "research/toshkent_kocha/SLANG_LUGAT.csv",
+    "research/toshkent_kocha/SLANG_LUGAT.json",
+    "research/toshkent_kocha/TEKSHIRUV_NATIJASI.json",
+    "research/toshkent_kocha/USLUB_PROFILI.json",
+    "research/toshkent_kocha_v2/HISOBOT_STATISTIKASI.json",
+    "research/toshkent_kocha_v2/KORPUS_STATISTIKASI.json",
+    "research/toshkent_kocha_v2/KREATIV_NAMUNALAR.json",
+    "research/toshkent_kocha_v2/LUGAT_JADVAL.csv",
+    "research/toshkent_kocha_v2/MANBALAR.json",
+    "research/toshkent_kocha_v2/MUSTAQIL_IZLANISH_HOLATI.json",
+    "research/toshkent_kocha_v2/NETWORK_PROBES.json",
+    "research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+    "research/toshkent_kocha_v2/OLDINGI_42_QAYD_AUDITI.json",
+    "research/toshkent_kocha_v2/SLANG_VA_YOZUV_KARTALARI.json",
+    "research/toshkent_kocha_v2/TEKSHIRUV_NATIJASI.json",
+    "research/toshkent_kocha_v2/USLUB_PROFILI.json",
+    "research/toshkent_kocha_v2/YOZISHMA_USULLARI.json"
+  ],
+  "excluded_from_both_packages": [
+    "Real credentials and .env",
+    "Live user/chat database, backups and logs",
+    ".git, .venv and Python caches",
+    "Raw Telegram JSON uploads"
+  ],
+  "pdf_files_included": 57
+}

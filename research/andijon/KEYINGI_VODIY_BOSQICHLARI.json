@@ -1,0 +1,24 @@
+[
+  {
+    "source": "A5",
+    "title": "Farg‘ona (Oltiariq) guruhi shevalarining fonetik tahliliga doir",
+    "region": "Farg‘ona, Oltiariq",
+    "status": "to‘liq o‘qilgan; Andijon asosiy lug‘atiga qo‘shilmagan",
+    "note": "Fonetik jarayon ta’riflarini keyingi bosqichda misollardan alohida tekshirish kerak."
+  },
+  {
+    "source": "A1",
+    "pdf_page": 39,
+    "region": "Namangan/Uychi",
+    "status": "Andijon -yap qiyosiga kontekst",
+    "note": "-vat/-ut evolyutsiyasi Namangan misollarini Andijon paradigmasi qilib olishga asos emas."
+  },
+  {
+    "source": "A3",
+    "pdf_pages": [
+      96
+    ],
+    "region": "Namangan, Mingbuloq",
+    "status": "Andijon bilan chegaradoshlikning qidiruv mosligi; Andijon nutqi emas"
+  }
+]

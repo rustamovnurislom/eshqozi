@@ -1,0 +1,193 @@
+[
+  {
+    "id": "AN01",
+    "original_extracted": "qïzïz dänäk qïz\nboptï.",
+    "display": "qïzïz dänäk qïz boptï.",
+    "standard_meaning": "Qizingiz danak qiz bo‘libdi; yosh bo‘lsa ham gapga chechan.",
+    "translation_kind": "muallif tarjimasi va izohiga tayangan talqin",
+    "region": "Dardoq",
+    "genre": "maqoladagi yozma misol",
+    "note": "Danakning qizcha haqidagi ma’nosi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "qïzïz dänäk qïz",
+        "evidence_extracted": "   Dӓnӓk, daqqї\\Danak, daqqi sifatlari o‘zi kichkina bo‘lishiga qaramay\nso‘zga, gapga chechan yosh qizchalarga nisbatan qo‘llaniladi: qïzïz dänäk qïz\nboptï. (<qizingiz danak qiz bo‘libdi.) Mamadana\\mamadana bo‘lar-bo‘lmas\nnarsaga gap talashadigan, ko‘p gapiradigan qiz. Bu so‘z adabiy tildagi mahma­\ndona so‘zi bilan ma’nodoshdir. Mamadanalïq qїma, kӓttӓ gӓpirgӓndӓ hop dejiš\nkere. (<Mahmadonalik qilma, katta gapirganda xo‘p deyish kerak).\n   Šӓldir-šüldir\\shaldir-shuldir so‘zi kirishimli, hamma bilan chiqishib",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN02",
+    "original_extracted": "adam\ndegӓn šӓldir-šüldir bӧliši kerej, dїmaɣdar bӧlip, keh sahlamaslïq kere.",
+    "display": "adam degӓn šӓldir-šüldir bӧliši kerej, dїmaɣdar bӧlip, keh sahlamaslïq kere.",
+    "standard_meaning": "Odam sodda, kirishimli bo‘lishi, dimog‘dor bo‘lib kek saqlamasligi kerak.",
+    "translation_kind": "tahririy mazmuniy talqin",
+    "region": "Dardoq",
+    "genre": "maqoladagi yozma misol",
+    "note": "Muallif tarjimasi yonida bor; shaldir-shuldirning ijobiy tusi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 172,
+        "printed_pages": [
+          172
+        ],
+        "anchor_extracted": "adam\ndegӓn šӓldir-šüldir",
+        "evidence_extracted": "   Šӓldir-šüldir\\shaldir-shuldir so‘zi kirishimli, hamma bilan chiqishib\nketa oladigan, ko‘nglida kiri yo‘q, sodda odamga nisbatan ishlatiladi: adam\ndegӓn šӓldir-šüldir bӧliši kerej, dїmaɣdar bӧlip, keh sahlamaslïq kere. (<Odam\ndegan sodda, shaldir-shuldir bo‘lishi kerak, dimog‘dor bo‘lib, kek saqla­\nmaslik kerak).\n   Gӓžir\\Gajir – aytganini qildiradigan, qaysar, jangari. Bu so‘z insonga xos\nbo‘lgan xususiyatni bildirishi bilan birga, ot jonzotiga nisbatan ham ishlati­",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN03",
+    "original_extracted": "Bӓrčin jerdi kinnigini üzӓdigӓn xātїn, bir minit timmiydi, bittӓ ӧzi mӓši\npӓrnikti qїlїp, dїjqančilik qilip beštӓ qїzdi čїqardї-ja.",
+    "display": "Bӓrčin jerdi kinnigini üzӓdigӓn xātїn, bir minit timmiydi, bittӓ ӧzi mӓši pӓrnikti qїlїp, dїjqančilik qilip beštӓ qїzdi čїqardї-ja.",
+    "standard_meaning": "Barchin tinmay mehnat qiladigan ayol; issiqxona va dehqonchilik qilib besh qizini uzatgan.",
+    "translation_kind": "tahririy mazmuniy talqin",
+    "region": "Dardoq",
+    "genre": "maqoladagi yozma misol",
+    "note": "Jerdi kinnigini uzmoq iborasi; oddiy literal gap emas.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "Bӓrčin jerdi kinnigini",
+        "evidence_extracted": "kech­gacha tinim bilmay mehnat qiladigan insonlarga nisbatan ishlatiladi. Ma­\nsalan: Bӓrčin jerdi kinnigini üzӓdigӓn xātїn, bir minit timmiydi, bittӓ ӧzi mӓši\npӓrnikti qїlїp, dїjqančilik qilip beštӓ qїzdi čїqardї-ja. (<Barchin yerning kindig­\nini uzadigan xotin, bir daqiqa tinmaydi, bitta o‘zi mana shu issiqxonani qilib,\ndeh­qonchilik qilib, beshta qizdi chiqardi-ya). Bu ibora deyarli ayollarga nis­\nbatan ishlatiladi, ya’ni erkak kishilar qiladigan yumushlarni ham qilib keta­\nveradigan ayollarga nisbatan aytiladi.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN04",
+    "original_extracted": "Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär.",
+    "display": "Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär.",
+    "standard_meaning": "Bu to‘qsi tovoqda bodom kam ekan, qo‘shib qo‘yinglar.",
+    "translation_kind": "muallif tarjimasi; ko‘rsatish shakli saqlandi",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "maqoladagi yozma misol",
+    "note": "Muallif tarjimasida taksi deb yozilgan; buyumning nomi to‘qsi tovoq, transport taksisi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "Bü toqsї tāvāqta",
+        "evidence_extracted": "taqsimchalar jamlanmasi. To‘qsi tovoqqa marosim va tadbirlarda shirinliklar yoki chaq-chuqlar\nsolinadi. Bü toqsї tāvāqta bādām kӓmikӓn qošip qojїlär. (<Bu taksi tovoqda bodom kam ekan\nqo‘shib qo‘yinglar).\n     Āxsāxāltāvāq (oqsoqoltovoq) - yoshi ulug‘ keksalar uchun maxsus osh solingan lagan.\nSatvaldï ata ančadan beri kӓsӓl bolïp toj-hӓšӓmgӓ qošїlalmidi. Šü axsaxal tavaqtї nevӓrӓsidӓn\nbervar. Sa:ap boladï. (<Sotiboldi ota anchadan beri kasal bo‘lib to‘y-hashamga qo‘shilolmaydi.\nShu oqsol tovoqni nevarasidan berib yubor. Savob bo‘ladi.)",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN05",
+    "original_extracted": "Nān pӧpӓnӓk bāsmästän āldin, küngӓ jӓjip qurїtїp qoj.",
+    "display": "Nān pӧpӓnӓk bāsmästän āldin, küngӓ jӓjip qurїtїp qoj.",
+    "standard_meaning": "Nonni mog‘or bosmasidan oldin quyoshga yoyib quritib qo‘y.",
+    "translation_kind": "tahririy mazmuniy talqin",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "maqoladagi yozma misol",
+    "note": "Non saqlash haqidagi maqola gapi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "Nān pӧpӓnӓk bāsmästän",
+        "evidence_extracted": "non, po‘panak bosgan non kabi leksik birliklar faol qo‘llanadi. (Adabiy tilda mog‘or bosgan non\ndeyiladi). Nān pӧpӓnӓk bāsmästän āldin, küngӓ jӓjip qurїtїp qoj. (<Non po‘panak bomasdan oldin,\nkunga qo‘yib quritib qo‘y). Ma’lumot sifatida aytib o‘tishimiz o‘rinliki, pangladi so‘zi o‘rnida\nQashqadaryo “je”lovchi shevalarida “bo‘rsiq”1 so‘zi ishlatiladi.\n    Qäqirmäčäk (qaqirmachak) agarda osh damlanganda olov balandligidan osh tagining olishi\nyoki tandirdan non uzilganda tandirda qolib ketib singib pishgan qismiga nisbatan ushbu leksema\nqo‘llanadi. Xalq orasida shunday irim bor: kimki oshning qaqirmachog‘ini yesa, to‘yida yomg‘ir",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN06",
+    "original_extracted": "Bugun kečka\nsolli šävlä qilärkämmiz enäm äjtti.",
+    "display": "Bugun kečka solli šävlä qilärkämmiz enäm äjtti.",
+    "standard_meaning": "Bugun kechga suvi ko‘proq shavla qilar ekanmiz, onam aytdi.",
+    "translation_kind": "tahririy mazmuniy talqin",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "maqoladagi yozma misol",
+    "note": "So‘lning suvliroq ovqat ma’nosi, qovurilgan go‘sht ma’nosi emas.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "solli šävlä",
+        "evidence_extracted": "      1.  Qo‘yiq ovqatlarga nisbatan suvi ko‘proq bo‘lishiga nisbatan ishlatiladi. Bugun kečka\nsolli šävlä qilärkämmiz enäm äjtti.\n      2.  Qovurilgan go‘shtga nisbatan ham ishlatiladi. Baläŋi sāvuγï āšip ketipti, közini qärä, qoj\ngošini ālip žindej söl qïber.\n     Sujγāš (suyg‘osh) xamir yoyilib, mayda soch shaklida kesiladi, huddi mastava singari\npishiriladi, lekin guruch o‘rniga kesilgan xamir solinadi. Kesilgan xamirni oftobda quritilib zaxira\nuchun ham olib qo‘yish ham mumkin.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN07",
+    "original_extracted": "go: undey, go: bundey",
+    "standard_meaning": "goh unday, goh bunday",
+    "translation_kind": "muallif tarjimasi",
+    "region": "Dardoq",
+    "genre": "maqoladagi yozma misol",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 76,
+        "printed_pages": [
+          76
+        ],
+        "anchor_extracted": "go: undey, go: bundey",
+        "evidence_extracted": "Masalan, go: undey, go: bundey (<goh unday, goh bunday). Ba’zida leksemasi­\nga ma’nodosh bo‘lgan gohi, gohida leksemalari ham sheva vakillari nutqida\nga:gi, ga:gida tarzida talaffuz qilinadi.\n   Xulosa o‘rnida aytishimiz mumkinki, cho‘ziq unlilarni yana insonlar\nnutqidagi emotsional holatlarda uchratishimiz mumkin. Shevalarimizdagi\ncho‘ziq unlilarning talaffuz qilinishi so‘zlarga o‘ziga xos qo‘shimcha ma’no",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN08",
+    "original_extracted": "Yo‘q, buvi, siz nimanidir yashirayapsiz?",
+    "region": "Andijon deb talqin qilingan badiiy personaj nutqi",
+    "genre": "U. Hamdam asaridan ikkilamchi iqtibos",
+    "translation_kind": "talqin ochiq; buvi referentini aniqlash uchun asarning to‘liq konteksti kerak",
+    "note": "Dala suhbatining audio yozuvi emas; buvi barcha Andijonda doim ona degan lug‘aviy qoida olinmadi.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 194,
+        "printed_pages": [
+          194
+        ],
+        "anchor_extracted": "Yo‘q, buvi, siz nimanidir",
+        "evidence_extracted": "liklaridan foydalangan.\n   – Yo‘q, buvi, siz nimanidir yashirayapsiz?\n   Halima aya gap topolmay kalovlandi.\n   – Hech nimani yashirayotganim yo‘q, o‘g‘lim. Faqat sizlarning qiynalayot­\nganingizni ko‘rib o‘pkam to‘lib ketdi. Qo‘y, o‘g‘lim, o‘shag‘lani (U.Hamdam).\n   – Quyidagi matnda ham qo‘llanilgan ena, ovo dialektal birliklari ham\nhududiy jihatdan mansublikni ifodalash uchun xizmat qilgan.",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AN09",
+    "original_extracted": "Toqāčli balä sujgunčik.",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "maqol",
+    "translation_kind": "ma’no manbada batafsil ochilmagan; tayyor suhbatga qo‘llash belgilanmagan",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 331,
+        "printed_pages": [
+          331
+        ],
+        "anchor_extracted": "Toqāčli balä sujgunčik",
+        "evidence_extracted": "    Toqač (to‘qoch) kichgina non, kulcha. Odatda yosh bolasi bor xonadonlarda non qilganda\nqo‘shib to‘qoch ham yopiladi. Toqāčli balä sujgunčik. (Maqol)\n    Maj toqač (moy to‘qoch) adabiy tilimizdagi xamiri yupqa yoyib yog‘da pishiriladigan, is\nchiqarganda xolvaytar bilan qo‘shnilarga tarqatiladigan cho‘zma, cho‘zma-chalpak milliy taomi\nushbu shevada shu nom bilan ataladi.\n\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  }
+]

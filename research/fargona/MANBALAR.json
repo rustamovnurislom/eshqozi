@@ -1,0 +1,177 @@
+{
+  "uploaded_sources": [
+    {
+      "id": "F1",
+      "file_id": "file_00000000a38c8210b97300d154857bfb",
+      "path": "/workspace/attachments/ead6cc54-323e-4fe4-8fe0-60823d67d5c1/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "pages": 139,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e",
+      "text_characters": 260904,
+      "author": "Samixon Ashirboyev",
+      "title": "O‘zbek dialektologiyasi",
+      "year": 2016,
+      "publication": "Navro‘z, Toshkent",
+      "genre": "darslik",
+      "notes": "139 PDF sahifa; bibliografiyada 136 bet. Qashqadaryo va Samarqand bosqichlaridagi fayl bilan bir xil.",
+      "duplicates": [
+        {
+          "region": "qashqadaryo",
+          "source": "Q3"
+        },
+        {
+          "region": "samarqand",
+          "source": "M1"
+        }
+      ],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F2",
+      "file_id": "file_000000004f5c8210800def65b31c0d67",
+      "path": "/workspace/attachments/065d1fdf-5b14-40cc-b19a-33de753b7a05/5b015f0357f16.pdf",
+      "pages": 88,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+      "text_characters": 243755,
+      "author": "Sh. Xudoyqulova",
+      "title": "O‘zbek dialektologiyasi fanidan o‘quv-uslubiy majmua",
+      "year": 2008,
+      "publication": "Guliston davlat universiteti",
+      "genre": "o‘quv majmua",
+      "notes": "Avvalgi hududlarda ishlatilgan 5b015f0357f16.pdf bilan bir xil; mustaqil yangi dalil emas.",
+      "duplicates": [
+        {
+          "region": "qashqadaryo",
+          "source": "Q2"
+        },
+        {
+          "region": "samarqand",
+          "source": "M2"
+        },
+        {
+          "region": "jizzax",
+          "source": "J2"
+        },
+        {
+          "region": "andijon",
+          "source": "A2"
+        }
+      ],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F3",
+      "file_id": "file_0000000066608210ad58018e35cbfac3",
+      "path": "/workspace/attachments/4c0d1e6b-f102-4fba-bfa2-5869111c03e5/12755_1_5540C3A45A63EBDDF5434D8DBD1994103A09E3C4.pdf",
+      "pages": 96,
+      "sha256": "54f93934ced85c1d9090a37cf8cb02830f7ad7558321e02d523d6539badc7951",
+      "text_characters": 162099,
+      "author": "Yoqub Saidov",
+      "title": "O‘zbek dialektologiyasi (to‘ldirilgan va qayta nashri)",
+      "year": 2022,
+      "publication": "Durdona / Sadriddin Salim Buxoriy, Buxoro",
+      "genre": "o‘quv qo‘llanma",
+      "notes": "96 PDF sahifa; katalog matnidagi 74 bet raqami bilan farq bor. Shu sabab PDF sahifasi asosiy ko‘rsatkich. Jizzaxdagi nusxa bilan bir xil.",
+      "duplicates": [
+        {
+          "region": "jizzax",
+          "source": "J3"
+        }
+      ],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F4",
+      "file_id": "file_00000000d0688210a0750580b9fe37e3",
+      "path": "/workspace/attachments/1599da22-be73-4cc6-9503-4d9c3ce47579/46.pdf",
+      "pages": 3,
+      "sha256": "4316b00a4afc7297a7b7104dc15f646a55338619399081084c6522ca7e083e0b",
+      "text_characters": 8357,
+      "author": "G. Jo‘raboyeva; M. Tursunboyeva",
+      "title": "Farg‘ona (Oltiariq) guruhi shevalarining fonetik tahliliga doir",
+      "year": null,
+      "publication": null,
+      "genre": "fonetik maqola",
+      "notes": "Nashr sanasi va individual respondentlar berilmagan. Andijon A5 bilan bir xil; Oltiariq materiali shu yerga tegishli.",
+      "duplicates": [
+        {
+          "region": "andijon",
+          "source": "A5"
+        }
+      ],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F5",
+      "file_id": "file_0000000039808210b6ee066acd113a35",
+      "path": "/workspace/attachments/74a83505-6cc2-499d-b6c7-2f50cb44f728/Qo‘qon_DPI_Ilmiy_xabarlar_2026_yil_8_son_Avgust_B_seriyasi_part-004_p25-30.pdf",
+      "pages": 6,
+      "sha256": "b911623ac5bc9f3da9ebfc8a4de6a7f4fe2b6bee2039cc96bffbae85bc90a925",
+      "text_characters": 19382,
+      "author": "Mavjudboyeva Mardona Muzaffar qizi",
+      "title": "Farg‘ona va Xorazm shevalarida leksik farqlanish xususiyatlari (qiyosiy tahlil)",
+      "year": 2026,
+      "publication": "Qo‘qon DPI. Ilmiy xabarlar, 8-son, B seriya",
+      "genre": "qiyosiy maqola",
+      "notes": "Bosma 25–30-bet. DOI: 10.70728/b.series.fil.v08.i08.004. Muayyan qishloq va respondentlar ko‘rsatilmagan; vodiy va viloyat miqyosi aralashadi.",
+      "duplicates": [],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F6",
+      "file_id": "file_00000000837c8210b1296e025e94fdac",
+      "path": "/workspace/attachments/946ebbd5-fb4c-4620-982c-6a5d15273a88/492-494.pdf",
+      "pages": 3,
+      "sha256": "b1972ca094bd1d99834377c076e5cb330faa5a34fd51726cc9eef6957568c8cf",
+      "text_characters": 7222,
+      "author": "Saidumarova Muxlisaxon Saidazimxon qizi",
+      "title": "Farg‘ona viloyati, Uchko‘prik tumani hududi atrof qishloqlar shevasiga oid so‘zlardan to‘plangan ayrim so‘zlar lug‘ati",
+      "year": 2025,
+      "publication": "Ilmiy tadqiqotlar va ularning yechimlari jurnali, volume 4, issue 02, aprel",
+      "genre": "mahalliy lug‘at maqolasi",
+      "notes": "Annotatsiyada Begmurod qishlog‘i qayd etilgan; 10 birlikning qishloqlar bo‘yicha alohida taqsimoti va respondent ma’lumotlari yo‘q.",
+      "duplicates": [],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F7",
+      "file_id": "file_0000000035488210a51aa965f237f451",
+      "path": "/workspace/attachments/24710439-3a6a-408e-b413-e4e592b3d109/147-154.pdf",
+      "pages": 8,
+      "sha256": "20b1701bac2961f1405d3de13ac652df66479993d66699b24663128d283f1803",
+      "text_characters": 16579,
+      "author": "Ahmadova Rohila Nodirjon qizi; ilmiy rahbar I.H. Yoqubov",
+      "title": "Farg‘ona shevasining fonetik, morfologik hamda leksik xususuyatlari",
+      "year": null,
+      "publication": "Education Science and Innovative Ideas in the World",
+      "genre": "umumlashtiruvchi maqola",
+      "notes": "Bosma 147–154-bet. Kolontitulda November va Part 10 1; aniq yil ko‘rsatilmagan. Leksik va grammatik izohlardagi kamchiliklar alohida qayd etildi.",
+      "duplicates": [],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    },
+    {
+      "id": "F8",
+      "file_id": "file_000000006904821084db2c889653528f",
+      "path": "/workspace/attachments/10aea744-5b12-43f4-b562-dbcbc8f60b52/7-O‘zbek-xalq-so‘zlari.pdf",
+      "pages": 392,
+      "sha256": "461c356d608fbce159d8fe88f03e73f68a41e90c05d20cf91735577cd7461ae8",
+      "text_characters": 841278,
+      "author": "Feruza Musayeva",
+      "title": "O‘zbek xalq so‘zlari",
+      "year": 2023,
+      "publication": "Innovatsion rivojlanish nashriyot-matbaa uyi, Toshkent",
+      "genre": "izohli lug‘at va nazariy kirish",
+      "notes": "392 PDF sahifa. Lug‘at 54-betdan boshlanadi. Illyustratsiyalar badiiy, ilmiy va publitsistik asarlardan; audio yoki respondent dialogi deb qaralmaydi.",
+      "duplicates": [],
+      "references_online_verified": false,
+      "external_instructions_followed": false
+    }
+  ],
+  "source_note": "Bir xil faylning takror yuborilishi mustaqil tasdiq emas."
+}

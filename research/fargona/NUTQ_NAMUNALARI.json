@@ -1,0 +1,370 @@
+[
+  {
+    "id": "FN001",
+    "target": "paynob",
+    "text_source": "Bugun paynobdan suv kelsa dalaga suv qo’yamiz.",
+    "meaning_uz": "Suvni dalaga qo‘yish sharti.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Ta’rifdagi chiqish yo‘nalishi bilan misoldagi kelish yo‘nalishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Bugun paynobdan suv kelsa dalaga suv qo’yamiz.",
+        "evidence_extracted": "vasiga oid ayrim so’zlar lug’ati\n Paynob - dala va uylardagi ariqlardan suvning chiqib ketish joyi.\nBugun paynobdan suv kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN002",
+    "target": "durra",
+    "text_source": "Buvimning avvaldan o’rab yuradigan katta durrasi bor.",
+    "meaning_uz": "Ro‘mol haqida maishiy gap.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Bu misoldagi buvim kimligi izohlanmagan; ona/buvi ma’nosi majburan tanlanmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Buvimning avvaldan o’rab yuradigan katta durrasi bor.",
+        "evidence_extracted": "qlardan suvning chiqib ketish joyi.\nBugun paynobdan suv kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nt",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN003",
+    "target": "cherdak",
+    "text_source": "Biz har doim o’riklarni cherdakka yoyib quritamiz.",
+    "meaning_uz": "O‘rik quritish joyi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Cherdakning tom/chordoq ma’nosi mahalliy tekshiriladi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Biz har doim o’riklarni cherdakka yoyib quritamiz.",
+        "evidence_extracted": "suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foyda",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN004",
+    "target": "otashkurak",
+    "text_source": "Sardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.",
+    "meaning_uz": "Cho‘g‘ni tortish va taomning tagiga olishi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Shoshilinch yaqin murojaat; yangi tanishga shu ohang avtomatik berilmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Sardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.",
+        "evidence_extracted": "akka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har do",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN005",
+    "target": "salla",
+    "text_source": "Qudaziyopada har doim qudalarga o’nta salla kirgiziladi.",
+    "meaning_uz": "Marosimdagi shirinlik.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Har doim va o‘nta muallif misolidagi lokal da’vo; barcha Farg‘ona to‘yiga shart emas.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Qudaziyopada har doim qudalarga o’nta salla kirgiziladi.",
+        "evidence_extracted": ", ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxti",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN006",
+    "target": "charqi",
+    "text_source": "Mehmonlarga ikki charqi osh kirgizdik.",
+    "meaning_uz": "Mehmonlarga osh tortish.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Idish miqdori orqali taom miqdori; charqi hajmi berilmagan.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Mehmonlarga ikki charqi osh kirgizdik.",
+        "evidence_extracted": "im qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN007",
+    "target": "yelpishtovoq",
+    "text_source": "Buvim har doim guruchni yelpishtovoqda tozalaydi.",
+    "meaning_uz": "Guruch tozalash.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Buvimning qarindoshlik ma’nosi bu misolda noaniq.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Buvim har doim guruchni yelpishtovoqda tozalaydi.",
+        "evidence_extracted": "\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham ezib maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib be",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN008",
+    "target": "keli",
+    "text_source": "Onam bizga ko’pincha kelida tolqon qilib beradi.",
+    "meaning_uz": "Tolqon tayyorlash.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Lug‘atdagi otning gapda -da bilan qo‘llanishi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Onam bizga ko’pincha kelida tolqon qilib beradi.",
+        "evidence_extracted": "adi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham ezib maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n Uyqozon- qozonning ichiga chini qo’yib, ustiga to’rtta cho’pakni joylashtirib, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.c",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN009",
+    "target": "rumcha",
+    "text_source": "Onam menga yangi rumcha olib berdi.",
+    "meaning_uz": "Kiyim olish.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Maqolada kamzir/nimcha ma’nosi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Onam menga yangi rumcha olib berdi.",
+        "evidence_extracted": "maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n Uyqozon- qozonning ichiga chini qo’yib, ustiga to’rtta cho’pakni joylashtirib, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.com",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN010",
+    "target": "uyquzun",
+    "text_source": "Bugun ikki uyquzun manti pishirdik.",
+    "meaning_uz": "Manti pishirish.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "genre": "maqola muallifi bergan lug‘at misoli; audio dialog emas",
+    "notes": "Sarlavha birlik Uyqozon; misol uyquzun. Talaffuz farqi yoki xato ekanligi ochiq.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Bugun ikki uyquzun manti pishirdik.",
+        "evidence_extracted": "joylashtirib, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.com",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN011",
+    "target": "buvi",
+    "text_source": "– Buvi, nima gap? Moshin ko‘rinmaydi? Tolib qayoqqa ketdi?",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Adham Damin, Hayot va o‘lim",
+    "notes": "Ona bilan suhbat; manba buvi ma’nosini ona deb izohlaydi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 81,
+        "printed_page": 81,
+        "anchor_extracted": "– Buvi, nima gap? Moshin ko‘rinmaydi? Tolib qayoqqa ketdi?",
+        "evidence_extracted": "n, Turg‘unlik\nyillari).\n  BUVI (Farg‘ona) Ona. Akmal Katta hovliga qaytarkan buvisiga ko‘zi\ntushdi. – Buvi, nima gap? Moshin ko‘rinmaydi? Tolib qayoqqa ketdi? –\ndedi u xovliqib. (Adham Damin, Hayot va o‘lim).\n  BUVRIL Burul; xoldor, ko‘kish otning tusi va shu tusdagi ot. – Hey,\nmardi maydon! Go‘dakniyam urasanmi, meni qamchila­sang bo‘lmaydimi!\n\n\n\n                                             – 81 –",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN012",
+    "target": "elchimoq",
+    "text_source": "mingboshining ketidan elchib yurardi?",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Abdulhamid Cho‘lpon, Kecha va kunduz",
+    "notes": "Birovning ketidan ergashib yurish; xulosa uchun qisqa parcha.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 103,
+        "printed_page": 103,
+        "anchor_extracted": "mingboshining ketidan elchib yurardi?",
+        "evidence_extracted": " loaqal mingboshiga\nmirza yo tilmoch bo‘lmasa, o‘zi o‘rus tilini tuzuk-quruq bilmasa... nega\nmunaqa mingboshining ketidan elchib yurardi? Nega? (Abdulhamid\nCho‘lpon, Kecha va kunduz). Yarashiqsiz qilig‘idan, ayol kishining or-\ntidan bo‘taloqday elchiganidan endi xijolat tortdi va tez-tez yurib, hojatx-\nonaga o‘tdi. (Qamchibek Kenja, Palaxmon toshlari).\n  EMARI (Buxoro) Anoyi, sodda, go‘l. – Qiziq ekansiz-a, usto, – dedi\nElmu­rod bobo mitti ko‘zlarini o‘ynatib, – qaysi emar",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN013",
+    "target": "g‘ulg‘uli",
+    "text_source": "Keyin, g‘ulg‘ulidayam…",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Iqbol Mirzo, Zarb",
+    "notes": "Parrandalardagi toj haqida; adabiy asardagi parcha.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 352,
+        "printed_page": 352,
+        "anchor_extracted": "Keyin, g‘ulg‘ulidayam…",
+        "evidence_extracted": "tdi… (Hamid Elxon,\nMaynagul).\n  G‘ULG‘ULI (Farg‘ona) Kurka. – Parrandadan tovusdayam toj bo‘la-\ndi. Keyin, g‘ulg‘ulidayam… (Iqbol Mirzo, Zarb).\n  G‘UMBARAK Chambarak. Atrofi yam-yashil maysazor, ko‘p qirrali\nqizil ipak chodir yuqoriroqdagi tepalikdan qaralsa, ko‘k baxmal choyshab-\nga qizil g‘umbarak gul tikilgandek ko‘rinadi. (Mannop Egamberdiyev, Sa-\nriq ajdar hamlasi). Ulardan (olma yog‘ochlaridan) cho‘pqoshiq, cho‘pto-\nvoq, so‘rilarga g‘umbarak, panjara y",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN014",
+    "target": "lappak",
+    "text_source": "E, bugun kino bo‘la-",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Isajon Sulton, Bo‘ri",
+    "notes": "So‘zning antennaga oid izohiga illyustratsiya; satr bo‘linishi asl holda.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 180,
+        "printed_page": 180,
+        "anchor_extracted": "E, bugun kino bo‘la-",
+        "evidence_extracted": "yo‘ldosh antennasi. Uzun terak yog‘ochini uchiga\nmahkamlangan ikkita katta mis lappak lopillaydi. – E, bugun kino bo‘la-\ndi! – deb iljayishadi kishilar. (Isajon Sulton, Bo‘ri).\n  LATTATIKAN q. paxtatikan. Jarko‘cha yoqasida bo‘yniga dor os-\nmagan qolmaydi. Bo‘riguldan tortib pochaqirqar, dilikaptar, ilonquyruq,\narslonquyruq, itbodom, itog‘iz, ittovon, lattatikan, otquloq, shaytonkel-\nmas, shaytonkovush, cha­qamig‘-u eshakmiyagacha. (Bahodir Qobul, Oy\nyo‘li",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN015",
+    "target": "ot ninachi",
+    "text_source": "ko‘k ranglisini ot ninachi deymiz",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Isajon Sulton, Onaizorim",
+    "notes": "Katta ko‘k ninachi haqida.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 214,
+        "printed_page": 214,
+        "anchor_extracted": "ko‘k ranglisini ot ninachi deymiz",
+        "evidence_extracted": "ninachi zaif bo‘la-\ndi, tez charchab qoladi. Qizg‘ish tusli yana bir turi ham bor. Eng katta-\nsini, ko‘k ranglisini ot ninachi deymiz, u sira toliqmaydi. (Isajon Sulton,\nOnaizorim).\n  OTOVNARI To‘y qilgan kishining to‘yda bel bog‘lab xizmat qil-\ngan do‘st-u qadrdonlariga beradigan ziyofati. To‘y tarqab, endi to‘yning\notovnari boshlanibdi. (To‘ra Sulaymon, Tarki jamoa).\n  OTCHUMOLI Oyoqlari uzun, katta chumoli. Otchumolining ko‘zi-\nday shu olma urug‘i bir paytlar gultuv",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FN016",
+    "target": "alamazon",
+    "text_source": "tandirdagi o‘tlar alamazon bo‘ldi.",
+    "area": "Farg‘ona belgisi yoki kirishdagi lokal qayd",
+    "genre": "lug‘atdagi badiiy illyustratsiya",
+    "original_work": "Anvar Obidjon, Meshpolvonning janglari",
+    "notes": "Olovning kuchli yonishi haqidagi illyustratsiya.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 58,
+        "printed_page": 58,
+        "anchor_extracted": "tandirdagi o‘tlar alamazon bo‘ldi.",
+        "evidence_extracted": "xo‘rozga, kurtaklar charosga\naylandi. Boshoqlarga o‘roq, qovunlarga pichoq tegib, jazlar bir qozon,\ntandirdagi o‘tlar alamazon bo‘ldi. (Anvar Obidjon, Meshpolvonning jan-\nglari). Bu orada qizlar kelinni davra o‘rtasiga boshlab kirishdi, alamazon\nqilib yoqilgan gulxan teg­rasida aylantirib, “yor-yor”ni avjga chiqarishdi.\n(Anvar Obidjon, Meshpolvonning janglari).\n  ALGOV (Qashqadaryo) Ehtiyoji bor narsani boshqalardan vaqtincha\nolib turish va berib turish. Algov qilib xas",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "AI01",
+    "display_form": "Chopmagan devasi yo‘q",
+    "meaning": "buzg‘unchi, urishqoq, janjalkash odam haqida",
+    "literal": "Manba deva so‘zini muqaddas tepalik deb izohlaydi; alohida mustaqil lug‘aviy tasdiq olinmagan.",
+    "region": "Andijon, Dardoq qishlog‘i",
+    "genre": "ibora yoki obrazli birikma",
+    "tone": "salbiy",
+    "usage_note": "Manbadagi deva shakli tuya ma’nosida deb tarjima qilinmadi.",
+    "variants": [],
+    "exclusive_to_region": null,
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "Chopmagan devasi yo‘q",
+        "evidence_extracted": "burningni o‘zi qolibdi-yu. Vaqtida ovqatlan).\n  Čapmӓgӓn devӓsi joq\\Chopmagan devasi yo‘q leksik birligi buzg‘un­\nchi, urushqoq, janjalkash insonlarga nisbatan ishlatiladi. Deva so‘zi muqad­\ndas tepaliklarga nisbatan ishlatiladi, ya’ni odam shunchalik buzg‘unchiki,\nhatto muqaddas bo‘lishiga qaramasdan uni chopib, oyoqosti qilgan: nargï\nmӓhӓllӓdӓgi Qoldaš hӓmmӓni ӓdӓbini berardï, ӧtkӓn jili üčinči mӓttӓ qamaldї,\nqїmagan iši, čapmaɣan devӓsi qamaɣan. (<Narigi mahalladagi Qo‘ldosh ham­",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI02",
+    "display_form": "Jerdi kinnigini uzmoq",
+    "meaning": "tinim bilmay ishlaydigan, qiyin yumushlarni ham bajaradigan kishini ifodalash",
+    "literal": "Yerning kindigini uzmoq.",
+    "region": "Andijon, Dardoq qishlog‘i",
+    "genre": "ibora yoki obrazli birikma",
+    "tone": "maqtov",
+    "usage_note": "Muallif asosan ayollarga nisbatan qo‘llanishini qayd etadi; bu hamma ayolga xos xarakter degani emas.",
+    "variants": [],
+    "exclusive_to_region": null,
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "jerdi kinnigini üzmoq",
+        "evidence_extracted": "nishi mumkin:\n   Ushbu qishloqda jerdi kinnigini üzmoq iborasi mehnatkash, o‘ta ko‘p\nish qiladigan, har qanday qiyin yumushlarni ham qila oladigan, ertalabdan\nkech­gacha tinim bilmay mehnat qiladigan insonlarga nisbatan ishlatiladi. Ma­\nsalan: Bӓrčin jerdi kinnigini üzӓdigӓn xātїn, bir minit timmiydi, bittӓ ӧzi mӓši\npӓrnikti qїlїp, dїjqančilik qilip beštӓ qїzdi čїqardї-ja. (<Barchin yerning kindig­\nini uzadigan xotin, bir daqiqa tinmaydi, bitta o‘zi mana shu issiqxonani qilib,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI03",
+    "display_form": "Lakatri kuchli",
+    "meaning": "gap poylab, boshqalarning gapini eshitib olish haqidagi ifoda",
+    "literal": null,
+    "region": "Andijon, Dardoq qishlog‘i",
+    "genre": "ibora yoki obrazli birikma",
+    "tone": "tanqid yoki hazil; kontekstga bog‘liq",
+    "usage_note": "Eshitishning klinik kuchliligi ma’nosiga tenglashtirilmaydi.",
+    "variants": [],
+    "exclusive_to_region": null,
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "lӓkӓtri küčli",
+        "evidence_extracted": "gapni poylab gapingizni eshitib oladi. Dardoq shevasi vakillarida bunday\nharakatga ega bo‘lgan insonlarga nisbatan lӓkӓtri küčli, qulāɣї diɳ, diɳ\nqulāq kabi leksik birliklar ishlatiladi. Masalan: Birӓm lӓkӓtriɳ küčli-ya? Bü\ngӓpti qadan ešittiɳ?(<Biram lakatring kuchli-ya? Bu gapni qayerdan eshit­\nding?)\n\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI04",
+    "display_form": "Qulog‘i ding",
+    "meaning": "boshqalarning gapini poylab eshitadigan kishi haqida",
+    "literal": null,
+    "region": "Andijon, Dardoq qishlog‘i",
+    "genre": "ibora yoki obrazli birikma",
+    "tone": "tanqid yoki hazil",
+    "usage_note": "Manbada ding quloq shakli ham shu kontekstda berilgan.",
+    "variants": [
+      "ding quloq"
+    ],
+    "exclusive_to_region": null,
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "qulāɣї diɳ",
+        "evidence_extracted": "gapni poylab gapingizni eshitib oladi. Dardoq shevasi vakillarida bunday\nharakatga ega bo‘lgan insonlarga nisbatan lӓkӓtri küčli, qulāɣї diɳ, diɳ\nqulāq kabi leksik birliklar ishlatiladi. Masalan: Birӓm lӓkӓtriɳ küčli-ya? Bü\ngӓpti qadan ešittiɳ?(<Biram lakatring kuchli-ya? Bu gapni qayerdan eshit­\nding?)\n\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI05",
+    "display_form": "Chimxo‘r ho‘kiz ochdan o‘lar",
+    "meaning": "ovqatni ortiqcha tanlashni tanqid qiluvchi maqol",
+    "literal": "Chimxo‘r ho‘kiz ochdan o‘lar.",
+    "region": "Andijon, Dardoq qishlog‘i",
+    "genre": "maqol",
+    "tone": "tanbeh",
+    "usage_note": "Maqolni o‘quvchiga tibbiy xulosa yoki betaraf maqtov qilib ishlatmaslik kerak.",
+    "variants": [],
+    "exclusive_to_region": null,
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 174,
+        "printed_pages": [
+          174
+        ],
+        "anchor_extracted": "čïmxor hokïz",
+        "evidence_extracted": "bu so‘z, asosan, hayvonlarga nisbatan ishlatiladi, ammo o‘rganilayotgan sheva\nvakillari nutqida esa insonlarga nisbatan ham ko‘p qo‘llanadi: čïmxor hokïz\naštan olar. (<Chimxo‘r ho‘kiz ochdan o‘lar) (Maqol). Vaj, qїzїmej, büna: čimxor\nbӧmӓgin, unaqada azïp ketӓsӓn-u. Qara, bunini ӧzi qaptї-ju. Vaxtїda aqatlan.\n(<Voy, qizim-ey, bunaqa chimxo‘r bo‘lmagin, unaqada ozib ketasan-u. Qara,\nburningni o‘zi qolibdi-yu. Vaqtida ovqatlan).\n  Čapmӓgӓn devӓsi joq\\Chopmagan devasi yo‘q leksik birligi buzg‘un­",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI06",
+    "display_form": "ushug urmoq",
+    "meaning": "meva-sabzavotni sovuq urishi",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "oziq-ovqat jarayonini ifodalovchi birikma",
+    "tone": "betaraf",
+    "usage_note": "Ko‘chma shaxs tavsifiga dalilsiz aylantirilmaydi. Push/pusht haqidagi etimologik izoh mustaqil tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 329,
+        "printed_pages": [
+          329
+        ],
+        "anchor_extracted": "(ushug urmoq)",
+        "evidence_extracted": "Bunday holatni ifodalash uchun adabiy tilimizda sovuq urmoq iborasi ishlatiladi. Ushbu shevada\nbu ibora bilan bir qatorda üšüg urmāq (ushug urmoq) iborasi qo‘llaniladi. Kӓrtiškӓ, sӓvzlӓrdi\npaxal bilän oräp qojïš, üšüg ürüp ketmäsin. Ettädän čillä kirädi. Qïštï čilläsi heš närsäni äjämäjdi.\n     Kälpätir (kalpatir) nonning bir turi bo‘lib, achitqisiz xamir qoriladi, xamir yoyilib ichiga\nqaymoq suriladi, so‘ngra shakl berib tandirda yopiladi. Suyuq taomlar, asosan, sho‘rva bilan\nyeyish uchun tayyorlanadi.\n     U(v)uz (uvuz)  sigir yangi tug‘ganda birinchi sog‘ilgan sutini qaynatib tayyorlanadigan,",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI07",
+    "display_form": "non push tashlamoq",
+    "meaning": "tandirga yopilgan non pishmasdan tushib ketishi",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "oziq-ovqat jarayonini ifodalovchi birikma",
+    "tone": "betaraf",
+    "usage_note": "Ko‘chma shaxs tavsifiga dalilsiz aylantirilmaydi. Push/pusht haqidagi etimologik izoh mustaqil tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(non push tashlamoq)",
+        "evidence_extracted": "[Xolmonova 2022: 95].\n    Nān puš tӓšlӓmāq (non push tashlamoq). Agarda tandir juda issiq bo‘lsa, yoki xamir haddan\ntashqari ko‘pib ketgan bo‘lsa, tandirga yopilgan non hali pishmay turib tushib ketadi. O‘zbek\ntilining izohli lug‘atida pusht so‘zining “kimsa yoki oilaning o‘zidan avvalgi avlodi yoki keyingi\navlodi, avlod-ajdod; nasl” ma’nolaridan tashqari “yoqtirmaslik, toqat qila olmaslik” kabi semasi\nham mavjud [O‘TIL, III tom 326]. Yuqoridagilardan kelib chiqib aytishimiz mumkinki, tandir\nhaddan ziyod issig‘ligiga toqat qila olmagan non tushib ketadi va bu jarayon sheva vakillarining",
+        "extraction": "pdf_text"
+      }
+    ]
+  },
+  {
+    "id": "AI08",
+    "display_form": "non gullamoq",
+    "meaning": "yaxshi oshmagan xamirdan yopilgan nonning ayrim joylari qavarishi",
+    "region": "Janubi-sharqiy Andijon: Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa; har birlik qishloq bo‘yicha ajratilmagan",
+    "genre": "oziq-ovqat jarayonini ifodalovchi birikma",
+    "tone": "betaraf",
+    "usage_note": "Ko‘chma shaxs tavsifiga dalilsiz aylantirilmaydi. Push/pusht haqidagi etimologik izoh mustaqil tekshirilmagan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 330,
+        "printed_pages": [
+          330
+        ],
+        "anchor_extracted": "(non gullamoq)",
+        "evidence_extracted": "nutqida nān püš tӓšӓdi (non push tashadi), tüšip ketti (tuship ketti) birikmalari bilan ifodalanadi.\n    Nān güllä (non gullamoq) birikmasi o‘rganilayotgan shevada to‘liq oshmagan xamirdan\ntayyorlangan nonga nisbatan qo‘llanadi. Chunki agar xamir yaxshi oshirilmasa, tandirga yopilgan\nnonning ayrim joylari qavarib chiqadi.\n\n\n",
+        "extraction": "pdf_text"
+      }
+    ]
+  }
+]

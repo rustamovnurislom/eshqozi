@@ -1,0 +1,1339 @@
+{
+  "description": "Manbasi va hududi ko‘rsatilgan ishchi lug‘at. Qayd etilganlik bugungi tabiiylik yoki boshqa hududda yo‘qlikni bildirmaydi.",
+  "entry_count": 63,
+  "entries": [
+    {
+      "id": "BL001",
+      "form": "susaq",
+      "variants": [],
+      "meaning_uz": "cho‘mich",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 13,
+      "printed_pages": [
+        13
+      ],
+      "evidence_excerpt": ": qurï  (quruq), еlmudаm  (hamisha), bехud  (behush), budurmuq  (fe’li yomon, badxulq), burdumbаy (foyda), dușаq (belboğ), susаq (cho‘mich), uхu (uyqu).      2. [u] va [ü] – unli fonemalari ba’zi bir qishloq shevalarida (Bayot, Chandir, Qoravul qishloqlarida) ъ, ï>u va ü unli tovushlariga o‘tadi: sǝvъn (sovun), qаvïn (qovun), gürъꞑ (gurung), qïrvаq",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL002",
+      "form": "uxu",
+      "variants": [],
+      "meaning_uz": "uyqu",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 13,
+      "printed_pages": [
+        13
+      ],
+      "evidence_excerpt": " еlmudаm  (hamisha), bехud  (behush), budurmuq  (fe’li yomon, badxulq), burdumbаy (foyda), dușаq (belboğ), susаq (cho‘mich), uхu (uyqu).      2. [u] va [ü] – unli fonemalari ba’zi bir qishloq shevalarida (Bayot, Chandir, Qoravul qishloqlarida) ъ, ï>u va ü unli tovushlariga o‘tadi: sǝvъn (sovun), qаvïn (qovun), gürъꞑ (gurung), qïrvаqа (qurbaqa), qïr",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL003",
+      "form": "o‘g‘rincha",
+      "variants": [],
+      "meaning_uz": "yashirincha",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 13,
+      "printed_pages": [
+        13
+      ],
+      "evidence_excerpt": "i fonemasi BO‘Shda bo‘g‘in hosil qilishda so‘zning boshi va ko‘p bo‘g‘inli so‘zlarning o‘rta bo‘g‘inida ishtirok  etadi: оğrïnҫа (yashirincha), оyаq  (uyg‘oq),  оyïq  (chuqur),  șоrtɔq  (butasimon  cho‘l  o‘simligi),  șоdkɔrï (hazilkash), ҫоqlаmаq (nishonga olmoq), ҫɔltоynɔq (sho‘x).     ө unli fonema. “[ө] fonemasi tayanch shahar shevalarida adabi",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL004",
+      "form": "oyaq",
+      "variants": [],
+      "meaning_uz": "uyg‘oq",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 13,
+      "printed_pages": [
+        13
+      ],
+      "evidence_excerpt": "‘g‘in hosil qilishda so‘zning boshi va ko‘p bo‘g‘inli so‘zlarning o‘rta bo‘g‘inida ishtirok  etadi: оğrïnҫа (yashirincha), оyаq  (uyg‘oq),  оyïq  (chuqur),  șоrtɔq  (butasimon  cho‘l  o‘simligi),  șоdkɔrï (hazilkash), ҫоqlаmаq (nishonga olmoq), ҫɔltоynɔq (sho‘x).     ө unli fonema. “[ө] fonemasi tayanch shahar shevalarida adabiy tilda yo‘q. Andijon",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL005",
+      "form": "tiramo",
+      "variants": [],
+      "meaning_uz": "kuz",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 15,
+      "printed_pages": [
+        15
+      ],
+      "evidence_excerpt": "Shda so‘z bo‘g‘inining boshida,  o‘rtasida va oxirida kela  oladi: tǝmǝkın (umidvor), tеndɔr (baquvvat), tаnqа (qumg‘on), tırǝmɔ (kuz) kabi.    D – undosh fonemasi. Til oldi, jarangli, portlovchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida kela oladi: dılık (tilik), dïmsïq (turtki), dımdık (tikka), dïkvɔș (qo‘pol) kabi.     S – ",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL006",
+      "form": "mushoyit",
+      "variants": [],
+      "meaning_uz": "halaqit",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 15,
+      "printed_pages": [
+        15
+      ],
+      "evidence_excerpt": "   M – undosh  fonemasi.  Lab-lab,  portlovchi,  jarangli.  So‘zning  istalgan bo‘g‘inida ishtirok eta oladi: mөm (ish), müșɔyıt (halaqit), mɔslïq (o‘laksa) kabi.    P – undosh fonemasi. Til oldi, portlovchi, jarangsiz. BO‘Shda bu undosh tovush  so‘z  bo‘g‘inlarining  boshi  va  o‘rtasida  ko‘proq  uchraydi: pümmǝ (g‘o‘zapoya), pоrхɔn (folbin), pɔy",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL007",
+      "form": "chakida",
+      "variants": [],
+      "meaning_uz": "suzma",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 15,
+      "printed_pages": [
+        15
+      ],
+      "evidence_excerpt": "ndosh fonemasi. Til oldi, jarangsiz, qorishiq undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida kela oladi: ҫаkïdа (suzma), ҫǝkǝr (quduq chelak), ҫаңңаlɔq (chanoq) kabi.      J – undosh fonemasi. Til oldi, jarangli, sirg‘aluvchi undosh. Shevada kam qo‘llanadigan j undoshi o‘zlashgan tovush bo‘lib, adabiy tilda uchrovchi so‘zlar tarkib",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL008",
+      "form": "naymit",
+      "variants": [],
+      "meaning_uz": "epchil",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 15,
+      "printed_pages": [
+        15
+      ],
+      "evidence_excerpt": "dosh fonemasi. Til oldi, jarangli, portlovchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida kela oladi: nɔymït (epchil), nïmkɔlа (nopok), nïmǝrkǝk (hezalak) kabi.                                                                   15",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL009",
+      "form": "lekot",
+      "variants": [],
+      "meaning_uz": "holsiz",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": "h fonemasi. Til oldi, jarangli, sirg‘aluvchi undosh. BO‘Shda so‘z bo‘g‘inining  boshida,  o‘rtasida va  oxirida  keladi:  lеkɔt  (holsiz), lаnğïllаmɔq (to‘lqinlanmoq), lаtlаmɔq (kamsitmoq) kabi.    R – undosh fonemasi. Til oldi, jarangli, sirg‘aluvchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida keladi: rеș (jarohat), rеșǝ (ildiz",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL010",
+      "form": "resh",
+      "variants": [],
+      "meaning_uz": "jarohat",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": " – undosh fonemasi. Til oldi, jarangli, sirg‘aluvchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida keladi: rеș (jarohat), rеșǝ (ildiz), rоdа (ichak), rөytǝ (atayin) kabi.      Til o‘rta undoshi. Y – undosh fonemasi. Til o‘rta, jarangli, sirg‘aluvchi undosh.  BO‘Shda  so‘z  bo‘g‘inining  boshida,  o‘rtasida  va  oxirida  keladi: yа",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL011",
+      "form": "resha",
+      "variants": [],
+      "meaning_uz": "ildiz",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": "si. Til oldi, jarangli, sirg‘aluvchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida keladi: rеș (jarohat), rеșǝ (ildiz), rоdа (ichak), rөytǝ (atayin) kabi.      Til o‘rta undoshi. Y – undosh fonemasi. Til o‘rta, jarangli, sirg‘aluvchi undosh.  BO‘Shda  so‘z  bo‘g‘inining  boshida,  o‘rtasida  va  oxirida  keladi: yаnаlаmоq (yaqinla",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL012",
+      "form": "roda",
+      "variants": [],
+      "meaning_uz": "ichak",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": "jarangli, sirg‘aluvchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida keladi: rеș (jarohat), rеșǝ (ildiz), rоdа (ichak), rөytǝ (atayin) kabi.      Til o‘rta undoshi. Y – undosh fonemasi. Til o‘rta, jarangli, sirg‘aluvchi undosh.  BO‘Shda  so‘z  bo‘g‘inining  boshida,  o‘rtasida  va  oxirida  keladi: yаnаlаmоq (yaqinlashtirmoq), müș",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL013",
+      "form": "nakora",
+      "variants": [],
+      "meaning_uz": "qanday",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": ", portlovchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida keladi: kеlҫık (soqov), kǝmbǝqɔ (chidamsiz), nǝkɔrǝ (qanday), sǝkǝltırıң (bekorchi) kabi.    G – undosh fonemasi. Sayoz til orqa, jarangli, portlovchi undosh. BO‘Shda so‘z bo‘g‘inining boshida, o‘rtasida va oxirida kela oladi: gөtkǝy (asos), gөvzǝmǝk (qo‘zg‘amoq) kabi.    ",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL014",
+      "form": "hitlo",
+      "variants": [],
+      "meaning_uz": "anavi",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 16,
+      "printed_pages": [
+        16
+      ],
+      "evidence_excerpt": "‘g‘inida talaffuz qilinmay, odatda tushib qoladi: hөңqıldǝmǝk (yig‘lamsiramoq), hөbdırǝm (unchalik), hǝqırmǝk (chaqirmoq), hıtlɔ (anavi) kabi.     “Undoshlar bilan bog‘liq fonetik hodisalar” dеb nomlanuvchi toʻrtinchi bo‘lim shevada undoshlar bilan bog‘liq fonetik jarayonlar izohlangan. Assimilyatsiya. Bu fonetik hodisa o‘zbek adabiy tili, lahja va",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL015",
+      "form": "haz",
+      "variants": [],
+      "meaning_uz": "huzur, halovat, maza, kayf",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "gi o‘rinlarda – LSG); 2) o‘zbek adabiy tilida uchramaydigan, biroq BO‘Sh leksikasida qo‘llanadigan arabcha leksik birliklar (hәz “huzur, halovat, maza, kayf”, bәlli “nishon, belgi”, bәlli-külli “butunlay, batamom”, nәl “taqa”, ğɔssɔl “yuvg‘uchi”, rɔvɔt “qishloq”, jübә “bolalar kiyimi”, yә:s “aza” va  h.k.); 3) o‘zbek adabiy  tilidagi arabcha qatlam",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL016",
+      "form": "balli",
+      "variants": [],
+      "meaning_uz": "nishon, belgi",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "iy tilida uchramaydigan, biroq BO‘Sh leksikasida qo‘llanadigan arabcha leksik birliklar (hәz “huzur, halovat, maza, kayf”, bәlli “nishon, belgi”, bәlli-külli “butunlay, batamom”, nәl “taqa”, ğɔssɔl “yuvg‘uchi”, rɔvɔt “qishloq”, jübә “bolalar kiyimi”, yә:s “aza” va  h.k.); 3) o‘zbek adabiy  tilidagi arabcha qatlamdan ma’nosiga ko‘ra farq qiluvchi le",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL017",
+      "form": "balli-kulli",
+      "variants": [],
+      "meaning_uz": "butunlay, batamom",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "q BO‘Sh leksikasida qo‘llanadigan arabcha leksik birliklar (hәz “huzur, halovat, maza, kayf”, bәlli “nishon, belgi”, bәlli-külli “butunlay, batamom”, nәl “taqa”, ğɔssɔl “yuvg‘uchi”, rɔvɔt “qishloq”, jübә “bolalar kiyimi”, yә:s “aza” va  h.k.); 3) o‘zbek adabiy  tilidagi arabcha qatlamdan ma’nosiga ko‘ra farq qiluvchi leksik-semantik dialektizmlar (",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL018",
+      "form": "ravot",
+      "variants": [],
+      "meaning_uz": "qishloq",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "(hәz “huzur, halovat, maza, kayf”, bәlli “nishon, belgi”, bәlli-külli “butunlay, batamom”, nәl “taqa”, ğɔssɔl “yuvg‘uchi”, rɔvɔt “qishloq”, jübә “bolalar kiyimi”, yә:s “aza” va  h.k.); 3) o‘zbek adabiy  tilidagi arabcha qatlamdan ma’nosiga ko‘ra farq qiluvchi leksik-semantik dialektizmlar (keyingi o‘rinlarda – LSD) (BO‘Sh hijɔp “hayo-ibo; uyalish-t",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL019",
+      "form": "juba",
+      "variants": [],
+      "meaning_uz": "bolalar kiyimi",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "ovat, maza, kayf”, bәlli “nishon, belgi”, bәlli-külli “butunlay, batamom”, nәl “taqa”, ğɔssɔl “yuvg‘uchi”, rɔvɔt “qishloq”, jübә “bolalar kiyimi”, yә:s “aza” va  h.k.); 3) o‘zbek adabiy  tilidagi arabcha qatlamdan ma’nosiga ko‘ra farq qiluvchi leksik-semantik dialektizmlar (keyingi o‘rinlarda – LSD) (BO‘Sh hijɔp “hayo-ibo; uyalish-tortinish”, o‘zb.",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL020",
+      "form": "dutkash",
+      "variants": [],
+      "meaning_uz": "mo‘ri",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "lari nutqida faol qo‘llanadigan, biroq o‘zbek adabiy tilida uchramaydigan forscha-tojikcha so‘zlar (ҫɔğbut “uvada paxta”, dütkәș “mo‘ri”, jɔrïp “supurgi”, gulmïх “temir qoziq”, bunday so‘zlarning o‘nga yaqin  15 Abdullayev F. O‘zbek tili leksikasining ba’zi bir masalalariga doir / Til va adabiyot instituti asarlari. – Toshkent: O‘zFA., 1949. – B. 8",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL021",
+      "form": "jorip",
+      "variants": [],
+      "meaning_uz": "supurgi",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "ol qo‘llanadigan, biroq o‘zbek adabiy tilida uchramaydigan forscha-tojikcha so‘zlar (ҫɔğbut “uvada paxta”, dütkәș “mo‘ri”, jɔrïp “supurgi”, gulmïх “temir qoziq”, bunday so‘zlarning o‘nga yaqin  15 Abdullayev F. O‘zbek tili leksikasining ba’zi bir masalalariga doir / Til va adabiyot instituti asarlari. – Toshkent: O‘zFA., 1949. – B. 87–102; Kamol F.",
+      "note": "Avtoreferatdagi j belgisi boshqa manbaning fonetik j (= y) belgisi bilan avtomatik tenglashtirilmadi.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL022",
+      "form": "gulmix",
+      "variants": [],
+      "meaning_uz": "temir qoziq",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 19,
+      "printed_pages": [
+        19
+      ],
+      "evidence_excerpt": "biroq o‘zbek adabiy tilida uchramaydigan forscha-tojikcha so‘zlar (ҫɔğbut “uvada paxta”, dütkәș “mo‘ri”, jɔrïp “supurgi”, gulmïх “temir qoziq”, bunday so‘zlarning o‘nga yaqin  15 Abdullayev F. O‘zbek tili leksikasining ba’zi bir masalalariga doir / Til va adabiyot instituti asarlari. – Toshkent: O‘zFA., 1949. – B. 87–102; Kamol F. Leksikologiya / H",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL023",
+      "form": "ravoq",
+      "variants": [],
+      "meaning_uz": "tokcha",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "evidence_excerpt": "LSGlari); 3) o‘zbek adabiy tilidagi fors-tojikcha qatlamdan ma’nosiga ko‘ra farq qiluvchi LSD (BO‘Sh rɔvɔq “tоkҫа”, o‘zb.ad.til. ravoq “binoning old tomonidagi peshtoq va ustunlar bilan bezatilgan ko‘rkam qismi”, BO‘Sh mөhrә “sop, dasta”, o‘zb.ad.til. mo‘hra “bolta, tesha, ketmon, belkurak kabi asboblarning tig‘ tarafga qarama",
+      "note": "Adabiy tildagi me’moriy ravoqning ta’rifi bilan tenglashtirilmasin.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL024",
+      "form": "mo‘hra",
+      "variants": [],
+      "meaning_uz": "sop, dasta",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "evidence_excerpt": "O‘Sh rɔvɔq “tоkҫа”, o‘zb.ad.til. ravoq “binoning old tomonidagi peshtoq va ustunlar bilan bezatilgan ko‘rkam qismi”, BO‘Sh mөhrә “sop, dasta”, o‘zb.ad.til. mo‘hra “bolta, tesha, ketmon, belkurak kabi asboblarning tig‘ tarafga qarama-qarshi tomonining orqa tarafi, qismi” va h.k.) tarzida ilmiy tahlil etilgan.     “BO‘Sh leksikasining semantik xususi",
+      "note": "Asbobning sopi/dastasi ma’nosi; adabiy lug‘atdagi boshqa ta’rifdan farqlangan.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL025",
+      "form": "toqurqo",
+      "variants": [],
+      "meaning_uz": "devor tagidan yoki yo‘l ostidan qilingan suv yo‘li",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "evidence_excerpt": "a kesilgan. BO‘Shda ma’no kengaygan va sh.k.); d) yangi ma’no kasb etgan so‘zlar (tuqurqa “jo‘mrak” (Indeks, 289), BO‘Sh tоqurqɔ “devor tagidan yoki yo‘l ostidan qilingan suv yo‘li”; ekä “opa” (Indeks, 40), BO‘Sh әkә//еkә “bir ota-onadan tug‘ilgan katta o‘g‘il”) aniqlandi;  e) BO‘Shdagi  leksik  birliklarning  ko‘pma’noliligi  tahlil  qilindi. Ushb",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL026",
+      "form": "dorji",
+      "variants": [],
+      "meaning_uz": "zich, tig‘iz; tiqilinch",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "evidence_excerpt": "arning  ko‘pma’noliligi  tahlil  qilindi. Ushbu hodisaning shevada asosan metafora yo‘li bilan yuzaga kelishi aniqlandi (dоrjï 1. zich, tig‘iz; 2. tiqilinch; tеndɔr 1. sog‘lom, baquvvat; 2. semiz, yetilgan).      “Leksik-semantik dialektizmlar”ni qamrab olgan to‘rtinchi bo‘limda BO‘Sh leksikasi o‘zbek adabiy tili so‘z boyligi bilan qiyosan o‘rganil",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL027",
+      "form": "tendor",
+      "variants": [],
+      "meaning_uz": "sog‘lom, baquvvat; semiz, yetilgan",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 20,
+      "printed_pages": [
+        20
+      ],
+      "evidence_excerpt": "di. Ushbu hodisaning shevada asosan metafora yo‘li bilan yuzaga kelishi aniqlandi (dоrjï 1. zich, tig‘iz; 2. tiqilinch; tеndɔr 1. sog‘lom, baquvvat; 2. semiz, yetilgan).      “Leksik-semantik dialektizmlar”ni qamrab olgan to‘rtinchi bo‘limda BO‘Sh leksikasi o‘zbek adabiy tili so‘z boyligi bilan qiyosan o‘rganilib, ular o‘rtasidagi ma’noda farq qilu",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL028",
+      "form": "begenmak",
+      "variants": [],
+      "meaning_uz": "quvonmoq",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 22,
+      "printed_pages": [
+        22
+      ],
+      "evidence_excerpt": "-v, -uv, -mаslik affikslariga to‘g‘ri keladi: gǝplǝș (gaplash), sөrǝș (so‘rash), gөmıș (ko‘mish), bаğirmаq  (baqirmoq), bеgеnmǝk (quvonmoq), dөrǝmǝk  (to‘ramoq), pǝrǝmеk (poramoq), üzmеk (uzmak) kabi.     “BO‘Shda  ot,  sifat va olmoshlarning qo‘llanishi” deb ataluvchi ikkinchi bo‘limda BO‘Shdagi  ot,  sifat, va olmoshlarning ot so‘z turkumlari ich",
+      "note": "Ushbu sahifada quvonmoq deb izohlangan; yoqtirmoq kabi qo‘shimcha ma’no o‘zimizdan kiritilmadi.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL029",
+      "form": "aqrava",
+      "variants": [],
+      "meaning_uz": "sho‘r",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 23,
+      "printed_pages": [
+        23
+      ],
+      "evidence_excerpt": "ıs (g‘ilay); 4. Holat bildiruvchi sifatlar: аkkɔlҫï (yolg‘onchi), bаqnа (boqimanda); 5. Ta’m-maza bildiruvchi  sifatlar: аqrаvа  (sho‘r), mɔzzïq (bemaza,  ta’msiz);  6.  Vaqt-o‘rin bildiruvchi sifatlar: bɔyɔqï (azaldan), ıldǝkgı (ilg‘or) kabi. Sifat darajalari. 1. Ozaytirma daraja. Bu daraja narsa belgisining oddiy daraja holatidan kamligini, kuchs",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL030",
+      "form": "mozziq",
+      "variants": [],
+      "meaning_uz": "bemaza, ta’msiz",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 23,
+      "printed_pages": [
+        23
+      ],
+      "evidence_excerpt": "Holat bildiruvchi sifatlar: аkkɔlҫï (yolg‘onchi), bаqnа (boqimanda); 5. Ta’m-maza bildiruvchi  sifatlar: аqrаvа  (sho‘r), mɔzzïq (bemaza,  ta’msiz);  6.  Vaqt-o‘rin bildiruvchi sifatlar: bɔyɔqï (azaldan), ıldǝkgı (ilg‘or) kabi. Sifat darajalari. 1. Ozaytirma daraja. Bu daraja narsa belgisining oddiy daraja holatidan kamligini, kuchsizligini bildira",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL031",
+      "form": "ner",
+      "variants": [],
+      "meaning_uz": "qayer",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 24,
+      "printed_pages": [
+        24
+      ],
+      "evidence_excerpt": " ish-harakatini bildiruvchi so‘roq so‘zlardan iborat. Ot turkumiga oid so‘roq so‘zlar: kım, nımǝ // nǝmǝ, nǝ (nima), qаyеr, nе:r (qayer), nеkе (nima) kabi. Bunda kım shaxsni, nımǝ  // nǝmǝ narsa-buyumni, qаyеr, nе:r o‘rin-joyni, хаysï (qaysi), ğаҫаn (qachon), ğаnï // qаnï, nıҫҫǝ (necha), nǝҫǝ (qancha) paytni, adabiy tilga xos bo‘lmagan so‘roq olmos",
+      "note": "Manbadagi cho‘ziqlik sodda yozuvda aks etmagan.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL032",
+      "form": "nehel",
+      "variants": [],
+      "meaning_uz": "qanaqa",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 24,
+      "printed_pages": [
+        24
+      ],
+      "evidence_excerpt": "aysi), ğаҫаn (qachon), ğаnï // qаnï, nıҫҫǝ (necha), nǝҫǝ (qancha) paytni, adabiy tilga xos bo‘lmagan so‘roq olmoshlari: nеnеnkın (qanaqa), nехеl  // nехеlkǝ (qanaqa), nǝmǝҫın (nima uchun), nе:rdǝn (qayerdan), nıҫık (qanday), nаvɔх (qachon), nеrе (qayerga), nеnеkǝ (qanaqa), nеnǝꞑ (qanday) o‘rin, belgini, nıҫǝnǯı, nǝҫǝ (qancha), nıҫҫǝ (necha) sanoqni",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL033",
+      "form": "namechin",
+      "variants": [],
+      "meaning_uz": "nima uchun",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 24,
+      "printed_pages": [
+        24
+      ],
+      "evidence_excerpt": "cha), nǝҫǝ (qancha) paytni, adabiy tilga xos bo‘lmagan so‘roq olmoshlari: nеnеnkın (qanaqa), nехеl  // nехеlkǝ (qanaqa), nǝmǝҫın (nima uchun), nе:rdǝn (qayerdan), nıҫık (qanday), nаvɔх (qachon), nеrе (qayerga), nеnеkǝ (qanaqa), nеnǝꞑ (qanday) o‘rin, belgini, nıҫǝnǯı, nǝҫǝ (qancha), nıҫҫǝ (necha) sanoqni, nǝvөldı (nima bo‘ldi), nǝ:ttı (nima qildi), ",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL034",
+      "form": "nichik",
+      "variants": [],
+      "meaning_uz": "qanday",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 24,
+      "printed_pages": [
+        24
+      ],
+      "evidence_excerpt": " xos bo‘lmagan so‘roq olmoshlari: nеnеnkın (qanaqa), nехеl  // nехеlkǝ (qanaqa), nǝmǝҫın (nima uchun), nе:rdǝn (qayerdan), nıҫık (qanday), nаvɔх (qachon), nеrе (qayerga), nеnеkǝ (qanaqa), nеnǝꞑ (qanday) o‘rin, belgini, nıҫǝnǯı, nǝҫǝ (qancha), nıҫҫǝ (necha) sanoqni, nǝvөldı (nima bo‘ldi), nǝ:ttı (nima qildi), хехеltï (qanday bo‘ldi) ish-harakatini k",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL035",
+      "form": "navox",
+      "variants": [],
+      "meaning_uz": "qachon",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 24,
+      "printed_pages": [
+        24
+      ],
+      "evidence_excerpt": "r, nе:r (qayer), nеkе (nima) kabi. Bunda kım shaxsni, nımǝ  // nǝmǝ narsa-buyumni, qаyеr, nе:r o‘rin-joyni, хаysï (qaysi), ğаҫаn (qachon), ğаnï // qаnï, nıҫҫǝ (necha), nǝҫǝ (qancha) paytni, adabiy tilga xos bo‘lmagan so‘roq olmoshlari: nеnеnkın (qanaqa), nехеl  // nехеlkǝ (qanaqa), nǝmǝҫın (nima uchun), nе:rdǝn (qayerdan), nıҫık (qanday), nаvɔх (qa",
+      "note": "",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL036",
+      "form": "inek",
+      "variants": [],
+      "meaning_uz": "sigir",
+      "region": "Buxoro o‘g‘uz shevalari; aniq misolning qishlog‘i avtoreferatda ko‘rsatilmagan",
+      "dialect_branch": "o‘g‘uz",
+      "source_id": "B4",
+      "pdf_page": 23,
+      "printed_pages": [
+        23
+      ],
+      "evidence_excerpt": "n farq qilmaydi. Jumladan, shevada  -lǝr,  -lаr, -lеr qo‘shimchalari ishlatiladi: gıyımlǝr (kiyimlar), bɔğlаr (bog‘lar), ınеklеr (sigirlar) kabi. BO‘Shda ko‘plik  -lar qo‘shimchasi grammatik vazifadan  tashqari  uslubiy  vazifa ham bajaradi. Sifat – so‘z turkumi. BO‘Shda sifatning qo‘llanishi o‘zbek adabiy tilidan butunlay farq qilmaydi. Shu sababl",
+      "note": "Manbada ınеklеr — sigirlar shakli; bosh shakl inek tahririy ajratilgan.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL037",
+      "form": "badburut",
+      "variants": [],
+      "meaning_uz": "katta, beo‘xshov mo‘ylovli kishi",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 41,
+      "printed_pages": [
+        41
+      ],
+      "evidence_excerpt": " Х о р а з м )               тез, ч а ^ о н      «быстрый, ловкий»: бадлы йуйир, кэпэрэттэн бир      тутэ нах эпкэ (У р г а н ч). бадбурут (Б у х о р о) катта (беухшов муйловли киши)      «усатый (человек с некрасивыми усами)», бадгуй (Б у х о р о) тили за^ар «очень едкий на язык»:      бадгуй кампър. бадйа ( Х о р а з м ) тово^, чу^ур сопол товоц ",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 1
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL038",
+      "form": "badgo‘y",
+      "variants": [],
+      "meaning_uz": "tili zahar, achchiq gapiradigan",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 41,
+      "printed_pages": [
+        41
+      ],
+      "evidence_excerpt": "   тутэ нах эпкэ (У р г а н ч). бадбурут (Б у х о р о) катта (беухшов муйловли киши)      «усатый (человек с некрасивыми усами)», бадгуй (Б у х о р о) тили за^ар «очень едкий на язык»:      бадгуй кампър. бадйа ( Х о р а з м ) тово^, чу^ур сопол товоц «большая,      глубокая глиняная чашка»: бир бадйа бэрэк, орта-      сында чорэк (X о н щ а). бадъ",
+      "note": "Kishiga salbiy tavsif; neytral murojaat emas.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 1
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL039",
+      "form": "badimol",
+      "variants": [],
+      "meaning_uz": "serjahl",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 41,
+      "printed_pages": [
+        41
+      ],
+      "evidence_excerpt": " р а з м ) тово^, чу^ур сопол товоц «большая,      глубокая глиняная чашка»: бир бадйа бэрэк, орта-      сында чорэк (X о н щ а). бадъмол бадимол ( Б у х о р о ) сержа^л «крайне злой»,      злюка»: у бадъмэл одам, бады боди (Ж у ш) гапдон «красноречивый», бажыман божимон I ( Х о р а з м ) ту^ай ^оровули «лес-      ной объездчик», бажыман бажиман II",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL040",
+      "form": "bazarba",
+      "variants": [],
+      "meaning_uz": "kuchli",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 41,
+      "printed_pages": [
+        41
+      ],
+      "evidence_excerpt": "^ а з о р а с п) бозор купи цилина-      дигап харажат «продукты, купленные в воскре-      сенье» бугин базаллыцы ерра^ эпкэлдим. базарба ( Б у х о р о ) кучли «сильный, мощный»: Собър      базарба йъгът. байымжан банимжап ( Т у р т к у л, С о р и б е й ) бацла-      жон «баклажан»: шивит минэн байымжанны ба-      ^арача чьщарсац, пай пул волэдав (",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL041",
+      "form": "alvonj",
+      "variants": [],
+      "meaning_uz": "belanchak",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 17,
+      "printed_pages": [
+        17
+      ],
+      "evidence_excerpt": "лли. албэли алболи ( П а р к е н т ) гилос «черешня». алвалы/Далвалы алвали/Далвали            (К^ и п ч о Р^) олча      «вишня». алвонж алвонж (Б у х о р о)//алвонч алвонч ( ^ а ш р -      дарё) беланчак «зыбка, люлька»: чакалок; алвонж-      да йэтъптъ (Б у х о р о), алры-вэрги алги-варги Д а з о р а с п) ^арз, олди-берди      «долг, задолженност",
+      "note": "Qashqadaryoda alvonch varianti qayd etilgan.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL042",
+      "form": "alis",
+      "variants": [
+        "alus"
+      ],
+      "meaning_uz": "g‘ilay",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan); Qashqadaryoda ham",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 29,
+      "printed_pages": [
+        29
+      ],
+      "evidence_excerpt": "элис//элус алис//алус (Б у х о р о, К ^ а ш ц а д а р ё ) гилай       «косой»: козди элис болиши бэччэли:дэн (К^аш-       радаре). элъмсън алимсин (У ш) ^аноатланмо^ «удовлетворить-       ся». олъчэ алича (А и д и ж о и,",
+      "note": "Buxoro va Qashqadaryo belgisi bor; keltirilgan gap Qashqadaryoga tegishli.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL043",
+      "form": "obiro‘g‘on",
+      "variants": [],
+      "meaning_uz": "palov uchun guruch solishdan oldin tayyorlanadigan zirvak",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 35,
+      "printed_pages": [
+        35
+      ],
+      "evidence_excerpt": "ъз (Т о ш к е н т). эврэ овра (Т о ш к е н т) обруй «авторитет»: у жэ ов-          рэлъй. овроран оврурон (К^ а ш к а д а р ё) // збироран обирурон          ( Б у х о р о ) зирбак (палов пиширилаётганда к;о-         зонга гуруч солишгача тайёрланган масалли^)          «поджаренные в сале мясо, лук и морковь (для         плова)»: ошти овроран т^ьлип",
+      "note": "B5 obirog‘on/obiro‘g‘on shakllarini beradi; lug‘atning fonetik yozuvi alohida saqlangan.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL044",
+      "form": "bandak",
+      "variants": [],
+      "meaning_uz": "to‘g‘nog‘ich",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 43,
+      "printed_pages": [
+        43
+      ],
+      "evidence_excerpt": "спелой дынн». банохос банохос ( Б у х о р о ) тусатдан, бехосдан «вдруг,      внезапно», банот банот (1\\ и р к4) бахмал «бархат», бандак ( Б у х о р о ) тугногич «булавка, приколка»: бан-      дак и:иа. бап-баплар ( С а й р а м ) азиз, улуг, полвон «уважае-      мый, великий, богатырь», барак (Б у х о р о ) / / б э р э к барак ( Ж а н у б и й Хо-  ",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL045",
+      "form": "gavdusha",
+      "variants": [],
+      "meaning_uz": "sut uchun sopol idish, xurma",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 62,
+      "printed_pages": [
+        62
+      ],
+      "evidence_excerpt": " туккаи куй ёкп эчки «овца      пли коза, родившие трех».                                Г гавара (Б у х о р о) бсшик «колыбель», гавдуша ( Б у х о р о ) хурма «глиняный горшок для мо-      лока». гаждпм (I I а й м а и) чаён «скорпион». 62 ",
+      "note": "E1 ruscha izoh: глиняный горшок для молока. B5 dagi gavdo‘sha — xurmo meva sifatida talqin qilinmasin; shakl ham qayta tekshiriladi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL046",
+      "form": "g‘ulva",
+      "variants": [
+        "g‘ulba"
+      ],
+      "meaning_uz": "sopol quvur",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 75,
+      "printed_pages": [
+        75
+      ],
+      "evidence_excerpt": "р ё ) гужум «виноградина»:      сэвэтти тэйийэ бир килочэ ружэлэси цойэнэкэн. ружур (К^ир^) гайрат «старание»: иш ^ысац гужурман  рул б а//гул в а ( Б у х о р о ) // ролва (!\\ а ш ^ а д а р ё) цу-        вур «керамическая труба», гул-рул тэву^ гул-гул товуц (У ш, У й ч и) курка тову^        «индюшка». рулрулэ гулгула ( Т о ш к е н т, А н д и ж о н ",
+      "note": "Qashqadaryo g‘alva varianti bilan qiyos; material — keramika.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL047",
+      "form": "dammakak",
+      "variants": [],
+      "meaning_uz": "jim, tinch, jimgina",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan); Samarqandda ham",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 78,
+      "printed_pages": [
+        78
+      ],
+      "evidence_excerpt": "кз геттилэ. даммэк даммак ( ^ а ш ^ а д а р ё ) / / д а м м а к а к ( С а м а р -      к а н д , Б у х о р о ) жим, тинч, жимгина «тихо», дангымац дантима^ (Г у р л а н, Я н г и б о з о р) туга-      мо^ «кончаться». дандэна//дандана//дандала (Б у х о р о) сихмола «боро-      на»: «йердъ ^айдап сугун дандана бэстък. данда (Kt а ш р а д а р е ) керо",
+      "note": "Buxoro va Samarqand qaydi. B5 dagi dammamak shu shaklga tengligi mustaqil tekshiriladi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL048",
+      "form": "zardolu",
+      "variants": [
+        "zaldoru",
+        "zaldori"
+      ],
+      "meaning_uz": "o‘rik",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 109,
+      "printed_pages": [
+        109
+      ],
+      "evidence_excerpt": "зъ зэдгъвуздэ йу:              (Тош-        к е н т ) ; туннэрдэ кеп, пахыллатып, зацгсыз окот-        кон (Т у р к и с т о н ) . зардэлу//залдору//залдэръ           зардолу//залдору//залдори         ( Б у х о р о ) урик «абрикос», зар (Ж а н у б и й Т о ж и к и с т о и — \\\\ о р л у      жуда        «очень, весьма»: бу хэтун зар ойгог. зардаг (Ж а ",
+      "note": "B5 dagi zaldolu varianti bu sahifadagi zardolu bilan aynan bir yozuv emas.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL049",
+      "form": "kallapush",
+      "variants": [
+        "kalapush"
+      ],
+      "meaning_uz": "do‘ppi",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 137,
+      "printed_pages": [
+        137
+      ],
+      "evidence_excerpt": ". кажуг ( Ж а н у б и й Т о ж и к и с т о н — ^ о р л у ^ ) бур-      чак «угол, уголок»: мен когунни уйди кажугига       ^уйдим. кал(л)апуш ( Б у х о р о) дуппи «тюбетейка», калтача (Б у х о р о) мурсак «женская верхняя одежда       в виде халата из бархата или парчи», кампал (Б у х о р о)//кэмпэл кампал        (К^аш^адарё)       адёл, курпа «одея",
+      "note": "B5 kal(l)po‘sh yozadi; birlamchi lug‘at kal(l)apush deb beradi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL050",
+      "form": "labdo‘l",
+      "variants": [],
+      "meaning_uz": "labi qalin odam",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 166,
+      "printed_pages": [
+        166
+      ],
+      "evidence_excerpt": " Л  лабакъй лабакий (Б у х о р о) телпакнинг чети «край       теплой местной шапки»: телпакнъ лабакъсъ поча       терисидан экан. лабдул ( Б у х о р о ) лаби калин (одам) «толстогубый». лабз//лавз ( Б у х о р о , Т о ш к е н т ) //лэв ъз (Т у л к и-       б о ш ) //лэбиз ( Ш и м о л и й        Хоразм)      лафз       «слово»: лавзъ ^алол одам «чело",
+      "note": "Tashqi ko‘rinish tavsifi; suhbatdoshga o‘z-o‘zidan laqab qilib qo‘llanmaydi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL051",
+      "form": "mag‘al",
+      "variants": [],
+      "meaning_uz": "shovqin",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 175,
+      "printed_pages": [
+        175
+      ],
+      "evidence_excerpt": " «вид      серьги».                                  М мавдар (С а й р а м) //мэдор мадор (Ж и з з а х) цувват      «сила, мощь». марал I ( Б у х о р о ) шовции «шум»: марал кълмацлар. марал II ( К и т о б) жанжал «скандал»: сур^о-сур болип      марал котто болип кетте. магалдак (X о р а з м) умбалоц «кувыркаться»: масха-      рабазлардыц маралдац ",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL052",
+      "form": "palavkadu",
+      "variants": [],
+      "meaning_uz": "oshqovoq",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 207,
+      "printed_pages": [
+        207
+      ],
+      "evidence_excerpt": "н^      патлави^ (Ш и м о л и й Х о р а з м )                пуфак «пу-      зырь»: элим пишип, паклавыц этип чыхты ( Х и в а ) , палавкэди палавкади (Ш и м о л и й Х о р а з м ) / / палав-      каду (Б у х о р о) б о т . ош ^ово^ «тыква мускат-      ная»: ошга палавкаду соллък (Б ,у х о р о); кэди-      ниц мазалысы палавкэди (К^личбой). палайыш п",
+      "note": "Shimoliy Xorazmdagi palavkadi bilan qiyoslangan.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL053",
+      "form": "rangdon",
+      "variants": [],
+      "meaning_uz": "siyohdon",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 224,
+      "printed_pages": [
+        224
+      ],
+      "evidence_excerpt": " посредник», рама ( Б у х о р о ) пода «стадо»: бър рама ^ой. ран ранг (А н д и ж о и) жуяк «борозда»: ран, олъп сув       ^уйъц. рацдэн рангдон ( Б у х о р о )     сиёхдон «чернильница»:      рацдэнъмнъ към оллъ ( Р о м и т о н ) . рацрез рангрез (Б у х о р о) //рацчъ рангчи ( С а м а р -      к а н д ) буё^чи «красильщик», рапырдавьщ рапирдави^ (",
+      "note": "Misol Romitonga tegishli.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL054",
+      "form": "sannon",
+      "variants": [
+        "saynon"
+      ],
+      "meaning_uz": "temirchining sandoni",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 229,
+      "printed_pages": [
+        229
+      ],
+      "evidence_excerpt": "навар (И к; о н) самовар «самовар», санон санон ( К а ш ц а д а р ё )         ту^мо^ «большой дере-       вянный молоток», саннзн саннон//сайнон сайнон (Б у х о р о)//сандал (Хо-      р а з м ) сандон «наковальня»: темирчини сайнони       (Бухоро). сацара^ сонгоро^//сацалац сонголок; (У р г а н ч, X и в а,      Х о н ^ а ) данак «косточка», сацлац ",
+      "note": "Sandal Xorazm varianti; Buxoro profiliga shu nom bilan qo‘shilmadi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL055",
+      "form": "taxtlash",
+      "variants": [
+        "taxlash"
+      ],
+      "meaning_uz": "yerni tekislash; tayyorlash",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 246,
+      "printed_pages": [
+        246
+      ],
+      "evidence_excerpt": "     ки, бахрома)», тахтапъшэй // тахтэмъшъг тахтапишай // тахта мишиг        ( К у ц о н ) сичцон тутадиган цопцон «мышеловка».  гах(т)лаш (Б у х о р о) 1. ерни текислаш «ровнять зем-        лю»: ертайа калхоччиланъ йер тахлашка олъп        чъцъц. 2. тайёрлаш «подготовить»: тахлап цойдъм.  тац//та:ц ( Х о р а з м ) каравот «кровать»: гийов гэли:нн",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL056",
+      "form": "ush",
+      "variants": [],
+      "meaning_uz": "daraxt o‘zagi",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 269,
+      "printed_pages": [
+        269
+      ],
+      "evidence_excerpt": "р ( К ^ о р а к у л , У г у з ) иштонбог «шнур для завя-       зывания штанов», учлик ( У й ч и ) уч тишли айри «трехзубые вилы», у ш I, (Б у х о р о) дарахт узаги «сердцевина дерева», ушэкчи ушакчи ( Н а й м а и) гийбатчи «клеветник», ушук ( Б у х о р о ) эртак; матал «сказка, поговорка», ушуц ( У р г а н ч , Х и в а , Х о н ц а ) совук; «холодный",
+      "note": "",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL057",
+      "form": "o‘g‘loq",
+      "variants": [],
+      "meaning_uz": "uloq, echki bolasi",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 271,
+      "printed_pages": [
+        271
+      ],
+      "evidence_excerpt": "обирать-       ся с мыслями»: ендъ укълъгэ келдъ. узлугузъ узлугузи ( Т о ш к е н т ) узлари «сами»: узлу-       гузъ боръвурсън. углэг углоц (Б у х о р о) ,// оглац ( П а р к е н т, С о й-       л и к) уло к «козленок», у сэл уса л: усол булмог (Т о ш к е и т) у ял мок «стеснять-       ся».                                                          ",
+      "note": "Sport musobaqasi ma’nosidagi uloq bilan aralashtirilmasin; fonetik sodda o‘qilish.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL058",
+      "form": "falla",
+      "variants": [],
+      "meaning_uz": "og‘iz suti",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan); Samarqandda ham",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 272,
+      "printed_pages": [
+        272
+      ],
+      "evidence_excerpt": "а ф а р о т а        ^ишлоги)         чел а к      «ведро». фалэхмон фалохмон (Б у х о р о) сопкон «праща»: фалох-      мэн тошъ. фалла фалла (Б у х о р о, С а м а р к а н д )      огиз сути      «молозиво». фанор фанор ( С а м а р к а н д , Б у х о р о) 1. фонарь. 2.      чирок; «лампа», фанър фанир ( Б у х о р о ) «фанера», фанорйог фанорёг ( Б у",
+      "note": "Buxoro va Samarqand qaydi; B5 palla variantini ham beradi, lekin E1 shu joyda falla deb yozadi.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL059",
+      "form": "xappak",
+      "variants": [],
+      "meaning_uz": "qopqon",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 275,
+      "printed_pages": [
+        275
+      ],
+      "evidence_excerpt": "лэнмац хапаланма^ ( ^ у ц о н ) хафа булмок «рас-    . страиваться, печалиться»:            чэйхонэ йоглъгъдэн      хапэлэндълэр. хаппак (Б у х о р о) ^оп^он «капкан, западня»: хаппакка      съч^он тушъптъ, хараваты харавати (X о р а з м) 1. ^увно^ «веселый». 2.      сахий, ^отамтой «щедрый». 3. чапани «щёголь,      ухарь». хараз ( Х о р а з м )   ",
+      "note": "B4 PDF 16 da ham xappak — qopqon qaydi bor.",
+      "comparative_mentions": [
+        {
+          "source_id": "B5",
+          "pdf_page": 2
+        },
+        {
+          "source_id": "B4",
+          "pdf_page": 16
+        }
+      ],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL060",
+      "form": "xachcha",
+      "variants": [],
+      "meaning_uz": "tirgovuch",
+      "region": "Buxoro (1971-yilgi lug‘at belgisi; ichki lahja ko‘rsatilmagan)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "E1",
+      "pdf_page": 281,
+      "printed_pages": [
+        281
+      ],
+      "evidence_excerpt": "У р г а н ч , Х и в а ) фойда «польза»: ^еч      харан деймоди сом баланы ( У р г а н ч ) . ^арра харра (Б о г о т ) арра «пила», хачча хачча ( Б у х о р о ) тирговуч «подпорка». ха:р ^ар ( У р г а н ч , Х и в а , К ^ а р н о ц ) номус, ор-номус      «стыд, честь и совесть»: ха:р-на:мыссыз йа:рны      на:ры барокон, ^алда               адаглы йа:ры",
+      "note": "B5 harra — tirgovuch deb yozadi; E1 da xachcha — tirgovuch, harra esa Bog‘otda arra ma’nosida.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL061",
+      "form": "qalamfur",
+      "variants": [],
+      "meaning_uz": "qalampir",
+      "region": "Samarqand–Buxoro guruhi",
+      "dialect_branch": "guruh qiyosi",
+      "source_id": "B2",
+      "pdf_page": 75,
+      "printed_pages": [
+        146,
+        147
+      ],
+      "evidence_excerpt": "ingari soʻzlardan Navoiy asarlaryda ham keng foydalanilgan.  Yoki boshqa misollarni ham keltirish  garmdari (toshkent shevasida), qalamfur (Samarqand, Buxoro shevalarida); xomak (adabiy tilda), sapcha (Toshkent shevasida): mzlamaq, istam3q, qidirm»q ma' no dosh so`zlari shevalar nuqtai nazaridan quyidagicha: estamiq (Fargʻona va Oʻsh shevalarida), ",
+      "note": "Bosma 146. Oldingi Xudoyqulova kitobidagi qalampur yozuvi bilan farq saqlandi.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL062",
+      "form": "chovon",
+      "variants": [
+        "chopon"
+      ],
+      "meaning_uz": "pashsha",
+      "region": "Buxoro (qiyosiy lug‘at misoli)",
+      "dialect_branch": "aniqlanmagan",
+      "source_id": "B2",
+      "pdf_page": 82,
+      "printed_pages": [
+        160,
+        161
+      ],
+      "evidence_excerpt": "argʻona) — peshshe (Хогагт-о\" 12) – га АОЛ chivin (комар), chibin (Xorazm-qipch., QQAR - o`zb.) – chivin (ура mog uz) - chopon И. chovon (Buxoro) — chi:vin (Qoramurt) — chu:n atagan bu xil so'li cha (муха). Sh.Rahmatullayev “dialektizm-ma'no” deb  xil so`zlar leksik-semantik dialektal soʻzlar sifatida DLga kiritiladi.  r adabiy til va shevalarda ma",
+      "note": "Bosma 160. Shu qiyosdagi peshshe — chivin ma’nosi bilan adashtirilmasin. Bu Buxoro uchun qo‘shimcha ma’no qaydi, barcha chopon so‘zlarini almashtirish qoidasi emas.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    },
+    {
+      "id": "BL063",
+      "form": "ko‘la",
+      "variants": [],
+      "meaning_uz": "sho‘rdanak",
+      "region": "Buxoro qarluq shevasi (maqola konteksti)",
+      "dialect_branch": "qarluq",
+      "source_id": "B3",
+      "pdf_page": 4,
+      "printed_pages": [
+        121
+      ],
+      "evidence_excerpt": " etib, sanab o‘tish ma’nolarini beradigan reduplikatsion o‘zgarishlar ham     uchrab turadi:         Nān-pān, čāj-pāj, kölä-pölä [sho‘rdanak] keräjmäsmi?          Yuqoridagi misolda ko‘rib turganimizdek, bu so‘zlar o‘z-o‘zidan sanab o‘tish     ma’nosini bildirmoqda.                                     Foydalanilgan adabiyotlar:       1.  Абдуазизов",
+      "note": "Manbadagi kölä-pölä takroriy birikmasidan bosh shakl tahririy ajratildi; kundalik aytilish audio bilan tekshirilmagan.",
+      "comparative_mentions": [],
+      "exclusive_to_region": false,
+      "evidence_status": "Manbada qayd etilgan; bugungi tabiiy ishlatilishi alohida tasdiqlanmagan.",
+      "writing_status": "Tahririy sodda o‘qilish; manbaning barcha fonetik diakritikalari va cho‘ziqliklari saqlanmagan."
+    }
+  ]
+}

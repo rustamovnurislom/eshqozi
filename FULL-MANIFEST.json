@@ -1,0 +1,4180 @@
+{
+  "created_at_utc": "2026-10-06T16:17:43.541022+00:00",
+  "package": "eshqozi-full.zip",
+  "files": [
+    {
+      "path": "eshqozi/.dockerignore",
+      "bytes": 85,
+      "sha256": "955e4d784f0743c3e67ad0366686939284d8fbb768f3c46158f05e80a4536b67"
+    },
+    {
+      "path": "eshqozi/.env.example",
+      "bytes": 423,
+      "sha256": "f756ac825e673dec6102e9698afaccbb22ee142c9e47b1c76d6f2681a7f81d42"
+    },
+    {
+      "path": "eshqozi/.github/workflows/ci.yml",
+      "bytes": 568,
+      "sha256": "8e4b1ba39d4bcbd2d2038fd452b1543904d11e00ea644913a155e87515c81c5c"
+    },
+    {
+      "path": "eshqozi/.gitignore",
+      "bytes": 99,
+      "sha256": "a628c0f5927e10bd6d15d22049fe30d82e3ca86f07fa3d2fad10f8dec73d0c11"
+    },
+    {
+      "path": "eshqozi/Dockerfile",
+      "bytes": 1522,
+      "sha256": "67c7baaaa40eb7eede507584d163ffc149e6a694ff6c6dc476756d2f00d223e8"
+    },
+    {
+      "path": "eshqozi/Makefile",
+      "bytes": 413,
+      "sha256": "e54587d71f34d7a570ebf48343de82ad20d4635462ae6ba2cd08631272c59ef7"
+    },
+    {
+      "path": "eshqozi/README.md",
+      "bytes": 4472,
+      "sha256": "75804f78f6390d092c5f1cc3761b652f9eb44f58691501ca25f5bb48bb4b474a"
+    },
+    {
+      "path": "eshqozi/compose.yaml",
+      "bytes": 1811,
+      "sha256": "010934beba15796bda23ea22c76834e4ca9807795a1a25d2ba90f875302000f9"
+    },
+    {
+      "path": "eshqozi/data/import-report.json",
+      "bytes": 460,
+      "sha256": "0732f61ff0dea90902a83c8fc4fb80f598afc668d7e78cb2b023ebb348794dd1"
+    },
+    {
+      "path": "eshqozi/data/knowledge.json",
+      "bytes": 1062507,
+      "sha256": "248534509cf9dd5e49246ba73a43d1d046cb88ef53ba42826331c22956f3a9bb"
+    },
+    {
+      "path": "eshqozi/docs/ARCHITECTURE.md",
+      "bytes": 6375,
+      "sha256": "d5fe77cb543cdba739f41425789bcf647b542bb445599dbce559bf913e24ba52"
+    },
+    {
+      "path": "eshqozi/docs/HANDOFF.md",
+      "bytes": 4611,
+      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+    },
+    {
+      "path": "eshqozi/docs/KNOWLEDGE.md",
+      "bytes": 2652,
+      "sha256": "eb69a741d2118b93581541796c85adf1c026d2d2af7312c934b55340c6bf498e"
+    },
+    {
+      "path": "eshqozi/docs/OPERATIONS.md",
+      "bytes": 4286,
+      "sha256": "20eb640f361a02851c2240cfe469bd94e169e804df2140306df81bc78ee0278d"
+    },
+    {
+      "path": "eshqozi/docs/VALIDATION.md",
+      "bytes": 5803,
+      "sha256": "14bca4d17deb4ca14ed9f2967cde10cc07fd7520461b9a5d70e2fa021529fc43"
+    },
+    {
+      "path": "eshqozi/eshqozi/__init__.py",
+      "bytes": 73,
+      "sha256": "86a09e41394c52e2bcd29dc14d8b3ea083c68bdbd06a54593517711e359d7538"
+    },
+    {
+      "path": "eshqozi/eshqozi/__main__.py",
+      "bytes": 1798,
+      "sha256": "229da4bf939ed00a4ef63a60ee421584dec81390a501008987b22021e935d586"
+    },
+    {
+      "path": "eshqozi/eshqozi/app.py",
+      "bytes": 4805,
+      "sha256": "5834a6ea1f315d5156777a1f15c27f620655f8bbae2fd7762a964b8bd3c30c13"
+    },
+    {
+      "path": "eshqozi/eshqozi/backup.py",
+      "bytes": 1121,
+      "sha256": "12f8db1ef7519f2bf4bdd70887b2bc3883a6c096f73826ba76336005a4bb62c7"
+    },
+    {
+      "path": "eshqozi/eshqozi/config.py",
+      "bytes": 3661,
+      "sha256": "dbb245990eaae54117bd3e0c2ec6cd6fba78a8d706329f5f781837498470e682"
+    },
+    {
+      "path": "eshqozi/eshqozi/engine.py",
+      "bytes": 7119,
+      "sha256": "3f473b93f4a8b72b3f422f3807420e53d31b5ae2398043e0aa80026c295afa7e"
+    },
+    {
+      "path": "eshqozi/eshqozi/knowledge.py",
+      "bytes": 4486,
+      "sha256": "d6399a0f458c1c41ca715aa2ee30cd2034a5e1999bb338efcc633f059a25785c"
+    },
+    {
+      "path": "eshqozi/eshqozi/migrations/001_initial.sql",
+      "bytes": 2653,
+      "sha256": "76c442ba9f884b4c0a8ac4c2173c1f0fc00ab84384fa3cbdd985834b2c2e4021"
+    },
+    {
+      "path": "eshqozi/eshqozi/providers.py",
+      "bytes": 4877,
+      "sha256": "63e3024e3b59a7b58c84fa40e55bfc0dc3a6e9b508a387d4aa70c2c289856e9e"
+    },
+    {
+      "path": "eshqozi/eshqozi/runtime.py",
+      "bytes": 5681,
+      "sha256": "dcb8475d8bc14a5154a3396b543ae6df11aef8d7639d182d0a39fd97fb56e2ba"
+    },
+    {
+      "path": "eshqozi/eshqozi/static/index.html",
+      "bytes": 4131,
+      "sha256": "21d331e05c63da8beab2c1d823394d621305fd9567f4851e2ca727d6c07d7617"
+    },
+    {
+      "path": "eshqozi/eshqozi/storage.py",
+      "bytes": 10890,
+      "sha256": "2bbb66c7773335e086b68f9adb8b389bd466a89281d12c80943473d3ee841903"
+    },
+    {
+      "path": "eshqozi/eshqozi/telegram.py",
+      "bytes": 4119,
+      "sha256": "f84f431a72cecfdb0f3ecdac1a5d2c9ef01c9f1aa065a87f9952dc846ee28bb1"
+    },
+    {
+      "path": "eshqozi/pyproject.toml",
+      "bytes": 285,
+      "sha256": "47833c6828f4ea454604c94d0a2dbc9b15207ea5265d35f8384ea127b51ad241"
+    },
+    {
+      "path": "eshqozi/requirements.lock",
+      "bytes": 6044,
+      "sha256": "03f36ead88fe314988c270b770934c469171d078e1ad706dd8ed4aaa92efbd18"
+    },
+    {
+      "path": "eshqozi/scripts/build_offline.sh",
+      "bytes": 535,
+      "sha256": "bf85e5e4c656e3281afc2691bec8b7090d3cc51904bcfa75e81d6cf38b817f25"
+    },
+    {
+      "path": "eshqozi/scripts/import_research.py",
+      "bytes": 7006,
+      "sha256": "17319a506e85335c7b333cc11f125a86b7d477cd8ce103b7fb17d23ae624650e"
+    },
+    {
+      "path": "eshqozi/tests/test_bot.py",
+      "bytes": 19966,
+      "sha256": "66c4847f789ecacd0fe2182bd906e812378cca4588d8e0e046378bdad24b35d9"
+    },
+    {
+      "path": "eshqozi/uv.lock",
+      "bytes": 21587,
+      "sha256": "adc4f40b1317fd5154e2e3d550c502f4f9cb1069b943dfee73f3cc4c3982df5b"
+    },
+    {
+      "path": "database/eshqozi-initial.sqlite3",
+      "bytes": 1134592,
+      "sha256": "7284dd59a2a63bdd807e4b33d6bfa315f960b34d2852e2db70ee1a318a1477b8"
+    },
+    {
+      "path": "infrastructure/cloud-environment.json",
+      "bytes": 2723,
+      "sha256": "2872d945c211456661253c3c1474568136b1f5a052f3924d5a088251d52d0784"
+    },
+    {
+      "path": "TOPSHIRISH.md",
+      "bytes": 4611,
+      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+    },
+    {
+      "path": "research/andijon/A1.txt",
+      "bytes": 218344,
+      "sha256": "78064f961309b08b866944ab94e046e05ed971957fcfa713c13a1610f2460b71"
+    },
+    {
+      "path": "research/andijon/A1_HUDUD_QIDIRUVI.txt",
+      "bytes": 10335,
+      "sha256": "be83155dbd88bb1b1e03642a02e701773bcf8e14efbcbf3286ccda7fa3919ab7"
+    },
+    {
+      "path": "research/andijon/A2.txt",
+      "bytes": 250791,
+      "sha256": "0d1fdcc6f29965137f72b11e380ab5af7fe2b24b73cf3e4479255fb54c82fc18"
+    },
+    {
+      "path": "research/andijon/A2_HUDUD_QIDIRUVI.txt",
+      "bytes": 16097,
+      "sha256": "82993dd1b3730077b8ea44a763ef88aa68bd2244c0d1a550ff7efe52f0ed260d"
+    },
+    {
+      "path": "research/andijon/A3.txt",
+      "bytes": 594368,
+      "sha256": "eeddb915108fbebf49fe7f6fbd04e8e47c63ba52f1e3a0de4ed0a174f5f22dda"
+    },
+    {
+      "path": "research/andijon/A3_HUDUD_QIDIRUVI.txt",
+      "bytes": 18471,
+      "sha256": "59f2f7d490bbde1d19ca0c077a0f318b6532e8f87a09121c2dc3f9d2cb63c30b"
+    },
+    {
+      "path": "research/andijon/A4.txt",
+      "bytes": 12965,
+      "sha256": "b219346438d9b7b290deb7d27bee6f5697dbbf8e2c0346d31b24011a9d5fba36"
+    },
+    {
+      "path": "research/andijon/A4_HUDUD_QIDIRUVI.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/andijon/A5.txt",
+      "bytes": 9256,
+      "sha256": "c473b3a0369d3456f1d00098245089832caf6b9fdee1c5defbea3a8b83349062"
+    },
+    {
+      "path": "research/andijon/A5_HUDUD_QIDIRUVI.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/andijon/A6.txt",
+      "bytes": 96,
+      "sha256": "189c88559959f0c137726a732ef24ef2f5611e272f1280331f8c2f0e327d0a47"
+    },
+    {
+      "path": "research/andijon/A6_HUDUD_QIDIRUVI.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/andijon/A6_HUDUD_QIDIRUVI_OCR.txt",
+      "bytes": 79611,
+      "sha256": "067647873b4a7eff9faa033d2ab4de30b415f054c989f725c69fc8177eeed918"
+    },
+    {
+      "path": "research/andijon/A6_ocr.txt",
+      "bytes": 412698,
+      "sha256": "6f61ac50eb72679f678c4b8d9d9fd909ec9e26ff2d7a0cc47702a237332d6544"
+    },
+    {
+      "path": "research/andijon/A7.txt",
+      "bytes": 2624892,
+      "sha256": "7a31fd4fdc75b18510da518a5b9667d9d813bad34f504f34624597b987002ee0"
+    },
+    {
+      "path": "research/andijon/A7_HUDUD_QIDIRUVI.txt",
+      "bytes": 73809,
+      "sha256": "09ea5e762e540143a5f9b12783e6eab49f3530a45a14e50376176b1066a995ab"
+    },
+    {
+      "path": "research/andijon/A8.txt",
+      "bytes": 544517,
+      "sha256": "67f682844d42813fe004c8ff7b197d95bd4422d6e20569577af11ccd682aea95"
+    },
+    {
+      "path": "research/andijon/A8_HUDUD_QIDIRUVI.txt",
+      "bytes": 1779,
+      "sha256": "21ed529a60a5e103204f26adbc88b6fe1f4cb5234b4e80b2f5cf811a97e2f476"
+    },
+    {
+      "path": "research/andijon/A9.txt",
+      "bytes": 2253979,
+      "sha256": "6dda3d13b24261994b3327afd88402843e8e5ebcdde4e11a4b3d4ee2dbe25789"
+    },
+    {
+      "path": "research/andijon/A9_HUDUD_QIDIRUVI.txt",
+      "bytes": 8001,
+      "sha256": "b679e8e54ffeb9e249bb6518b5f9bf319fb39e149e2eac3b009dc42eb6ae00e0"
+    },
+    {
+      "path": "research/andijon/GRAMMATIKA.json",
+      "bytes": 34858,
+      "sha256": "845d8105ca5031f184426d4f8a43517238be7e7db875f4079b1de87dc854a8ab"
+    },
+    {
+      "path": "research/andijon/HISOBOT_STATISTIKASI.json",
+      "bytes": 253,
+      "sha256": "8dbd10e865ce07d0cfde06f931481aa207612aec2ab42dc985693d8831f7669a"
+    },
+    {
+      "path": "research/andijon/HUDUDIY_PROFILLAR.json",
+      "bytes": 11514,
+      "sha256": "da9905b32607d9a376849b992b346b2332cabf3721c8c77c0d7f4a8088fe261d"
+    },
+    {
+      "path": "research/andijon/IBORALAR.json",
+      "bytes": 9747,
+      "sha256": "c49ca8041fb133ed866f9391f0ff7e9c998df3e6010a4c9a248a57f2ac7927f4"
+    },
+    {
+      "path": "research/andijon/KEYINGI_VODIY_BOSQICHLARI.json",
+      "bytes": 751,
+      "sha256": "fc440ad3fd20d41b672479ccb64e641b64aa414266076a930a3c26d83e9a0b0f"
+    },
+    {
+      "path": "research/andijon/LUGAT.json",
+      "bytes": 133389,
+      "sha256": "ac677ef0b963cac095872f95d4afc8a382e77a2ad8d1bd10921cc22380150462"
+    },
+    {
+      "path": "research/andijon/MANBALAR.json",
+      "bytes": 12062,
+      "sha256": "0625ee881a03523ec5a1f387e84c4f123a6ac737b4e2ff4207fda86775a4e873"
+    },
+    {
+      "path": "research/andijon/NUTQ_NAMUNALARI.json",
+      "bytes": 11580,
+      "sha256": "674a7e80d2dcd7b93b5a20c378c80e2296dbf8ca4cb86cf5d63da7e8494098fa"
+    },
+    {
+      "path": "research/andijon/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 4083,
+      "sha256": "bb10c37a6e212bffed561299196c5a558193fed55a0db90ce4a84fb467614eae"
+    },
+    {
+      "path": "research/andijon/OQISH_XULOSALARI.md",
+      "bytes": 16314,
+      "sha256": "3832b500bd2f3f7dd01f97ca77ad5fa0baf105813e2bd0a3603eacd74bfbdb01"
+    },
+    {
+      "path": "research/andijon/SAHIFALAR.jsonl",
+      "bytes": 7209960,
+      "sha256": "402dc9e4d046d1cc489865fe3e6bb305e9fc879e9cf55b88f8c24bd958aad8a0"
+    },
+    {
+      "path": "research/andijon/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 13253,
+      "sha256": "2ac5037613ab871580dbdd8540456351a108b1e26c08d5eef3395ea167b793ec"
+    },
+    {
+      "path": "research/andijon/build_research_data.py",
+      "bytes": 42522,
+      "sha256": "c389e3e59ccc80df1f5df4df6affaa91b548abc6e5a8638e2abfc91da07f3765"
+    },
+    {
+      "path": "research/andijon/download_manifest.json",
+      "bytes": 2744,
+      "sha256": "731eb1760ddaebecb840ad9cc1b7ebbb8960f6a4f5285a57c906f5bbf5393617"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A1_022.png",
+      "bytes": 282359,
+      "sha256": "d4b00356f0377d30e908885da282067032dbacd904064455984e31533966302b"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A1_038.png",
+      "bytes": 228234,
+      "sha256": "8803a00dd53a6189e043b83159a9c15385d3b32693aeab33b3b50d70851d2b0c"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A1_039.png",
+      "bytes": 193275,
+      "sha256": "b42599199ecfa9b06d906d19532c180304044095bbc4877f75f2a1cd032768cd"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A2_039.png",
+      "bytes": 211810,
+      "sha256": "8f700cb122b37a5aae95b8ac99ec80ffaca58c8d2cda16650aae35744e329c36"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A2_041.png",
+      "bytes": 367239,
+      "sha256": "4fd83f9a6cad6af9ff70d7577e966dfd0650cd6527bb39f31f2661683399c056"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_074.png",
+      "bytes": 278281,
+      "sha256": "9db642d9e3428e27f4a0912b902656df160fdc5a1615c82bfdc807e9ef1bc106"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_075.png",
+      "bytes": 277101,
+      "sha256": "9966f5a86d7c1115cc35b9a9eb18dfe5e394d1611e2cf380ed09807b1cb4d4b5"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_170.png",
+      "bytes": 238318,
+      "sha256": "a3e2767c6de3adcc726b2385621a8e084dfa05610abd2c772ca27adaae8a4b78"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_172.png",
+      "bytes": 273502,
+      "sha256": "65dd50e0fd12ed9537e01aae15d10198ce5d2c202aba329123bd7d1723d66525"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_174.png",
+      "bytes": 250835,
+      "sha256": "866db9ecf9302ec30fdc34bca9d937a5bc6deeeeb1b9304044926c1f8ce2f37e"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A3_194.png",
+      "bytes": 246932,
+      "sha256": "407a7dd2e7937fb4fd5ae9b8f579fd6d61d1e1b469762be7ac80ea2cd291c470"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A4_001.png",
+      "bytes": 364791,
+      "sha256": "6c2486522435e3ab10a0b67419759da2ce0b7fd517fadb3afd767d10fe35ecce"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A5_001.png",
+      "bytes": 324616,
+      "sha256": "512b39f9fa1760c245727b81993927eb88525b10b1147ef0096c3d493a09ee92"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A6_015.png",
+      "bytes": 596289,
+      "sha256": "44321cc243b45d549d719c233c978623e12a7ac608a54708d6c91da34325adfd"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A6_082.png",
+      "bytes": 706309,
+      "sha256": "a03d1a18153055887661a83ce7130d5a0a784e4f16d5e5d6e498af6e83ce62f4"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A6_083.png",
+      "bytes": 668265,
+      "sha256": "442205b58032c8a83255ae080167fdb826390e89619ac7017f9fc53c61dd70e7"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_327.png",
+      "bytes": 267484,
+      "sha256": "ac05ccc52e83462e8e2fa9216df01aa939260b69c4279774a28b141d882ac075"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_328.png",
+      "bytes": 340858,
+      "sha256": "2f10a6dc738f46dee9c2889a355cdea004f509052ae7c811c002bfd9e82232d6"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_330.png",
+      "bytes": 342726,
+      "sha256": "ce094b18526de9862d28049288895fd2e9e675af74ce47e8f3ca1a4960a35f57"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_332.png",
+      "bytes": 278323,
+      "sha256": "49b2d6a914c786358d6849e1f75b9cac1983d642543aadf868bde82ba4c33ac6"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_473.png",
+      "bytes": 365927,
+      "sha256": "35ca9b758e59afcfad0fb995f26fa529d386d1a8030b408586ebb6630a248638"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_477.png",
+      "bytes": 338926,
+      "sha256": "419ecb2c1d809f5eef3b4c81fb2038a63400ee2173a678d953e3253841f2ff36"
+    },
+    {
+      "path": "research/andijon/tekshiruv/A7_478.png",
+      "bytes": 355375,
+      "sha256": "b0f0ee785050b872e54c2666cbe7b4d23f3889663ad8e85eda3dbc98dc917171"
+    },
+    {
+      "path": "research/buxoro/B1.txt",
+      "bytes": 218344,
+      "sha256": "78064f961309b08b866944ab94e046e05ed971957fcfa713c13a1610f2460b71"
+    },
+    {
+      "path": "research/buxoro/B1_HUDUD_QIDIRUVI.txt",
+      "bytes": 10783,
+      "sha256": "560a228cfb89c23e79eb7cae2396e992ebe1c3e2b1abb6d34b59dbd38bcc2c2f"
+    },
+    {
+      "path": "research/buxoro/B2.txt",
+      "bytes": 96,
+      "sha256": "189c88559959f0c137726a732ef24ef2f5611e272f1280331f8c2f0e327d0a47"
+    },
+    {
+      "path": "research/buxoro/B2_HUDUD_QIDIRUVI.txt",
+      "bytes": 21422,
+      "sha256": "b1c1a76cd24a5231a7684ec4e6c2b0478d5852602347cf85606bc79b6a194295"
+    },
+    {
+      "path": "research/buxoro/B2_ocr.txt",
+      "bytes": 412698,
+      "sha256": "6f61ac50eb72679f678c4b8d9d9fd909ec9e26ff2d7a0cc47702a237332d6544"
+    },
+    {
+      "path": "research/buxoro/B3.txt",
+      "bytes": 9312,
+      "sha256": "d0c296a6342fe179e01c9f7c55e09f840f58cc12e4e3a21eeada7b23c60f453a"
+    },
+    {
+      "path": "research/buxoro/B4.txt",
+      "bytes": 284936,
+      "sha256": "2a0305f6184593dae7e6602b66d70e16c475d4807e397f8747395f41da624e44"
+    },
+    {
+      "path": "research/buxoro/B5.txt",
+      "bytes": 7823,
+      "sha256": "d08760728ef663a1a1550dbebf494216bc0ebbf7ce2bcb46d542e05377ccb568"
+    },
+    {
+      "path": "research/buxoro/GRAMMATIKA.json",
+      "bytes": 17778,
+      "sha256": "7eb6b8204959767a376c45eef6a675ec38b441bd3238e5ba4d796c62c6be5c6a"
+    },
+    {
+      "path": "research/buxoro/HUDUDIY_PROFILLAR.json",
+      "bytes": 1755,
+      "sha256": "7b7314652077f79159e1da9b97cd63422c620de4f08d24313b8e98759205cf01"
+    },
+    {
+      "path": "research/buxoro/LUGAT.json",
+      "bytes": 76423,
+      "sha256": "b06fd6627188575ee3104b9ea1aec9f8e0a61a466077fd0d0cdc5412a5371523"
+    },
+    {
+      "path": "research/buxoro/MANBALAR.json",
+      "bytes": 7215,
+      "sha256": "c50f962d5b82b32b19fb8570a87babf4f6f7dc5f0495e9256d72263c29e8b35c"
+    },
+    {
+      "path": "research/buxoro/NUTQ_NAMUNALARI.json",
+      "bytes": 4395,
+      "sha256": "834c7c792d5a73f53d1223df910420ff19a558f55880d7fb781addb2625e3d70"
+    },
+    {
+      "path": "research/buxoro/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 1642,
+      "sha256": "aefd93342d208c5325dcb190fe56f694038833a761f8f1f333fbf5dc211e4456"
+    },
+    {
+      "path": "research/buxoro/OQISH_XULOSALARI.md",
+      "bytes": 15977,
+      "sha256": "da0f9296d4b60896b6c39551ad8056a4d5177f66c255cc1d20c8e41e63edecfe"
+    },
+    {
+      "path": "research/buxoro/SAHIFALAR.jsonl",
+      "bytes": 980240,
+      "sha256": "369b9fce3b4b7a256ba167d286bd2e2dd05190f8737acf4f2977f2074eb7bf48"
+    },
+    {
+      "path": "research/buxoro/TEKSHIRILADIGAN_BIRLIKLAR.json",
+      "bytes": 3279,
+      "sha256": "da8adece861417987ef81fcd31cd9c288d4023512355869188ce6b929ce410f1"
+    },
+    {
+      "path": "research/buxoro/build_research_data.py",
+      "bytes": 26201,
+      "sha256": "44f0bdaf7a12cf8e24e0053e6084cc13a05b42161f18c9cbafc5f3197d7ece60"
+    },
+    {
+      "path": "research/buxoro/download_manifest.json",
+      "bytes": 1223,
+      "sha256": "93f6e8944df42161dd2388772429604a84ed680839dd9d0c9b8d055d4cc6476d"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B1_019.png",
+      "bytes": 234423,
+      "sha256": "0102aeed4228be68906bcb7c5047108f56928fd5a602f40585f5574c52b0a05f"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B1_020.png",
+      "bytes": 236139,
+      "sha256": "8e3c3d3fcef5346745bb376e56cb832bf22892a7c318c082ad671232a797c979"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B1_022.png",
+      "bytes": 237405,
+      "sha256": "28beaaa3c7365ac38e5e454a5d1a3819ea1bae155293e0ad8b0f1ecb064fd2a7"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_011.png",
+      "bytes": 511683,
+      "sha256": "e53f6f83864555727fbabfd7be1d7277a92fd1369de65699b9291b3871a05cf7"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_011_detail.png",
+      "bytes": 105089,
+      "sha256": "8bfbbe1894bacefe4ad23c16a91b048ecaba5b34dada100bb585986659006110"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_020.png",
+      "bytes": 485994,
+      "sha256": "7bd6d7758f59b5d28ad0f81c3c8f248f3ba88c8a71373bd280675a43e85c43a6"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_029.png",
+      "bytes": 468974,
+      "sha256": "7e23b5a97bf5cf412ca16edf161d18db515845d58205c8c93c6885f8087f6565"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_039.png",
+      "bytes": 482851,
+      "sha256": "4c23844d52ef1fc6a14af6c098b7c1be8f03080a6b8d002b5e9d578a289dadae"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_040.png",
+      "bytes": 511267,
+      "sha256": "e4616fd57bfc83ddff70ef6af3062663c423aff3655731bb8516a3fc3b56ed47"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_075.png",
+      "bytes": 509309,
+      "sha256": "244ac98e0028751a5b49874129f82312edeeac5e908729e8e717634524f3027d"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B2_082.png",
+      "bytes": 591833,
+      "sha256": "df2e60607ff4fc7216e19c1d16449116ed32a2cb64b074bf781d0b0e8da45b30"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B3_002.png",
+      "bytes": 496326,
+      "sha256": "74fbe7912c97ee08409d0c429dc50f8241f8d97403dad495de3136b2d0cfb4ef"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B3_003.png",
+      "bytes": 510291,
+      "sha256": "257c9ddaca568efe3ff8e9ff23e174ecbe6ea15355911c049fe4bd54c86ca29f"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B3_004.png",
+      "bytes": 362824,
+      "sha256": "b6f040cdc38885d08908bbca7df83fc1f299921e63b295b3fbc01a07b91113f3"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B4_012.png",
+      "bytes": 273364,
+      "sha256": "8a18531526a5a1f1e94be1756c50bdf88d8bb0189b798a60022f21e9986b7c92"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B4_014.png",
+      "bytes": 309338,
+      "sha256": "f09a4fce3cff7fbe0a06c071b95a50686ce4bf9bc8e1267e72608b8abd5d9c40"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B4_020.png",
+      "bytes": 336878,
+      "sha256": "08b079f451aad143cdbb98356d93506b0b621c9f398639eb8edb93392d7f9676"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B4_025.png",
+      "bytes": 317316,
+      "sha256": "3caf8b676cbe3e500ae819eb0afe41fc92d13fcceb8de248c8bb412b062ce14e"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B4_029.png",
+      "bytes": 283501,
+      "sha256": "f82e674d9f92400e7f6cebfa5bf6ff52a72657e3b814a6a37984338315631426"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/B5_002.png",
+      "bytes": 226516,
+      "sha256": "0bb363c927e092fc013b5a1fbbb12bd851c4d49f09ab7efa7c758f9d8554a41c"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_017.png",
+      "bytes": 161338,
+      "sha256": "4beb979bba23263210c57af67952df62c36f25aafc31dfce9db6d4d2b3cac4c6"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_029.png",
+      "bytes": 161785,
+      "sha256": "623a33979c85c54689ed405847b96c9833cedeaa1da12ebca678a747bc8f8152"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_035.png",
+      "bytes": 172866,
+      "sha256": "a45a3c0e51821d0e81ce0e031149457157461c77a72342fffbb7b7518efe79b2"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_041.png",
+      "bytes": 186557,
+      "sha256": "b5baa378adfca3fe6ab341c6727be8afe4de250470fb3e15aa1dce094b6f3515"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_043.png",
+      "bytes": 166831,
+      "sha256": "0ae1830c3d6e3f14351adca0594baa97559bd51f46f07e441c71de2ac97415e3"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_062.png",
+      "bytes": 145655,
+      "sha256": "7b1abedbf860f1acc43eecb34869e4e37049f891e3381029bf064295154b0d43"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_075.png",
+      "bytes": 140182,
+      "sha256": "c6a39ec88dd2188979ac791cbd467f2fed0aa3804970970bd025d9c47b462b53"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_078.png",
+      "bytes": 164346,
+      "sha256": "7761e6a0229b56f02389b511907fa8fae781117076d2e715bd74fc931ac42717"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_109.png",
+      "bytes": 159656,
+      "sha256": "826d44faffb921a550eb8937fe307863b264a4f4acfc04e7d0a1f81e28ac00dc"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_137.png",
+      "bytes": 171391,
+      "sha256": "8ee6212c77b4f81458bfaddfb186799a5fa712351fd2745ca3ec41fec77cf1eb"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_166.png",
+      "bytes": 155135,
+      "sha256": "c68e2e4df7ee97f25886d3779ff8817fa6df60c38f847880c1ac450fe3cf00b9"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_175.png",
+      "bytes": 169450,
+      "sha256": "83d9a8a26e2df4b13ae7293b05a0e19c5d2f8ce4533227e7643db2f55d10078d"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_207.png",
+      "bytes": 175989,
+      "sha256": "a58ff3c42b80b499f10ca6d6b82dbb241876c862dd6be6007a2f2aead45c611d"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_224.png",
+      "bytes": 173468,
+      "sha256": "278994eea9f91c29470c562540ca22cd9abdc2a4adb6847401c0c3f5cefcd344"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_229.png",
+      "bytes": 176887,
+      "sha256": "37874bb2fd090044857df70d338a84840df0412ed0f0b00b90253715407390c4"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_246.png",
+      "bytes": 163268,
+      "sha256": "dff24833f80379838b65eb0ab499fc8b4c485be453304cc66e02c0945c1a58e6"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_269.png",
+      "bytes": 166271,
+      "sha256": "7f2d523a5fbdb3eca6f22b1bbc7a8c395e147d980f1fc7ab14342d78f772af12"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_271.png",
+      "bytes": 143733,
+      "sha256": "616db6482f33ad6ef5656363de5c5186a106d2eb719cdbadb343a9e6ea637c73"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_272.png",
+      "bytes": 145895,
+      "sha256": "af1aa8cd9980d8009aa71a9b46ec10946a2b44798f59c518a907b009edcd5411"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_275.png",
+      "bytes": 172274,
+      "sha256": "9e80df53e4ddc1576ad570c487425484bb2890f4c07a292b1c59d7721588dfd6"
+    },
+    {
+      "path": "research/buxoro/tekshiruv/E1_281.png",
+      "bytes": 170419,
+      "sha256": "166ac3c416fa4d47d6b90cae024ad678b382b2fe32a6483659152da0d58e4147"
+    },
+    {
+      "path": "research/fargona/F1.txt",
+      "bytes": 302897,
+      "sha256": "0ce828af795b4319fc0d68db150050361b65568655ed8fa513cb0b4d5210ce67"
+    },
+    {
+      "path": "research/fargona/F1_HUDUD_QIDIRUVI.txt",
+      "bytes": 71252,
+      "sha256": "221e61d7c5bf672d1f427ebb632fabdecc3ed2a899852bc04e08cbb508a522d7"
+    },
+    {
+      "path": "research/fargona/F2.txt",
+      "bytes": 250791,
+      "sha256": "0d1fdcc6f29965137f72b11e380ab5af7fe2b24b73cf3e4479255fb54c82fc18"
+    },
+    {
+      "path": "research/fargona/F2_HUDUD_QIDIRUVI.txt",
+      "bytes": 97541,
+      "sha256": "2ed49553b7a02713009cca1581a40d6754931ca8bf51a40be0c142934ee12be7"
+    },
+    {
+      "path": "research/fargona/F3.txt",
+      "bytes": 179914,
+      "sha256": "e233f309cd423f45e5b39927f15604f7396130cb80ea56e56105071689c7aa36"
+    },
+    {
+      "path": "research/fargona/F3_HUDUD_QIDIRUVI.txt",
+      "bytes": 23948,
+      "sha256": "882c3a067c2a6504f47c44e123b73b7f0a292b67656733d97abcb6b27356069c"
+    },
+    {
+      "path": "research/fargona/F4.txt",
+      "bytes": 9256,
+      "sha256": "c473b3a0369d3456f1d00098245089832caf6b9fdee1c5defbea3a8b83349062"
+    },
+    {
+      "path": "research/fargona/F4_HUDUD_QIDIRUVI.txt",
+      "bytes": 9276,
+      "sha256": "7efda2b5030a5074885d79d5519435d6c3d6f899bc626293a627e42bde87a951"
+    },
+    {
+      "path": "research/fargona/F5.txt",
+      "bytes": 20572,
+      "sha256": "592a614caec26e4a6ceedf2f74bec24484801055bfe5b67b896b5b75162b4427"
+    },
+    {
+      "path": "research/fargona/F5_HUDUD_QIDIRUVI.txt",
+      "bytes": 20613,
+      "sha256": "897438ee5249467f884cba1daeac74774e8cd7b5fcc69a7109a2b803581080b8"
+    },
+    {
+      "path": "research/fargona/F6.txt",
+      "bytes": 7724,
+      "sha256": "af2e70f940cfb418793e59d2bea7cce06b3b8702c32c86e928d565fde7f3641c"
+    },
+    {
+      "path": "research/fargona/F6_HUDUD_QIDIRUVI.txt",
+      "bytes": 7744,
+      "sha256": "50c26c0661716536e367f22d4837ea4c55fda35a41865cd88f56da0a4d767c09"
+    },
+    {
+      "path": "research/fargona/F7.txt",
+      "bytes": 18139,
+      "sha256": "5816c347373fc51702b54cdc87b0fc90baf9a1fd75bb40965c1d23af2b980f90"
+    },
+    {
+      "path": "research/fargona/F7_HUDUD_QIDIRUVI.txt",
+      "bytes": 18194,
+      "sha256": "c637b5759e87a8c04aab8acd5ee7b0a56c01613b39a5da02fea9d89619e62b80"
+    },
+    {
+      "path": "research/fargona/F8.txt",
+      "bytes": 896687,
+      "sha256": "151c417bdca79b3711fa431f30d47ade62ef17afae8e59fdddd30828ed86577b"
+    },
+    {
+      "path": "research/fargona/F8_HUDUD_QIDIRUVI.txt",
+      "bytes": 80341,
+      "sha256": "dac3ad82f2deb2821df9b26312461f9b8566eb0074952177c4f46366b26a8fe6"
+    },
+    {
+      "path": "research/fargona/FONETIKA.json",
+      "bytes": 164836,
+      "sha256": "b0396803db3ede498dd58bf1665aa2461ff60068a457e0d6e30991b317a1ef41"
+    },
+    {
+      "path": "research/fargona/GRAMMATIKA.json",
+      "bytes": 22692,
+      "sha256": "447c864fb16e3cb7b10a68cb610b106112c5f88cf9d7682a90876bc679c1af80"
+    },
+    {
+      "path": "research/fargona/HISOBOT_STATISTIKASI.json",
+      "bytes": 312,
+      "sha256": "3bf53ec4a55d183c266b08d8721b9805ac0597b8a4ec5736dae71a4877f882b4"
+    },
+    {
+      "path": "research/fargona/HUDUDIY_PROFILLAR.json",
+      "bytes": 8999,
+      "sha256": "e40e16478d58ebbf6479f7f439847b6503910ad6406ef86d17deac76b710a659"
+    },
+    {
+      "path": "research/fargona/IBORALAR.json",
+      "bytes": 5687,
+      "sha256": "b7d35085f2086d8c4decb157d1495be182293db7ba5d25e1c031b32b9779b0f1"
+    },
+    {
+      "path": "research/fargona/LUGAT.json",
+      "bytes": 96274,
+      "sha256": "fd5c7387eba77c631e44de15630c9fb36d1b7a3d6913f7ead98f7fb65d0c438e"
+    },
+    {
+      "path": "research/fargona/MANBALAR.json",
+      "bytes": 7527,
+      "sha256": "551037e91c53389340f89cd321a1e7311dfce6fdecb64ef0828bfbf31d3e4695"
+    },
+    {
+      "path": "research/fargona/NUTQ_NAMUNALARI.json",
+      "bytes": 21050,
+      "sha256": "842ae9b5482a6000bf4da85b0a67d744e5d0e09134042f792593ac1823f447b4"
+    },
+    {
+      "path": "research/fargona/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 7537,
+      "sha256": "6f9509de848b4e4866f4e0bae4d648f81eb5e1b4affb21985110d846d31fafab"
+    },
+    {
+      "path": "research/fargona/OQISH_QAMROVI.json",
+      "bytes": 6194,
+      "sha256": "7041325807416067db871b586236b9f4ab04b49ea30e740b66c3a857c5210816"
+    },
+    {
+      "path": "research/fargona/OQISH_XULOSALARI.md",
+      "bytes": 20706,
+      "sha256": "1402eea0af1cba469fe645b6663d08dffc186bd3d1aeb9fd9f41717cb857a138"
+    },
+    {
+      "path": "research/fargona/SAHIFALAR.jsonl",
+      "bytes": 1747433,
+      "sha256": "f3338fa787cae1068e94a553d8665b1d0e859f2aebd5540fb13e7bd09781dd11"
+    },
+    {
+      "path": "research/fargona/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 36097,
+      "sha256": "4a3a64a2f661831e3c74d0b12a84f99c8526c40505e0c8d44c90dc8622f3bcc1"
+    },
+    {
+      "path": "research/fargona/TEKSHIRUV_NATIJASI.json",
+      "bytes": 1352,
+      "sha256": "82279ec990432f6030b41d39c91e843bdfdd445af3785ab5c3eea00f865137bf"
+    },
+    {
+      "path": "research/fargona/build_research_data.py",
+      "bytes": 41511,
+      "sha256": "6b8826ad32b30f3f2254b8b2993c2e7d59a0d9d434fab2abeab1cfb3d5365397"
+    },
+    {
+      "path": "research/fargona/download_manifest.json",
+      "bytes": 2526,
+      "sha256": "b2e8bcb4a2688622dd17de1262dd8cc9ea31e87f1ad54aa2f103b07be92f1e18"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F1_054.png",
+      "bytes": 221237,
+      "sha256": "928627db1709654825e78263d7d446fc05845dcbad8d8e57edb356bdabefb35e"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F2_045.png",
+      "bytes": 347530,
+      "sha256": "1e7f51d8fda7fec967e887c2096957979f7917c431a9b780f3cbcde1081e6134"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F2_055.png",
+      "bytes": 220992,
+      "sha256": "ce35c5e0b5a2fe709f44041899f33fd7b2260548b130aef7e0ccc07cbe2e1f4a"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F4_002.png",
+      "bytes": 343669,
+      "sha256": "11e38db4096d53e3c9dd0bdccfa0a4815706fab0e10f79fa22701d9222b4b1f5"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F5_003.png",
+      "bytes": 320170,
+      "sha256": "466281a74e001214407eb4f854ef7e5f703a126543faaaedecaa64f2335d31cd"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F5_004.png",
+      "bytes": 303889,
+      "sha256": "7753cdbf2c9bbea2e101e46e74d137ece580fcc67d8bc0fc8866a827789549c4"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F7_005.png",
+      "bytes": 417466,
+      "sha256": "7834f68ef723c658de46d56929ded1eca663ff3af022d4cb7fd8667da6c6d6a4"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F7_006.png",
+      "bytes": 409120,
+      "sha256": "af1299d803edacd7bdb3d6594fae05e3b49d6247e2e27803cbc154baf3bd70cd"
+    },
+    {
+      "path": "research/fargona/tekshiruv/F8_081.png",
+      "bytes": 227614,
+      "sha256": "36fe4156d2be36bc3c539068315ca9fef2594942b1f1271196fbbdff076f0949"
+    },
+    {
+      "path": "research/jizzax/E1_HUDUD_QIDIRUVI.txt",
+      "bytes": 164306,
+      "sha256": "8b557633d15f1ed73635e43b39aa0af3831dd5a6c2869bd18579af9733c9f3b4"
+    },
+    {
+      "path": "research/jizzax/GRAMMATIKA.json",
+      "bytes": 15391,
+      "sha256": "8ca68c2a85472f2ba6bf97716443f1813882a934a7012deca87f9e091bc2bca9"
+    },
+    {
+      "path": "research/jizzax/HISOBOT_STATISTIKASI.json",
+      "bytes": 304,
+      "sha256": "797a399aaf559e74acd41ca4b686f1cbdbe783d8605d247081680baa3efd93d2"
+    },
+    {
+      "path": "research/jizzax/HUDUDIY_PROFILLAR.json",
+      "bytes": 6321,
+      "sha256": "41829edd43b79d294744021f7d5f05bdf973af427eea80afef82337d6beccc0c"
+    },
+    {
+      "path": "research/jizzax/IBORALAR.json",
+      "bytes": 10373,
+      "sha256": "1138c922b8f0dd763275fc393401691d34462db8843294aa01ccc87b851347e9"
+    },
+    {
+      "path": "research/jizzax/J1.txt",
+      "bytes": 594368,
+      "sha256": "eeddb915108fbebf49fe7f6fbd04e8e47c63ba52f1e3a0de4ed0a174f5f22dda"
+    },
+    {
+      "path": "research/jizzax/J1_HUDUD_QIDIRUVI.txt",
+      "bytes": 8374,
+      "sha256": "2515023f318ca3f83600fee502829367c2e5de3edc17f6d257a5506684de5aaf"
+    },
+    {
+      "path": "research/jizzax/J2.txt",
+      "bytes": 250791,
+      "sha256": "0d1fdcc6f29965137f72b11e380ab5af7fe2b24b73cf3e4479255fb54c82fc18"
+    },
+    {
+      "path": "research/jizzax/J2_HUDUD_QIDIRUVI.txt",
+      "bytes": 6652,
+      "sha256": "b5c0455787cafe8afdbad66d8511ef1846e925bbea3e393bf9b87bf9cd51c979"
+    },
+    {
+      "path": "research/jizzax/J3.txt",
+      "bytes": 179914,
+      "sha256": "e233f309cd423f45e5b39927f15604f7396130cb80ea56e56105071689c7aa36"
+    },
+    {
+      "path": "research/jizzax/J3_HUDUD_QIDIRUVI.txt",
+      "bytes": 3768,
+      "sha256": "7b66167098e0c65792d4af6ef9c782994c4ac6b7f0d3de83bf7f74734fe9c289"
+    },
+    {
+      "path": "research/jizzax/J4.txt",
+      "bytes": 11082,
+      "sha256": "371ff4162c405776e41c9c9784764aa4f37041f5789faaf87536ed317c696b4f"
+    },
+    {
+      "path": "research/jizzax/J4_HUDUD_QIDIRUVI.txt",
+      "bytes": 12587,
+      "sha256": "cbca8b13eb8bfaeb944f9fc800a9108d08759ada9d35e83d4af59107944a3ec3"
+    },
+    {
+      "path": "research/jizzax/LUGAT.json",
+      "bytes": 23859,
+      "sha256": "ceef287bdff311672f2b8cd183365a153dabe361118e9b6deda75eb659864caf"
+    },
+    {
+      "path": "research/jizzax/MANBALAR.json",
+      "bytes": 6568,
+      "sha256": "c0605ca613100149dea51393735650759120f6f52a2b6015d85aed6aede7f1f9"
+    },
+    {
+      "path": "research/jizzax/NUTQ_NAMUNALARI.json",
+      "bytes": 6953,
+      "sha256": "f6d3edad9db06e8aa21ff2f736a4cc8fdfe2ccf49fa2f10f71da6fcba58eaf47"
+    },
+    {
+      "path": "research/jizzax/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 2041,
+      "sha256": "361c0c81da2b70739aa1436ef31affa55508e50bc7e0c072316a839a7c6bbac6"
+    },
+    {
+      "path": "research/jizzax/OQISH_XULOSALARI.md",
+      "bytes": 14316,
+      "sha256": "9c500b68e3fdd976db3a4e3ba41e35208d8a86f190b49be53d8a6e775250c391"
+    },
+    {
+      "path": "research/jizzax/OYIN_ATAMALARI.json",
+      "bytes": 23812,
+      "sha256": "7272cd644250f16cb3b468291e81f26ace522d9cdb2d0035e46dbc11e2aa5a2b"
+    },
+    {
+      "path": "research/jizzax/SAHIFALAR.jsonl",
+      "bytes": 1083715,
+      "sha256": "f6f35ab68a526e75177ef624331fd1a2ac012a80a7dddfc69e8b9c578a27cb17"
+    },
+    {
+      "path": "research/jizzax/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 3561,
+      "sha256": "b4313449cf86cbda8fe061a171350f54e0508a0708fbeea68a25f74dc6d7d1c4"
+    },
+    {
+      "path": "research/jizzax/build_research_data.py",
+      "bytes": 26588,
+      "sha256": "b358907d8f30dc7693d5949abfc85895fafb43d8a5c358abed1467687168c130"
+    },
+    {
+      "path": "research/jizzax/download_manifest.json",
+      "bytes": 1091,
+      "sha256": "716e591893300b34c25c28bb5df36e02a89d4627152c5c3f5c35b4fbd09cd084"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_013.png",
+      "bytes": 208707,
+      "sha256": "90daad3ee3596e1f3a9e367497c5b868a584ae47c7b4cfc1a3d5e271d6032cc8"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_022.png",
+      "bytes": 155964,
+      "sha256": "98c56e94b70794540801fc08f1405d699771d47716df72e267379b7d195885a1"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_034.png",
+      "bytes": 190648,
+      "sha256": "a70d49f79b87cf9c885446dba0fc12301bfd3656b58b8be3f26db26084c2141f"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_049.png",
+      "bytes": 213090,
+      "sha256": "ef615be03cbb90ce9c5fd3b0bb367bfeb4a09d1a1a401eff74482a682b7198f0"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_053.png",
+      "bytes": 194286,
+      "sha256": "2542fdc83067e13ac638202d07587f6ded74be848e909b741974534d62b592bf"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_056.png",
+      "bytes": 198745,
+      "sha256": "b0273cdf575d1a8effeb986cf2ba1c87c35780d09d6d2150f00a8542869672b8"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_069.png",
+      "bytes": 174830,
+      "sha256": "3754fc87624b01b740130d60f5083ecb651db8d3673d9a5eb2b9dbb68bd45344"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_074.png",
+      "bytes": 181589,
+      "sha256": "4700fb21801ca9fb8aff37e7bee5672670b89583ec7053bef4b8c76125963ab7"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_091.png",
+      "bytes": 198592,
+      "sha256": "ce1e490d55628f4b44e25f3ba5ef8287c87b5f3a99ed5ef67e6064b2d5f87838"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_094.png",
+      "bytes": 193879,
+      "sha256": "c282028d4812123f6ea29c5ed626ff09abcd5fa36d84f3fc9349f1e1e2d5a660"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_195.png",
+      "bytes": 192719,
+      "sha256": "292ed94d0d61b47ab79948f4b6d08a9a902fa6381e6f281cbc80ec9c5e699553"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_207.png",
+      "bytes": 193138,
+      "sha256": "0818eb3eeb82df917a8e13124cae8908c1865eaab929089d90b5b56867a6acf0"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_220.png",
+      "bytes": 177551,
+      "sha256": "e991ce8e0d41d07ba7c5e65f6ee11f15edbaff43a4553efd23227de03e9c82c1"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_244.png",
+      "bytes": 176963,
+      "sha256": "60d085c27f7bb19b99fc873ccb74c7254f73e2b37ddb817e3c0fd67089a58302"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_258.png",
+      "bytes": 196300,
+      "sha256": "b831d0d91bdcd4afca44d6e3cef60880548a5100905e51c289f76e7d0ed2b37e"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_272.png",
+      "bytes": 158120,
+      "sha256": "57ea09d615b8f7063eab4ab8170a020f64f79669e85e760d90155df09d38e0d6"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/E1_272_soz.png",
+      "bytes": 84306,
+      "sha256": "67ef78063ae7f75d766834a84bd242c9c519d93e35fc312ff8f75bcdcf9ec293"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J1_150.png",
+      "bytes": 229008,
+      "sha256": "9e29ad387004b1c899f00fe1b4193a3ea4332145858099f83abee16912236846"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J1_151.png",
+      "bytes": 149923,
+      "sha256": "3107b03d9bc5d43a04c6597572731a48c53a1a75d8160112c0728510ee273af5"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J1_154.png",
+      "bytes": 202496,
+      "sha256": "b27e15d75c000751207c8ff3912d54246c5728835e7b7177be7a589f710f01fd"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J1_191.png",
+      "bytes": 249603,
+      "sha256": "d0cf845c4af95f19d6b1f447b2e4bf06b2dbbe082e69e4564697c162c38ef3b3"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J2_031.png",
+      "bytes": 295790,
+      "sha256": "6f5e77590fa37641091bc2eae591dd36da03b985a4fb65f5fa752645cf5d1c2b"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J2_062.png",
+      "bytes": 162773,
+      "sha256": "c149765759d634a4f14735f3a8b1654ed47f0f55aa4dca1a691c7233be9a1466"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J3_002.png",
+      "bytes": 135740,
+      "sha256": "15842ed0f23a0f09d331d69a8feff4c02c72ca1cb2e5f66b740619d8ac12a314"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J3_054.png",
+      "bytes": 152587,
+      "sha256": "1f7aeda0c09cf2c4060e1d4c38fe5200db7101a33a406e87dc3fd3cb65a3d986"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J3_063.png",
+      "bytes": 200659,
+      "sha256": "2e4f6a9aa8a4aa931ca6288dba16e263724585918e13b39f5a246f837143b0f8"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J3_084.png",
+      "bytes": 133258,
+      "sha256": "09ae3d877116d038ecb4de560cc9a3fd9df0dd6f2503baf8393624182d94f09c"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J4_002.png",
+      "bytes": 283616,
+      "sha256": "16cae7afb3d613327daeedd84629fde05b35466bc6dd67f4f04eb8d3faf3a3c9"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J4_003.png",
+      "bytes": 313393,
+      "sha256": "207642b4839fde1560d59dcb9b9f372d40d42f2d3cbb41eb992d3000dd10d8e0"
+    },
+    {
+      "path": "research/jizzax/tekshiruv/J4_004.png",
+      "bytes": 145199,
+      "sha256": "061b1801e07ea776613030f4163dd5abb7d2b358341efd10c0658a52887c3526"
+    },
+    {
+      "path": "research/namangan/FONETIKA.json",
+      "bytes": 52213,
+      "sha256": "a003d969578725a3f6846f689209911ed604eda34da7699235fd60fc6e11b159"
+    },
+    {
+      "path": "research/namangan/GRAMMATIKA.json",
+      "bytes": 26999,
+      "sha256": "a99307a0b0e81117af6077de3ebff21a1f229e9730b32ab7dd0720b03a534a80"
+    },
+    {
+      "path": "research/namangan/HISOBOT_STATISTIKASI.json",
+      "bytes": 390,
+      "sha256": "8ade1f24cd424802b787a2c72e4601ba62e66d6756914a2756cf1d49142dad24"
+    },
+    {
+      "path": "research/namangan/HUDUDIY_PROFILLAR.json",
+      "bytes": 2369,
+      "sha256": "cd3f4cbaecc361a0a16ff529bfbb5c425cdaef1d213b84ccc8f75d30fcfeaff3"
+    },
+    {
+      "path": "research/namangan/LUGAT.json",
+      "bytes": 245885,
+      "sha256": "ecc41fae99e38858bb8247db3ed5be85418c04a304b3ff0f3b967cb3745269e5"
+    },
+    {
+      "path": "research/namangan/MANBALAR.json",
+      "bytes": 8049,
+      "sha256": "df616fba1819d1deb1672967c7ee9ebff4239b84a5aeba7bd4f1e11e570109b1"
+    },
+    {
+      "path": "research/namangan/N1.txt",
+      "bytes": 594368,
+      "sha256": "eeddb915108fbebf49fe7f6fbd04e8e47c63ba52f1e3a0de4ed0a174f5f22dda"
+    },
+    {
+      "path": "research/namangan/N1_HUDUD_QIDIRUVI.txt",
+      "bytes": 60280,
+      "sha256": "26fdd30402496bfa83fb062c48bd790f36c4998cba1d567461822703132e65ab"
+    },
+    {
+      "path": "research/namangan/N2.txt",
+      "bytes": 302897,
+      "sha256": "0ce828af795b4319fc0d68db150050361b65568655ed8fa513cb0b4d5210ce67"
+    },
+    {
+      "path": "research/namangan/N2_HUDUD_QIDIRUVI.txt",
+      "bytes": 52880,
+      "sha256": "00ccc21c7acea7319686590c493da35043bdb38203549ad72a493172db00a40a"
+    },
+    {
+      "path": "research/namangan/N3.txt",
+      "bytes": 29031,
+      "sha256": "8673b60e43f0c6cd6136a5573dfc6da47c66143f18711b432995bfd0a4cd860e"
+    },
+    {
+      "path": "research/namangan/N3_HUDUD_QIDIRUVI.txt",
+      "bytes": 29093,
+      "sha256": "0661f354aa946c5ebe5c46d5b36d9e694753185445849ef50d97a769c90620b8"
+    },
+    {
+      "path": "research/namangan/N4.txt",
+      "bytes": 14881,
+      "sha256": "4a74ba70df32eb25f47d074f57ef6153ce532d93aaec949711032e8ec5467e7b"
+    },
+    {
+      "path": "research/namangan/N4_HUDUD_QIDIRUVI.txt",
+      "bytes": 14901,
+      "sha256": "a94bb269174f1033b539cc2a3bf6d5fbd33e44b96d4159edd26a5feaf5c4c6eb"
+    },
+    {
+      "path": "research/namangan/N5.txt",
+      "bytes": 14431,
+      "sha256": "271ab3cdd6ab86aebae6d85d54b863271238731804b50adaef823c5373763d70"
+    },
+    {
+      "path": "research/namangan/N5_HUDUD_QIDIRUVI.txt",
+      "bytes": 14458,
+      "sha256": "2c297a7663aebcf6022f56fd3bec9bc908a5c3fb761f83fbce98dededf757b6c"
+    },
+    {
+      "path": "research/namangan/N6.txt",
+      "bytes": 7114,
+      "sha256": "d3ee622a351ddd9408ddd52e17e4f37006c5c24d65bd312b823107e349c9b69c"
+    },
+    {
+      "path": "research/namangan/N6_HUDUD_QIDIRUVI.txt",
+      "bytes": 7134,
+      "sha256": "c6ee5e4060d1f755df72f6b0727ddb66649819c23df6a844594a02ef3c37716f"
+    },
+    {
+      "path": "research/namangan/N7.txt",
+      "bytes": 17895,
+      "sha256": "09056e39e78d05975a725987db596bf2086085088b2c599b77fbefd5f916f9c5"
+    },
+    {
+      "path": "research/namangan/N7_HUDUD_QIDIRUVI.txt",
+      "bytes": 15969,
+      "sha256": "3ec54372c9c296d2b78639c111fd7a5e7c23a073a688b1dcc8212c63a4c972fc"
+    },
+    {
+      "path": "research/namangan/N8.txt",
+      "bytes": 96,
+      "sha256": "189c88559959f0c137726a732ef24ef2f5611e272f1280331f8c2f0e327d0a47"
+    },
+    {
+      "path": "research/namangan/N8_HUDUD_QIDIRUVI.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/namangan/N8_ocr.txt",
+      "bytes": 412697,
+      "sha256": "91c9a62e15f9a539aa2305dc9f26d38d006c46e5daaa5ef056745ce5b0a456c9"
+    },
+    {
+      "path": "research/namangan/NAMANGAN_SUHBAT_ASL.json",
+      "bytes": 4593,
+      "sha256": "3c46c5b3609395fcea39be4e60c15e9fa2470af8e18ada6bb1afc64258fadff0"
+    },
+    {
+      "path": "research/namangan/NAVKENT_JADVALLARI.json",
+      "bytes": 158682,
+      "sha256": "f9bd648dc235eeb5e83572f23cdb5f2ca05af142afb2847996b80d1ffadc674e"
+    },
+    {
+      "path": "research/namangan/NAVKENT_JADVALLARI_ASL_AJRATMA.json",
+      "bytes": 5230,
+      "sha256": "eefbb189703deb8ba864f4a88002591c90cbf60be13fa18e961d69cf9e1d5966"
+    },
+    {
+      "path": "research/namangan/NUTQ_NAMUNALARI.json",
+      "bytes": 39481,
+      "sha256": "b02c0d594459c63f880bec2a8bd8a93362a6bb7b77997b7b49a3475920741417"
+    },
+    {
+      "path": "research/namangan/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 6575,
+      "sha256": "6fdce851b7e1421d8b3740d9e2403bd893a166c685640c51ea5648d125f63b57"
+    },
+    {
+      "path": "research/namangan/OQISH_QAMROVI.json",
+      "bytes": 2804,
+      "sha256": "b6bd29ec2357e9b37fd7ff2adc284c5d76b36e29a84272d1b6f1237bfa5eaa61"
+    },
+    {
+      "path": "research/namangan/OQISH_XULOSALARI.md",
+      "bytes": 24694,
+      "sha256": "bd10a7af4aa5cdcdde5557f15f7cd00e0611af8681e1a09b1948645a3b568d80"
+    },
+    {
+      "path": "research/namangan/SAHIFALAR.jsonl",
+      "bytes": 1455756,
+      "sha256": "caca1428c754cd065ac3561e196c64c21e544d11cc4caf70e729f8c99c034c85"
+    },
+    {
+      "path": "research/namangan/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 30707,
+      "sha256": "513640e153796abda4d24115bae479ddc22f5cfa895cbf6e3405fbfeada3fe3a"
+    },
+    {
+      "path": "research/namangan/TEKSHIRUV_NATIJASI.json",
+      "bytes": 299,
+      "sha256": "22dd34608984c8184af425cd5eb1013a4d49bdf60a39c8837bdb38e27ea0ce0d"
+    },
+    {
+      "path": "research/namangan/build_research_data.py",
+      "bytes": 42460,
+      "sha256": "f24a1848f97f291a41484a2f72522660e76af87befdd55a0d3fe45efa649e44c"
+    },
+    {
+      "path": "research/namangan/download_manifest.json",
+      "bytes": 2503,
+      "sha256": "77bcd6b49c9ee64e4e75e2ca5436d210325ca3d299e3a296d88b5ebcf14473a2"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_022.png",
+      "bytes": 287290,
+      "sha256": "cfb48795ae9380aac4646a73dca672604174dfd960002af8c1665bea045fa3d0"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_023.png",
+      "bytes": 216642,
+      "sha256": "d3b71387bd445e1020e844dd77fd1d5dca1f0ebd3065ee8450d5deb0349acdb9"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_024.png",
+      "bytes": 262425,
+      "sha256": "ebc1b4c4bfb3d751c10ff7f13b491086e640d6dbb2a9338fca1582a04d4a4921"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_026.png",
+      "bytes": 267365,
+      "sha256": "b6fd9ee3325293a12a32679bc6027bfab2f03a783c84cb5c0b58ccb0dca5b192"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_031.png",
+      "bytes": 276696,
+      "sha256": "903cdb357ef3c9f2e83e9a8332aae9046ea9a721ddda7355b0687258b07f5a6f"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_042.png",
+      "bytes": 282631,
+      "sha256": "8f1a0a23266d6ad9f03e0823fe2816b3ee8505f6435af98529583a46460add13"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_092.png",
+      "bytes": 251449,
+      "sha256": "cfc63d6fd1e33235fb672cf18451a0cd11da3597ba9139f4c7589443aa058a1a"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_093.png",
+      "bytes": 228503,
+      "sha256": "271e7b80e484e3fa9fee6dae976c0b5c8a5cec4e108d948003c82231689f3616"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N2_094.png",
+      "bytes": 252851,
+      "sha256": "1330d2848c9dfa195d47a915fef4c07a33e4ccd234b60d9c7624088b885cd4e4"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N4_001.png",
+      "bytes": 235335,
+      "sha256": "8b96acdd2db46d42e9a57b78f694eae725c15b29d9ef6dbacc759c83364cbf3b"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N4_002.png",
+      "bytes": 235848,
+      "sha256": "2d70cf2e02d67fa09dada2fcb446fcac10d2c7dd9755c3910716a0e5511e1f5a"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N6_002.png",
+      "bytes": 237249,
+      "sha256": "740a098aea89665629aee1fe8a5076067b836555f16e1f8eaaa5f8a94e1f3c37"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N7_001.png",
+      "bytes": 354445,
+      "sha256": "5f3b6ddacda7fef3629ddf49a0b306c258e5a7723859501d65fa3b1e55c3a01d"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N7_002.png",
+      "bytes": 182220,
+      "sha256": "5cf5a3e3d7ffb9357528940292dbadd0c52958987322e1ca5be63b6df0a29b30"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_001.png",
+      "bytes": 1245624,
+      "sha256": "3564c4bbbd9d00480338ecfde6bc6a72785781c1d64ee1fed15742ccb4708309"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_015.png",
+      "bytes": 652615,
+      "sha256": "05fd35576e7930600b020590509af659490c0aa3ec08c2da104a7a8152ac2a51"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_016.png",
+      "bytes": 630368,
+      "sha256": "b9517c1e1629604d3a539508d085630def73b373feda1cd5ea3b00db022b886f"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_080.png",
+      "bytes": 545685,
+      "sha256": "96a01a6b258c288767065b4c70a49b7b7e285955e23a115696f6239788679ac0"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_081.png",
+      "bytes": 675283,
+      "sha256": "3a2c354dfbc2345064a1f1fb2e6c5b739784b8641e233a7467b4a5e411fcaa0d"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_082.png",
+      "bytes": 772017,
+      "sha256": "96a3b1aa6a79b5e7dd4910ef1d4d55f246720d5204b2f236ee03c2686ceb90a7"
+    },
+    {
+      "path": "research/namangan/tekshiruv/N8_083.png",
+      "bytes": 732692,
+      "sha256": "ef6644997a99aafcdd72c787252674532c7fe34ef77c9a555231a26d537f7512"
+    },
+    {
+      "path": "research/qashqadaryo/GRAMMATIKA.json",
+      "bytes": 5899,
+      "sha256": "a85163c00fcb6237c7ca1b73ee52c93d34df909734e4844f4689133201d2a263"
+    },
+    {
+      "path": "research/qashqadaryo/LUGAT.json",
+      "bytes": 46550,
+      "sha256": "e44a351e77d21e539afd26864efc5a3cb87d686617c45e89622ced7b261b02a0"
+    },
+    {
+      "path": "research/qashqadaryo/MANBALAR.json",
+      "bytes": 3851,
+      "sha256": "7b0f6d9bcc1df42bf1874c9ee5d6a7e4d8148249ab8ea67c5f110b2c512287f4"
+    },
+    {
+      "path": "research/qashqadaryo/OQISH_XULOSALARI.md",
+      "bytes": 12353,
+      "sha256": "40a1b614432f710e379b7c9d7984b48f2bc79ad14c3dac9ebd8e49d595d09095"
+    },
+    {
+      "path": "research/qashqadaryo/Q1.txt",
+      "bytes": 30436,
+      "sha256": "ee2fc99d4f03b54e6a6af82655321db11797ee162f6e696c7357ccd6dca52439"
+    },
+    {
+      "path": "research/qashqadaryo/Q2.txt",
+      "bytes": 252880,
+      "sha256": "451eac1af4097e17f26f8326f3893ed5e8282a2ad1d6030de657f7424fe4e216"
+    },
+    {
+      "path": "research/qashqadaryo/Q3.txt",
+      "bytes": 300627,
+      "sha256": "1951edbbc9f526c1ee56bba8f70a9201aa18ede4c5debfa7e84533d97f1ceed5"
+    },
+    {
+      "path": "research/qashqadaryo/Q4.txt",
+      "bytes": 1379704,
+      "sha256": "7eec7fc437c8570db2799e59f19026ca0cad40dee4dd68ec80fa88fb65f038ab"
+    },
+    {
+      "path": "research/qashqadaryo/Q4_HUDUD_QIDIRUVI.txt",
+      "bytes": 317532,
+      "sha256": "4734dbf02d068a541d8a7a36f75e739cfaae6f10dc606229b34a8049710b04be"
+    },
+    {
+      "path": "research/qashqadaryo/SAHIFALAR.jsonl",
+      "bytes": 2089788,
+      "sha256": "86e016dc9d1317267d54e49e07f7048dcb948c08e971b2877c6da28c516e33db"
+    },
+    {
+      "path": "research/qashqadaryo/SURXONDARYO_QIYOS.json",
+      "bytes": 1622,
+      "sha256": "a75ddb7977a03f34e255b81f2e42b7f6cebf28dc4977fa14c16d65f92784e6bb"
+    },
+    {
+      "path": "research/qashqadaryo/build_research_data.py",
+      "bytes": 14493,
+      "sha256": "02104b260f800eba0645063d6fb45d19ccfe43d0bda124b1317dd4f772384c94"
+    },
+    {
+      "path": "research/qashqadaryo/download_manifest.json",
+      "bytes": 967,
+      "sha256": "37324a662864e5607e4d0cb91a0a71a290a23308e5754acb0106aca1dc3c9589"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q3_grammar.jpg",
+      "bytes": 528156,
+      "sha256": "53af558ce740439134d3d5150038279670819f9735493c52135c17d5f1d43bb1"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_1.jpg",
+      "bytes": 577700,
+      "sha256": "41aebb28e5157f8f36835ce1905cd3efe2abdc1470fd9027307600b01318c169"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_1_crop.jpg",
+      "bytes": 795375,
+      "sha256": "346f3c800ae2971e43401162122784f04fd568c09f157470abea4e8c03034028"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_2.jpg",
+      "bytes": 588856,
+      "sha256": "da847763603bcdc88f2d90f588f294fb19f1a9f498cfb6fca2b2d558e2eead3a"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_2_crop.jpg",
+      "bytes": 820893,
+      "sha256": "03fb4d111c67ab4de535088576f7960aa0deb96e3a45936ed27a47810134f832"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_3.jpg",
+      "bytes": 579643,
+      "sha256": "7d45e4d52d385c88043b2ef3ca2e368b84747492c6e016b348541f69f5f8bf89"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_3_crop.jpg",
+      "bytes": 795007,
+      "sha256": "b63e73c3ed5602900cb3f1e3620a6a0665e5e1d567e932f032285119c7ae1f28"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_4.jpg",
+      "bytes": 619822,
+      "sha256": "01ecc7a29387df011c3cd36f8ff1a48140d6235030590874364e1ed9ed5ceb9d"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_4_crop.jpg",
+      "bytes": 862546,
+      "sha256": "fd4ec00a46ddf2042f1391db2aaccaf093bb8aacfdca6c6a772830e8b5664e93"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_5.jpg",
+      "bytes": 619902,
+      "sha256": "36ebf7b68505b0bfa09028f4c2a823372c8a8eaa79641f5d5a00ce2744e52ade"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_5_crop.jpg",
+      "bytes": 862681,
+      "sha256": "e8292ad49c8dacdbc99060986a3edc82a8090cc451c32afee00302c739d33f34"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_6.jpg",
+      "bytes": 593858,
+      "sha256": "f3d3afd332d1a4a111e08b26e23be794803e933d1de504646d46148de940ddca"
+    },
+    {
+      "path": "research/qashqadaryo/tekshiruv/Q4_6_crop.jpg",
+      "bytes": 815676,
+      "sha256": "290c5bd8af1607cc2c111fa1e1c0a8712660d2fdca37a0fdb32942575175d108"
+    },
+    {
+      "path": "research/samarqand/GRAMMATIKA.json",
+      "bytes": 6705,
+      "sha256": "50c2c5c7c018a206971e5ca9ff6b7301ccae6c4e0d77e652865e4a120a056f3a"
+    },
+    {
+      "path": "research/samarqand/HUDUDIY_PROFILLAR.json",
+      "bytes": 1537,
+      "sha256": "d02704dc92cca3ab668952b4fb0f3788b22fa3189b4073e0700caeb6b4fc935b"
+    },
+    {
+      "path": "research/samarqand/LUGAT.json",
+      "bytes": 40890,
+      "sha256": "166f2ae2beeef346f59dfe4ae1769e697b0a7efacde93200b229442050fedfa6"
+    },
+    {
+      "path": "research/samarqand/M1.txt",
+      "bytes": 300627,
+      "sha256": "1951edbbc9f526c1ee56bba8f70a9201aa18ede4c5debfa7e84533d97f1ceed5"
+    },
+    {
+      "path": "research/samarqand/M1_HUDUD_QIDIRUVI.txt",
+      "bytes": 5258,
+      "sha256": "e9f0240d36e0e2c7bf793d6846fd6c3b7460a7fc5748f3999c6c89b5cc8787d3"
+    },
+    {
+      "path": "research/samarqand/M2.txt",
+      "bytes": 252880,
+      "sha256": "451eac1af4097e17f26f8326f3893ed5e8282a2ad1d6030de657f7424fe4e216"
+    },
+    {
+      "path": "research/samarqand/M2_HUDUD_QIDIRUVI.txt",
+      "bytes": 8798,
+      "sha256": "f23a10f1c53f0ad8ebf0759bf0ed00491e36ec99de5d7a751da9c98ba8fc1665"
+    },
+    {
+      "path": "research/samarqand/M3.txt",
+      "bytes": 11522,
+      "sha256": "465ca0d0fd9b71dea0895f44c51851f5b6edfb83ee6bd9bf9889bf38a7eca3bb"
+    },
+    {
+      "path": "research/samarqand/M4.txt",
+      "bytes": 597798,
+      "sha256": "52a67eb82b65883904ecb3e84e66f4ffff94934fa34396e4715130cd540aeb9b"
+    },
+    {
+      "path": "research/samarqand/M4_HUDUD_QIDIRUVI.txt",
+      "bytes": 11587,
+      "sha256": "25214fdc34ee7e4d92da27a36975c68089df7e1c31250d66ab7d1a40036bc442"
+    },
+    {
+      "path": "research/samarqand/M5.txt",
+      "bytes": 97,
+      "sha256": "080e953364cf100bb66571252d8cb9225454525ae921e8ea43a0a61000dccd44"
+    },
+    {
+      "path": "research/samarqand/M5_HUDUD_QIDIRUVI.txt",
+      "bytes": 7733,
+      "sha256": "b43cd3cef3106dc0b69369949b2f5bf7a3e4fdf7947231eb2dd5d768d6ac91fe"
+    },
+    {
+      "path": "research/samarqand/M5_ocr.txt",
+      "bytes": 412698,
+      "sha256": "6f61ac50eb72679f678c4b8d9d9fd909ec9e26ff2d7a0cc47702a237332d6544"
+    },
+    {
+      "path": "research/samarqand/MANBALAR.json",
+      "bytes": 5932,
+      "sha256": "df1d8c1e1b3a80e763746d080817b5182f9e86b1bfe7ff0c4cb0eeb704ae5912"
+    },
+    {
+      "path": "research/samarqand/OLDINGI_HUDUDLAR_QIYOS.json",
+      "bytes": 1351,
+      "sha256": "a89a859ce14a89380e69b45e8eb60e4f1b59c3aed493dc8f885b12683f6b6bae"
+    },
+    {
+      "path": "research/samarqand/OQISH_XULOSALARI.md",
+      "bytes": 12233,
+      "sha256": "23b45583b4fe967fa86448b5800427a440514765b0c19626a293b2731af711e8"
+    },
+    {
+      "path": "research/samarqand/SAHIFALAR.jsonl",
+      "bytes": 1683255,
+      "sha256": "c79e00514a88e52837be3b7d7991242acb6017819e19b869d3b2e5f3fbce90c8"
+    },
+    {
+      "path": "research/samarqand/TEKSHIRILADIGAN_BIRLIKLAR.json",
+      "bytes": 9931,
+      "sha256": "476eae9b6ab3d7979a6f8d3951b4a7ce9eae3b09d82cad461c4a50a8fc6e01ba"
+    },
+    {
+      "path": "research/samarqand/build_research_data.py",
+      "bytes": 18854,
+      "sha256": "ec536e8958710d6a78389cf3fc463cea906ebd4e4865fcc83e1301a1243f746d"
+    },
+    {
+      "path": "research/samarqand/download_manifest.json",
+      "bytes": 1858,
+      "sha256": "dd933ee7aa3bced8f80315f67a7eb274d94654c1d8423b8ec1dddeba24223325"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/002.txt",
+      "bytes": 319,
+      "sha256": "f0305c96aef2f9d994a81adfd66f09ec4aae992847364121e1c1d9f1f0022748"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/003.txt",
+      "bytes": 4376,
+      "sha256": "55cf97510c06f6edea073dfebad039f23e3701f49717e595cb01748accbacf23"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/004.txt",
+      "bytes": 4748,
+      "sha256": "bcce30381dfaef42c8332d68d6b439c6ecc114116f35ad31a2e9626f1cc78035"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/005.txt",
+      "bytes": 4843,
+      "sha256": "2ff91498a41c0dd9ba70061a23184e9f01789fe45deec01f8b693218673fc720"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/006.txt",
+      "bytes": 4607,
+      "sha256": "5904367e478aa401f50d9cb9c70fec25c162b7c4e6c98f1b180f1193094fdff6"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/007.txt",
+      "bytes": 5868,
+      "sha256": "015b730b70101eb789c0e73618cedf51f3e33344d66f40b8cdeb412d902e0180"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/008.txt",
+      "bytes": 6265,
+      "sha256": "5b6ee2abb07ec78b9a84bcade72e609cd5b092f4b60dc2fc9ca742a5af2d8675"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/009.txt",
+      "bytes": 6204,
+      "sha256": "08cba85f84a8398ba031bbfb68b6e1732b659fee28ba2f73ea7bc1cbd2c5f706"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/010.txt",
+      "bytes": 5311,
+      "sha256": "63e396af33af38e52542c079a4f49ceee3a95e15173580a670bda2f641983371"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/011.txt",
+      "bytes": 5377,
+      "sha256": "970d0d6fc9e41ff119227dfc19802792bf8d53fa0d18ee0d64ccc7962742320b"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/012.txt",
+      "bytes": 5277,
+      "sha256": "0a2b29766378efff72850cca08c3bc8e4ec26186bc0b2736515fc95959f7d4c6"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/013.txt",
+      "bytes": 4815,
+      "sha256": "9fee0e08a58318648c70811143dfb308c15e9c6c982dccb771f49b6c5fad12a0"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/014.txt",
+      "bytes": 5223,
+      "sha256": "bf962d07c50720b829829c0667b1eba0c85dbbb8f7921c443d9e7716cf83aaa6"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/015.txt",
+      "bytes": 5032,
+      "sha256": "f0798f2c216bf0f28891809684212c4645b8e748e6576b15744dd1303cdf8f4d"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/016.txt",
+      "bytes": 4829,
+      "sha256": "0bd902a4bbe59fad9e9372a252fbb52e9c36731c9e9fafb4b16249e71f0af670"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/017.txt",
+      "bytes": 4572,
+      "sha256": "8da4ff8663518cb0779aa1129e2cca3e15ac2703a645ad552c797462d0b2750e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/018.txt",
+      "bytes": 4990,
+      "sha256": "22c0f31ef32f59c2c01835f905f6e1ed3d20415665f01b5fd540de03585981b4"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/019.txt",
+      "bytes": 4396,
+      "sha256": "dfef78fe55b58f55661d169b6bc4576a46de1400aa4f89ee62f880bff48d7d0f"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/020.txt",
+      "bytes": 5060,
+      "sha256": "608d2c49eaa2e913246949ea854d51135ce57b2dc0863a47da521831e5df1db0"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/021.txt",
+      "bytes": 5117,
+      "sha256": "f58cd73bd350e4f92f173a115e250a8170b9c06742c8f51d8ffb2630e43d52ef"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/022.txt",
+      "bytes": 3985,
+      "sha256": "b7af64c7310b75290d54260d38d985375087c3814dc5f606c8c0d18cee963b71"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/023.txt",
+      "bytes": 4708,
+      "sha256": "59088fffcc8fe8d3fd1c46d6af7b31de98183cacf0e0437834fa32eba895bf7d"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/024.txt",
+      "bytes": 5221,
+      "sha256": "69c70ac933c56c2bf7f6bbf85dd1672ef2779c2a8777ca06193c1d005c8715f1"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/025.txt",
+      "bytes": 5073,
+      "sha256": "cd5e5e880b70bc46aa1f41447384b63cde21fdd126ae3ee3e1ca79bd39510b8e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/026.txt",
+      "bytes": 3473,
+      "sha256": "1cecf3ad628c1fcd0b1d90cdb1b2d2f662e0ec06ad2ee743543cb0de6da5fd36"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/027.txt",
+      "bytes": 4221,
+      "sha256": "e3f6c0f939215013523dd0bfc1b0349614129d763d65d54b3e17e8769f732d8e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/028.txt",
+      "bytes": 4495,
+      "sha256": "fa6d54f9b696ea5e7271f75550106bcb79948a9dfa4585f8adecb722ee2fa036"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/029.txt",
+      "bytes": 4204,
+      "sha256": "b739193126a09d9f005a24d5f1712c8ba1d0d12f5b639bb346d57817ce86299e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/030.txt",
+      "bytes": 3243,
+      "sha256": "12f08d6a167833a079a04831e3184ee45640f083a9ccd2e3d80026a545b2d801"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/031.txt",
+      "bytes": 4029,
+      "sha256": "d705de7083b992139a0dc06652cebbd31bdf74d0075e17c1a526b2aad24beb08"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/032.txt",
+      "bytes": 3234,
+      "sha256": "450895c11f560dcf972c758067925a7fa02c11d1ddf2bd150be2a633f5c6334e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/033.txt",
+      "bytes": 3496,
+      "sha256": "979e1973af2e2a93d2faea2291092ef565f34dee49d24f4047fbac420b4868b4"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/034.txt",
+      "bytes": 3165,
+      "sha256": "80f735db611e7dcdaf36b228572b2da0bc7ef811170b0f7ea73dd6711875da5e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/035.txt",
+      "bytes": 4035,
+      "sha256": "7541924208181acf167c51dd4abb03e57d07a2a33578932df5402fa74de45b25"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/036.txt",
+      "bytes": 4044,
+      "sha256": "3ce224467f98f42fb5be316be88683da8342b7e10916343942742f1d22064cba"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/037.txt",
+      "bytes": 4260,
+      "sha256": "7ecedbfc0e25bd37c1b303662c26c1e88b39a3b331bbe053ab3d72dcec6211e7"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/038.txt",
+      "bytes": 4593,
+      "sha256": "42a326ae1790973407fc4c903ab10608c265bb0010e6878f4736341f70db6959"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/039.txt",
+      "bytes": 4404,
+      "sha256": "c4bf889e13c2b01b055684a6d8cc8e950868fa106132e9daa30a25d59b52236e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/040.txt",
+      "bytes": 4448,
+      "sha256": "b091ce2f49edc02bb03e9ea49e860bd88b3b1d1b2a03f2174180bf2a4390452c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/041.txt",
+      "bytes": 3905,
+      "sha256": "51417af04d3f9384d6cd6f9313062acb05b0782cee0e36706fe51bee322f21e6"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/042.txt",
+      "bytes": 4913,
+      "sha256": "987af104186ff6dd35b2b0cda3b1b52a6e37a82a1dad0cbec1eebf93ade7a1d3"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/043.txt",
+      "bytes": 4706,
+      "sha256": "9f235e2f2e0468c06afdcdc4bbb3b52e0a4b84fc4c54e7a9c9dc141679fb547c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/044.txt",
+      "bytes": 4844,
+      "sha256": "d5e19e4868ca92ae8c7aad887c9e186bca263d6ebe29492966f2d3f04323dde1"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/045.txt",
+      "bytes": 5540,
+      "sha256": "e7058c5bd24019668fd091268e7de50ca4a57de7d67018b5195a7ddb71be2d90"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/046.txt",
+      "bytes": 5423,
+      "sha256": "9e4337edead9450a5f168c3b414dc32897be2041edd49768466a8e35a2161f74"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/047.txt",
+      "bytes": 5258,
+      "sha256": "7ac7b30d4081949376b7af4a230b5af84d1a6b3ba3a8c0fc8cfb4d68d24e3b41"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/048.txt",
+      "bytes": 4200,
+      "sha256": "e9c667ce6fd675dc7e9382cf437aa6658a88b7deb14ef13814d6740053e9c91a"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/049.txt",
+      "bytes": 2024,
+      "sha256": "3c8ce95fd69a5b51dfdb93232142eada7615a0cc4656a4abf7c4e72844692ed4"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/050.txt",
+      "bytes": 3077,
+      "sha256": "7b9d776fb9f1c71090ca86e11038c4267fe6825b539c2c644bbe3c48f8565de3"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/051.txt",
+      "bytes": 4199,
+      "sha256": "7b8c8e5cfde3ccd5d7cc0ec4350fd67ac7776097ce2a2268b017d55eba77b13e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/052.txt",
+      "bytes": 3344,
+      "sha256": "daba4ad5d15747ec66aadbbd175fcfe810f182976412898832db5c21d0af625f"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/053.txt",
+      "bytes": 4203,
+      "sha256": "897db3ac72786bfeba6514c3d0adb9c3ef90951a4145d9a9ed8b9446e692a145"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/054.txt",
+      "bytes": 3882,
+      "sha256": "9f3f7f579ff49857e3bcd2464850b7e1f3d80d30b91e56a75ac6c761d43e06ff"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/055.txt",
+      "bytes": 3266,
+      "sha256": "6aa2a470e7b4b173d7c1baa599556f49c281c9f52e1fe3a7348735c78cc8915c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/056.txt",
+      "bytes": 4492,
+      "sha256": "e97565e1a1ff5665d291d15432ea19861db7fadbc1b7929f48a99794c7a31780"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/057.txt",
+      "bytes": 3898,
+      "sha256": "71e041c57e0787f185953eea7430d2358a3979c7a7270765951c26d122628ff9"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/058.txt",
+      "bytes": 3587,
+      "sha256": "198e2bbb5c5a9d49de7a9ebcb5ba322f1048e541f9cf8acd2524687b1b30c89c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/059.txt",
+      "bytes": 3903,
+      "sha256": "7c6046757836f839707c593c3f359a073b4953ed295d5ed75cda4fc6bad24300"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/060.txt",
+      "bytes": 3210,
+      "sha256": "56db18281b2d802d11a656517256841e0c45dae83dd8b3c7d948e8a7ef300629"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/061.txt",
+      "bytes": 3241,
+      "sha256": "a2a6d8f3c40983a4589db85bb7b54f665639c416c07489ff265b7dddfc3f965a"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/062.txt",
+      "bytes": 3219,
+      "sha256": "f45cfcbe823497b258472e27f8ff78046245289246d715e8b8aa5b399598b131"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/063.txt",
+      "bytes": 3421,
+      "sha256": "8be3d3afc69c75671e0704905c2d0ad00f278fb4b95d2e62673b97992772f12c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/064.txt",
+      "bytes": 3336,
+      "sha256": "be7397b08c62976b3bfd637aae8be5ebfd7ae97ca12a6086c01d0c0191d9207c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/065.txt",
+      "bytes": 3986,
+      "sha256": "9475016b8a0898876747cad522bcd7973fac7218049659f444bf60e732254e3d"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/066.txt",
+      "bytes": 5741,
+      "sha256": "269a5473e739c2259fe124c7b4065c1193064aa7a25636c60a5a1608762621ff"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/067.txt",
+      "bytes": 5617,
+      "sha256": "d8a6710d816fd59cd6973b931b70cd416020f767e8d39bb90b0abdfba04cbaf9"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/068.txt",
+      "bytes": 5199,
+      "sha256": "6c302e79456346b27309ee2fd8e82275174bbbbe23df0fa918a90f2c8ee7c8b4"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/069.txt",
+      "bytes": 4923,
+      "sha256": "a458c8bdb0907fc88d5b136dabca28a38ee57794ce80627c10ad2140cbc42bda"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/070.txt",
+      "bytes": 4623,
+      "sha256": "0f0d8093010d9fc67fcb88874cac62013eb8cbbe1b1b8523c41bf4c338c73fc3"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/071.txt",
+      "bytes": 4712,
+      "sha256": "76904657bf511076cf96e2c1365a267634217455261e56f0c554230e92048ba6"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/072.txt",
+      "bytes": 4889,
+      "sha256": "e1dae19a1700353f633910fc50a8d932ef8a90bbbaf8d446eb4d5ef4dcf039f3"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/073.txt",
+      "bytes": 4928,
+      "sha256": "538457b3042b6c86c87cdae021f9c7f4f5be9593975c14b6cbf16ca56cd0063e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/074.txt",
+      "bytes": 5324,
+      "sha256": "05be7ea90268c83dbf46f06b9b1e5b108cb0e7e7671defa7511363f98db56a52"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/075.txt",
+      "bytes": 5363,
+      "sha256": "f54e06034ba8ef104173130ae8d95868691ca8e6e825788bc2bb203af6971357"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/076.txt",
+      "bytes": 4951,
+      "sha256": "2eb77343864349f0d4054e9eee23c111f017f5655ff51435a1b36df923bb9d0a"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/077.txt",
+      "bytes": 4810,
+      "sha256": "fdd8714ced8bb78a6747a18a176e7851ab29889bf042d0a573928d6d2b2b7e1c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/078.txt",
+      "bytes": 4571,
+      "sha256": "2e2c43beecb7284fb5561fbb27b8f9442ad30101df9be8dead8a26ade6a911d7"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/079.txt",
+      "bytes": 4643,
+      "sha256": "6b27847fce2600bf829a2a516ae416a08acdbaad813a970f8e28621acb742d09"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/080.txt",
+      "bytes": 3326,
+      "sha256": "3be03cc59829f50e555869bd338406b3c387122721a82bfeed8c8822bb961067"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/081.txt",
+      "bytes": 4622,
+      "sha256": "c2e38b156ed598694c35106f218b58f3933f2c44fa751282e34bd14dbf995d4a"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/082.txt",
+      "bytes": 5650,
+      "sha256": "83a816d2c03baf1ad32eb0b4901621ae9b09698f3832e18792ad20936aea438f"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/083.txt",
+      "bytes": 5967,
+      "sha256": "f5ba9fb930a5acab210232fef3e9a858acf5ef295ab469f4a9cdabf3d1f02b4c"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/084.txt",
+      "bytes": 4690,
+      "sha256": "27f962f79d265a36e4d72eef2e904e136720000034407b044712f91b51954606"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/085.txt",
+      "bytes": 3854,
+      "sha256": "7fcbd63b5a607eee11960442052e61f2dceab8566ccfb0d49a579df5c03d219b"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/086.txt",
+      "bytes": 4307,
+      "sha256": "107225cf4637bdea2b862255871b7d2a2dcd52bfc50acf1fce1c0725efaf8af8"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/087.txt",
+      "bytes": 4083,
+      "sha256": "77b79485742dac15e57430783aee33eeeef41b3484a170b8b3f37e1e0972199b"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/088.txt",
+      "bytes": 4277,
+      "sha256": "7ab4e5e79e3a0194a333a16d298b3f86ec5c010f612a02cba7eba23cf72d04c7"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/089.txt",
+      "bytes": 4850,
+      "sha256": "2e0c59fecc0ec3dd8762a74a5b65e883e58037a63e835bb13e45b30a9bbc83e1"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/090.txt",
+      "bytes": 5041,
+      "sha256": "77842b191ea1bf0540ae1b12b4d7041a71ba4fc3d11aeba69a820ccefaebf73b"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/091.txt",
+      "bytes": 4143,
+      "sha256": "b3aa21407988bd97db49ce1fcc774e2e427090d31327004bf7ea23931e7eab3f"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/092.txt",
+      "bytes": 3952,
+      "sha256": "70bf45e2c70121c0f0422ac71527d11da75cb97f556adaac1e07797bb2ec7486"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/093.txt",
+      "bytes": 3952,
+      "sha256": "5ad776da3358d430aa0f04b3cceeb2c59f99dc19a6bba296f1d73b5147bb29b9"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/094.txt",
+      "bytes": 2513,
+      "sha256": "87967388edfef31b5df5467cec16b424f318787f4e926766e522cff388143d58"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/095.txt",
+      "bytes": 2432,
+      "sha256": "50c87025bc689e619c29c52c1dd708375d6f49186930b8347564bf3223cca84e"
+    },
+    {
+      "path": "research/samarqand/m5_ocr/096.txt",
+      "bytes": 11,
+      "sha256": "c9ec9b71875c0be437a55804d0bd69a8c06565c42cb38b33f8eeb22442bd6f73"
+    },
+    {
+      "path": "research/samarqand/ocr_m5.log",
+      "bytes": 1049,
+      "sha256": "9b56fce3c9298a7e8adb453ca5b036d0aa739518016252829128251febea96b2"
+    },
+    {
+      "path": "research/samarqand/ocr_m5.py",
+      "bytes": 1450,
+      "sha256": "09458b9688a409c236ba9ec3f9e6358ca9f3e767a60443d80eb12e47aa070b3d"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_038.png",
+      "bytes": 247900,
+      "sha256": "7b121766f014eccd048ac4fd9b3f878684050e74e6fc3971c3728da216ec07ed"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_054.png",
+      "bytes": 236160,
+      "sha256": "57871bb3847bfcea122d898c28c959e67ed6b432cf0945d87ac594d7cc7e0897"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_055.png",
+      "bytes": 259813,
+      "sha256": "d6a953ed9da3ad0b1d992a72b4a37d5994a0d4dc904ae6ac2d84069a0b6d2c98"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_060.png",
+      "bytes": 241083,
+      "sha256": "25ac548985f15cf2bdd2a590dbc1bac7b5563e5648a758068b01be5351a0688f"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_061.png",
+      "bytes": 275900,
+      "sha256": "29dd33c0bb519e1edeec0f09214aa0a570107d4b5e8a985238486c6a611341a9"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_106.png",
+      "bytes": 141212,
+      "sha256": "14b03f13c2a32c8c497cee104bf06bfcad92e1bbf1193b7fde2ed24eeaad5d38"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M1_107.png",
+      "bytes": 132321,
+      "sha256": "9b28857251478736c2d3bdbed1cb10c36bd5cc83dfe24c204144800018a90767"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M2_042.png",
+      "bytes": 277822,
+      "sha256": "49b49a37059fc40aff72ac3f62f7c1180c9c2575ef73146a019871d76ca8db07"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M4_021.png",
+      "bytes": 254276,
+      "sha256": "2e543390981a49fcb85a5b32f2e8673a612fe90167f0b4054cff7f23b10114d0"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M4_022.png",
+      "bytes": 258971,
+      "sha256": "f779bba470b9d9ecc8e521850367501752eb6c9b17322d468c11be625d07839f"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M4_205.png",
+      "bytes": 258354,
+      "sha256": "7e9e74d2dacab93b05828b49edb82dd1d74ca99ff0aae46a62bf2ec65c3cb5b8"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M4_206.png",
+      "bytes": 141271,
+      "sha256": "b24a9234207bb2048d542b89a9add0a32ace869f8c726ba2400036d38934fe55"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_001.png",
+      "bytes": 1095655,
+      "sha256": "422a399716ae1d13eba527afd850812335e3608157011c76e0b7cd111f01409b"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_002.png",
+      "bytes": 59968,
+      "sha256": "bec9d4561d638cfceb76bcedd4a7a5589654d3a390b8d00c800198b645237efc"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_003.png",
+      "bytes": 703473,
+      "sha256": "32bcb3753226d590badca3516223fef91e7bd714e8733bad08a3d5fa6b853007"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_011.png",
+      "bytes": 511683,
+      "sha256": "e53f6f83864555727fbabfd7be1d7277a92fd1369de65699b9291b3871a05cf7"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_013.png",
+      "bytes": 485383,
+      "sha256": "9756c04553d2fde94957af8f6c215d1194733f431be642b6294fff39e9d41f8d"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_016.png",
+      "bytes": 477366,
+      "sha256": "1b88c87c2cae6a6ad35e95a272a0c388201e7935c0c39ab5939d4971166711d0"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_018.png",
+      "bytes": 502346,
+      "sha256": "e31a736c3b060e4d44ac00bc27163e6ea514ba55451d97ee2c9d257244bf2d47"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_029.png",
+      "bytes": 468974,
+      "sha256": "7e23b5a97bf5cf412ca16edf161d18db515845d58205c8c93c6885f8087f6565"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_031.png",
+      "bytes": 449095,
+      "sha256": "265a312e9aa03bd9d65527776c1faf15dc45e9f5359cfa85c54b9d125a7f69d7"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_076.png",
+      "bytes": 434740,
+      "sha256": "0e842d8948e69438bcd813f1434c322be79e9200f6ce4e72e16860112cbcf8c4"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_077.png",
+      "bytes": 417029,
+      "sha256": "d0f6e831ce20b654989c2399e0ee7b01a764c3e584a1d3b22be0ced99a43d9a5"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_078.png",
+      "bytes": 413685,
+      "sha256": "bc717adb25909c2a43259ae39e7fd644c572534d0a3222425539207290e58179"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_079.png",
+      "bytes": 476177,
+      "sha256": "645abc806cd58a0126259dc1faef45bfcbbbd57c59d3b1f4f38fcb9f116d0508"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_080.png",
+      "bytes": 324910,
+      "sha256": "0437bb86a2b793c07566359247ea112a839a035217d686d463f711ef3fec64cf"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_081.png",
+      "bytes": 467018,
+      "sha256": "6938860e4effb5e7e866214ac17584e56ad1972d7427c17673c3c7c25daaeb7c"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_082.png",
+      "bytes": 534093,
+      "sha256": "1027fba642eef138662be9bc85b8038a3d4e01eb18c7a34c679c07233fcf29b3"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_095.png",
+      "bytes": 343145,
+      "sha256": "03bfe63e8edbfe0a2ce5b9ec5ac362945d3009e02c50ccef449c64694a1424c8"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_096.png",
+      "bytes": 9134,
+      "sha256": "7869c06234ce4be0640fc37189a824aea584b5ab7ed05326800af1cc499aa1e4"
+    },
+    {
+      "path": "research/samarqand/tekshiruv/M5_097.png",
+      "bytes": 486238,
+      "sha256": "70f27baaaf016181b9abfdb9e0093a1861e1602dbc9d86538c84bf25f00f2435"
+    },
+    {
+      "path": "research/surxondaryo/LUGAT.json",
+      "bytes": 31124,
+      "sha256": "f69279816856302fdde3e35d4744ebfb59cd5591c259449198cdf6684e000995"
+    },
+    {
+      "path": "research/surxondaryo/MANBALAR.json",
+      "bytes": 3756,
+      "sha256": "8c1933244bb7ac88e3530a8d664030a7785c97bf2c2321c52e7a0fc6947ad7d9"
+    },
+    {
+      "path": "research/surxondaryo/OQISH_XULOSALARI.md",
+      "bytes": 17655,
+      "sha256": "93cc420d667067cc8e3d4c6801376c441e6f84d31d30e534e8978b0e71c743eb"
+    },
+    {
+      "path": "research/surxondaryo/SAHIFALAR.jsonl",
+      "bytes": 658539,
+      "sha256": "1e45c255540dfa4555c5244d9a096948194f16cf21af1ee83282533aca79e9d3"
+    },
+    {
+      "path": "research/surxondaryo/build_research_data.py",
+      "bytes": 9816,
+      "sha256": "158438a3264cfb587df48bbbf03118be131b351c69cc67eb2229bb43d61e5be4"
+    },
+    {
+      "path": "research/surxondaryo/ocr_rahimov.py",
+      "bytes": 1124,
+      "sha256": "ba0308810927e1ee84779452877839c7b2921928ae2fcf84f08ccc1dfdb97a59"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_001.png",
+      "bytes": 44294,
+      "sha256": "173ee70f910bc97f80e8a54a3d13e5ee6e74e5fd7de2025a4e5000bc80134a47"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_002.png",
+      "bytes": 93748,
+      "sha256": "7a3d295dff6db4937e93e0c663737ac0f730fa1683465a65acc624028d3429d5"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_003.png",
+      "bytes": 168651,
+      "sha256": "60d42618ed3765fa87d09036e588d5b6fbd0b57a7b36fd54ff7d92dd8197dea0"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_004.png",
+      "bytes": 209830,
+      "sha256": "834d27b2b521d18943d53edf18df85a1a12a70c893d37471679091c49f989f76"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_005.png",
+      "bytes": 254115,
+      "sha256": "6fe5fdfae6db8d80f795f60fafa4df8867d301fd15fbad5d65487c46aaa00894"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_006.png",
+      "bytes": 161351,
+      "sha256": "c38758505aba896adfbce0c6c1faf7b2454f5c9f2ac7bf94464dcb098b48122f"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_013.png",
+      "bytes": 287566,
+      "sha256": "e6bca446c17b64995b6f1307e29ae632c99d9211695f02de3f1b5de13fb03e5d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_018.png",
+      "bytes": 279851,
+      "sha256": "59597a73ed6908412a15ec78b56ef8b86e808af880bc82e89ab040a91b314d77"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_023.png",
+      "bytes": 276459,
+      "sha256": "6359ed8cba8291cead194e3158626e5bcb77aeaba39c1c66a003a98172bd5666"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_053.png",
+      "bytes": 307987,
+      "sha256": "dad4cf6ef36b0eac1f68b1858f3af8cb9256cc22d33425f4ba2a8b7651a1aa44"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_058_rotated.png",
+      "bytes": 503128,
+      "sha256": "5aabbc1c62559bff6847e788dc525db315f0c20cce8ff898291b49b52cbaf283"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_059_rotated.png",
+      "bytes": 570431,
+      "sha256": "15a6608b4cba897ee3ca0592282e87afa214ceb0d6f8e32d8c7c68d8f596a9ae"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_079.png",
+      "bytes": 314118,
+      "sha256": "cae5b016cb21eaee1e607a1eacd555423c80df32a66d5002838a1f7aaafe8237"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_081.png",
+      "bytes": 353249,
+      "sha256": "106dda4b8da1bcf0d4b3898a71538b0275fcf584d59808cbc58c15badd425893"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_082_rotated.png",
+      "bytes": 599036,
+      "sha256": "9edb5dfaf2701ea1d2d8166da716b7545eb297810ccc0c1dd6889dc28c9f8761"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_083_rotated.png",
+      "bytes": 623726,
+      "sha256": "525a3afe6e2cba91aed9c6a03c2dede844e9113f602105ab18b0933903d0a0ec"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_095.png",
+      "bytes": 203257,
+      "sha256": "5556d7dc55bcd263348f349b0f9f5b72a2bc6ebf467e192c0921602ddc4d2707"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_096.png",
+      "bytes": 167055,
+      "sha256": "d0185527c23aeb8a83f273a3708d5e2f14de09bb49c32cbc84acc6d3f16f0ad0"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/001.txt",
+      "bytes": 546,
+      "sha256": "3b0f763d740361a0b7b06e0ffeefe973a84c02fd16919baccdd1957219b40344"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/002.txt",
+      "bytes": 2020,
+      "sha256": "b52e63b1aabc36f6ff33a44a624b01cca092d3214f95f594caab339b1834dda4"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/003.txt",
+      "bytes": 3045,
+      "sha256": "2da75bc26d0ef2a7cc3f4a9bcca144d7b5ae62f61e459e73e90a6d249ee391a7"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/004.txt",
+      "bytes": 3766,
+      "sha256": "b61d57eb4d948b7ccb4952b6d983bf061203e963e629590e1a217ba69ea1db2e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/005.txt",
+      "bytes": 3295,
+      "sha256": "509c8223ead29af86c71583806b27acc42c07b90a512c12b3f234a741eaed21d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/006.txt",
+      "bytes": 3083,
+      "sha256": "7ab1ecd7ceb5d01c1d0346ebb019bb5e773d98211b287016bf37e927aa8e3cff"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/007.txt",
+      "bytes": 3506,
+      "sha256": "8fc5afd58f1aa91d19ddc13c33f169bdbc9971ebdb30f3f09546af0835cadef5"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/008.txt",
+      "bytes": 3022,
+      "sha256": "dd19269e9fd64e2bf06b2c3a97b7fcf8ac827d02ebadf9eab07f4f128814f0c2"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/009.txt",
+      "bytes": 3509,
+      "sha256": "111265e62422171d62725caa59beb455069386e171d00e48b1c28383edba0d64"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/010.txt",
+      "bytes": 3977,
+      "sha256": "1a67ab6aac9179e23c9d7484636e6359488ede17e46e1d0028f8872fc0fb3d26"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/011.txt",
+      "bytes": 4008,
+      "sha256": "74aaabfac9ac03bdc08d8c6c20ddb72268d0393a97ec1581da27b666d708b7bb"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/012.txt",
+      "bytes": 4033,
+      "sha256": "719c19b70424ffc7ef9af2026d11af344b0966a1c3c00d8d7853225ad6fdb115"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/013.txt",
+      "bytes": 3731,
+      "sha256": "c55c4fedc195149ab83b56f20b024be10d96a2bf9623c9f547bd08234294f822"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/014.txt",
+      "bytes": 3902,
+      "sha256": "b013f02215af741fde4e25a644f180918a96f8fe2ff431782ba042dc05f1269f"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/015.txt",
+      "bytes": 3612,
+      "sha256": "260fa62c92370e3e96983761552ac23d02e642862dbc18a09bed3e3f60895b67"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/016.txt",
+      "bytes": 3687,
+      "sha256": "30a872805f2e55be5e1dcfc7a85ba2ec94953d79b4cbbb5b0c8d02a9bd2efcb9"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/017.txt",
+      "bytes": 3578,
+      "sha256": "04d280b0fc1ebfb5c8fa8b45bc13b06bd8289387bcda18f2e489a72e2f411e19"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/018.txt",
+      "bytes": 3510,
+      "sha256": "80cbd6d078df5d1e8e19094686b8c50385e0d69b797daccd69804388b104f041"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/019.txt",
+      "bytes": 3598,
+      "sha256": "cdea4f7e816bd05e0859c416b0b6d2743871ea872a01be3ccfc4c9b5bb3d94ee"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/020.txt",
+      "bytes": 3677,
+      "sha256": "470275303bd8cfb197e557f2a8891e486193f70f26a916c14d44b65844bc2f41"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/021.txt",
+      "bytes": 3522,
+      "sha256": "b565c726df36e5a9c7f2f07f0d20644d377e9fc953b33907471f2888e6ed7ead"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/022.txt",
+      "bytes": 3662,
+      "sha256": "23fd4423d92ac0b17779e51b5e249bed6588b52ab33bdf9eff17e5ca89a67307"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/023.txt",
+      "bytes": 3530,
+      "sha256": "0b050f947ad4c0b68c4c9cf624e89bdcc99f9ca0cae42143bb470b0eb655e167"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/024.txt",
+      "bytes": 3982,
+      "sha256": "0623a25653014803ca4fab1d98da96bd59227354fb3a8640589afd1b3094db6a"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/025.txt",
+      "bytes": 3791,
+      "sha256": "263fce69063b2978e82ed2c309b4d462a2d35f2dac59045be9fef428130ebb3e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/026.txt",
+      "bytes": 3073,
+      "sha256": "da0faa5b6999eb8a4fa45c387e26c42f67d78fd7bcd7142529b6536bdc449bc5"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/027.txt",
+      "bytes": 2166,
+      "sha256": "60550044a2290c9a37019a87de2a45de5c0e47f5c0c25219ec85fb0304ebe610"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/028.txt",
+      "bytes": 3524,
+      "sha256": "7dac5c664f0bca1102eeafc9949b3a00ba0cf1164d5af49f3cd75f9b06f63b21"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/029.txt",
+      "bytes": 3383,
+      "sha256": "f10552e893a85fe0281f22b4d1474f62fb6d10a1e2e6d099b7d715b7f277b8d8"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/030.txt",
+      "bytes": 3558,
+      "sha256": "935d57caa61170cfa8ce59deeadd78e0c2fc79b394ac2f8c14831cc9bac8903c"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/031.txt",
+      "bytes": 3939,
+      "sha256": "35f830165d13f0fe6515a7b63f69b4e8e2246aec11918af8cb9e85d5f770b7a9"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/032.txt",
+      "bytes": 4047,
+      "sha256": "4c72bbc000fb148196ca3c70be359c5e9723719eab38689ecc5f94dc8d47f4bf"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/033.txt",
+      "bytes": 3681,
+      "sha256": "4ca060024b5fca482627555cb2cd98f9becb805f75e2cdc956f2fdc37e6880f7"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/034.txt",
+      "bytes": 3887,
+      "sha256": "a94b91c057225779c9bb5403f75250f775575f965c037da7361a4881570b998a"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/035.txt",
+      "bytes": 3494,
+      "sha256": "ec294f658518b093cce4f4d029b0a90990c907fd3e088bfc7403b7aebaf44a4f"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/036.txt",
+      "bytes": 3841,
+      "sha256": "9d77522e7726f74ae67f0d43697fe9815eaa8b8d8cac5a9392a2faa09be48d7d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/037.txt",
+      "bytes": 3434,
+      "sha256": "b16ae36ffe08ad4ce30b08b5c259538bc1a691fc45ac6d4ab384639f9711472f"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/038.txt",
+      "bytes": 3858,
+      "sha256": "3f9bd006847dff985a7f965732cd9fdd9e77be6bff894b651add9f2d57f8a3c9"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/039.txt",
+      "bytes": 4008,
+      "sha256": "766737636848a73de35bc50bee62daca65cd5614bbfbfe7a71878d7a600f0ce1"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/040.txt",
+      "bytes": 3765,
+      "sha256": "8f703245534b9ac83e190bded23772c97cb297af4d8a7e71b408a06b39ec475b"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/041.txt",
+      "bytes": 3391,
+      "sha256": "11a6ecdb0c870996c45247bf4aaec39345eace83942d475c20327c15be6a2cf4"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/042.txt",
+      "bytes": 3528,
+      "sha256": "d015976be46bbd913159e77aed467fcee0a5dde479111f56bcee8c7c3d18bed7"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/043.txt",
+      "bytes": 3318,
+      "sha256": "53ade018e98c7bc8de3c28b2c2f659fdc8d7a4982ef6e510ae7d62b414c1050c"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/044.txt",
+      "bytes": 3556,
+      "sha256": "197bccbf8c9393f2b083e45bf589f5b60c28f4e051610d8ab062d0aed2305804"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/045.txt",
+      "bytes": 3779,
+      "sha256": "0cd18bc2848fd5f9b74209d279bf08990e8ce5d50aef84d1a1d3ef4f70a028ce"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/046.txt",
+      "bytes": 3781,
+      "sha256": "52c30b261f6f8b7fbc207a1829c1f19fdabedb8025e23db51fe9a86c31725f23"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/047.txt",
+      "bytes": 3616,
+      "sha256": "7253d538abfcea79e74569defcc268bccef1b1bab3d10df30762a9652bd63717"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/048.txt",
+      "bytes": 3762,
+      "sha256": "81d68993b046cd2d5737b7566da8d8b16179ce23837aff461a4c36ed41eb81ae"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/049.txt",
+      "bytes": 3765,
+      "sha256": "c829bcf81bb445a117749cb85b1013e3bc1c700c0608fcc323b4008aa20f9252"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/050.txt",
+      "bytes": 3761,
+      "sha256": "7334b28372268e4a0971f08e70b50d8d233fc5f5e8ba06e8b9c0f05ad58c7cc9"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/051.txt",
+      "bytes": 3984,
+      "sha256": "5a912f395cfa5a602f2f49d6dcfe4393d231fe0f0c827cca033eb8111000f52b"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/052.txt",
+      "bytes": 3849,
+      "sha256": "a1dcca7cf4a9ea0394f7310f5bf397a0b6eed653de81cef0eb110030a7c6e4e9"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/053.txt",
+      "bytes": 3789,
+      "sha256": "e8c9d1efe5d85be5155019f3e04268be2f0d31498f1546fd618b926eefad089e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/054.txt",
+      "bytes": 3925,
+      "sha256": "2809c8b0c0a212ca1d3bd9640f201b9e2eeac55af2013dfecdf16a5373efafad"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/055.txt",
+      "bytes": 4089,
+      "sha256": "17fe0a94e01c261ae45d8af7e29c57ae4dfc19d9fd1dc35f272b8d371a80745e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/056.txt",
+      "bytes": 3976,
+      "sha256": "4700f1c4a00125a72f0d9ba54c29a798dc5b9c3598b6a468f68b843cee4efa22"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/057.txt",
+      "bytes": 3925,
+      "sha256": "9a483ac6b1eefe2a6505078b1cbbbf6f25fc3fb72d80b9d442217c0844b0c392"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/058.txt",
+      "bytes": 3266,
+      "sha256": "94e0a18ef7c90ba1f10e077d111213bcfd490db929b7ed974f5ab8c80794192a"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/059.txt",
+      "bytes": 3724,
+      "sha256": "110027d5ed1e3b6b3375814f46b40a807827ef5087a3e74bc984462fe1651aa6"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/060.txt",
+      "bytes": 4157,
+      "sha256": "fe656ee4ec86cca6e9999a37b69d676773493e8bb404006c9bf85d72ddd5251c"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/061.txt",
+      "bytes": 2425,
+      "sha256": "2e18eb6d814215859f01b8dcaa663bc10a0e29a945bd864fd8e6c689cd71f2a5"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/062.txt",
+      "bytes": 2521,
+      "sha256": "cfb24322ad1115034374269dc46c00ee3d6622f0286110e8a9111e952d218c3d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/063.txt",
+      "bytes": 2764,
+      "sha256": "9a62437c13dedd778492cd4b6fd287c4e6a87c639d2d3bb40bb962171af2d361"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/064.txt",
+      "bytes": 2515,
+      "sha256": "b4b471e910f335ba1595768637ffdf8c56c9afbbb5ae04aaf3cbf0ce4c7601b4"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/065.txt",
+      "bytes": 3346,
+      "sha256": "7f080fbb849a88dcf6220dfc28567aa57cd12a8d6f55bf7d85439f6777b1a01e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/066.txt",
+      "bytes": 3729,
+      "sha256": "286fa80a1fbc82ebce9054fecbaf0967de3523b29e4f65d76e7f624a56c0b064"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/067.txt",
+      "bytes": 3313,
+      "sha256": "595ade1c162020967b5e36cec66f555fafabdff326005d87f339af27b823a9de"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/068.txt",
+      "bytes": 2981,
+      "sha256": "9ad499f4773e828aa784afcf0121d74adca5a1b4fe3f757ffda73372cbd32f79"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/069.txt",
+      "bytes": 3028,
+      "sha256": "3f810590678d58c3c79a60faec7cca5240386327faf46b8bcd91b04dce835306"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/070.txt",
+      "bytes": 3632,
+      "sha256": "48cd86d81b63454863e3555395478a6c1c4eaaddc15bcac4155248bd7e197e5d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/071.txt",
+      "bytes": 4116,
+      "sha256": "2095e46fafdd3e8f7b7b912656fcdcd27991b373f749eb583ddbdfb5f2b25a97"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/072.txt",
+      "bytes": 4430,
+      "sha256": "882acbec4edc17d2858a34a9e8c6994a53103ee01dd31d09395db638a7570381"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/073.txt",
+      "bytes": 4173,
+      "sha256": "ea59ca45d436f681fabdd507c3758708d53c728847176ae2b4c683d000ddb154"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/074.txt",
+      "bytes": 4209,
+      "sha256": "62ef689def6f4ede1be511520c6f1bf6c7db2118595e188486525f0ccd45be79"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/075.txt",
+      "bytes": 4140,
+      "sha256": "c0c19278c52c57ee0b19a0b610ea54d2b53d5c79f6930869802157493bb02542"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/076.txt",
+      "bytes": 3959,
+      "sha256": "f406137723240570828415e51d407c4a762639a4b714fc5b18d1dff22919835d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/077.txt",
+      "bytes": 3804,
+      "sha256": "23daa586ba7849785f1c762144135ae0304237f035aa65435d07f4d3d465aff4"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/078.txt",
+      "bytes": 2995,
+      "sha256": "42ba629a91e8147648401aa6c5a2ff6585a755ca8a20f2eb44e671b4c9f017d5"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/079.txt",
+      "bytes": 3939,
+      "sha256": "d4a974b5ce740a03d7df2e447eb9395e5c214fe1b4ff5c79a42f243d21df677b"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/080.txt",
+      "bytes": 3926,
+      "sha256": "750472489030cf4b5eadf60fef8d54a1aa2005b74203866d092f454752119e57"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/081.txt",
+      "bytes": 4069,
+      "sha256": "b898bc074f4478d6a96b6d23e510a6e17cc37fb4452a5094e6d8b6be86a6d271"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/082.txt",
+      "bytes": 4029,
+      "sha256": "aa6fd3c7065cde1de7133a918dec2ff09dff4e2c1f68d55b7bbd0d9e15659843"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/083.txt",
+      "bytes": 4163,
+      "sha256": "b823a884bfbac0f358393cf3d146820114987316eb301fa0f13a0562fcdc4242"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/084.txt",
+      "bytes": 4174,
+      "sha256": "ec32d4f09d313ccd07db3b357c4585d197c9c3ea8785f6b2f815f482cc67d1bc"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/085.txt",
+      "bytes": 3814,
+      "sha256": "bbff767b642cab04a9418e6f8671024c8f3d0ea174aaa65126491ee592a28b62"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/086.txt",
+      "bytes": 3799,
+      "sha256": "dc5dbe41cdd9a909cf56ebe5b79c840d01715f4c23d4fefac455096686d4482d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/087.txt",
+      "bytes": 3534,
+      "sha256": "992abe43636c887d75bd87135949b70909ee69160eb9b530bc10c1e9668925d1"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/088.txt",
+      "bytes": 3995,
+      "sha256": "0e106641f29cf216072aadb78b47591c089d774cca94792a50925374161e307a"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/089.txt",
+      "bytes": 3974,
+      "sha256": "c3622be3f151b310b38939ad1075edfa514349474726bbc6e4893e3f54f274ac"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/090.txt",
+      "bytes": 3289,
+      "sha256": "5fbee640989bb6f8fe2f0b1a0fd46633637404722bfbce2c51470b683994a24e"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/091.txt",
+      "bytes": 4141,
+      "sha256": "00a0d95e33b39d64b6b57122694726480c67da1fdf08a1a09967c02f4738df0f"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/092.txt",
+      "bytes": 3226,
+      "sha256": "668cae42c5a960f4da2fe31c879ee73ca1ff51305fe072e5ddd37de4f6349930"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/093.txt",
+      "bytes": 4087,
+      "sha256": "66ac2e0c12c05c86b7ee7ace33febc8834e8ffb7f3dadfa5a946930c16d48c6d"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/094.txt",
+      "bytes": 4130,
+      "sha256": "90ce8b11c780d9d8db7cb3923cff6b9980fbab00dec929004651dea63b4a59eb"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/095.txt",
+      "bytes": 3521,
+      "sha256": "472c9dbcd2d1106029c0656ca0f91eab1e7e7142cce4583060462450346e92cc"
+    },
+    {
+      "path": "research/surxondaryo/rahimov_ocr/096.txt",
+      "bytes": 2951,
+      "sha256": "1be3e9032dca438b8fdfc92c738f51c75c068bff46d92e805acf49249149acb1"
+    },
+    {
+      "path": "research/surxondaryo/source_1.txt",
+      "bytes": 2688,
+      "sha256": "f5a2a56c504be920805bb5ab2f26041bec3d2fe0dbc4cc8fb77050f437bac913"
+    },
+    {
+      "path": "research/surxondaryo/source_1_ocr.txt",
+      "bytes": 349812,
+      "sha256": "34fd794aa252b1b4bcef0d2e5a676bf9e5e9761f8e759f825cddd87933f3c235"
+    },
+    {
+      "path": "research/surxondaryo/source_2.txt",
+      "bytes": 12985,
+      "sha256": "b4d758cd6785d0654ac5e5d983077d503613f7996718d65e239f0f88c6ca6723"
+    },
+    {
+      "path": "research/surxondaryo/source_3.txt",
+      "bytes": 20253,
+      "sha256": "60f938e15fa3efcea6702debb33e4a6e7ce5733bb8b5f57b8790d1c8b662e907"
+    },
+    {
+      "path": "research/surxondaryo/source_4.txt",
+      "bytes": 195018,
+      "sha256": "45d20e61dff2dee77f072018b829d8621fa5cbef50d2ec2bce61411004a66425"
+    },
+    {
+      "path": "research/surxondaryo/source_5.txt",
+      "bytes": 25472,
+      "sha256": "bbc29e760a736362207d064db7e6d65937db69f6303a3026716e045d105c71e2"
+    },
+    {
+      "path": "research/surxondaryo/source_6.txt",
+      "bytes": 12910,
+      "sha256": "17d884fed609a20e3cee380d11bbd5067b2c55a11d34f2ed8a4710bd4c538f30"
+    },
+    {
+      "path": "research/surxondaryo/sources.json",
+      "bytes": 12632,
+      "sha256": "a73fd7d79e34ca99256c8b24e11e1b5c2e8f3a33a7221d9eafa65b83345c7e2b"
+    },
+    {
+      "path": "research/surxondaryo/tessdata/rus.traineddata",
+      "bytes": 15301764,
+      "sha256": "b617eb6830ffabaaa795dd87ea7fd251adfe9cf0efe05eb9a2e8128b7728d6b6"
+    },
+    {
+      "path": "research/surxondaryo/tessdata/uzb.traineddata",
+      "bytes": 12953454,
+      "sha256": "5bd8a1958b3cee68aa225774b89775f3a510dd2141e7d9eb2b5931adca2624c8"
+    },
+    {
+      "path": "research/surxondaryo/tessdata/uzb_cyrl.traineddata",
+      "bytes": 4325478,
+      "sha256": "13b5f943418d362ed2a445c43777e9244ab70359bcc31a95eb89738ccd6924b1"
+    },
+    {
+      "path": "research/toshkent/FONETIKA.json",
+      "bytes": 43845,
+      "sha256": "7f53217abefac5ae8f5b3d19cdc54725798125a1cb748dfbe61773b8289e3da5"
+    },
+    {
+      "path": "research/toshkent/GRAMMATIKA.json",
+      "bytes": 47930,
+      "sha256": "da8fa8c8d7ac89b7c772e6794d87b441e63223e2fdc6cf9f9b1c9518041e6ebd"
+    },
+    {
+      "path": "research/toshkent/HISOBOT_STATISTIKASI.json",
+      "bytes": 378,
+      "sha256": "85e5dd326bab08b1937fdfa8035aadc525f94d670f76164d17cdfe4199b3c226"
+    },
+    {
+      "path": "research/toshkent/HUDUDIY_PROFILLAR.json",
+      "bytes": 11391,
+      "sha256": "2386dac628911c19e5d434da1f09c286cfa7c6ff40ef4836e7cd33afd266448c"
+    },
+    {
+      "path": "research/toshkent/HUDUDLAR_QIYOSI.json",
+      "bytes": 15823,
+      "sha256": "c6eabb46d4442ea40c798e328ef6bf8bccb2cba3b1a0400558f13b2dc493108c"
+    },
+    {
+      "path": "research/toshkent/LUGAT.json",
+      "bytes": 72370,
+      "sha256": "9760abe22396495732c1daade95e971921fd792cae77e8c85e31386ed8bbd2b6"
+    },
+    {
+      "path": "research/toshkent/MANBALAR.json",
+      "bytes": 3970,
+      "sha256": "6361d9c6869a9de9a2a3e104f3decbfd56057a56d28b2ae2d2106923e562e0bf"
+    },
+    {
+      "path": "research/toshkent/NUTQ_NAMUNALARI.json",
+      "bytes": 30283,
+      "sha256": "461f3c14c02cdc55afc71eb93b2a5d9632b1eee7c4a938af3980804f01c889f8"
+    },
+    {
+      "path": "research/toshkent/OQISH_QAMROVI.json",
+      "bytes": 2545,
+      "sha256": "e7e2b613724027643ef7bc0b865d1517cab4c493f29994c9b951b10e6f1572ed"
+    },
+    {
+      "path": "research/toshkent/OQISH_XULOSALARI.md",
+      "bytes": 16740,
+      "sha256": "8f39dc5b1ad814e9c4aea2146c75f33fcaa3dbb0c4abcc49c2d6f4691864fbb0"
+    },
+    {
+      "path": "research/toshkent/SAHIFALAR.jsonl",
+      "bytes": 1910102,
+      "sha256": "7e1ea28055509b2515afe443a4b3f7adbee5b5ff55cad137834fe4465bcc5d2f"
+    },
+    {
+      "path": "research/toshkent/T1.txt",
+      "bytes": 302897,
+      "sha256": "0ce828af795b4319fc0d68db150050361b65568655ed8fa513cb0b4d5210ce67"
+    },
+    {
+      "path": "research/toshkent/T1_HUDUD_QIDIRUVI.txt",
+      "bytes": 119057,
+      "sha256": "e919ac41792fd2c103c83c8b96566caa34fd4d6fb2d236c10b20d10a83242aad"
+    },
+    {
+      "path": "research/toshkent/T2.txt",
+      "bytes": 179702,
+      "sha256": "199c5775a5f4efc801ae6665e1a91880ed809cd131c4732efa3df44703f75257"
+    },
+    {
+      "path": "research/toshkent/T2_HUDUD_QIDIRUVI.txt",
+      "bytes": 53254,
+      "sha256": "4dcb991f055b6ca35d1daee72a72bcb3f6c6a9f1dc9bcaebdc24ab2a97a52518"
+    },
+    {
+      "path": "research/toshkent/T3.txt",
+      "bytes": 250791,
+      "sha256": "0d1fdcc6f29965137f72b11e380ab5af7fe2b24b73cf3e4479255fb54c82fc18"
+    },
+    {
+      "path": "research/toshkent/T3_HUDUD_QIDIRUVI.txt",
+      "bytes": 123610,
+      "sha256": "cdab4810b6f2eb48a5b4425e70e3297b0750858dcc3f0789d59696cfaa36bc92"
+    },
+    {
+      "path": "research/toshkent/T4.txt",
+      "bytes": 1099481,
+      "sha256": "786b5dcc4ba64b3d4cbcba5c4896a765456959f9376d58b94878081d8731cb92"
+    },
+    {
+      "path": "research/toshkent/T4_HUDUD_QIDIRUVI.txt",
+      "bytes": 415394,
+      "sha256": "a3a20eda8deed311cff77bff785f8feaa5e3edeb971c19b45a3aa604ee5a4ae1"
+    },
+    {
+      "path": "research/toshkent/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 22233,
+      "sha256": "0afc250c4d694c5ca8b1d47180c5e2379b73aa6db14e469ee93171c689d07643"
+    },
+    {
+      "path": "research/toshkent/TEKSHIRUV_NATIJASI.json",
+      "bytes": 246,
+      "sha256": "c564f5b33f0c5412768a35a5e94f439d33c61b5d039fac6da0c8cb4475153e45"
+    },
+    {
+      "path": "research/toshkent/TOSHKENT_MONOLOG_ASL.json",
+      "bytes": 6834,
+      "sha256": "94e434bdc218ff9a235d397fa160b79bd48c0fb0693ac15b27c5f331f83db3d3"
+    },
+    {
+      "path": "research/toshkent/build_research_data.py",
+      "bytes": 34648,
+      "sha256": "f83de0f32dcb88b758e8c7abd7edf277cbb33069b9d50e06299efa3c5f641fba"
+    },
+    {
+      "path": "research/toshkent/download_manifest.json",
+      "bytes": 1275,
+      "sha256": "b1dc8ce26c6ab6d94d5f17cbc83f0628c24e90472e2736b92073f88ba0c748b5"
+    },
+    {
+      "path": "research/toshkent/input_downloads.json",
+      "bytes": 774,
+      "sha256": "61d0aed5993d4a70fdb5bb0f41aaadc7f1fac5c1fdc5bb513720fbd77469dce3"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_047.png",
+      "bytes": 263755,
+      "sha256": "09dce249fcedc7c86620299637ff3c6e0f041e4cde05f7bacacbb220175413ce"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_058.png",
+      "bytes": 205465,
+      "sha256": "2209075b5a7464b7369edf75bac2363aefaa506cf57ece415698cdc927eaf824"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_059.png",
+      "bytes": 211898,
+      "sha256": "b130412566e1aa16087663f07bf3a4ea18f131fd086ab1ddaad021136586f039"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_089.png",
+      "bytes": 200940,
+      "sha256": "ef10cfd3cffd982d93f3b6951ce7f8abb03be2f53e917affa274cb5d2e77a70f"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_090.png",
+      "bytes": 245471,
+      "sha256": "08b26060de6228abc6c87122f70338ff8ad44369da48872d127751d051d40fdf"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T1_091.png",
+      "bytes": 257216,
+      "sha256": "317405dae2c0fc5888cc36628bb114d20dd9a213abf87a9d95e9a3c72db5335d"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T2_068.png",
+      "bytes": 156572,
+      "sha256": "7050ded227dd91199765fecdd090bb8576293a8e4396ca7bd8b74f4f58c012d7"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T2_081.png",
+      "bytes": 170934,
+      "sha256": "5cca2ac77a3c1fcc79a60a0e6089c9a0507264fd99c1227531d5d0c397166abc"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T3_039.png",
+      "bytes": 201688,
+      "sha256": "3093796794cab70c66bca0b93c385ee321d126f9a802fe29e19e5da8752b70a0"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T3_041.png",
+      "bytes": 344419,
+      "sha256": "721504d0bc72e2983705ee8c7c5c80f04b189ee1131d48a54c85836a9cf36cb5"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T3_042.png",
+      "bytes": 271326,
+      "sha256": "d4b4de9e4e326fc419b5ba9270aa25e3f386a6c4609f4c783e05bd278850cb80"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T3_055.png",
+      "bytes": 238016,
+      "sha256": "23cb4005edfced4a9ddee53d29eb35082a7935da3bf908341b90045ec56ac26a"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T3_057.png",
+      "bytes": 280237,
+      "sha256": "33e85e1dff34932047c25edb83dff0584727c572a43cd23f86ad2dede9fd1dbc"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_001.png",
+      "bytes": 47203,
+      "sha256": "2ff3a6ac08ae69ebb54fffcce467934b64fab6e7d050dfb25e5444819c516d5b"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_149.png",
+      "bytes": 209049,
+      "sha256": "25a02fcfa7280f852a797fc947c01dd649939a12de22ef2064d31f1a26d3d0ed"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_166.png",
+      "bytes": 237624,
+      "sha256": "757f78bbf7f974526261221fd388a397ec6d3aea295158c0a8ffab8825beb6a8"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_206.png",
+      "bytes": 233531,
+      "sha256": "58e5e9a1f7105c580138a1f1b1ba5b7a335f020f8b02762293bdafc9b2aab8f0"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_208.png",
+      "bytes": 233308,
+      "sha256": "197fb0f37ff6196216260a50354a774c8eb85de88343cb591c793497fef18332"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_224.png",
+      "bytes": 202145,
+      "sha256": "b0644e86a90522fe22d6970b177ca3236f7d470f18ea0d1dd352ac6bd4d8ad10"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_269.png",
+      "bytes": 233111,
+      "sha256": "3c5ed87f70b6f10e76cef5a58954f2849365a5c100a2ff8e950bd58869b8c5b6"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_272.png",
+      "bytes": 240629,
+      "sha256": "fb37ac88494be7dd9858387bf29b85172d71af165e2ea8f3a52208f18c34b712"
+    },
+    {
+      "path": "research/toshkent/tekshiruv/T4_276.png",
+      "bytes": 227320,
+      "sha256": "26007c1b58442d1dc46cade25f08010c3cdbe65a72538053ac6c01fe7bd4f84b"
+    },
+    {
+      "path": "research/toshkent_kocha/BOT_USLUB_PROMPTI.txt",
+      "bytes": 1638,
+      "sha256": "c299c52e722f833b2dfbce45f7d3b375014f0c3db392ba1649a818c87cf2b1cc"
+    },
+    {
+      "path": "research/toshkent_kocha/HISOBOT_STATISTIKASI.json",
+      "bytes": 302,
+      "sha256": "5ef66bd84add145a2c39bedf08e7fa092572c54eb1ca3fbb210f35d968f4ec96"
+    },
+    {
+      "path": "research/toshkent_kocha/KREATIV_NAMUNALAR.json",
+      "bytes": 2111,
+      "sha256": "5589353ee72bff45ba0a9061aa8afc45826783dd91e0b805952df96cc229c5c3"
+    },
+    {
+      "path": "research/toshkent_kocha/MANBALAR.json",
+      "bytes": 8119,
+      "sha256": "8637a3062ad705491766229869c38b42a79a3a7f0c70aae54faeb390c7fc4433"
+    },
+    {
+      "path": "research/toshkent_kocha/NETWORK_PROBES.json",
+      "bytes": 1788,
+      "sha256": "cdb93191c5fea004aff8b9544c35ef8c02c57535da7a25c38f8f7712869b0fa7"
+    },
+    {
+      "path": "research/toshkent_kocha/OQISH_XULOSALARI.md",
+      "bytes": 10642,
+      "sha256": "6d4b7b027c105b30fde9e2ddfe90b4a5168fbbd0449735d9d0d1db01af05c38f"
+    },
+    {
+      "path": "research/toshkent_kocha/QIDIRUV_YONALISHLARI.json",
+      "bytes": 882,
+      "sha256": "1d9a5ee4ec9e0ac5d90e59e117b6fb29c9d801c3e30e8b2388b9b1291e9127a5"
+    },
+    {
+      "path": "research/toshkent_kocha/SLANG_LUGAT.csv",
+      "bytes": 9657,
+      "sha256": "39b54435027ddd9245efe72c171ed05134188b055521d6fc595f9493be427985"
+    },
+    {
+      "path": "research/toshkent_kocha/SLANG_LUGAT.json",
+      "bytes": 34919,
+      "sha256": "225b951619b3f2045fad548cc6ceb8321705876a3f985cda9576fb70156323ce"
+    },
+    {
+      "path": "research/toshkent_kocha/TEKSHIRUV_NATIJASI.json",
+      "bytes": 336,
+      "sha256": "440aae3448a796ec3d58e78a118f1f34fc5070a6c9ba7db87c82591829078846"
+    },
+    {
+      "path": "research/toshkent_kocha/USLUB_PROFILI.json",
+      "bytes": 3283,
+      "sha256": "96d27d9503d2b9eed77250cd16a571cf9f332f06a73343234ec8f2005d04a381"
+    },
+    {
+      "path": "research/toshkent_kocha/build_profile.py",
+      "bytes": 19941,
+      "sha256": "23f0aa384c0ef7d954614d80ea5da6c14086c2ecf1f1726f938293a469746e8d"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/BOT_USLUB_PROMPTI.txt",
+      "bytes": 2490,
+      "sha256": "38ed1b42fd1873b9d8f8ea4cd409d1c6c18efe41484ebbc79c7a5cfa11ce37b1"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/HISOBOT_STATISTIKASI.json",
+      "bytes": 756,
+      "sha256": "f46b4a73390a56c1d8b6628ef66fa96e06ff474cd758d1fcd5806066d557dc94"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/KORPUS_STATISTIKASI.json",
+      "bytes": 2154,
+      "sha256": "28804609e6f2a1e5d37a6ffa3024f84bb12e67649b22fb7ae4110e476a86c7a7"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/KREATIV_NAMUNALAR.json",
+      "bytes": 5732,
+      "sha256": "1173d18eac7f5c0696f5e337bec93ad58f1960cc2cb9a557e57b7444acd7296e"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/LUGAT_JADVAL.csv",
+      "bytes": 13603,
+      "sha256": "862170a7d27ca8a794c77a9e8c9936cdc77375d0a2a7011033b2d91e7d48301d"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/MANBALAR.json",
+      "bytes": 10299,
+      "sha256": "9204afb8bba17c41b8a526bf8c5657ac4732921efef01f088fbe80f775c4fc2e"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/MUSTAQIL_IZLANISH_HOLATI.json",
+      "bytes": 2782,
+      "sha256": "0e1634fa171e62e27a735f1a165b95fdd5ecaa1ae2e4ad7f8cb053b2be4c46fa"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/NETWORK_PROBES.json",
+      "bytes": 1912,
+      "sha256": "64606fd9bc1ffc6fa838bc419cacbc589aa54ad62e3401b67a268888bd6f2ed1"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/OLDINGI_11_SOZ_TEKSHIRUVI.json",
+      "bytes": 7831,
+      "sha256": "4d2d3658e6170c3d066f79d25043d4eda3e2c881783161f8fa968ba1cd51f627"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/OLDINGI_42_QAYD_AUDITI.json",
+      "bytes": 25531,
+      "sha256": "f1eba07a9df15e3ff1d88dec7cdb6c7019d2f04c6ffd2e1279970661a0b1ac06"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/OQISH_XULOSALARI.md",
+      "bytes": 11781,
+      "sha256": "aad3988c0fd60be784949ccc9badc46e74a77bc296258cc1040d38edf30c4517"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/SLANG_VA_YOZUV_KARTALARI.json",
+      "bytes": 170371,
+      "sha256": "56fc5f117ac9aec69b21d86f96e684b07532f3f7024b4df149e97e7e8867d767"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/TEKSHIRUV_NATIJASI.json",
+      "bytes": 842,
+      "sha256": "3f93fff8559a8e6b643fe8a97d6e0f0e40c9ae698a8e2b9e832bb5cf4bc614a0"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/USLUB_PROFILI.json",
+      "bytes": 1552,
+      "sha256": "9dd89fed4ab6fc667155c2d14941c416a603a6421c0ed8abff5cd0fb4e24affd"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/YOZISHMA_USULLARI.json",
+      "bytes": 11325,
+      "sha256": "7d67a70da79740d6123db7db97f610b1542cc913aa588ee0adc70c9683f1920c"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/analyze_export.py",
+      "bytes": 7179,
+      "sha256": "6c9675d815506479b8a0f77e5fa05a547c426e6453198d689ad8ecf647ecf0a9"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/build_profile.py",
+      "bytes": 9228,
+      "sha256": "1bdf0cbcd04dbf18d3c3044eebaa651a0cdda38c9ce856a03049099987d449b6"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/build_report.py",
+      "bytes": 11132,
+      "sha256": "099b5a1e0102e85e2bd6c4c3fb0bf9e800d43084c247d2e24237eb1ccd169f39"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/build_research.py",
+      "bytes": 24899,
+      "sha256": "de88c4739507ac40f0133472b88e6c47e5479fc880b57d173af39edfce2e12c5"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/parse_summary.txt",
+      "bytes": 2083,
+      "sha256": "5793012beaaae7bea543065ffb1a72972b5cc4b7a00d64a5d7a419c4c7864652"
+    },
+    {
+      "path": "research/toshkent_kocha_v2/verify_research.py",
+      "bytes": 4940,
+      "sha256": "3a3fc629f24e22a0c465605b9f6e0fce2a3e14ed938840171e8e7ca87357ce8a"
+    },
+    {
+      "path": "research/xorazm/BOT_USLUB_PROMPTI.txt",
+      "bytes": 4076,
+      "sha256": "ce619389858b2e2aac2825229a9cc99656c5c585c8d155f243e44821afcf8af5"
+    },
+    {
+      "path": "research/xorazm/FONETIKA.json",
+      "bytes": 24794,
+      "sha256": "e6b56e2b4ae4d395bb0f336d6087330f0b9bee66d3d62156000e05ec25b1bda0"
+    },
+    {
+      "path": "research/xorazm/GRAMMATIKA.json",
+      "bytes": 50913,
+      "sha256": "309228a7229b4e8680ec3db8aeb73b954461e0d43fd96749d66b176cc3b3b43f"
+    },
+    {
+      "path": "research/xorazm/HISOBOT_STATISTIKASI.json",
+      "bytes": 378,
+      "sha256": "b1f6f42ca6cc627f666e4d27cbf79f4a53bad8e7152b80ef26ab563d02d7b476"
+    },
+    {
+      "path": "research/xorazm/HUDUDIY_PROFILLAR.json",
+      "bytes": 10610,
+      "sha256": "caa060bf92fc041401e17af7b953a83fe56ba2b91b2fe78a7bb9d0486472c451"
+    },
+    {
+      "path": "research/xorazm/HUDUDLAR_QIYOSI.json",
+      "bytes": 9803,
+      "sha256": "49694d73725851a970f438428f23e5ccc3c9b0a90043ab775cc77414dfdc7a50"
+    },
+    {
+      "path": "research/xorazm/IBORALAR.json",
+      "bytes": 8503,
+      "sha256": "db9a2495db774f11dd58add1f4410a59583d4334a2fe06a30a1cfd66fca13715"
+    },
+    {
+      "path": "research/xorazm/LUGAT.json",
+      "bytes": 305058,
+      "sha256": "857b27314f3946450736dbf34bcc169157428f5aad110fc945a8f35310367e09"
+    },
+    {
+      "path": "research/xorazm/LUGAT_JADVAL.csv",
+      "bytes": 28758,
+      "sha256": "2385ce52bed6abfd870d49df3a4c46717b9073171e566bb28549356ba7386510"
+    },
+    {
+      "path": "research/xorazm/MANBALAR.json",
+      "bytes": 8715,
+      "sha256": "dbdc56abb7197c933eb6f09ce48e651398d809e19a97501a87666aa928b68447"
+    },
+    {
+      "path": "research/xorazm/MAQOLLAR.json",
+      "bytes": 17654,
+      "sha256": "032c4de1288d87b948e524f241260b906e8fed8810df31fb31bb5c8cd81db848"
+    },
+    {
+      "path": "research/xorazm/MAZMUN_SINOVLARI.json",
+      "bytes": 31725,
+      "sha256": "b6700361f280d976530404a1d8b9126bb6f0f49a99c581b5355ce4bd9dc52aaa"
+    },
+    {
+      "path": "research/xorazm/NETWORK_PROBES.json",
+      "bytes": 638,
+      "sha256": "37f0d72fd405e62020b1468a3b3e484eb2a834246c161e2aebe76b99f6724ca2"
+    },
+    {
+      "path": "research/xorazm/NUTQ_NAMUNALARI.json",
+      "bytes": 25564,
+      "sha256": "0fc49a97951b58cb4a4d0eb6ec01c951f85816852f35c8abc87156b8db1aa9ed"
+    },
+    {
+      "path": "research/xorazm/OLMOSH_JADVALI_ASL.json",
+      "bytes": 2805,
+      "sha256": "e836fc5af3cb9e2cd298a110b64a97d77cf54404353f3298e538397c00ffeda0"
+    },
+    {
+      "path": "research/xorazm/OQISH_QAMROVI.json",
+      "bytes": 2274,
+      "sha256": "faebde9bb03474bc189e4b8eae8b89f15adadb6ca811f3351d9156d132cda3d9"
+    },
+    {
+      "path": "research/xorazm/OQISH_XULOSALARI.md",
+      "bytes": 20166,
+      "sha256": "6cd743146bda5cac34a117c37a4a3797baf4a0969d1b7724d40e0ba1cf6e2d47"
+    },
+    {
+      "path": "research/xorazm/PDF_MANIFEST.json",
+      "bytes": 4457,
+      "sha256": "fd83d9bf05fe8e3ace30f9ecdd44ec85c02071e27013470044de0dc6d2380086"
+    },
+    {
+      "path": "research/xorazm/SAHIFALAR.jsonl",
+      "bytes": 332479,
+      "sha256": "595286e5f322a9c25120705b13f47fe6353c96b806f571480918706172db8ef9"
+    },
+    {
+      "path": "research/xorazm/TEKSHIRILADIGAN_DAVOLAR.json",
+      "bytes": 21135,
+      "sha256": "809d3423e06b744cd7b308d74456fe934f7d4e3bebeac0e64e2a4d57f3253d88"
+    },
+    {
+      "path": "research/xorazm/TEKSHIRUV_NATIJASI.json",
+      "bytes": 4355,
+      "sha256": "9f6d7fe5d58cd428c8d4d34b82608225cb4b2bef278b6acc204a6fb04f3991a0"
+    },
+    {
+      "path": "research/xorazm/TUMANLAR_JADVALI.json",
+      "bytes": 10864,
+      "sha256": "34fcede2f3124e0a6ec4a2564b7b59385edd0e09640b7b9a2d60d6a40ddee4d2"
+    },
+    {
+      "path": "research/xorazm/USLUB_PROFILI.json",
+      "bytes": 5171,
+      "sha256": "57e03c0c07a93da43c7ec0cebee90afdf871ca82cca0de79861a3d1acda8a9ec"
+    },
+    {
+      "path": "research/xorazm/X1.txt",
+      "bytes": 212524,
+      "sha256": "e1c77fa2955d13e99b2090be0b915488480feb7d7211074c4c5a4d50632ef31e"
+    },
+    {
+      "path": "research/xorazm/X1_layout.txt",
+      "bytes": 223341,
+      "sha256": "84388adbb8bd27dd1f20f951cddc0fd04c994d787c7202f03ad5e4767c8ed8d6"
+    },
+    {
+      "path": "research/xorazm/X1_pages.json",
+      "bytes": 224318,
+      "sha256": "22ef2b22a249ebcc465f0f61f7d651aabd5d3d079dbc79ccee947bc9aa43d3e7"
+    },
+    {
+      "path": "research/xorazm/X2.txt",
+      "bytes": 11267,
+      "sha256": "f665850babf0262cba19965df44f8a2e875c01b41166240086c02bf078c6d783"
+    },
+    {
+      "path": "research/xorazm/X2_layout.txt",
+      "bytes": 11271,
+      "sha256": "fbfadf835dc94d23a2191adc42b5700387a5dff27d986683333080e6c62d1c7e"
+    },
+    {
+      "path": "research/xorazm/X2_pages.json",
+      "bytes": 11549,
+      "sha256": "f9bca776f644bd49007e3760efb1d203bac81487206097efaf4a786ad474de32"
+    },
+    {
+      "path": "research/xorazm/X3.txt",
+      "bytes": 14221,
+      "sha256": "667dba8a34d1c9057ec70f60698f5235bbb95577ca1d2f87e6f0ffe490a87a08"
+    },
+    {
+      "path": "research/xorazm/X3_layout.txt",
+      "bytes": 14484,
+      "sha256": "5eb60da997e15d7f056e2c2c798436daf37d1a6e3cb638e04f087c770dfee12b"
+    },
+    {
+      "path": "research/xorazm/X3_pages.json",
+      "bytes": 14702,
+      "sha256": "f50ec657a4459f590d06273cc32a055f9e4e256cb82fc21c56c3d64f86f13b2a"
+    },
+    {
+      "path": "research/xorazm/X4.txt",
+      "bytes": 20973,
+      "sha256": "69b8f0c481066d4f55c864153fb44aa0e21a51ec7d662b4e9924e7a5b3fcd71e"
+    },
+    {
+      "path": "research/xorazm/X4_layout.txt",
+      "bytes": 21296,
+      "sha256": "d10a86a65aa5fb0043783bd834773546ff921975befc8337b110f7293f130ec2"
+    },
+    {
+      "path": "research/xorazm/X4_pages.json",
+      "bytes": 21469,
+      "sha256": "8a489ec6d39ba75af3e57e4ae9dfcdc84f14d7ba3dbe825f95c2a81e2b021fe7"
+    },
+    {
+      "path": "research/xorazm/build_profile.py",
+      "bytes": 13083,
+      "sha256": "b45e7cafcb8315eeefbe2bea7d318303d18afbafb44987fe4c6cf525ba9aad37"
+    },
+    {
+      "path": "research/xorazm/build_research.py",
+      "bytes": 29846,
+      "sha256": "3d4c40114d1a5b9414ef847ac5e62fe7265b75d7f402d7c5305755151d6ddfe9"
+    },
+    {
+      "path": "research/xorazm/curated_words.tsv",
+      "bytes": 23467,
+      "sha256": "ecbaae340c8a6363e01c3e732d749d9b5df086fc66d9e93bb416ba71dbc2a328"
+    },
+    {
+      "path": "research/xorazm/images/T1_066.png",
+      "bytes": 232604,
+      "sha256": "d0ce726e939ce84c15d7563c57fcc2f16929d9d69e7c24d01278e41b53ac5ca5"
+    },
+    {
+      "path": "research/xorazm/images/T1_067.png",
+      "bytes": 241192,
+      "sha256": "c39dbfc268b9d6d8bfad06f4c3d7db062b323da0904f29e1ba8deef46bec3a06"
+    },
+    {
+      "path": "research/xorazm/images/T2_085.png",
+      "bytes": 165542,
+      "sha256": "7e423711ee555b2f547b009976cb67beae2cd82a60cda11d982ae721581c16fc"
+    },
+    {
+      "path": "research/xorazm/images/T2_086.png",
+      "bytes": 199023,
+      "sha256": "738d88f94109c4de6d80c15299fd7a9d86d73b5b21ef67ba80ef516e32ac8470"
+    },
+    {
+      "path": "research/xorazm/images/X1_003.png",
+      "bytes": 345293,
+      "sha256": "39ebff400547df0fce862a181279ff08b4cff03aa2fe5cf723131c0aba67354f"
+    },
+    {
+      "path": "research/xorazm/images/X1_006.png",
+      "bytes": 297321,
+      "sha256": "06c4aa287c060fad8c0289ebbdea418411891794d6ccab6a6d868d4035200e1d"
+    },
+    {
+      "path": "research/xorazm/images/X1_007.png",
+      "bytes": 293297,
+      "sha256": "a1a08cc7d014444a20d06b828f0017a777249a26832e06f62fa74876ff0b7c0c"
+    },
+    {
+      "path": "research/xorazm/images/X1_009.png",
+      "bytes": 239603,
+      "sha256": "7d83e9f6e7dc48dfb69c13043ec7f8513b1a96cd9951656fa7b0049a52f66aa4"
+    },
+    {
+      "path": "research/xorazm/images/X1_010.png",
+      "bytes": 352006,
+      "sha256": "a482355e84398b34ddfa28368795a5716507ecaf94e2bb423df370167582e83e"
+    },
+    {
+      "path": "research/xorazm/images/X1_011.png",
+      "bytes": 270691,
+      "sha256": "8fa0a3698a32f6e5d968c66cdb29ec7ce3b1e9fad40b9c44b92810a45afcad27"
+    },
+    {
+      "path": "research/xorazm/images/X1_013.png",
+      "bytes": 307219,
+      "sha256": "185f55bfa73cf9fe62ae637a02cb9995312251c3e8f2770279eaeb78592c9e93"
+    },
+    {
+      "path": "research/xorazm/images/X1_024.png",
+      "bytes": 338492,
+      "sha256": "2d9fa8085419dd9706b4612d4b97607f3655e5358c27e0eedb299dfb11fb63b8"
+    },
+    {
+      "path": "research/xorazm/images/X1_025.png",
+      "bytes": 320057,
+      "sha256": "936880006d9a657e425f3c16d668abae315e12e663875138dacb54162728c74a"
+    },
+    {
+      "path": "research/xorazm/images/X1_048.png",
+      "bytes": 329001,
+      "sha256": "7fe2176d70523543917758b7929c9b55e5fe4469654d2e58ed34cb467a5997f8"
+    },
+    {
+      "path": "research/xorazm/images/X1_058.png",
+      "bytes": 334395,
+      "sha256": "f69c0001cb694bf7a9b5dcd8346f35e154cb093b3d87d664d3843b8966006970"
+    },
+    {
+      "path": "research/xorazm/images/X1_064.png",
+      "bytes": 144297,
+      "sha256": "a0e6fb4c6e20598e1fba65baf96a062ca15df1d75b43db7edb7c21c304331015"
+    },
+    {
+      "path": "research/xorazm/images/X1_065.png",
+      "bytes": 271104,
+      "sha256": "d311f551763aa62ba403700ecb0fbc3b15cb404bd3005e93d2bfb915a22d069e"
+    },
+    {
+      "path": "research/xorazm/images/X1_070.png",
+      "bytes": 329268,
+      "sha256": "d9d18dae81ba8fe0c791f3dfc6614c091e48b85d9424bedf14d1bfabb04e61b1"
+    },
+    {
+      "path": "research/xorazm/images/X1_075.png",
+      "bytes": 296520,
+      "sha256": "522c4e403a93deb025fc7d82fd29466035e69949a6882478491c6e8cb11c3c93"
+    },
+    {
+      "path": "research/xorazm/images/X1_096.png",
+      "bytes": 254993,
+      "sha256": "5c1cb7dedaf91dd79c0460b85720c142bc90f634f7464437f139e01c91b674b7"
+    },
+    {
+      "path": "research/xorazm/images/X1_097.png",
+      "bytes": 307658,
+      "sha256": "66ec06f151af6121f3ccfc369759b26ee59fe92ec59f4197dfa0b94e773c455e"
+    },
+    {
+      "path": "research/xorazm/images/X1_098.png",
+      "bytes": 352995,
+      "sha256": "6bd1380f085fddf124151ee6202fb7e9a151a9b8d54866a4444d05f558b91971"
+    },
+    {
+      "path": "research/xorazm/images/X1_106.png",
+      "bytes": 329175,
+      "sha256": "791216a40b44eb0bfc6d3cea4cbbac5eae3694ce3ae621a3a7e3626a895d739e"
+    },
+    {
+      "path": "research/xorazm/images/X1_127.png",
+      "bytes": 360788,
+      "sha256": "58b5c90bef516d44208b144f109557f4cf01ad9292c49b37a39a003c28956e8c"
+    },
+    {
+      "path": "research/xorazm/images/X1_149.png",
+      "bytes": 276553,
+      "sha256": "02ff957a06d2aa2a9c5c2c7081c7235850a37b5ff2bddbf89e2e1b0cbe0b4143"
+    },
+    {
+      "path": "research/xorazm/images/X1_151.png",
+      "bytes": 281037,
+      "sha256": "86ed3d2d75084b06395feae65c6cc3d4f89a40e5e951b159d8cad59603a6dabf"
+    },
+    {
+      "path": "research/xorazm/images/X1_152.png",
+      "bytes": 349784,
+      "sha256": "1544212437e32454ba4ee74b6be9ab42c6e291bca80bf6494085d5cbcad028be"
+    },
+    {
+      "path": "research/xorazm/images/X1_155.png",
+      "bytes": 288465,
+      "sha256": "5e10377c072c417c823a5e35ffd86c0c8a8c99ee7cf25f34e14374eb1a197d2b"
+    },
+    {
+      "path": "research/xorazm/images/X1_159.png",
+      "bytes": 312478,
+      "sha256": "1e0b4b73235de876b3faeda7984d9d278fb1c7464ce833735582ca11ba407b71"
+    },
+    {
+      "path": "research/xorazm/images/X1_160.png",
+      "bytes": 102706,
+      "sha256": "f00a312eed5c9454ee632e8bcdf262b1036b4505c72df99adaf12894383a5908"
+    },
+    {
+      "path": "research/xorazm/images/X4_005.png",
+      "bytes": 362245,
+      "sha256": "04b5d3c6974fffd2c67f1f112da2e4e0ab0c4352c72f4345bcb1c42476487ee2"
+    },
+    {
+      "path": "research/xorazm/images/X4_006.png",
+      "bytes": 260938,
+      "sha256": "b00e2944bf60f1805b596122547d3411c100584e01448fa3609fb2d57f09337d"
+    },
+    {
+      "path": "research/xorazm/verify_research.py",
+      "bytes": 6862,
+      "sha256": "ff845b3654876f50a5ea028d88efb171b466c5b408c1ce8514dbde37da2e9e65"
+    },
+    {
+      "path": "research/xorazm_kocha/BOSMA_DIALOG.json",
+      "bytes": 1239,
+      "sha256": "551b13fcd0a288d380ae0d7d619bf3ed609f6c2580e90aa6c52bd737a786c62b"
+    },
+    {
+      "path": "research/xorazm_kocha/CHAT_FAYLLARI_HOLATI.json",
+      "bytes": 1050,
+      "sha256": "e103d3ef4a738b48368fdf7b7846feb9749bcac4a6826dd47d3fad468c373b20"
+    },
+    {
+      "path": "research/xorazm_kocha/MANBALAR_HOLATI.json",
+      "bytes": 6204,
+      "sha256": "65686ecac384b819cfd0c6c756a5a9913539ce481cca2fb1cc7c3fca111e3665"
+    },
+    {
+      "path": "research/xorazm_kocha/NETWORK_PROBES.json",
+      "bytes": 1102,
+      "sha256": "33c400a34863e27633d0d1a71443c6faf6a6fea7263a73f122ce9db284323919"
+    },
+    {
+      "path": "research/xorazm_kocha/NORASMIY_MUOMALA_TAYANCHLARI.json",
+      "bytes": 37344,
+      "sha256": "5f0192ebc9ee9777b125727be37c31fdec835ae108ba327b14e17963d30fbfe3"
+    },
+    {
+      "path": "research/xorazm_kocha/OQISH_XULOSALARI.md",
+      "bytes": 7370,
+      "sha256": "fd0f75e362153bcc1cec01b4ec5e8e5f955243f400c476164b93f5ea0b0e7e37"
+    },
+    {
+      "path": "research/xorazm_kocha/QOSHIMCHA_MANBA_KUZATUVLARI.json",
+      "bytes": 5587,
+      "sha256": "a4b88964475f32be8c2f0ed733fccc179d54ef72ba426f9031f3d30d8c8d999a"
+    },
+    {
+      "path": "research/xorazm_kocha/TAYANCHLAR.csv",
+      "bytes": 2266,
+      "sha256": "6fe2c1cbfedc4da2e39338002093aa4f33249e200a361573bc19f55139383558"
+    },
+    {
+      "path": "research/xorazm_kocha/TEKSHIRUV_NATIJASI.json",
+      "bytes": 384,
+      "sha256": "7cf064061597ded15ea9bd0f374a536d836e92cef91ea8d973d276a22a9fa039"
+    },
+    {
+      "path": "research/xorazm_kocha/USLUB_PROFILI_QORALAMA.json",
+      "bytes": 1373,
+      "sha256": "bd02da295f1e598e6b9b5a58c8dd2cc1ec2cc6af47d000baf1bcd617532c8e3a"
+    },
+    {
+      "path": "research/xorazm_kocha/YANGI_QIYOS_SAHIFALARI.jsonl",
+      "bytes": 24246,
+      "sha256": "766661a4f5983a46ec883907b96c809d1bd40048c4098dce3ed0fce947d1f24c"
+    },
+    {
+      "path": "research/xorazm_kocha/build_research.py",
+      "bytes": 8645,
+      "sha256": "bb31935fe275274f618f8ab16b57d56c6e232ce4803e4934c07157b76eaca414"
+    },
+    {
+      "path": "research/xorazm_kocha/images/X1_010.png",
+      "bytes": 276630,
+      "sha256": "4cccde98c0e419a113190b19002d5048615de49b691c9125bf8a8353fe37b875"
+    },
+    {
+      "path": "research/xorazm_kocha/images/X1_026.png",
+      "bytes": 272647,
+      "sha256": "6d8c90f19a5e68cbae6d7f4e15235f83a12fbf81cdd797fea76923edfe486268"
+    },
+    {
+      "path": "research/xorazm_kocha/images/X1_084.png",
+      "bytes": 319551,
+      "sha256": "f0bff565717a3c1d8916be01d87ca3335c9b8b6d679e20fd0c07387bc9eed8f3"
+    },
+    {
+      "path": "research/xorazm_kocha/images/X1_112.png",
+      "bytes": 269269,
+      "sha256": "3b63de4ff9a24d3071a21c792cbf8ce45e6ed433c8180473531a01655894120c"
+    },
+    {
+      "path": "attachments/065d1fdf-5b14-40cc-b19a-33de753b7a05/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/10aea744-5b12-43f4-b562-dbcbc8f60b52/7-O‘zbek-xalq-so‘zlari.pdf",
+      "bytes": 2024195,
+      "sha256": "461c356d608fbce159d8fe88f03e73f68a41e90c05d20cf91735577cd7461ae8"
+    },
+    {
+      "path": "attachments/135294d4-9880-41d1-a5f6-7a6aef1164d7/g.shokirova-xolmirzayeva.pdf",
+      "bytes": 2530263,
+      "sha256": "ec48a810ee29536dc92b1a598cd8b5695d6720376041274dc6f16bddc1df3fcd"
+    },
+    {
+      "path": "attachments/1599da22-be73-4cc6-9503-4d9c3ce47579/46.pdf",
+      "bytes": 587374,
+      "sha256": "4316b00a4afc7297a7b7104dc15f646a55338619399081084c6522ca7e083e0b"
+    },
+    {
+      "path": "attachments/15e89214-f33a-46bd-9405-78ff9996711c/zomin-tumani-j-lovchi-shevasida-uchraydigan-ayrim-iboralar-tahlili.pdf",
+      "bytes": 417527,
+      "sha256": "29ffb7d662379acfa023c7701fa55ff6d057b7eb8de6c391e92346e009ab09dc"
+    },
+    {
+      "path": "attachments/1a8de15f-6391-40af-a247-ef822bea9fdb/1669004830.pdf",
+      "bytes": 2293525,
+      "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe"
+    },
+    {
+      "path": "attachments/24710439-3a6a-408e-b413-e4e592b3d109/147-154.pdf",
+      "bytes": 601929,
+      "sha256": "20b1701bac2961f1405d3de13ac652df66479993d66699b24663128d283f1803"
+    },
+    {
+      "path": "attachments/2ad8ed1b-e533-4a42-b275-9920654262ff/Nazar Rajabov. O'zbek shevashunosligi.pdf",
+      "bytes": 7954399,
+      "sha256": "88840657dff2cb110b62d1eeb974bad03fa52491a149dcabadf0d4fa4011bc31"
+    },
+    {
+      "path": "attachments/3fda5ec7-4b77-4f4c-9873-9f497fdd19f2/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/4b3a24d0-2285-435c-b645-2919869e7b5b/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "bytes": 4178949,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e"
+    },
+    {
+      "path": "attachments/4bbdf1db-1e81-4987-a507-a79629f0cd5d/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "bytes": 2106570,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98"
+    },
+    {
+      "path": "attachments/4c0d1e6b-f102-4fba-bfa2-5869111c03e5/12755_1_5540C3A45A63EBDDF5434D8DBD1994103A09E3C4.pdf",
+      "bytes": 1434719,
+      "sha256": "54f93934ced85c1d9090a37cf8cb02830f7ad7558321e02d523d6539badc7951"
+    },
+    {
+      "path": "attachments/4e21e414-6af7-4fba-8ff2-3b27889d94b4/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/506e35f6-181b-42ed-b883-0f9cfbc2ce22/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "bytes": 2106570,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98"
+    },
+    {
+      "path": "attachments/5206be00-18d3-4d2b-86eb-79bc375c1716/toplam-2025-02.05.2025finish-385-391.pdf",
+      "bytes": 542832,
+      "sha256": "c60038ca88690e3f4a43203d7c3f32da1063435fbee902a9cf42e6212109c815"
+    },
+    {
+      "path": "attachments/539e371a-a478-4fe8-85b1-6cd8cc728c6f/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "bytes": 2106570,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98"
+    },
+    {
+      "path": "attachments/5a93d0cd-5ce1-44e9-865d-1f930c3e5e33/Saidmuso Rahimov. O'zbek tili Surxondaryo shevalari (1).pdf",
+      "bytes": 3978590,
+      "sha256": "d6cd63ee5b1a9d8f44607abeea0e94014ec8b1094a31ae88194d7135a2c85ae6"
+    },
+    {
+      "path": "attachments/5bc60fdb-9fe6-42d5-a855-37449b8dcb3a/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+      "bytes": 2106570,
+      "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98"
+    },
+    {
+      "path": "attachments/60d757ce-f6aa-4ea0-ad8b-6a073f672460/152_i_20260502_181859_4 (37).pdf",
+      "bytes": 595626,
+      "sha256": "49e8df4bdf4b3a37b40acdf5e3fd4bf0574e002aad9b85f4c16044248add4bb6"
+    },
+    {
+      "path": "attachments/627b5abb-d713-48cb-ad63-9589d05528b6/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "bytes": 4178949,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e"
+    },
+    {
+      "path": "attachments/6a64291b-9a95-4ddc-bac5-5360ad4872ce/46.pdf",
+      "bytes": 587374,
+      "sha256": "4316b00a4afc7297a7b7104dc15f646a55338619399081084c6522ca7e083e0b"
+    },
+    {
+      "path": "attachments/6b3fd263-15b7-496d-9766-c622e7754abf/2024-yil_toplam_18.09_2.pdf",
+      "bytes": 5903908,
+      "sha256": "0ed26c95d50790565639fd10fc27f0fed08bb5f4053173f46cf6c727aa03d59e"
+    },
+    {
+      "path": "attachments/6f9c22f8-3568-439d-b3a2-178c2583c353/1740379786.pdf",
+      "bytes": 12103654,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae"
+    },
+    {
+      "path": "attachments/74a83505-6cc2-499d-b6c7-2f50cb44f728/Qo‘qon_DPI_Ilmiy_xabarlar_2026_yil_8_son_Avgust_B_seriyasi_part-004_p25-30.pdf",
+      "bytes": 833587,
+      "sha256": "b911623ac5bc9f3da9ebfc8a4de6a7f4fe2b6bee2039cc96bffbae85bc90a925"
+    },
+    {
+      "path": "attachments/7bc654de-e3c7-4ace-a883-4035f5dca744/Статья-76690-ru.pdf",
+      "bytes": 320626,
+      "sha256": "1c19fe1439245e6331faee4559ec8f8161415f32a8e6bc6d48ed485b58c4cd45"
+    },
+    {
+      "path": "attachments/7c845bfe-ba2b-4b0b-b378-ac59d9e89b8a/1740379786.pdf",
+      "bytes": 12103654,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae"
+    },
+    {
+      "path": "attachments/7d784135-0923-4a4b-909d-f9e1e01b1434/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/7db285ef-4f3f-4ec8-a6aa-70bfdfa11b04/xorazm_shevalarining_organilish_tarixiga_doir.pdf",
+      "bytes": 948713,
+      "sha256": "334d78a2470453c186fe97348d22ea98a614bbf1103b48e7d6add55b90550f8e"
+    },
+    {
+      "path": "attachments/7ea34766-d14d-4f64-90c1-cbb0d5f79e4d/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "bytes": 4178949,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e"
+    },
+    {
+      "path": "attachments/82e4a1a8-a0ac-4a05-aa63-24cabf068e2f/228-232.pdf",
+      "bytes": 989787,
+      "sha256": "7b253faaf1eaf6ecc4e1aa2e68307f4d2e8908a76be5d06c1766769ca7d4c3a0"
+    },
+    {
+      "path": "attachments/83b484d8-6d88-4d01-8fd0-421b661dbb52/75-78-.pdf",
+      "bytes": 136300,
+      "sha256": "6ece3ba142e772e3c918b4dc6f1ff1da11785e62b62dfca85f8feb58ff97b4ec"
+    },
+    {
+      "path": "attachments/85381d0d-524c-4204-ad15-234a9faca5b4/311ef076-a0a7-4566-832a-0f05b84b1262.pdf",
+      "bytes": 761887,
+      "sha256": "ccd4a3eaba30ef41bb874b800fa7de30da4de631ba5605a65c7609aec18e56cc"
+    },
+    {
+      "path": "attachments/8e783af4-fde7-4eb9-8f4e-1092a28e78cd/12755_1_5540C3A45A63EBDDF5434D8DBD1994103A09E3C4.pdf",
+      "bytes": 1434719,
+      "sha256": "54f93934ced85c1d9090a37cf8cb02830f7ad7558321e02d523d6539badc7951"
+    },
+    {
+      "path": "attachments/946ebbd5-fb4c-4620-982c-6a5d15273a88/492-494.pdf",
+      "bytes": 154056,
+      "sha256": "b1972ca094bd1d99834377c076e5cb330faa5a34fd51726cc9eef6957568c8cf"
+    },
+    {
+      "path": "attachments/94efd125-02d9-4b02-8aec-9f4e8198fa8d/1669004830.pdf",
+      "bytes": 2293525,
+      "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe"
+    },
+    {
+      "path": "attachments/99424e2f-32c1-4b9e-8f0f-0ec30b77c9cd/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/9f0a2020-9c63-4d03-a2ee-2f5a4fac7cd9/anjuman_materiallari._19.11._2020.pdf",
+      "bytes": 7181457,
+      "sha256": "effe008279e2fd25b492f8f2756e81868622d9bedd842a6d1d140fbde3d863aa"
+    },
+    {
+      "path": "attachments/a08c8430-0a81-49be-bdb5-fb1b2b67b463/5b0d28b37ed85.pdf",
+      "bytes": 1853917,
+      "sha256": "1c053ab7dd5a2671649bf3149fb50153a1e528eebd2e1f360550fc167ed61d6f"
+    },
+    {
+      "path": "attachments/a2d09237-25f2-43b2-99a5-a0cc262fcd67/1718364281.pdf",
+      "bytes": 4574109,
+      "sha256": "9a1c8f1c482959a910bee0056605416ebce960dd5331868c64b2bdfd06fddc3b"
+    },
+    {
+      "path": "attachments/a334ee98-ad14-4aff-8f18-d62f230f9885/2277-Текст статьи-6272-1-10-20230418.pdf",
+      "bytes": 747712,
+      "sha256": "fac16981fcde615d7e42f57476506142908e41cdad110e4ddb3ae40e2e2ae4e9"
+    },
+    {
+      "path": "attachments/a3a82354-817b-48d5-9018-fa152b5a9f3f/Ўзбек халқ шевалари луғати.pdf",
+      "bytes": 12934566,
+      "sha256": "647b3c71480c78099dac407887e41825828126c02858d7e9b4ed672ff3b07f3c"
+    },
+    {
+      "path": "attachments/c1b1c277-1562-47e5-a25b-1d93448e6c25/MMMS+0504.pdf",
+      "bytes": 666759,
+      "sha256": "9e2af0c93aafccc01f7586e6aec7f20e82a4bb3470d0cba0ae8f8d45167ac283"
+    },
+    {
+      "path": "attachments/c35e62b4-2757-49c0-afff-db66f8d327c8/15_Navkent_QISHLOG_I_SHEVASIGA_OID_AYRIM_DIALEKTAL_SO_ZLAR1_2.pdf",
+      "bytes": 465660,
+      "sha256": "f5f3a6880d6654fd24d102910e8ae621e66afc46987a492d26bcfcf267da3c78"
+    },
+    {
+      "path": "attachments/c46e80bd-7130-497a-a38b-02fd6879ac1c/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "bytes": 4178949,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e"
+    },
+    {
+      "path": "attachments/cda67891-a964-4016-a226-81218d073b28/402-405.pdf",
+      "bytes": 184580,
+      "sha256": "03af61f35b148ddcd5a8a0e7bd860e3e67b0ea6c413903cf1a22434b896c0e17"
+    },
+    {
+      "path": "attachments/d51d751c-1e2a-43b0-a079-a3e4a0486e5f/1740379786.pdf",
+      "bytes": 12103654,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae"
+    },
+    {
+      "path": "attachments/d8969eba-a849-46ae-ba11-c5743e9bc786/1740379786.pdf",
+      "bytes": 12103654,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae"
+    },
+    {
+      "path": "attachments/dbdd292d-0b16-452c-acd3-c9948a888ea6/4761078a-848a-43b4-af50-91c8a3e410cf.pdf",
+      "bytes": 1967569,
+      "sha256": "c89b74ab3e8ce596219409a1399fa6a16dcc96a5ecea9a5e8ce0ea853473e0b5"
+    },
+    {
+      "path": "attachments/e0b72abc-9d7e-4348-aeb9-7ef593cde7c6/111.pdf",
+      "bytes": 305192,
+      "sha256": "52209bb65dc903fa585d3cee43e470ebc0e542349f7e660a472f74f92d263df4"
+    },
+    {
+      "path": "attachments/ead6cc54-323e-4fe4-8fe0-60823d67d5c1/O'zbek dialektikasi. Ashirboyev S.pdf",
+      "bytes": 4178949,
+      "sha256": "9f0bd138686d0e98ded1b2d2e384a09edb701dfb18fed2302de1ff7f5bedc22e"
+    },
+    {
+      "path": "attachments/ebba1dea-b599-41bd-99e2-1277829b3e6d/10.59182-tudad.1619886-4520972.pdf",
+      "bytes": 413335,
+      "sha256": "94e2da5444114c231ff8bb5b354fd70fe61053796e73c98e4d1c1c7186652b59"
+    },
+    {
+      "path": "attachments/ed2120b5-8b2a-4776-8d8e-e21c3ada657f/OZBEK_DIALEKTOLOGIYASIDA_NAMANGAN_SHEVASINING_TUT.pdf",
+      "bytes": 980236,
+      "sha256": "9eaddaa2bc8751c203cd4e87ddcdae5cb5f70d6a35befa5120ec8edff55fa133"
+    },
+    {
+      "path": "attachments/ee811d7e-b35e-41dd-8705-bfcd310a633c/88_Xamidov_Mansur_Abdumannobovich_676-684.pdf",
+      "bytes": 468583,
+      "sha256": "e68c4ba300380586556108c5a2b3686312d026a2ee29ccbe07c2a222cffeb719"
+    },
+    {
+      "path": "attachments/f73281b9-6f80-4cfd-96b3-a0dc3084e0f9/118-121.pdf",
+      "bytes": 252130,
+      "sha256": "a74f7b921ee1c3d151b823ab866bc81b6c62485f4a107893861262e26276e08a"
+    },
+    {
+      "path": "attachments/f7d56327-7473-4882-a9fd-00bc466d3e27/surxondaryo-shevalarining-nazariy-asoslari.pdf",
+      "bytes": 607095,
+      "sha256": "3bfc1640f6a255ca9d544b1d769525fa06a36ec97459aa6ac954bd96664dc357"
+    },
+    {
+      "path": "attachments/fb7497b6-1591-4ffb-9ebb-e2608c85150a/5b015f0357f16.pdf",
+      "bytes": 452131,
+      "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251"
+    },
+    {
+      "path": "attachments/fb93a648-bfd2-4f97-83bf-a740b813419a/12755_1_834F41587A1E59A4EEBFA14207F5DFC4DE222EAF.pdf",
+      "bytes": 1044116,
+      "sha256": "cd5a5cb8d95ff9c4565bd11fd7bce96e2bd7d5e6e7b0963a1814ce937d11785d"
+    },
+    {
+      "path": "EXPORT-NOTES.json",
+      "bytes": 2134,
+      "sha256": "82a0b9831d82013f675017ba9a145e499963b52e670535a5f524d88d72e837da"
+    }
+  ],
+  "profiles": 13,
+  "knowledge_cards": 1204,
+  "user_records_in_initial_database": 0,
+  "live_secrets_included": false
+}

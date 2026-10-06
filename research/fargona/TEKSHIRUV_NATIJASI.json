@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "source_pdf_hashes_checked": 8,
+  "indexed_pages": 735,
+  "json_reference_anchors_checked": 300,
+  "evidence_snippets_checked": 300,
+  "report_links_checked": true,
+  "duplicate_pdf_files_checked": [
+    {
+      "source": "Q3",
+      "region": "qashqadaryo",
+      "sha256_match": true
+    },
+    {
+      "source": "M1",
+      "region": "samarqand",
+      "sha256_match": true
+    },
+    {
+      "source": "Q2",
+      "region": "qashqadaryo",
+      "sha256_match": true
+    },
+    {
+      "source": "M2",
+      "region": "samarqand",
+      "sha256_match": true
+    },
+    {
+      "source": "J2",
+      "region": "jizzax",
+      "sha256_match": true
+    },
+    {
+      "source": "A2",
+      "region": "andijon",
+      "sha256_match": true
+    },
+    {
+      "source": "J3",
+      "region": "jizzax",
+      "sha256_match": true
+    },
+    {
+      "source": "A5",
+      "region": "andijon",
+      "sha256_match": true
+    }
+  ],
+  "repository_clean": true,
+  "rendered_pages_visually_inspected": [
+    "F4:2",
+    "F2:55",
+    "F2:45",
+    "F5:3",
+    "F5:4",
+    "F7:5",
+    "F7:6",
+    "F8:81",
+    "F1:54"
+  ],
+  "audio_verification": false,
+  "native_speaker_validation": false,
+  "evaluation_note": "Havola tekshiruvi da’voning ilmiy to‘g‘riligini o‘z-o‘zidan tasdiqlamaydi; tanqidiy qaydlar alohida saqlangan."
+}

@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "FP001",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "bo‘lak",
+    "form_source": "bøleg",
+    "display_approximation": "bo‘leg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "bøleg",
+        "evidence_extracted": "arda quyidagicha tovush almashish hodisalari\nkuzatiladi:\n 1. Soʻz oxirida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ür",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP002",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "terak",
+    "form_source": "tereg",
+    "display_approximation": "tereg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tereg",
+        "evidence_extracted": "ha tovush almashish hodisalari\nkuzatiladi:\n 1. Soʻz oxirida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qa",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP003",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "kerak",
+    "form_source": "kereg",
+    "display_approximation": "kereg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "kereg",
+        "evidence_extracted": "ashish hodisalari\nkuzatiladi:\n 1. Soʻz oxirida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âš",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP004",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "bilak",
+    "form_source": "bileg",
+    "display_approximation": "bileg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "bileg",
+        "evidence_extracted": "ari\nkuzatiladi:\n 1. Soʻz oxirida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmâ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP005",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "qandak",
+    "form_source": "qanteg",
+    "display_approximation": "qanteg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qanteg",
+        "evidence_extracted": "\n 1. Soʻz oxirida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP006",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "kurak",
+    "form_source": "kureg",
+    "display_approximation": "kureg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "kureg",
+        "evidence_extracted": "ida k/g ga almashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP007",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "erkak",
+    "form_source": "erkeg",
+    "display_approximation": "erkeg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "erkeg",
+        "evidence_extracted": "mashishi: boʻlak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP008",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "ko‘lmak",
+    "form_source": "kølmeg",
+    "display_approximation": "ko‘lmeg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "kølmeg",
+        "evidence_extracted": "ak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumlo",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP009",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "ertak",
+    "form_source": "erteg",
+    "display_approximation": "erteg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "erteg",
+        "evidence_extracted": "k- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP010",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "ertak",
+    "form_source": "eteg",
+    "display_approximation": "eteg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "eteg",
+        "evidence_extracted": "k-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurums",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP011",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "ko‘krak",
+    "form_source": "køkreg",
+    "display_approximation": "ko‘kreg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "køkreg",
+        "evidence_extracted": "-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšl",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP012",
+    "process_group": "so‘z oxiri k/g",
+    "input_as_source": "suyak",
+    "form_source": "suyeg",
+    "display_approximation": "suyeg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy kirish shakli ham manbadagi juftdan olindi; qandak yozuvi tahrirlanmadi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "suyeg",
+        "evidence_extracted": "k- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP013",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qishloq",
+    "form_source": "qišlây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qišlây",
+        "evidence_extracted": "ak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP014",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qandoq",
+    "form_source": "qandây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qandây",
+        "evidence_extracted": "ak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushinti",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP015",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "bundoq",
+    "form_source": "bundây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "bundây",
+        "evidence_extracted": "k-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP016",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "andoq",
+    "form_source": "andây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "andây",
+        "evidence_extracted": "k-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushinti",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP017",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "baliq",
+    "form_source": "baliy",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "baliy",
+        "evidence_extracted": " q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushku",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP018",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qulluq",
+    "form_source": "qulluy",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qulluy",
+        "evidence_extracted": "shi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tush",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP019",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qarmoq",
+    "form_source": "qarmây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qarmây",
+        "evidence_extracted": "qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushur",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP020",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "to‘qmoq",
+    "form_source": "tøqmây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tøqmây",
+        "evidence_extracted": "qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP021",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "urmoq",
+    "form_source": "ürmây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "ürmây",
+        "evidence_extracted": "\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik,",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP022",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qadoq",
+    "form_source": "qadây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qadây",
+        "evidence_extracted": ",  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški,",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP023",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "oshiq",
+    "form_source": "âšiy",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "âšiy",
+        "evidence_extracted": "y,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišl",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP024",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "tomoq",
+    "form_source": "tâmây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tâmây",
+        "evidence_extracted": "aliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP025",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "buloq",
+    "form_source": "bülây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "bülây",
+        "evidence_extracted": "-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4.",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP026",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "pichoq",
+    "form_source": "pičây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "pičây",
+        "evidence_extracted": "oq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP027",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "o‘yinchoq",
+    "form_source": "øyinčây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "øyinčây",
+        "evidence_extracted": "-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: s",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP028",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qumloq",
+    "form_source": "qümlây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qümlây",
+        "evidence_extracted": "mây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP029",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "qurumsoq",
+    "form_source": "qurumsây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qurumsây",
+        "evidence_extracted": " oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâč",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP030",
+    "process_group": "muallifda q/g‘ deb nomlangan; y grafemasi",
+    "input_as_source": "toshloq",
+    "form_source": "tâšlây",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "transkripsiya_aniqlashtiriladi",
+    "notes": "Matn q/g‘ deydi, bosma misollarda yga o‘xshash grafema bor. Asl sahifa ko‘rildi; transkripsiya kaliti maqolada yo‘q. Oddiy y tovushiga yoki g‘ga avtomatik tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tâšlây",
+        "evidence_extracted": "-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP031",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tush",
+    "form_source": "čuš",
+    "display_approximation": "chush",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuš",
+        "evidence_extracted": "q-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP032",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tish",
+    "form_source": "čiš",
+    "display_approximation": "chish",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čiš",
+        "evidence_extracted": "qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP033",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushdi",
+    "form_source": "čuštı",
+    "display_approximation": "chushti",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuštı",
+        "evidence_extracted": "msây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻla",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP034",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushintirmoq",
+    "form_source": "čuntirmâq",
+    "display_approximation": "chuntirmoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuntirmâq",
+        "evidence_extracted": ".\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida v",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP035",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushkur",
+    "form_source": "čuškir",
+    "display_approximation": "chushkir",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuškir",
+        "evidence_extracted": "hida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP036",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushkun",
+    "form_source": "čuškin",
+    "display_approximation": "chushkin",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuškin",
+        "evidence_extracted": "ashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga alma",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP037",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushum",
+    "form_source": "čušum",
+    "display_approximation": "chushum",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čušum",
+        "evidence_extracted": ",  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-t",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP038",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushurmoq",
+    "form_source": "čušurmâq",
+    "display_approximation": "chushurmoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čušurmâq",
+        "evidence_extracted": "hdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, ma",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP039",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushlik",
+    "form_source": "čušlik",
+    "display_approximation": "chushlik",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čušlik",
+        "evidence_extracted": "irmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP040",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushki",
+    "form_source": "čuški",
+    "display_approximation": "chushki",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuški",
+        "evidence_extracted": "hida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-čuštı,\ntushintirmoq-čuntirmâq,    tushkur-čuškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP041",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tishli",
+    "form_source": "čišli",
+    "display_approximation": "chishli",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čišli",
+        "evidence_extracted": "uškir,    tushkun-čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP042",
+    "process_group": "so‘z boshi t/č",
+    "input_as_source": "tushurgich",
+    "form_source": "čuširgič",
+    "display_approximation": "chushirgich",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tish/tush oilasida berilgan; barcha t harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuširgič",
+        "evidence_extracted": "čuškin,    tushum-čušum,\ntushurmoq-čušurmâq, tushlik-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taq",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP043",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "soch",
+    "form_source": "čâč",
+    "display_approximation": "choch",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâč",
+        "evidence_extracted": "k-čušlik, tushki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxa",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP044",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochiq",
+    "form_source": "čâčiq",
+    "display_approximation": "chochiq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčiq",
+        "evidence_extracted": "shki-čuški, tishli-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-ma",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP045",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochilmoq",
+    "form_source": "čâčilmâq",
+    "display_approximation": "chochilmoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčilmâq",
+        "evidence_extracted": "i-čišli, tushurgich-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP046",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochma",
+    "form_source": "čâčma",
+    "display_approximation": "chochma",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčma",
+        "evidence_extracted": "ch-čuširgič.\n 4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-m",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP047",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochqi",
+    "form_source": "čâčqi",
+    "display_approximation": "chochqi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčqi",
+        "evidence_extracted": "4. Soʻz boshida s/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqt",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP048",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochpopuk",
+    "form_source": "čâčpâpuk",
+    "display_approximation": "chochpopuk",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčpâpuk",
+        "evidence_extracted": "/č ga almashishi: soch-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-t",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP049",
+    "process_group": "so‘z boshi s/č",
+    "input_as_source": "sochtarosh",
+    "form_source": "čâčtarâš",
+    "display_approximation": "chochtarosh",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Soch oilasidagi dalillar; barcha s harflarini almashtirish qoidasi emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čâčtarâš",
+        "evidence_extracted": "h-čâč, sochiq-čâčiq, sochilmoq-čâčilmâq,\nsochma-čâčma, sochqi-čâčqi, sochpopuk-čâčpâpuk, sochtarosh-čâčtarâš soʻzlari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini miso",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP050",
+    "process_group": "q/x",
+    "input_as_source": "to‘qson",
+    "form_source": "tøxsan",
+    "display_approximation": "to‘xsan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tøxsan",
+        "evidence_extracted": "lari\nbunga misol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP051",
+    "process_group": "q/x",
+    "input_as_source": "qirq",
+    "form_source": "qirx",
+    "display_approximation": "qirx",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qirx",
+        "evidence_extracted": "sol boʻladi.\n 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP052",
+    "process_group": "q/x",
+    "input_as_source": "maqsad",
+    "form_source": "maxsat",
+    "display_approximation": "maxsat",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "maxsat",
+        "evidence_extracted": " 5. Soʻz oʻrtasida va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP053",
+    "process_group": "q/x",
+    "input_as_source": "yo‘qchilik",
+    "form_source": "yøxčilik",
+    "display_approximation": "yo‘xchilik",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "yøxčilik",
+        "evidence_extracted": "va ayrim holatlarda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n     ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP054",
+    "process_group": "q/x",
+    "input_as_source": "aqcha",
+    "form_source": "axča",
+    "display_approximation": "axcha",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "axča",
+        "evidence_extracted": "rda oxirida q/x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (O",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP055",
+    "process_group": "q/x",
+    "input_as_source": "taqchil",
+    "form_source": "taxčil",
+    "display_approximation": "taxchil",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "taxčil",
+        "evidence_extracted": "x ga almashishi: toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP056",
+    "process_group": "q/x",
+    "input_as_source": "taqdim",
+    "form_source": "taxdım",
+    "display_approximation": "taxdim",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "taxdım",
+        "evidence_extracted": " toʻqson-tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP057",
+    "process_group": "q/x",
+    "input_as_source": "taqalmoq",
+    "form_source": "taxakmâq",
+    "display_approximation": null,
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "grafema_yoki_juftlik_aniqlashtiriladi",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "taxakmâq",
+        "evidence_extracted": "irq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgari",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP058",
+    "process_group": "q/x",
+    "input_as_source": "taqachi",
+    "form_source": "taxači",
+    "display_approximation": "taxachi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "taxači",
+        "evidence_extracted": "xsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP059",
+    "process_group": "q/x",
+    "input_as_source": "maqbul",
+    "form_source": "maxbul",
+    "display_approximation": "maxbul",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "maxbul",
+        "evidence_extracted": "-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz ass",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP060",
+    "process_group": "q/x",
+    "input_as_source": "maqsud",
+    "form_source": "maxsut",
+    "display_approximation": "maxsut",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "maxsut",
+        "evidence_extracted": "-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP061",
+    "process_group": "q/x",
+    "input_as_source": "maqtanchoq",
+    "form_source": "maxtančâq",
+    "display_approximation": "maxtanchoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "maxtančâq",
+        "evidence_extracted": "il, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP062",
+    "process_group": "q/x",
+    "input_as_source": "maqtov",
+    "form_source": "maxtov",
+    "display_approximation": "maxtov",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "maxtov",
+        "evidence_extracted": ",  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, soʻzlar jarangl",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP063",
+    "process_group": "q/x",
+    "input_as_source": "to‘qmoq",
+    "form_source": "tøxmâq",
+    "display_approximation": "to‘xmoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ayrim o‘rinlar uchun; taxakmâq juftida qo‘shimcha k ehtimoliy xato sifatida belgilandi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tøxmâq",
+        "evidence_extracted": "kmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, soʻzlar jarangli-jarangsizlik v",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP064",
+    "process_group": "x/q",
+    "input_as_source": "tuxum",
+    "form_source": "tuqum",
+    "display_approximation": "tuqum",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tuxum oilasi; tuxumsimon variantida u/i almashuvi ham bor.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tuqum",
+        "evidence_extracted": "l qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, soʻzlar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP065",
+    "process_group": "x/q",
+    "input_as_source": "tuxumbarak",
+    "form_source": "tuqumbaräk",
+    "display_approximation": "tuqumbarak",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tuxum oilasi; tuxumsimon variantida u/i almashuvi ham bor.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tuqumbaräk",
+        "evidence_extracted": "mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, soʻzlar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, i",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP066",
+    "process_group": "x/q",
+    "input_as_source": "tuxumsimon",
+    "form_source": "tuqimsimân",
+    "display_approximation": "tuqimsimon",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tuxum oilasi; tuxumsimon variantida u/i almashuvi ham bor.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tuqimsimân",
+        "evidence_extracted": " holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgarishlar uchraydi:\n 1. Toʻliqsiz assimilyatsiya hodisasi uchraydi (yaʼni, soʻzlar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP067",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "tushgan",
+    "form_source": "čuškan",
+    "display_approximation": "chushkan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuškan",
+        "evidence_extracted": "di (yaʼni, soʻzlar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP068",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "oshgan",
+    "form_source": "âškan",
+    "display_approximation": "oshkan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "âškan",
+        "evidence_extracted": "lar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP069",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "ishga",
+    "form_source": "iška",
+    "display_approximation": "ishka",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "iška",
+        "evidence_extracted": "jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, ba",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP070",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "o‘zimdan",
+    "form_source": "øzimnan",
+    "display_approximation": "o‘zimnan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "øzimnan",
+        "evidence_extracted": "\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, ayla",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP071",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "bo‘lgandan keyin",
+    "form_source": "bøgennen kejin",
+    "display_approximation": "bo‘gennen kejin",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "bøgennen kejin",
+        "evidence_extracted": "isman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-d",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP072",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "ishda",
+    "form_source": "išta",
+    "display_approximation": "ishta",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "išta",
+        "evidence_extracted": ": tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\ns",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP073",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "qishda",
+    "form_source": "qišta",
+    "display_approximation": "qishta",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qišta",
+        "evidence_extracted": "an, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP074",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "oshga",
+    "form_source": "âška",
+    "display_approximation": "oshka",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "âška",
+        "evidence_extracted": "lar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\nteksh",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP075",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "tushga",
+    "form_source": "čuška",
+    "display_approximation": "chushka",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "čuška",
+        "evidence_extracted": "di (yaʼni, soʻzlar jarangli-jarangsizlik va\nboshqa holatlarga koʻra qisman oʻxshab ketadi): tushgan-čuškan, oshgan-âškan,\nishga-iška, oʻzimdan-øzimnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP076",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "toshdan",
+    "form_source": "tâštan",
+    "display_approximation": "toshtan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tâštan",
+        "evidence_extracted": "imnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP077",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "oshdan",
+    "form_source": "âštan",
+    "display_approximation": "oshtan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "âštan",
+        "evidence_extracted": "mnan, boʻlgandan keyin-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP078",
+    "process_group": "assimilyatsiya va jarangsizlikka moslashish",
+    "input_as_source": "oshni",
+    "form_source": "âšti",
+    "display_approximation": "oshti",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Har bir so‘zda muhit va qo‘shimcha hisobga olinadi; barcha jarayonlar bitta fonetik amal emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "âšti",
+        "evidence_extracted": "ennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undosh",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP079",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "yomg‘ir",
+    "form_source": "yâymir",
+    "display_approximation": null,
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "grafema_yoki_juftlik_aniqlashtiriladi",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "yâymir",
+        "evidence_extracted": "ateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olis",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP080",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "surpa",
+    "form_source": "supra",
+    "display_approximation": "supra",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "supra",
+        "evidence_extracted": "qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP081",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "tuproq",
+    "form_source": "turpâq",
+    "display_approximation": "turpoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "turpâq",
+        "evidence_extracted": "ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiar",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP082",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "to‘rg‘a",
+    "form_source": "tøyra",
+    "display_approximation": null,
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "grafema_yoki_juftlik_aniqlashtiriladi",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "tøyra",
+        "evidence_extracted": "bidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP083",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "tekshir",
+    "form_source": "teškir",
+    "display_approximation": "teshkir",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "teškir",
+        "evidence_extracted": "rning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbat",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP084",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "bayroq",
+    "form_source": "baryâgʻ",
+    "display_approximation": "baryogʻ",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "baryâgʻ",
+        "evidence_extracted": "ashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP085",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "aylan",
+    "form_source": "aynal",
+    "display_approximation": "aynal",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "aynal",
+        "evidence_extracted": "yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Di",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP086",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "aylanma",
+    "form_source": "aynalma",
+    "display_approximation": "aynalma",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "aynalma",
+        "evidence_extracted": "  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP087",
+    "process_group": "muallifda metateza guruhi",
+    "input_as_source": "daryo",
+    "form_source": "dayrâ",
+    "display_approximation": "dayro",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Yomg‘ir va to‘rg‘a misollaridagi y grafemasi yuqoridagi transkripsiya savoli bilan bog‘liq; shu ikki birlik o‘qishi aniqlashtiriladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "dayrâ",
+        "evidence_extracted": " tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP088",
+    "process_group": "muallifda reduksiya guruhi",
+    "input_as_source": "Ma’ruf",
+    "form_source": "Mar(i)p",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "termin_va_qavs_aniqlashtiriladi",
+    "notes": "Reduksiya ta’rifi maqolada noto‘g‘ri: undosh o‘rin almashinuvi deyiladi. Qavsdagi i talaffuz holati alohida tekshiriladi; shaxs ismlari avtomatik o‘zgartirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Mar(i)p",
+        "evidence_extracted": " Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP089",
+    "process_group": "muallifda reduksiya guruhi",
+    "input_as_source": "Sharif",
+    "form_source": "Šar(i)p",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "termin_va_qavs_aniqlashtiriladi",
+    "notes": "Reduksiya ta’rifi maqolada noto‘g‘ri: undosh o‘rin almashinuvi deyiladi. Qavsdagi i talaffuz holati alohida tekshiriladi; shaxs ismlari avtomatik o‘zgartirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Šar(i)p",
+        "evidence_extracted": "asi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP090",
+    "process_group": "muallifda reduksiya guruhi",
+    "input_as_source": "kishi",
+    "form_source": "kiš(i)",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "termin_va_qavs_aniqlashtiriladi",
+    "notes": "Reduksiya ta’rifi maqolada noto‘g‘ri: undosh o‘rin almashinuvi deyiladi. Qavsdagi i talaffuz holati alohida tekshiriladi; shaxs ismlari avtomatik o‘zgartirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "kiš(i)",
+        "evidence_extracted": "di (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP091",
+    "process_group": "muallifda reduksiya guruhi",
+    "input_as_source": "ishni",
+    "form_source": "išt(i)",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "termin_va_qavs_aniqlashtiriladi",
+    "notes": "Reduksiya ta’rifi maqolada noto‘g‘ri: undosh o‘rin almashinuvi deyiladi. Qavsdagi i talaffuz holati alohida tekshiriladi; shaxs ismlari avtomatik o‘zgartirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "išt(i)",
+        "evidence_extracted": "z tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP092",
+    "process_group": "muallifda reduksiya guruhi",
+    "input_as_source": "bitta",
+    "form_source": "b(i)tta",
+    "display_approximation": null,
+    "display_note": "Grafema yoki izoh noaniq; taxminiy o‘qish berilmadi.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "termin_va_qavs_aniqlashtiriladi",
+    "notes": "Reduksiya ta’rifi maqolada noto‘g‘ri: undosh o‘rin almashinuvi deyiladi. Qavsdagi i talaffuz holati alohida tekshiriladi; shaxs ismlari avtomatik o‘zgartirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "b(i)tta",
+        "evidence_extracted": "ndoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP093",
+    "process_group": "muallifda dissimilatsiya guruhi",
+    "input_as_source": "devor",
+    "form_source": "düvâl",
+    "display_approximation": "duvol",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Guruhdagi hamma misol dissimilatsiya emas; maqolaning ta’rifi spontan o‘zgarishga yaqin. Devor shakli PDF 2da, qolganlari PDF 3da.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "düvâl",
+        "evidence_extracted": "ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP094",
+    "process_group": "muallifda dissimilatsiya guruhi",
+    "input_as_source": "koridor",
+    "form_source": "kalidâr",
+    "display_approximation": "kalidor",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Guruhdagi hamma misol dissimilatsiya emas; maqolaning ta’rifi spontan o‘zgarishga yaqin. Devor shakli PDF 2da, qolganlari PDF 3da.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "kalidâr",
+        "evidence_extracted": "kalidâr, zarar-zaral,anjir-anjil, qimmat-qiymat soʻzlari.\n 5. Eliziya hodisasi uchraydi. Bu hodisa tovush tushishi boʻlib, ikki koʻrinishga ega:\n a) ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP095",
+    "process_group": "muallifda dissimilatsiya guruhi",
+    "input_as_source": "zarar",
+    "form_source": "zaral",
+    "display_approximation": "zaral",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Guruhdagi hamma misol dissimilatsiya emas; maqolaning ta’rifi spontan o‘zgarishga yaqin. Devor shakli PDF 2da, qolganlari PDF 3da.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "zaral",
+        "evidence_extracted": "kalidâr, zarar-zaral,anjir-anjil, qimmat-qiymat soʻzlari.\n 5. Eliziya hodisasi uchraydi. Bu hodisa tovush tushishi boʻlib, ikki koʻrinishga ega:\n a) ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytal",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP096",
+    "process_group": "muallifda dissimilatsiya guruhi",
+    "input_as_source": "anjir",
+    "form_source": "anjil",
+    "display_approximation": "anjil",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Guruhdagi hamma misol dissimilatsiya emas; maqolaning ta’rifi spontan o‘zgarishga yaqin. Devor shakli PDF 2da, qolganlari PDF 3da.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "anjil",
+        "evidence_extracted": "kalidâr, zarar-zaral,anjir-anjil, qimmat-qiymat soʻzlari.\n 5. Eliziya hodisasi uchraydi. Bu hodisa tovush tushishi boʻlib, ikki koʻrinishga ega:\n a) ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP097",
+    "process_group": "muallifda dissimilatsiya guruhi",
+    "input_as_source": "qimmat",
+    "form_source": "qiymat",
+    "display_approximation": "qiymat",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Guruhdagi hamma misol dissimilatsiya emas; maqolaning ta’rifi spontan o‘zgarishga yaqin. Devor shakli PDF 2da, qolganlari PDF 3da.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "qiymat",
+        "evidence_extracted": "kalidâr, zarar-zaral,anjir-anjil, qimmat-qiymat soʻzlari.\n 5. Eliziya hodisasi uchraydi. Bu hodisa tovush tushishi boʻlib, ikki koʻrinishga ega:\n a) ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaral",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP098",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "qila oldi",
+    "form_source": "qilaldi",
+    "display_approximation": "qilaldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "qilaldi",
+        "evidence_extracted": "ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  b",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP099",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "tushuntira oldi",
+    "form_source": "tüšintiraldi",
+    "display_approximation": "tushintiraldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "tüšintiraldi",
+        "evidence_extracted": "ida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Olt",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP100",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "ko‘ra oldi",
+    "form_source": "køraldi",
+    "display_approximation": "ko‘raldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "køraldi",
+        "evidence_extracted": "i unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalar",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP101",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "bora oldi",
+    "form_source": "bâraldi",
+    "display_approximation": "boraldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "bâraldi",
+        "evidence_extracted": "hib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu ko",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP102",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "ayta oldi",
+    "form_source": "äytaldi",
+    "display_approximation": "aytaldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "äytaldi",
+        "evidence_extracted": "i – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP103",
+    "process_group": "qo‘shma fe’lda unli tushishi",
+    "input_as_source": "qaytara oldi",
+    "form_source": "qäytaraldi",
+    "display_approximation": "qaytaraldi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Imkoniyat ma’nosidagi -a ol- birikmasi; zamon ma’nosi almashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "qäytaraldi",
+        "evidence_extracted": "oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolish",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP104",
+    "process_group": "l undoshining tushishi",
+    "input_as_source": "kelsang",
+    "form_source": "keseng",
+    "display_approximation": "keseng",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ma’lum muhitlardagi misollar; barcha l harflarini tushirishga asos emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "keseng",
+        "evidence_extracted": "rish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP105",
+    "process_group": "l undoshining tushishi",
+    "input_as_source": "bo‘lsang",
+    "form_source": "bøseng",
+    "display_approximation": "bo‘seng",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ma’lum muhitlardagi misollar; barcha l harflarini tushirishga asos emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "bøseng",
+        "evidence_extracted": " b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nch",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP106",
+    "process_group": "l undoshining tushishi",
+    "input_as_source": "kelyapti",
+    "form_source": "keyapti",
+    "display_approximation": "keyapti",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ma’lum muhitlardagi misollar; barcha l harflarini tushirishga asos emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "keyapti",
+        "evidence_extracted": "gi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzla",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP107",
+    "process_group": "l undoshining tushishi",
+    "input_as_source": "bo‘lyapti",
+    "form_source": "bøyapti",
+    "display_approximation": "bo‘yapti",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ma’lum muhitlardagi misollar; barcha l harflarini tushirishga asos emas.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "bøyapti",
+        "evidence_extracted": "izlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n    ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP108",
+    "process_group": "proteza",
+    "input_as_source": "stol",
+    "form_source": "istâl",
+    "display_approximation": "istol",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "istâl",
+        "evidence_extracted": "g\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzg",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP109",
+    "process_group": "proteza",
+    "input_as_source": "stakan",
+    "form_source": "istakan",
+    "display_approximation": "istakan",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "istakan",
+        "evidence_extracted": "i kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uc",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP110",
+    "process_group": "proteza",
+    "input_as_source": "stadion",
+    "form_source": "istadiân",
+    "display_approximation": "istadion",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "istadiân",
+        "evidence_extracted": "    6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglash",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP111",
+    "process_group": "proteza",
+    "input_as_source": "stul",
+    "form_source": "istul",
+    "display_approximation": "istul",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "istul",
+        "evidence_extracted": "ing  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP112",
+    "process_group": "proteza",
+    "input_as_source": "stiklo",
+    "form_source": "istiklâ",
+    "display_approximation": "istiklo",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "istiklâ",
+        "evidence_extracted": "shi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\n",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP113",
+    "process_group": "proteza",
+    "input_as_source": "shtat",
+    "form_source": "ištat",
+    "display_approximation": "ishtat",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘zlashgan so‘zlar; manba stiklo yozuvini saqlaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "ištat",
+        "evidence_extracted": "odisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP114",
+    "process_group": "geminatsiya",
+    "input_as_source": "ashula",
+    "form_source": "ašilla",
+    "display_approximation": "ashilla",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Non ushog‘i ma’nosi maqolada aniqlashtirilgan; qo‘pol murojaat uchun hayvon nomi qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "ašilla",
+        "evidence_extracted": "ʻzlarda kuzatiladi.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP115",
+    "process_group": "geminatsiya",
+    "input_as_source": "eshak",
+    "form_source": "eššek",
+    "display_approximation": "eshshek",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Non ushog‘i ma’nosi maqolada aniqlashtirilgan; qo‘pol murojaat uchun hayvon nomi qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "eššek",
+        "evidence_extracted": "di.\n       7. Undoshlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib ke",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP116",
+    "process_group": "geminatsiya",
+    "input_as_source": "ashulachi",
+    "form_source": "ašillači",
+    "display_approximation": "ashillachi",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Non ushog‘i ma’nosi maqolada aniqlashtirilgan; qo‘pol murojaat uchun hayvon nomi qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "ašillači",
+        "evidence_extracted": "hlarning  takrorlanishi (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     X",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP117",
+    "process_group": "geminatsiya",
+    "input_as_source": "eshakqurt",
+    "form_source": "eššekqurt",
+    "display_approximation": "eshshekqurt",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Non ushog‘i ma’nosi maqolada aniqlashtirilgan; qo‘pol murojaat uchun hayvon nomi qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "eššekqurt",
+        "evidence_extracted": "i (geminatsiya) hodisasi uchraydi: ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     Xulosa sifatida aytish m",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP118",
+    "process_group": "geminatsiya",
+    "input_as_source": "ushoq",
+    "form_source": "uššâq",
+    "display_approximation": "ushshoq",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Non ushog‘i ma’nosi maqolada aniqlashtirilgan; qo‘pol murojaat uchun hayvon nomi qo‘llanmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "uššâq",
+        "evidence_extracted": "ashula-\našilla,   eshak-eššek,   ashulachi-ašillači,   eshakqurt-eššekqurt,  ushoq(nonning\nushogʻi)-uššâq.\n       8. Spontan oʻzgarish hodisasi uchraydi (jaranglashish): boʻlak-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     Xulosa sifatida aytish mumkinki, Fargʻona (Oltiariq) gu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP119",
+    "process_group": "takroriy ro‘yxatda boshqa ko‘lmak yozuvi",
+    "input_as_source": "ko‘lmak",
+    "form_source": "kølmag",
+    "display_approximation": "ko‘lmag",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "2-sahifada kølmeg, 3-sahifada kølmag; variant/xato ochiq qoladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "kølmag",
+        "evidence_extracted": "k-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     Xulosa sifatida aytish mumkinki, Fargʻona (Oltiariq) guruhi shevalarida\nqarluq lahjasiga xos fonetik oʻzgarishlarning deyarli barcha turlari uchraydi. Ba’zi\no‘rinlarda esa Fargʻona (Oltiariq) guruhi shevalarida fonetik jarayonlarni",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FP120",
+    "process_group": "takroriy ro‘yxatda boshqa ko‘lmak yozuvi",
+    "input_as_source": "etak",
+    "form_source": "eteg",
+    "display_approximation": "eteg",
+    "display_note": "Taxminiy o‘qish; IPA yoki audio tasdig‘i emas.",
+    "area": "Farg‘ona (Oltiariq) guruhi, maqola miqyosi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "2-sahifada kølmeg, 3-sahifada kølmag; variant/xato ochiq qoladi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "eteg",
+        "evidence_extracted": "k -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     Xulosa sifatida aytish mumkinki, Fargʻona (Oltiariq) guruhi shevalarida\nqarluq lahjasiga xos fonetik oʻzgarishlarning deyarli barcha turlari uchraydi. Ba’zi\no‘rinlarda esa Fargʻona (Oltiariq) guruhi shevalarida fonetik jarayonlarning o‘ziga\nx",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  }
+]

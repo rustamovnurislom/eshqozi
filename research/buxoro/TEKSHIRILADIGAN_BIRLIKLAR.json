@@ -1,0 +1,103 @@
+{
+  "entry_count": 8,
+  "entries": [
+    {
+      "form": "gavdo‘sha",
+      "meaning_as_claimed": "xurmo",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:62 gavdusha — sut uchun sopol idish, xurma deb beradi. Meva ma’nosi olinmadi; yozuv farqi ham tekshiriladi.",
+      "id": "BC001",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "dammamak",
+      "meaning_as_claimed": "jim, tinch, jimgina",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:78 dammakak shakli. Variantmi yoki ko‘chirish xatosimi, noma’lum.",
+      "id": "BC002",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "zaldolu",
+      "meaning_as_claimed": "o‘rik",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:109 zardolu/zaldoru/zaldori. Zaldolu alohida tasdiqlanmagan.",
+      "id": "BC003",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "kal(l)po‘sh",
+      "meaning_as_claimed": "do‘ppi",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:137 kal(l)apush. Qisqarishning bugungi varianti bo‘lishi alohida tasdiqlanmagan.",
+      "id": "BC004",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "palla",
+      "meaning_as_claimed": "og‘iz suti",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:272 falla qaydi bor, palla shu maqolada qo‘shimcha variant sifatida berilgan.",
+      "id": "BC005",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "harra",
+      "meaning_as_claimed": "tirgovuch",
+      "source_id": "B5",
+      "pdf_page": 2,
+      "reason": "E1:281 xachcha — Buxoro tirgovuch; harra — Bog‘ot arra. Hudud va ma’no tenglashtirilishi asosiy lug‘atga olinmadi.",
+      "id": "BC006",
+      "printed_pages": [
+        678
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "jölkirā",
+      "meaning_as_claimed": null,
+      "source_id": "B3",
+      "pdf_page": 2,
+      "region_as_claimed": "G‘ijduvon, yoshi katta kishilar",
+      "reason": "Ekspeditsiya qaydi bor, lekin maqola bu shaklning ma’nosi va adabiy muqobilini ochiq bermaydi. Yo‘lkira ma’nosi o‘zimizdan kiritilmadi.",
+      "id": "BC007",
+      "printed_pages": [
+        119
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    },
+    {
+      "form": "Sixakti",
+      "meaning_as_claimed": "qirg‘ichni",
+      "source_id": "B3",
+      "pdf_page": 3,
+      "region_as_claimed": "Buxoro o‘g‘uz konteksti",
+      "reason": "Sixakti opke jumlasi tarjimasi aniq, lekin asosni Sixak deb ajratish va -ti qo‘shimchasining tahlili yetarlicha asoslanmagan. Butun jumla saqlandi.",
+      "id": "BC008",
+      "printed_pages": [
+        120
+      ],
+      "status": "Tekshirish kerak; bot uchun tayyor almashtirish emas."
+    }
+  ]
+}

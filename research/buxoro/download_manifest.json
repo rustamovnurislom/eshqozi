@@ -1,0 +1,37 @@
+[
+  {
+    "id": "B1",
+    "pdf_path": "/workspace/attachments/1a8de15f-6391-40af-a247-ef822bea9fdb/1669004830.pdf",
+    "pages": 80,
+    "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe",
+    "characters": 181382
+  },
+  {
+    "id": "B2",
+    "pdf_path": "/workspace/attachments/7c845bfe-ba2b-4b0b-b378-ac59d9e89b8a/1740379786.pdf",
+    "pages": 97,
+    "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+    "characters": 96
+  },
+  {
+    "id": "B3",
+    "pdf_path": "/workspace/attachments/f73281b9-6f80-4cfd-96b3-a0dc3084e0f9/118-121.pdf",
+    "pages": 4,
+    "sha256": "a74f7b921ee1c3d151b823ab866bc81b6c62485f4a107893861262e26276e08a",
+    "characters": 8646
+  },
+  {
+    "id": "B4",
+    "pdf_path": "/workspace/attachments/85381d0d-524c-4204-ad15-234a9faca5b4/311ef076-a0a7-4566-832a-0f05b84b1262.pdf",
+    "pages": 69,
+    "sha256": "ccd4a3eaba30ef41bb874b800fa7de30da4de631ba5605a65c7609aec18e56cc",
+    "characters": 206902
+  },
+  {
+    "id": "B5",
+    "pdf_path": "/workspace/attachments/e0b72abc-9d7e-4348-aeb9-7ef593cde7c6/111.pdf",
+    "pages": 2,
+    "sha256": "52209bb65dc903fa585d3cee43e470ebc0e542349f7e660a472f74f92d263df4",
+    "characters": 7375
+  }
+]

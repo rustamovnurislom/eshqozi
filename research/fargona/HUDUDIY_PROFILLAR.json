@@ -1,0 +1,168 @@
+[
+  {
+    "id": "fargona_city_margilon_qoqon",
+    "name": "Qo‘qon–Marg‘ilon va Farg‘ona shahar tipi",
+    "scope": "Tasnifdagi Marg‘ilon-Qo‘qon dialekti; ichki farqlar yo‘qolmaydi.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 87,
+        "printed_page": 86,
+        "anchor_extracted": "Marg‘ilon-Qo‘qon",
+        "evidence_extracted": "i  boiib,  ular  uchun  janubiy  qirg‘iz\nshevalari bilan bo'lgan metisatsiya xarakterlidir.\n     4. Marg‘ilon-Qo‘qon  dialekti. Bu  dialektga  Marg‘ilon,  Farg‘ona,\nVodil, Qo‘qon va boshqa shu tipdagi shevaiar kiradi.\n     II. Toshkent guruhi.\n     1.  Toshkent  dialekti. Bunga  Toshkent  shahar  shevasi,  Toshkent\nviloyatidagi  qipchoq  shevalaridan  boshqa  shahar  tipidagi  shevaiar,\nmasalan, Piskent, Parkent, Qoraxitoy va boshqalar taalluqlidir.\n  ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "-yap davom zamoni",
+      "manbada qayd etilgan -di/-ti tushum variantlari",
+      "buvi/ayya kabi ma’nosi kontekstli birliklar"
+    ],
+    "unresolved": [
+      "shaharlar kesimida zamonaviy variant taqsimoti",
+      "yosh va muloqot uslubi"
+    ]
+  },
+  {
+    "id": "vodil",
+    "name": "Vodil",
+    "scope": "Tasnifda Marg‘ilon-Qo‘qon guruhida; vokalizmda alohida xususiyat qayd etilgan.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 87,
+        "printed_page": 86,
+        "anchor_extracted": "Vodil",
+        "evidence_extracted": "metisatsiya xarakterlidir.\n     4. Marg‘ilon-Qo‘qon  dialekti. Bu  dialektga  Marg‘ilon,  Farg‘ona,\nVodil, Qo‘qon va boshqa shu tipdagi shevaiar kiradi.\n     II. Toshkent guruhi.\n     1.  Toshkent  dialekti. Bunga  Toshkent  shahar  shevasi,  Toshkent\nviloyatidagi  qipchoq  shevalaridan  boshqa  shahar  tipidagi  shevaiar,\nmasalan, Piskent, Parkent, Qoraxitoy va boshqalar taalluqlidir.\n     2. Jizzax dialekti.\n\n      III. Qarshi guruhi.\n    ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 46,
+        "printed_page": 46,
+        "anchor_extracted": "Vodil",
+        "evidence_extracted": "unlilar mustaqil fonema\nsifatida ishlatiladi.\n      Territoriya jihatidan Marg’ilonga yaqin bo’lgan Vodil qishlog’ining shevasi\nJizzax va Toshkent oblastining atrof shevalari  Toshkent shahar shevasining unlilar\nsistemasiga o’xshaydi.\n      Andijon,  Shaxrixon,  Farg’ona  vodiysining  bir  qator   qishloq  shevalari,\nTurkiston,  Qoraqalpoq   dialekti  (o’zbek   tilining),  Samarqand,  Surxondaryo,\nQashqadaryo  oblastlarining  j-lovchi o’zbek",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "Toshkent unlilar tizimiga yaqinlik haqidagi manba qaydi"
+    ],
+    "unresolved": [
+      "zamonaviy tovush inventari",
+      "mustaqil dialog namunasi"
+    ]
+  },
+  {
+    "id": "oltiariq_group",
+    "name": "Farg‘ona (Oltiariq) guruhi",
+    "scope": "F4 maqola miqyosi; barcha Oltiariq qishloqlari va barcha avlodlarga tatbiq etilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 1,
+        "printed_page": null,
+        "anchor_extracted": "OLTIARIQ",
+        "evidence_extracted": "   FARGʻONA (OLTIARIQ) GURUHI SHEVALARINING FONETIK\n                   TAHLILIGA DOIR\n\n                                          G.Jo‘raboyeva, FarDU dotsenti,\n                                     M.Tursunboyeva, FarDU talabasi\n      Annotatsiya: Ushbu maqolada Fargʻona (Oltiariq) guruhi shevalari fonetik\njihatdan tahlil qilingan. Shevadagi tovush oʻzgarishi ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "kereg/tereg",
+      "tish–čiš, soch–čâč",
+      "keyapti/bøyapti",
+      "qilaldi/keseng"
+    ],
+    "unresolved": [
+      "q/g‘ grafemasi",
+      "respondent va sana",
+      "fonetik kategoriyalarning ayrim xatolari"
+    ]
+  },
+  {
+    "id": "uchkoprik_begmurod",
+    "name": "Uchko‘prik atrof qishloqlari; Begmurod",
+    "scope": "F6 annotatsiyasi Begmurodni aytadi, ro‘yxat har birlikni alohida qishloqqa biriktirmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 1,
+        "printed_page": null,
+        "anchor_extracted": "Begmurod",
+        "evidence_extracted": "98903622821\nAnnotatsiya: Ushbu maqolada Uchko'prik tumanidagi ayrim qishloqlar va ularning shevasi,\nBegmurod qishlog‘i shevasidan to‘plangan ayrim lug‘atlar, ularning leksik, morfologik, fonetik\nxususiyatlari haqida ma’lumotlar berib o‘tilgan.\nKalit so‘zlar: Sheva, lug‘at, Uchko'prik, Begmurod, dialektizm, so‘zlarning morfologik, fonetik,\nleksik tabiati.\nAnnotation: this article provides information about some villages in Uchko'prik district an",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "10 ta izohli birlik",
+      "10 ta gapdagi misol"
+    ],
+    "unresolved": [
+      "uyqozon/uyquzun",
+      "paynobning suv yo‘nalishi",
+      "charqi shakli va hajmi"
+    ]
+  },
+  {
+    "id": "fargona_unspecified_dictionary",
+    "name": "Farg‘ona belgisidagi, tumani ko‘rsatilmagan lug‘at qatlami",
+    "scope": "F8 lug‘at va kirish qaydlari; aniq joy va zamonaviy faollik har doim berilmagan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 2,
+        "printed_page": 2,
+        "anchor_extracted": "illyustrativ",
+        "evidence_extracted": "ngan va\nizohlangan; izohlarga badiiy, ilmiy, publitsistik asarlar, xalq og‘zaki ijodi namunalaridan illyustrativ mi-\nsollar keltirilgan. Kirish maqolasida jamlangan birliklarning zamonaviy lingvistik yondashuvlar asosida-\ngi tadqiqi amalga oshirilgan va shevaga xos birliklar asosida nomlash tamoyillari tahlil qilingan. Kitob\nfilologiya fakultetlari talabalari, tilshunoslik sohalari mutaxassislari, shuningdek, o‘zbek tili targ‘iboti bilan\nshug‘ullan",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 81,
+        "printed_page": 81,
+        "anchor_extracted": "BUVI",
+        "evidence_extracted": "jigaring so‘xta\nbo‘libdir, Nasling shajarasi butrashga tushdi. (Omon Matjon, Turg‘unlik\nyillari).\n  BUVI (Farg‘ona) Ona. Akmal Katta hovliga qaytarkan buvisiga ko‘zi\ntushdi. – Buvi, nima gap? Moshin ko‘rinmaydi? Tolib qayoqqa ketdi? –\ndedi u xovliqib. (Adham Damin, Hayot va o‘lim).\n  BUVRIL Burul; xoldor, ko‘kish otning tusi va shu tusdagi ot. – Hey,\nmardi maydon! Go‘dakniyam urasanmi, meni qamchila­sang bo‘lmaydimi!\n\n\n\n                    ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "12 ta lug‘at maqolasi",
+      "7 ta kirishdagi lokal birlik",
+      "badiiy illyustratsiyalar"
+    ],
+    "unresolved": [
+      "viloyat/vodiy miqyosi",
+      "hozirgi qo‘llanish tezligi"
+    ]
+  },
+  {
+    "id": "qipchoq_and_harmonic_rural",
+    "name": "Qipchoq va singarmonizmli qishloq qatlamlari",
+    "scope": "Farg‘onada mavjudligi tasniflarda ko‘rsatiladi; barcha qishloqlar shu tipda deyilmaydi.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 84,
+        "printed_page": 83,
+        "anchor_extracted": "Fargona,",
+        "evidence_extracted": "a  dalildir.  Haqiqatan ham, qipchoq\nlahjasining vakillari Toshkent viloyatining Ohangaron vodiysi, Fargona,\nAndijon  viloyatlarida ham  yashaydilar.  Sirdaryo, Samarqand, Buxoro,\nQashqadaryo, Surxondaryo va Xorazm viloyatlari aholisining ko‘pchilik\nqismi ham qipchoq  lahjasining  vakillaridir. Bugina emas, o'zbek   tili\n\nqipchoq   lahjasining  shevalari  Qozog'iston,  Qirg‘iziston,  Tojikiston\nrespublikalari territoriyasida ham  bor.\n    0‘zbe",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 81,
+        "printed_page": 80,
+        "anchor_extracted": "singarmonizmli",
+        "evidence_extracted": "4. Andijon-Shahrixon. 4-A.\nChortoq  yoki  umlautli  shevalar.  5.Qo‘qon,  Andijon,  Norin  qishloq\n singarmonizmli   shevalari.   6.  Shimoliy  o‘zbek  shahar  (Chimkent,\n Turkiston)shevalari.7. Shimoliy o‘zbek qishloq (Mankent) shevalari.\n      2. 0 ‘g‘uz lahjasi. U 2 tipdagi shevaiarni o‘z ichiga oladi:  1. Janubiy\nXorazm (Xiva, Yangi Urganch, Shovot, G‘azavot, Xazorasp, Yangiariq)\n shevalari.\n      3. Shimoliy o‘g‘uz guruh (Iqon, Qorabuioq) sheval",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "usable_basis": [
+      "bir viloyatda bir nechta til qatlami borligi"
+    ],
+    "unresolved": [
+      "aniq qishloq–variant xaritasi",
+      "j-lashgan nutqning hozirgi yozuv va audio korpusi"
+    ]
+  }
+]

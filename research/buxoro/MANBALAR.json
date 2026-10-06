@@ -1,0 +1,262 @@
+{
+  "uploaded_sources": [
+    {
+      "id": "B1",
+      "pdf_path": "/workspace/attachments/1a8de15f-6391-40af-a247-ef822bea9fdb/1669004830.pdf",
+      "pages": 80,
+      "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe",
+      "characters": 181382,
+      "title": "O‘zbek dialektologiyasi",
+      "author": "Ashirboev Samixon",
+      "year": 2011,
+      "institution": "Nizomiy nomidagi Toshkent davlat pedagogika universiteti",
+      "read_pages": [
+        1,
+        2,
+        19,
+        20,
+        21,
+        22,
+        35,
+        36
+      ],
+      "context_reviewed_pages": [
+        6,
+        9,
+        10,
+        30,
+        31,
+        32,
+        76
+      ],
+      "visual_pages": [
+        19,
+        20,
+        22
+      ],
+      "scope": "Metodik qo‘llanma; hududiy tasnif va tegishli morfologiya o‘qildi. Avvalgi 2016-yilgi darslikning aynan bir fayli emas; bir muallifning qayta ishlangan umumiy bayonlari mustaqil dala kuzatuvi deb hisoblanmaydi.",
+      "text_path": "/workspace/research/buxoro/B1.txt"
+    },
+    {
+      "id": "B2",
+      "pdf_path": "/workspace/attachments/7c845bfe-ba2b-4b0b-b378-ac59d9e89b8a/1740379786.pdf",
+      "pages": 97,
+      "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+      "characters": 96,
+      "title": "O‘zbek shevashunosligi",
+      "year": 2012,
+      "authors": [
+        "T. J. Enazarov",
+        "V. A. Karimjonova",
+        "M. S. Enazarova",
+        "Sh. S. Mahmadiyev",
+        "K. G‘. Rixsiyeva"
+      ],
+      "publisher": "Universitet, Toshkent",
+      "same_as_samarqand_source": "M5",
+      "read_pages": [
+        11,
+        20,
+        29,
+        39,
+        40,
+        75,
+        82
+      ],
+      "visual_pages": [
+        11,
+        20,
+        29,
+        39,
+        75,
+        82
+      ],
+      "context_reviewed_pages": [
+        13,
+        14,
+        15,
+        16,
+        18
+      ],
+      "ocr_text_path": "/workspace/research/buxoro/B2_ocr.txt",
+      "scope": "Samarqand M5 bilan SHA-256 aynan teng; oldingi OCR qayta ishlatildi. Ko‘p PDF sahifalarida ikkita bosma sahifa bor. Kitob to‘liq o‘qilgan yoki OCR to‘liq qo‘lda tuzatilgan emas.",
+      "text_path": "/workspace/research/buxoro/B2.txt"
+    },
+    {
+      "id": "B3",
+      "pdf_path": "/workspace/attachments/f73281b9-6f80-4cfd-96b3-a0dc3084e0f9/118-121.pdf",
+      "pages": 4,
+      "sha256": "a74f7b921ee1c3d151b823ab866bc81b6c62485f4a107893861262e26276e08a",
+      "characters": 8646,
+      "title": "Buxoro shevalarida morfonologik o‘zgarishlar",
+      "author": "Asatullayeva Dilnavoz Jondullayevna",
+      "doi": "10.5281/zenodo.15243844",
+      "year": null,
+      "year_note": "Yuborilgan to‘rt sahifada nashr sanasi aniq ko‘rsatilmagan.",
+      "venue": "O‘zbek filologiyasi: muammo va yechimlar respublika ilmiy-amaliy anjumani",
+      "read_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_pages": [
+        2,
+        3
+      ],
+      "printed_pages": [
+        118,
+        119,
+        120,
+        121
+      ],
+      "scope": "Maqola to‘liq o‘qildi. Sarlavha/annotatsiya qarluqni ko‘rsatadi, asosiy matn o‘g‘uz misollariga ham o‘tadi; ikki qatlam ajratildi.",
+      "text_path": "/workspace/research/buxoro/B3.txt"
+    },
+    {
+      "id": "B4",
+      "pdf_path": "/workspace/attachments/85381d0d-524c-4204-ad15-234a9faca5b4/311ef076-a0a7-4566-832a-0f05b84b1262.pdf",
+      "pages": 69,
+      "sha256": "ccd4a3eaba30ef41bb874b800fa7de30da4de631ba5605a65c7609aec18e56cc",
+      "characters": 206902,
+      "title": "Buxoro o‘g‘uz shevalarining til xususiyatlari",
+      "author": "Allaberdiyev Alijon Avezberdiyevich",
+      "year": 2025,
+      "city": "Qarshi",
+      "document_type": "Filologiya fanlari doktori (DSc) dissertatsiyasi avtoreferati",
+      "research_institution": "Navoiy davlat universiteti",
+      "read_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "context_reviewed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_pages": [
+        20,
+        25,
+        29
+      ],
+      "fieldwork_years": [
+        2005,
+        2023
+      ],
+      "fieldwork_districts": [
+        "Qorako‘l",
+        "Olot",
+        "Jondor",
+        "Romitan",
+        "Peshku",
+        "Shofirkon",
+        "Kogon",
+        "Buxoro"
+      ],
+      "scope": "O‘zbekcha kirish, asosiy mazmun va xulosalar 5–30 to‘liq o‘qildi; ruscha 31–60 va inglizcha qismlar to‘liq qayta o‘qilmadi. Yuborilgan 69 sahifali avtoreferat 269 sahifali dissertatsiyaning o‘zi emas; unda aytilgan 1500 ga yaqin so‘zli lug‘at to‘liq ilova sifatida mavjud emas.",
+      "text_path": "/workspace/research/buxoro/B4.txt"
+    },
+    {
+      "id": "B5",
+      "pdf_path": "/workspace/attachments/e0b72abc-9d7e-4348-aeb9-7ef593cde7c6/111.pdf",
+      "pages": 2,
+      "sha256": "52209bb65dc903fa585d3cee43e470ebc0e542349f7e660a472f74f92d263df4",
+      "characters": 7375,
+      "title": "Buxoro shevasiga oid dialektizmlar tahlili",
+      "year": 2023,
+      "authors": [
+        "Xudoyberdiyeva Gulmira Allaberdi qizi",
+        "Abdurahmonova Gulorom Iskandar qizi"
+      ],
+      "venue": "Modern Science and Research, 2-jild, 4-son",
+      "doi": "10.5281/zenodo.7878010",
+      "read_pages": [
+        1,
+        2
+      ],
+      "visual_pages": [
+        2
+      ],
+      "printed_pages": [
+        677,
+        678
+      ],
+      "scope": "Maqola to‘liq o‘qildi; tanlangan birliklari avval yuborilgan 1971-yilgi lug‘at bilan qiyoslandi. Matndagi muallif telefon raqamlari bilim bazasiga kiritilmadi.",
+      "text_path": "/workspace/research/buxoro/B5.txt"
+    }
+  ],
+  "supplementary_sources": [
+    {
+      "id": "E1",
+      "title": "O‘zbek xalq shevalari lug‘ati",
+      "editor": "Sh. Sh. Shoabdurahmonov",
+      "year": 1971,
+      "publisher": "Fan, Toshkent",
+      "pdf_path": "/workspace/attachments/a3a82354-817b-48d5-9018-fa152b5a9f3f/Ўзбек халқ шевалари луғати.pdf",
+      "text_path": "/workspace/research/qashqadaryo/Q4.txt",
+      "pages": 410,
+      "sha256": "647b3c71480c78099dac407887e41825828126c02858d7e9b4ed672ff3b07f3c",
+      "role": "Avval yuborilgan Qashqadaryo Q4; B5 ning lug‘aviy da’volarini tekshirish uchun qo‘shimcha manba.",
+      "entries_reviewed_on_pages": [
+        17,
+        29,
+        35,
+        41,
+        43,
+        62,
+        75,
+        78,
+        109,
+        137,
+        166,
+        175,
+        207,
+        224,
+        229,
+        246,
+        269,
+        271,
+        272,
+        275,
+        281
+      ],
+      "visual_pages": [
+        41,
+        62,
+        75,
+        78,
+        109,
+        137,
+        229,
+        271,
+        281
+      ],
+      "scope": "Tanlangan lug‘aviy maqolalar o‘qildi; ro‘yxatdagi har bir sahifaning barcha maqolalari to‘liq o‘qilgan emas."
+    }
+  ]
+}

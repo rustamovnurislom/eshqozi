@@ -1,0 +1,186 @@
+[
+  {
+    "id": "AP1",
+    "region": "Andijon shahar–Shahrixon guruhi",
+    "summary": "Qarluq-chigil-uyg‘ur lahjasining Farg‘ona guruhida berilgan.",
+    "source_refs": [
+      {
+        "source": "A1",
+        "pdf_page": 36,
+        "printed_pages": [
+          36
+        ],
+        "anchor_extracted": "2. Andijon-Shahrixon dialekti",
+        "evidence_extracted": "yaqinligi  bilan  xarakterlanadi.\n    2. Andijon-Shahrixon dialekti. Bu dialektga Andijon shahar shevasi,\n Shahrixon  shevasi va Andijon  viloyatidagi boshqa  bir qator shevalar\n kiradi.\n    3. O’sh-O’zgan dialekti. Bunga O’sh, O’zgan, Jalolobod   va   shu\ntipdagi  boshqa  shevalar  taalluqli  bo’lib,  ular uchun janubiy  qirg’iz\nshevalari  bilan bo’lgan  metisatsiya  xarakterlidir.",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A2",
+        "pdf_page": 34,
+        "printed_pages": [
+          34
+        ],
+        "anchor_extracted": "Andijon-Shahrixon",
+        "evidence_extracted": "V.V.Reshetov tasnifida qorluq - chigil-uyg’ur lahjasi quyidagi guruhga bo’lingan.\nFarg’ona  guruhi: Namangan  dialekti;  Andijon-Shahrixon  dialekti; O’sh-O’zgan\ndialekti; Marg’ilon - Qo’qon dialekti.\nToshkent guruhi: Toshkent dialekti; Jizzax dialekti.\nQarshi guruhi: Qarshi dialekti; Samarqand-Buxoro dialekti\n-Shimoliy o’zbek guruhi: Iqon - Qorabuloq dialekti; Turkiston-Chimkent dialekti.\n Nazorat topshiriqlari",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Tasnif butun viloyatni bir xil qilmaydi. O‘sh–O‘zgan alohida guruh sifatida ham beriladi."
+  },
+  {
+    "id": "AP2",
+    "region": "Dardoq qishlog‘i",
+    "summary": "Cho‘ziqlik, eliziya/sinerezis misollari, shaxs sifati so‘zlari va obrazli birikmalar.",
+    "source_refs": [
+      {
+        "source": "A3",
+        "pdf_page": 75,
+        "printed_pages": [
+          75
+        ],
+        "anchor_extracted": "Dardoq qishlog‘i",
+        "evidence_extracted": "ba’zan o‘ta cho‘ziq unlilar hosil bo‘ladi. Cho‘ziqlikning bu turda hosil bo‘lishi\nandijon shevasida juda ko‘p uchraydi. Dardoq qishlog‘i shevasida Ā: ä: unlila­\nrini ko‘p uchratamiz. Qä:dä (qayerda), mä:da (mana bu yerda), mā: (mana\nbu), mānā: (manavi), qïpqä:man (qilib qo‘yaman), jāzā:raman (yozaveraman),\nä:štä (o‘shada), ā:rijäppä (og‘riyapman), do::rmä (deyaverma), bu:m (buvim),\nbunä: (bunaqa), ene: (keyin), to:rïsï (to‘g‘risi), āpā:dädä (opoqdada, bobo),\nqäjmä: (qaymoq), särjä: (saryog‘), qïšlä: (qishloq), e::tämätändä (ertalabda),",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A3",
+        "pdf_page": 170,
+        "printed_pages": [
+          170
+        ],
+        "anchor_extracted": "Dardoq qishlog‘i",
+        "evidence_extracted": "ta, o‘tin). 2. Quruq dashtlarga moslashgan, gullari sarg‘ish, ozuqabop va\nshifobaxsh o‘simlik nomi. Dardoq qishlog‘i leksikasida o‘zi kichkina bo‘lsa\nham hamma ishni qila oladigan chaqqon, chapdast insonga nisbatan čajïr\\\nchayir degan so‘z qo‘llaniladi. Ma’lumot sifatida shuni aytib o‘tmoqchimizki,\njelovchi Qashqadaryo shevasida bunday sifatga ega odamlarga nisbatan ga­\n\n                               170",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Muayyan tuman dalilsiz tayinlanmadi; so‘zlovchilar, audio va yosh kesimidagi to‘liq taqsimot yo‘q."
+  },
+  {
+    "id": "AP3",
+    "region": "Janubi-sharqiy Andijon",
+    "summary": "Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa oziq-ovqat, marosim va uy-ro‘zg‘or leksikasi.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 327,
+        "printed_pages": [
+          327
+        ],
+        "anchor_extracted": "Andijon viloyatining Jalaquduq",
+        "evidence_extracted": "\n1 Andijon viloyatining Jalaquduq, Xo‘jaobod, Qo‘rg‘ontepa hududlari\n                                         327",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Har birlik uch tuman va har qishloqda bir xil qo‘llanadi degan da’vo emas."
+  },
+  {
+    "id": "AP4",
+    "region": "Shahrixon, Segaza",
+    "summary": "Sövzï, sövdogar, Shövkat, Rövshan singari shakllar.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 477,
+        "printed_pages": [
+          477
+        ],
+        "anchor_extracted": "Segaza",
+        "evidence_extracted": "     Bunday kontiniumlar Andijon viloyatida yuzlab songa ega. Shulardan biri Shahrixon tumani\nSegaza  qishlog‘i  shevasi  sanaladi.  Qishloq  aholisi  tilida  ayrim  so‘zlar  tarkibidagi  unli\ntovushlarning qo‘llanishi bilan bog‘liq farqli jihatlar uchraydi.\n     Adabiy  til ko‘rinishidagi sabzi so‘zi sövzï tarzida, xuddi shunday savdogar, Shavkat,\nRavshan kabi so‘zlarda ham birinchi bo‘g‘in oldi qator a unlisi orqa qator lablangan yumshoq ö\nunlisi bilan aytiladi: sövdogar, Shövkat, Rövshan. Shuningdek, ba’zi so‘zlardagi orqa qator\nlablangan (ayrim manbalarda oraliq) o unlisi orqa qator lablanmagan a keng unlisiga almashib",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Unli qatori haqidagi muallif terminlari chalkash bo‘lishi mumkin; shahar Shahrixonning barcha nutqiga tatbiq qilinmaydi."
+  },
+  {
+    "id": "AP5",
+    "region": "Izboskan, Gurkirov MFY",
+    "summary": "Tag‘a, yang‘aq, bala shakllari qayd etilgan.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 477,
+        "printed_pages": [
+          477
+        ],
+        "anchor_extracted": "Gurkirov",
+        "evidence_extracted": "qo‘llanadi: dağ suv, bağ(x)cha, balish, arqa taraf kabi.\n     Izboskan tuman Gurkirov MFY aholisi so‘zlashuv nutqida ham o unlisi o‘rnida a unlisining\nalmashib qo‘llanish holati uchraydi: tog‘a (tag‘a), yong‘oq (yang‘aq), bola (bala) kabi.\n         Fokus nuqtadan farqli o‘laroq, boshqa dialektlarda deyarli uchramaydigan, yuqori tor\nunli fonemasi ham ayrim so‘zlarda o‘ziga xos tarzda talaffuz  etiladi:  ikki, ikkiqat, ikkichi\nso‘zlaridagi birinchi bo‘g‘in i unlisi o‘rta keng lablanmagan e unlisi tarkibiga singib orqa qator\nqattiq ı unlisiga moyilroq talaffuz etiladi. Hududning Andijon shahar shevasidan farqli ravishda",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Izboskanning hammasi shu talaffuzda so‘zlashadi degan dalil emas."
+  },
+  {
+    "id": "AP6",
+    "region": "Baliqchi va ayrim qipchoq qishloqlari",
+    "summary": "-di kelishik shakllari, xo‘pitmoq/hayat/malda, turli darajadagi j-lashish qaydlari.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 478,
+        "printed_pages": [
+          478
+        ],
+        "anchor_extracted": "akamdi kitobi",
+        "evidence_extracted": "kelishik qo‘shimchalarning qo‘llanishi bilan bog‘liq farqlar mavjud. Masalan, tushum va qaratqich\nkelishigi shakllari ko‘pincha -di tarzida aytiladi: akamdi kitobi, guldi uzmoq kabi.\n      Ko‘rsatish olmoshlari hamda kompozitsion usuldagi qo‘shma ravishlarning iste’molda\nbo‘lishi   ularni areal jihatdan farqlab ko‘rsatadi. Jumladan, mana (ana) shu yer(-ga, -da, -\ndan)//mashet, mashek(t)-ka, ta, -tan, asherga, ashetta (-tan)\n      Baliqchi shevasida: bu (shu) yer (-da, -ga)//bayda, bayga, shayda, shetka.\n     Xo‘jobod, Jalaquduq, Qo‘rg‘ontepa hududlari shevasida: u(bu) yoq, mana(ana) shu//uyaq,",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A7",
+        "pdf_page": 33,
+        "printed_pages": [
+          33
+        ],
+        "anchor_extracted": "Sizada “dj”lashish",
+        "evidence_extracted": "Guliston, Siza qishloqlarida qipchoq lahjasida so‘zlashuvchi aholi istiqomat qiladi. Olimbek,\nO‘rmonbek, Orolxonga nisbatan Sizada “dj”lashish zaifroq, chunki mazkur qishloq shaharga\nnisbatan yaqin masofada joylashgan va o‘rtada “y”lovchi Chinobod qishlog‘i bor.\n     Chiqib o‘rnida [çɪg‘ɪp]; ena [inə]; ota [ata] deyuvchilar asosan shu tumanga joylashgan.\n    Bu kabi qipchoq lahjasida so‘zlashuvchi aholini tumandagi Yettiqashqa, Tovuldi, Sirmoq,\nO‘lmas,   Katta  o‘lmas,  Kichik  o‘lmas, Puchug‘oy,  Oqtikon, Tumor; Izboskan tumanida\nQipchoqovul,  Qipchoqqo‘rg‘on,  Chang‘aroqchi, Puchug‘oy,  Bo‘g‘och,  Tuyachi,  Elatan,",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Tumanda y-lovchi Chinobod ham eslatilgan; butun Baliqchi bir xil j-lovchi deb olinmaydi."
+  },
+  {
+    "id": "AP7",
+    "region": "Andijon tumanidagi qoraqalpoq kelib chiqishli aholi",
+    "summary": "Mahalliy maqolada j-lashish, mag‘an/sag‘an, davom zamon va aniq glossli birliklar.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 472,
+        "printed_pages": [
+          472
+        ],
+        "anchor_extracted": "Andijon tumanidagi",
+        "evidence_extracted": "\n     Annotatsiya. Ushbu maqolada Andijon viloyatining Andijon tumanidagi asli kelib chiqishi\nqoraqalpoq bo‘lgan xalq vakillarining til xususiyatlari, fonetik, leksik jihatdan farqli belgilari\nto‘g‘rsida fikr yuritildi.\n      Kalit so‘zlar: dialektlar, leksemalar, adabiy til, etnografiya, urf­odat, sheva, leksema,fonetik\nfarq, leksik farq, morfologik farq.\n",
+        "extraction": "pdf_text"
+      },
+      {
+        "source": "A7",
+        "pdf_page": 473,
+        "printed_pages": [
+          473
+        ],
+        "anchor_extracted": "mag‘an (menga)",
+        "evidence_extracted": "      1) u, bu, shu olmoshlari qadimgi turkiy tildagidek ul, bul, shul tarzida talaffuz qilinadi;\n      2) jo‘nalish kelishigidagi kelishik olmoshlari quyidagicha qo‘llaniladi: mag‘an (menga),\nsag‘an (senga), ug‘an (unga) kabi;\n      3) aniq hozirgi zamon fe`li ­jatirG‘­jätïr va ba‘zan ­vätïr kabi qo‘shimchalar bilan hosil\nqilinadi: keläjätïr, kelävätïr, kepjätïr kabi.\n      4) kelasi zamon sifatdoshi ­tianG‘­tïgän kabi qo‘shimchalar bilan yasaladi: jazatig‘an,\nkelätïgan kabi.",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "Andijon shahar shevasi yoki standart qoraqalpoq tili bilan aynan tenglashtirilmaydi. Qishloqlar ro‘yxati misollarni alohida taqsimlamaydi."
+  },
+  {
+    "id": "AP8",
+    "region": "Chegara hududlari va til kontaktlari",
+    "summary": "Qirg‘iz va uyg‘ur unsurlari, ichki etnik qatlamlar haqida hududiy sharh.",
+    "source_refs": [
+      {
+        "source": "A7",
+        "pdf_page": 33,
+        "printed_pages": [
+          33
+        ],
+        "anchor_extracted": "Qirg‘iziston bilan chegaradosh",
+        "evidence_extracted": "     Andijon  viloyatining  Marhamat,  Buloqboshi,  Xo‘jaobod,  Jalolquduq,  Qo‘rg‘ontepa,\nPaxtaobod, Izboskan kabi tumanlarning Qirg‘iziston bilan chegaradosh qishloqlarida ham qirg‘iz\ntili unsurlarini ishlatish kuzatiladi Bu holat Andijon dialekti masalasiga yangicha yondashuvni\ntalab qiladi.\n      Prof. S.Ashirboyevning  fikricha: “Til zonalarini belgilashda muayyan  tilning xalqaro\nijtimoiy-siyosiy mavqeyi, madaniy va geografik joylashuvi muhim rol o‘ynaydi, bunda muayyan\ntil atrof tillar hududida yoki dunyo bo‘ylab keng hududlarda tarqaladi. Bu til tarqalgan hudud o‘sha",
+        "extraction": "pdf_text"
+      }
+    ],
+    "limit": "O‘sh/Jaloloboddagi et, og‘ay, opay singari misollar Andijonning barcha aholisi nutqi qilib olinmadi; etnik mansublikdan yakka shaxs nutqi taxmin qilinmaydi."
+  }
+]

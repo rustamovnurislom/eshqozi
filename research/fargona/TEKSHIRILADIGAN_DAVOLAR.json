@@ -1,0 +1,474 @@
+[
+  {
+    "id": "FT001",
+    "claim": "Farg‘ona viloyati va Farg‘ona guruhi teng emas",
+    "analysis_uz": "F1 tasnifida Namangan, Andijon-Shahrixon, O‘sh-O‘zgan va Marg‘ilon-Qo‘qon bir katta guruhning alohida dialektlari. Viloyat nomi bilan barchasini birlashtirish noto‘g‘ri.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 86,
+        "printed_page": 85,
+        "anchor_extracted": "I. Farg‘ona guruhi",
+        "evidence_extracted": "ta  diaiekt\nkompleksini  tashkil  etadi.  Bu  lahjani  tubandagi  guruhlarga  boiish\nmumkin:\n       I. Farg‘ona guruhi. U bir necha dialektlami o‘z ichiga oladi:\n\n      1. Namangan dialekti. Bu dialektga Namangan shahar shevasi va\nshahar  tipidagi  Namangan  atrofidagi  shevalar  (masalan,  Uychi  va\nboshqalar) taalluqlidir (Namangan atrofidagi qipchoq shevalari, tabiiyki,\nbu dialektga kirmaydi.).\n    Mazkur  dialektga  oid  shevalar  uyg‘ur  tiliga  mak",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 87,
+        "printed_page": 86,
+        "anchor_extracted": "Marg‘ilon-Qo‘qon",
+        "evidence_extracted": "i  boiib,  ular  uchun  janubiy  qirg‘iz\nshevalari bilan bo'lgan metisatsiya xarakterlidir.\n     4. Marg‘ilon-Qo‘qon  dialekti. Bu  dialektga  Marg‘ilon,  Farg‘ona,\nVodil, Qo‘qon va boshqa shu tipdagi shevaiar kiradi.\n     II. Toshkent guruhi.\n     1.  Toshkent  dialekti. Bunga  Toshkent  shahar  shevasi,  Toshkent\nviloyatidagi  qipchoq  shevalaridan  boshqa  shahar  tipidagi  shevaiar,\nmasalan, Piskent, Parkent, Qoraxitoy va boshqalar taalluqlidir.\n  ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT002",
+    "claim": "F4 reduksiya ta’rifi",
+    "analysis_uz": "Undoshlarning o‘rin almashinuvi deb berilgan ta’rif metatezaga tegishli; reduksiya unlining kuchsizlanishi/qisqarishi bilan bog‘liq. Ta’rif va misollar ajratiladi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "3. Reduksiya",
+        "evidence_extracted": "yra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undoshlarning\noʻrin almashinuvi): Ma'ruf-Mar(i)p, Sharif-Šar(i)p, kishi-kiš(i), ishni-išt(i), bitta-\nb(i)tta soʻzlarini misol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshla",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT003",
+    "claim": "F4 dissimilatsiya ta’rifi",
+    "analysis_uz": "Boshqa tovush ta’sirisiz variantga ega bo‘lish deyilgan; bu dissimilatsiyaning standart ta’rifi emas. Guruhdagi zarar–zaral, qimmat–qiymat va devor–düvâl bir xil jarayon sifatida qabul qilinmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "4. Dissimilatsiya",
+        "evidence_extracted": "sol qilib olishimiz mumkin. Fargʻona (Oltiariq) shevalarida bu\nhodisa nisbatan kam uchraydi.\n       4. Dissimilatsiya hodisasi uchraydi (ya'ni, soʻz tarkibidagi undoshlarning\nboshqa tovush  taʼsirisiz tovush variantiga ega boʻlishi): devor-düvâl, koridor-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "qimmat-qiymat",
+        "evidence_extracted": "kalidâr, zarar-zaral,anjir-anjil, qimmat-qiymat soʻzlari.\n 5. Eliziya hodisasi uchraydi. Bu hodisa tovush tushishi boʻlib, ikki koʻrinishga ega:\n a) ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaral",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT004",
+    "claim": "F4 q/g‘ nomi va y grafemasi",
+    "analysis_uz": "Bosma sahifa ham ko‘rildi; grafema oddiy yga o‘xshaydi. Q/g‘ sarlavhasi va transkripsiya o‘rtasidagi farq ochiq qoldirildi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "qishloq-qišlây",
+        "evidence_extracted": "teg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumloq-qümlây,  qurumsoq-qurumsây,\ntoshloq-tâšlây.\n       3.  Soʻz  boshida   t/č  ga  almashishi:  tush-čuš,  tish-čiš,  tushdi-",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT005",
+    "claim": "F4 ko‘lmak variantlari va taqalmoq jufti",
+    "analysis_uz": "Kølmeg/kølmag farqi hamda taqalmoq-taxakmâq juftida ortiqcha k ehtimoli mavjud. Xato deb indamay tuzatilmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "taqalmoq-taxakmâq",
+        "evidence_extracted": "tøxsan,\nqirq-qirx, maqsad-maxsat, yoʻqchilik-yøxčilik, aqcha-axča, taqchil-taxčil, taqdim-\ntaxdım,  taqalmoq-taxakmâq,  taqachi-taxači,  maqbul-maxbul,  maqsud-maxsut,\nmaqtanchoq-maxtančâq, maqtov-maxtov, toʻqmoq-tøxmâq soʻzlarini misol qilib\nolishimiz mumkin.\n       6. Ayrim holatlarda soʻz oʻrtasida x/q ga almashishi mumkin: tuxum-tuqum,\ntuxumbarak-tuqumbaräk, tuxumsimon-tuqimsimân.\n      Fargʻona (Oltiariq) guruhi shevalarida quyidagi fonetik oʻzgari",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "kølmeg",
+        "evidence_extracted": "ak-bøleg, terak- tereg, kerak-kereg, bilak-\nbileg, qandak- qanteg, kurak-kureg, erkak-erkeg, koʻlmakkølmeg, ertak-erteg, ertak-\neteg, koʻkrak-køkreg, suyak-suyeg kabi.\n 2. Soʻz oxirida q/gʻ ga almashishi kuzatiladi: qishloq-qišlây, qandoq-qandây,\nbundoq-bundây,  andoq-andây,   baliq-baliy,   qulluq-qulluy,  qarmoq-qarmây,\ntoʻqmoq-tøqmây, urmoq-ürmây, qadoq- qadây, oshiq-âšiy, tomoq-tâmây, buloq-\nbülây,  pichoqpičây,  oʻyinchoq-øyinčây,  qumlo",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "kølmag",
+        "evidence_extracted": "k-bøleg, terak -\ntereg, kerak-kereg, bilak-bileg, qandak-qanteg, kurak-kureg, suyak-suyeg, koʻlmak\n-kølmag, etak-eteg, ertak-erteg, erkak -erkeg, koʻkrak-køkreg singari soʻzlarini\nmisol qilib keltirish mumkin.\n     Xulosa sifatida aytish mumkinki, Fargʻona (Oltiariq) guruhi shevalarida\nqarluq lahjasiga xos fonetik oʻzgarishlarning deyarli barcha turlari uchraydi. Ba’zi\no‘rinlarda esa Fargʻona (Oltiariq) guruhi shevalarida fonetik jarayonlarni",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT006",
+    "claim": "F5 nonpar va rapida",
+    "analysis_uz": "F5 ikkalasini tandirga non yopish moslamasi sifatida bir qatorga qo‘ygan. F8 nonparni non yuziga bezak beradigan buyumlar qatorida keltiradi. F2 nonper/nomperni patdan yasalgan chekichga muqobil buyum sifatida izohlaydi. Nonpar/nonper imlo yoki areal farqi ham tekshirilishi kerak; vazifalar avtomatik birlashtirilmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Nonpar",
+        "evidence_extracted": " Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopish  Rapida, Nonpar        Yastiq, Rapida         Rapida\n     moslamasi\n     Jadval 2. Pazandachilik va maishiy leksika muqobillari.\n    Ushbu guruhda oʻzaro farqlanish darajasi juda qiziqarli manzarani yuzaga keltirishi\nma'lum bo'ldi. Masalan, Xorazm shevasidagi chovrek (non) soʻzi sof turkiy-oʻgʻuzcha\nxarakterga ega boʻlib, turkman tilidagi çörek soʻzi bi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 28,
+        "printed_page": 28,
+        "anchor_extracted": "nonpar",
+        "evidence_extracted": "ato­riga\nqo‘shamiz. Moddiy madaniyat predmetlarini ifodalovchi chakich, duki\n(Iqon), tikach (Xor.), nonpar kabilar ham umummilliy realiyalar, chunki\nnon pishirishda nonning ustiga bezak beradigan uy-ro‘zg‘or buyumi turli\nnomda bo‘lsa-da, hamma shevalarimizda bor.\n   Faqat ma’lum sheva jamoasi uchun xos va boshqa shevalarda uchra-\nmaydigan dialektal realiyalar sifatida Iqon madaniyatiga xos kuyovta:la-\n\n\n\n                                      ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_extracted": "Nonper- patdan",
+        "evidence_extracted": "rinadi. Lekin bu ikki predmet vazifa jihatdan o’xshash\nbo’lsada, shakl jihatdan boshqa – boshqadir. Nonper- patdan  yasaladi, chekich\nyog’och  va simdan  yasaladi.  Keyinchalik  nonper  so’zi yog’ochga sim qadab\nyasalganpredmetga nisbatan ham qo’llanadi.\n  O’zbek shevalarida shunday so’zlar ham borki, shakl jihatdan bir xil bo’lsa-da\nshevalararo boshqa - boshqa ma’nolarni anglatadi.\n              Toshkent - aravaning qismi\nShet\n               Farg’on",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT007",
+    "claim": "F5 qiyosiy jadvaldagi mutlaq sinonimlik",
+    "analysis_uz": "Dalan/supa/ayvon, qovurdoq/jizza, patir/yupqa/qatlama bir guruhda berilgan. Bu o‘xshash mavzu bo‘lishi mumkin, lekin predmet, retsept yoki funksiya aynan bir ekanini isbotlamaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Jizza",
+        "evidence_extracted": "a\n                               Qatlama           Yupqa\n 2.   Qovurilgan yoki dimlangan  Qovurdoq, Jizza      Qovurdoq, Sho‘rkabob  Qovurdoq\n      goʻsht\n 3.  Suyuq osh (Mosh bilan)      Moshxoʻrda,         Moshova, Moʻshshaba  Moshxoʻrda\n                             Moshaba\n 4.   Oshpazlik pichogʻi           Pichoq, Oshpichoq    Biçaq (Bichaq)         Pichoq\n 5.  Qozonni       tozalaydigan  Qozonqirgʻich,       Qozonqirqish           Qozon",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Dalan",
+        "evidence_extracted": "   Fargʻona provinsiyasida  Xorazm provinsiyasida  Adabiy tilda\n  1.   Hovlidagi eshik oldi ayvoni  Dalan, Supa, Ayvon       Dalan, Taloq, Guldasta   Ayvon / Supa\n\n\n                                             28",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT008",
+    "claim": "F5 lokal yangi birliklar va etimologiya",
+    "analysis_uz": "Lopqa, Xolapo, Ammaki kabi variantlarda muayyan qishloq, respondent va yig‘ish sanasi yo‘q. Amaki/tog‘a/amma/xola haqida umumiy arabiy kelib chiqish da’vosi birlikma-bir dalillanmagan. Tamatis haqida qadimgi savdo yo‘llari izohi ham sanalangan tarixiy misollar bilan isbotlanmagan.",
+    "decision": "Farg‘ona ustunidagi birliklar muallif da’vosi sifatida; Xorazmga oid etimologiyalar bot lug‘atiga qoida sifatida qo‘shilmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "arabiy oʻzlashmalar",
+        "evidence_extracted": "tlari tizimi.\n    Fargʻona shevasida qoʻllaniladigan amaki, togʻa, amma, xola kabi birliklar asosan\narabiy oʻzlashmalar taʼsirida adabiy til normasi bilan bir xillikni tashkil etadi. Ammo Xorazm\nshevasida saqlanib qolgan dayi (onaning akasi/ukasi) va eje yoki appa (otaning opasi/singlisi)\nterminlari  toʻgʻridan-toʻgʻri qadimiy oʻgʻuz va umuman umumturkiy qatlamga  borib\ntaqaladi. Chunonchi, Mahmud Koshgʻariyning “Devonu lugʻatit turk” asarida onaning erka",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Lopqa",
+        "evidence_extracted": "     varianti                varianti             muqobili\n 1.  Pomidor (mahalliy tilda)   Pomidor, Lopqa         Tamatis, Pomidor     Pomidor\n 2.  Qovoq (oshqovoq)        Oshqovoq, Qovoq       Xayti, Palovqovoq     Oshqovoq\n 3.  Tarvuz                  Tarvuz                 Qarpiz (Qarpız)       Tarvuz\n 4.   Choʻp,   xazon,  mayda  Xazon, Paxal, Choʻp     Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      A",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "qadimgi savdo yoʻllari",
+        "evidence_extracted": "dor) soʻzi rus  tili yoki bevosita gʻarb tillari (lotincha solanum\nlycopersicum) orqali emas, balki qadimgi savdo yoʻllari va Kaspiy orti aloqalari natijasida\noʻgʻuz lahjalariga kirib kelgan ekzotik birlikdir. Fargʻonada qoʻllaniladigan lopqa soʻzi esa\npomidorning shakli va pishgan holatidagi yumshoqligiga nisbatan berilgan mahalliy ta'rif\n\n\n                                             29",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT009",
+    "claim": "F7 fonetik kategoriyalar",
+    "analysis_uz": "Yurek a/e unli almashuvi undoshlar bo‘limida; otasi/atasi juftida undosh tushmagan. Oladi/al’d misolida bosh tovush tushdi degan izoh ham shakl bilan mos emas.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 4,
+        "printed_page": 150,
+        "anchor_extracted": "yurek",
+        "evidence_extracted": "di va bu shevaga xos yumshoqlikni\n\n   namoyon etadi.\n\n    2. Undoshlarning almashuvi: yurak yurak ~ yurek “a” → “e”, so‘z ohangiga\n\n   moslashgan, ketdi ketti “d” → “t” almashuvi, bordi borti “d” → “t” almashuvi,\n\n    qilaylik → qileylik talaffuzda yengillik, otasi → atasi undosh tushib qolgan. Bu\n\n    hodisalar talaffuzdagi soddalashtirish va so‘zning og‘zaki nutqda moslashuvi\n\n    natijasida yuzaga keladi.\n\n    3. Ikki undosh orasidagi unl",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 4,
+        "printed_page": 150,
+        "anchor_extracted": "otasi → atasi",
+        "evidence_extracted": "d” → “t” almashuvi, bordi borti “d” → “t” almashuvi,\n\n    qilaylik → qileylik talaffuzda yengillik, otasi → atasi undosh tushib qolgan. Bu\n\n    hodisalar talaffuzdagi soddalashtirish va so‘zning og‘zaki nutqda moslashuvi\n\n    natijasida yuzaga keladi.\n\n    3. Ikki undosh orasidagi unlining qisqarishi yoki tushib qolishi Farg‘ona shevasida\n\n    tez nutq jarayonida ayrim unli tovushlar tushib qoladi: boladi bladi “o” tovushi\n\n    tushib qolgan, keladi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 4,
+        "printed_page": 150,
+        "anchor_extracted": "oladi al’d",
+        "evidence_extracted": "el’d “a” tovushi qisqargan, o‘ynadi o‘yn’d unli qisqargan,\n\n    bo‘ladi b‘ladi “o” tovushi tushgan, oladi al’d bosh tovush tushgan. Bu holatlar\n\n    og‘zaki nutq tezligining ta’siri ostida shakllanadi va fonetik qisqarish natijasidir.\n\n    4. So‘z oxiridagi unlining cho‘zilishi yoki yo‘qolishi: nima nimaa “a” cho‘ziladi,\n\n    qani qane “i” → “e” almashuvi, boryapti boryapt “i” tushib qolgan, nima qilay nima\n\n    qile “ay” → “e” o‘zgarishi, hozir ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT010",
+    "claim": "F7 leksik ma’nolar",
+    "analysis_uz": "Shilimshiq–yog‘och qoshiq, zag‘ora–qizib ketish, chug‘urchuq–chumchuq kabi izohlar mahalliy dalil va tekshirilgan so‘zlovchi kontekstisiz qabul qilinmaydi. Standart ma’nodan chekinishning o‘zi xato ekanini isbotlamaydi, ammo bir maqola uni faol lokal qoida qilishga yetarli emas.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "shilimshiq yog‘och qoshiq",
+        "evidence_extracted": "or: chug‘urchuq chumchuq qush nomi, tarju tovoq sopol\n\n    idish turi, qiyom sirop shakar eritmasi, shilimshiq yog‘och qoshiq leksik farq,\n\n    zag‘ora qizib ketish issiqlikdan ozor ko‘rish. Bu so‘zlar Farg‘ona aholisi o‘rtasida\n\n   avloddan-avlodga o‘tib kelgan bo‘lib, ular xalq og‘zaki ijodida, kundalik nutqda\n\n    faol ishlatiladi.\n\n    2. Sinonimlarning ko‘pligi.Ba’zi adabiy til birliklariga nisbatan Farg‘ona shevasida\n\n    bir necha sinonim mavjud:bosh kal",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "zag‘ora qizib ketish",
+        "evidence_extracted": "voq sopol\n\n    idish turi, qiyom sirop shakar eritmasi, shilimshiq yog‘och qoshiq leksik farq,\n\n    zag‘ora qizib ketish issiqlikdan ozor ko‘rish. Bu so‘zlar Farg‘ona aholisi o‘rtasida\n\n   avloddan-avlodga o‘tib kelgan bo‘lib, ular xalq og‘zaki ijodida, kundalik nutqda\n\n    faol ishlatiladi.\n\n    2. Sinonimlarning ko‘pligi.Ba’zi adabiy til birliklariga nisbatan Farg‘ona shevasida\n\n    bir necha sinonim mavjud:bosh kallam, tepa kontekstga qarab farqlanadi, ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "chug‘urchuq chumchuq",
+        "evidence_extracted": "an,  adabiy  tilda  esa  mavjud  bo‘lmagan  yoki  boshqa  ma’noda\n\n    qo‘llaniladigan so‘zlar bor: chug‘urchuq chumchuq qush nomi, tarju tovoq sopol\n\n    idish turi, qiyom sirop shakar eritmasi, shilimshiq yog‘och qoshiq leksik farq,\n\n    zag‘ora qizib ketish issiqlikdan ozor ko‘rish. Bu so‘zlar Farg‘ona aholisi o‘rtasida\n\n   avloddan-avlodga o‘tib kelgan bo‘lib, ular xalq og‘zaki ijodida, kundalik nutqda\n\n    faol ishlatiladi.\n\n    2. Sinonimlarning ko‘p",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT011",
+    "claim": "F7 qiluvdim va borvoman",
+    "analysis_uz": "Qiluvdimni qilayotgan edim deb, borvomanni borib olaman deb izohlagan. O‘tganlik/tugallanganlik, davom zamon va yordamchi fe’l ma’nosini adashtirish xavfi bor. Mustaqil paradigmatik dalil zarur.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 6,
+        "printed_page": 152,
+        "anchor_extracted": "qiluvdim",
+        "evidence_extracted": "1. Fe’llarning shaxs va zamon qo‘shimchalarida farqlanish: boridim borgan edim\n\n   qisqargan forma, qiluvdim qilayotgan edim “uv” ko‘rinishidagi qo‘shimcha,\n\n   borasizmi? borasizmi? shevada o‘xshash, qilamiza? qilamizmi? “-za”  affiksi,\n\n   ketvolaman ketib olaman “-vol” ko‘makchi qo‘llanadi. Fe’l shakllaridagi bu\n\n    o‘zgarishlar shevaga xos  bo‘lib, tezkor va og‘zaki nutqqa moslashganligini\n\n    ko‘rsatadi.\n\n    2. Qisqartma va birikkan sha",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 6,
+        "printed_page": 152,
+        "anchor_extracted": "borvoman",
+        "evidence_extracted": " tezkor va og‘zaki nutqqa moslashganligini\n\n    ko‘rsatadi.\n\n    2. Qisqartma va birikkan shakllar: borvoman borib olaman fe’l + yordamchi,\n\n   chiqvolay  chiqib  olay  harakatga  urg‘u,  ko‘ramizmi?  ko‘ramizmi?  shevada\n\n    intonatsiya farqi, olibqoyaman olib qo‘yaman “-qoy” o‘rniga “-qoy” ishlatiladi,\n\n    yuribketdi yurib ketdi birikkan  fe’l shakli. Bu holatlar Farg‘ona shevasining\n\n    og‘zaki nutqqa qulaylik yaratadigan jihatlaridan bir",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT012",
+    "claim": "F7 uje va ko‘plik",
+    "analysis_uz": "Uje allaqachon ma’nosidagi ruscha o‘zlashma, olmosh emas. -u, -(h)am birliklari ko‘plik affiksi sifatida baholanmaydi; so‘zlashuv -la shakli ham faqat Farg‘onaga xos deb e’lon qilinmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 6,
+        "printed_page": 152,
+        "anchor_extracted": "uje allaqachon",
+        "evidence_extracted": "logik\n\n    soddalashtirish orqali nutqni yengillashtiradi.\n\n    4. Olmoshlar shaklining o‘zgarishi: uje allaqachon rus tilidan o‘tgan, manga menga\n\n    talaffuzga mos, unga o‘sha kishiga o‘rin almashtirilgan, bizla bizlar “-la” orqali\n\n    ko‘plik, sizga sizga ba’zida “sizga” - “sizlarga”. Olmoshlardagi bu xususiyatlar\n\n   ham shevaning og‘zaki nutqga yaqinligini ko‘rsatadi.\n\n    5. Sifat va ravishlarning hosila shakllari: oppoqgina oppoq “-gina” – n",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 6,
+        "printed_page": 152,
+        "anchor_extracted": "bolalaru",
+        "evidence_extracted": " Ko‘plik affiksi ba’zan o‘zgaradi yoki\n\n   boshqa talaffuzda ifodalanadi: bolalar bolalar o‘xshash, bolalaru bolalar ham “-u”\n\n   yordamchi vositasi, qizlaram qizlar ham “-am” - “ham”, odamla odamlar “-lar”\n\n    o‘rniga “-la”, tovuqla tovuqlar talaffuzga moslashgan. Bu shakllar morfologik\n\n    soddalashtirish orqali nutqni yengillashtiradi.\n\n    4. Olmoshlar shaklining o‘zgarishi: uje allaqachon rus tilidan o‘tgan, manga menga\n\n    talaffuzga m",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT013",
+    "claim": "F7 arxaiklik va manba bibliografiyasi",
+    "analysis_uz": "Yigitlik/yoshlik/balog‘at arxaikligi va faqat Farg‘onaga xosligi isbotlanmagan. Manba muallifining keltirgan bibliografiyasi internetda mustaqil tekshirilmagan; borligi havolalarning to‘g‘riligini avtomatik tasdiqlamaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "balog‘at arxaik",
+        "evidence_extracted": "ada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saqlanib qolgan:\n\n    yigitlik, yoshlik, balog‘at arxaik so‘z, zarda, ranjish hozir kam ishlatiladi, badtar\n\n    battar eski talaffuz, qo‘rim - do‘stlar to‘dasi xalq tilida qolgan, holi - holati eski\n\n    variant.Bu hodisa Farg‘ona shevasining tarixiy qatlamlarga boyligini ko‘rsatadi.\n\n   Farg‘ona  shevasining  morfologik  xususiyatlari.Farg‘ona  shevasi  morfologik\n\n    jihatdan adabiy tildan",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F7",
+        "pdf_page": 7,
+        "printed_page": 153,
+        "anchor_extracted": "FOYDALANILGAN ADABIYOTLAR",
+        "evidence_extracted": " asrash va keyingi avlodlarga yetkazishda muhim\n\n   poydevor bo‘lib xizmat qiladi.\n\n\n\n              FOYDALANILGAN ADABIYOTLAR\n\n     1. Normurodova D. Shevalarning leksik xususiyatlari (Fargʻona vodiysi\n\n    misolida). – Toshkent: OʻzR FA Til va adabiyot instituti, 2019. – 37-bet.\n\n    2. Karimov I. O‘zbek shevalari morfologiyasi. – Toshkent: Fan, 2004. – 54–60-\n\n    betlar.\n\n    3. Sirojiddinov Sh. va boshqalar. O‘zbek tili dialektologiyasi. – Toshkent:\n\n    O‘",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT014",
+    "claim": "F6 ta’rif va misol orasidagi tafovutlar",
+    "analysis_uz": "Paynobda chiqish/kelish, yelpishtovoqda dukkak/guruch, Uyqozon/uyquzun farqi saqlanadi. Ta’rifni taxmin bilan to‘ldirib yuborilmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Paynob",
+        "evidence_extracted": "ib, ayrimlari esa\nboshqa tillardan o‘zlashgan.\nNATIJALAR\nHudud shevasiga oid ayrim so’zlar lug’ati\n Paynob - dala va uylardagi ariqlardan suvning chiqib ketish joyi.\nBugun paynobdan suv kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakn",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Yelpishtovoq",
+        "evidence_extracted": "harqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham e",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "uyquzun",
+        "evidence_extracted": "b, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.com",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT015",
+    "claim": "F8 qush nomi va geografik talqin",
+    "analysis_uz": "Sariqso‘fiyon lug‘atda sassiq popishak; kirishda uning bir turi. G‘ulg‘uli Farg‘ona belgisida, lekin Cho‘lpon va boshqa badiiy asar muallifining yashash joyi alohida lokal respondent dalili emas.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "anchor_extracted": "bir turi sariq rangi",
+        "evidence_extracted": "vizzildo, hay\ngo‘gayin. (M.Abdulhakim, Xorazmcha she’rlar). Farg‘ona shevalarida\nsassiqpopishakning bir turi sariq rangi asosida sariqso‘fiyon deb nom-\nlangan: Yana sassiqpopishak bilan sariqso‘fiyon degan qushlar bor edi,\nsariqso‘fiyon “Kuyov-kuyov, kimga kuyov” deya  sayrardi.  (I.Sulton,\nOnaizorim). Mevasi to‘q rangli olxo‘ri ayrim shevalarda qora rangi aso-\nsida hosil bo‘lgan: Jiy­da gulining isi, qaroli gulin isi. Gullar atrin tarat-\ngan tog‘imsan, Va",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 264,
+        "printed_page": 264,
+        "anchor_extracted": "SARIQSO‘FIYON",
+        "evidence_extracted": "hiptasifat to‘qilgan g‘ishsha o‘ramini bir\narava qilib olib keldi. (Matyoqub Qo‘shjonov, Dagish).\n  SARIQSO‘FIYON (Farg‘ona) Sassiq popishak. Gohida yashilliklar-\nga burkangan ma’volar orasidan sariqso‘fiyon tovushi kelib qolsa, qayer-\ndaligini aniq bilardi. (Isajon Sulton, Oftob chiqdi olamga...)\n  SARI(Q)TOL Barglari sariq tol turi. Sariqtol ko‘ringanga sarg‘aygan-\ncha yelkasi qisilib, kim nima desa og‘ziga qaraydi. Undan gap chiqqa-\nndayam  birov",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 103,
+        "printed_page": 103,
+        "anchor_extracted": "ELCHIMOQ",
+        "evidence_extracted": "ek ishlarini elyotar paytiga boribgina zo‘rg‘a tugatishdi. (Soy-\nim Is’hoq, Qabrdan chiqqan qul).\n  ELCHIMOQ (Farg‘ona) Ergashmoq. Onaning rozilik so‘zlariga bu\nbirgina “lekin” elchib kelganidan, bechora qizlar sevinish to‘lqinlarini\nyana bir qur ko‘tarishga fursat topolmadilar. (Abdulhamid Cho‘lpon, Ke-\ncha va kunduz). Axir, Miryoqub amaldor bo‘lmasa, loaqal mingboshiga\nmirza yo tilmoch bo‘lmasa, o‘zi o‘rus tilini tuzuk-quruq bilmasa... nega\nm",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT016",
+    "claim": "F2 unli inventari",
+    "analysis_uz": "7 fonema deyiladi, bosma ro‘yxatida esa takroriy va yetishmaydigan belgilar bor. Fonema va allofon qarashlari ham darsliklar orasida farqlanadi; bitta sanash butun viloyatga berilmaydi.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 45,
+        "printed_page": 45,
+        "anchor_extracted": "7 fonema",
+        "evidence_extracted": "qon va Marg’ilon shevalarida sifat jihatidan farq qiladigan, lekin miqdor jihatidan\nfarqlanmaydigan 7 fonema  (e,  u,  o,  e,  a,  e) mavjud. Bu shevalarning  unlilar\nsistemasida Toshkent va Samarqand unlilar sistemasidan farq qiluvchi orqa qator,\nquyi ko’tarilish (a) unlisi saqlangan. Bu shevalarda Toshkent shevasidagi (A,O)\nSamarqand, Buxoro, Qarshi, Xo’jand, Chust shevalaridagi (a, o) va adabiy tildagi a, o\nkabi ikki fonema o’rniga uchta ken",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 20,
+        "printed_page": 19,
+        "anchor_extracted": "munozarali masalalardan",
+        "evidence_extracted": "1. Unli va undoshlar tizimi.\n    0‘zbek shevalaridagi unli va undosh tovushlaming miqdori va sifati\nmunozarali masalalardan biridir, chunki dialektologiyaga oid ishlarda unli\ntonemalar haqida fikr yuritilganda, ularning soni 18tagacha etadi, degan\n\nma’lumotlar ham  beriladi.  Aslida  shevaiar  fonetikasi  o‘rganilar ekan,\n\n tilardagi fonemalar emas, balki konkret nutq tovushlari e’tiborga olinishi\n\n lozimligini qayd qilish o‘rinli bo‘ladi.\n   U nlilar  tizimi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT017",
+    "claim": "F5 bibliografik nashriyot farqi",
+    "analysis_uz": "F5 Ashirboyevning 2016 darsligini Nodirabegim deb ko‘rsatgan; yuborilgan F1 titul va bibliografiyasida Navro‘z. Ushbu nusxa metadata uchun birlamchi dalil.",
+    "decision": "Asl qayd saqlanadi; botda umumiy qoida sifatida ishlatilmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 6,
+        "printed_page": 30,
+        "anchor_extracted": "Nodirabegim",
+        "evidence_extracted": "Oʻzbekiston FA nashriyoti,\n1961. – 348 b.\n    2. Ashirboyev S. Oʻzbek dialektologiyasi. – Toshkent: Nodirabegim, 2016. – 136 b.\n    3. Doniyorov X. Qipchoq dialektlarining leksikasi. – Toshkent: Fan, 1979.\n    4. Jumanazarov Y. Oʻzbek adabiy tili va Janubiy Xorazm dialekti. – Toshkent: Fan,\n1971.\n    5. Mahmud Koshgʻariy. Devonu lugʻatit turk. III jildlik. – Toshkent: Fan, 1960-1963.\n    6. Madrahimov O. Oʻzbek tili oʻgʻuz lahjasining qisqacha qiy",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 2,
+        "printed_page": 1,
+        "anchor_extracted": "NAVRO‘Z",
+        "evidence_extracted": "va adabiyoti ta’lim yo‘nalishi talabalari uchun\n                           darslik\n\n\n\n\n\n           “NAVRO‘Z” nashriyoti\n            TOSHKENT-2016",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  },
+  {
+    "id": "FT018",
+    "claim": "F8 nazariy kirishdagi madaniy umumlashtirishlar",
+    "analysis_uz": "Kirishdagi saxovat, pessimizm, milliy mentalitet yoki mifologik izohlar muallifning nazariy talqinlari. Ular barcha hudud vakillarining shaxsiy xarakterini belgilamaydi. So‘z ma’nosi, folklor qarashi va odamlar haqidagi umumlashtirish alohida baholanadi.",
+    "decision": "Bot xarakteri hudud aholisi haqidagi stereotipdan yaratilmaydi; lug‘aviy va nutqiy dalillar ishlatiladi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 11,
+        "printed_page": 11,
+        "anchor_extracted": "kengfe’lligi",
+        "evidence_extracted": "mukofot17. O‘zbekistonning\njanubida istiqomat qiluvchi aholi (qashqadaryoliklar, surxondaryoliklar)\nkengfe’lligi, bag‘rikengligi, ochiqqo‘lligi bilan mashhur. Shuning uchun\nularda “nishonlamoq” tushunchasi saxovat  ko‘rsatish,  ya’ni nimadir\nsovg‘a qilish, tortiq qilish bilan bog‘liq holda idrok etiladi. Shu ma’no\no‘zbek adabiy tilida “yuvmoq” so‘zi bilan ifodalanadiki, bu o‘zbek xalqi\nmental manzarasini ifoda etmaydi. Mazkur so‘z rus tilidagi “обм",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 25,
+        "printed_page": 25,
+        "anchor_extracted": "Pessimizm",
+        "evidence_extracted": "yasi\nbirlashgan joyidan yelimsimon modda chiqadigan o‘simlikni “saqichti-\nkan” deb nomlashadi49.\n   Pessimizm, ya’ni voqelikning salbiy jihatlariga e’tibor qaratish. Sheva\nvakillari voqelikning salbiy jihatlariga ko‘proq diqqat qaratib, aynan ularni\nnomlashga e’tibor qaratishadi. Masalan, Qashqadaryoning Chaydari qish-\nlog‘ida uzun yuzli odamni otjag‘50 deyishadi va bu ifoda salbiy ma’noda\nishlatiladi. Yuzi cho‘zinchoqlikning ijobiy bahosi uchun",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ]
+  }
+]

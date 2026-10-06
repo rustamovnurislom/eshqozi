@@ -1,0 +1,394 @@
+[
+  {
+    "id": "FG001",
+    "observation": "Qaratqich va tushum shaklining birlashishi",
+    "area": "Farg‘ona guruhi",
+    "analysis_uz": "Manba besh kelishikli tizim deydi: qaratqichning funksiyasi saqlanadi, shakli tushum bilan bir ko‘rsatkichda ifodalanadi. Funksiya yo‘q deb tushunilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "экэсьнъ ъшъ",
+      "ошпгь тузъ"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 33,
+        "printed_page": 32,
+        "anchor_extracted": "5ta  kelishik",
+        "evidence_extracted": "li iste’molda  bor. 0 ‘g‘uz  lahjasining\naksariyat  shevalarida,  Toshkent,  Farg‘ona  shevalarida  5ta  kelishik\n\nqoilanadi, ya’ni qaratqich va tushum  kelishiklari  bir ko‘rsatkich  bilan\nifodalanadi. Qarshi, Buxoro, Surxondaryoning “й~ j ” lovchi shevalarida\n4ta kelishik qayd  qilinadi, ya’ni qaratqich va tushum  kelishiklari  bitta\nko‘rsatkich bilan, jo ‘nalish va o‘rin-payt kelishigi ham  bitta ko‘rsatkich\nbilan  ifoda  qilinadi. 0 ‘zbek  sheva",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_extracted": "akasinirig ishi",
+        "evidence_extracted": "ham -нъ ~ ni affiksi (fonetik variantlari bilan) ham\nqaratqich, ham tushum kelishigini ifoda etadi: akasinirig ishi ~ экэсьнъ\nъшъ ~ akasini isi, oshning tuzi ~ ошпгь тузъ ~ asti tuzi;\n      - tushum kelishigi affiksidagi n undoshi d, t undoshi bilan almashadi.\nBu Andijon, Marg‘ilon, Qo‘qon guruh shevalarida qayd qilinadi. Bunda\njarangsiz undoshdan so‘ng -tb~ti, jarangli undoshdan so‘ng esa -<h>~di\n variantlari  qo‘shiladi: oshning mazasi ~ ошть мэзэсъ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG002",
+    "observation": "Tushum/qaratqichda -di, -ti variantlari",
+    "area": "Andijon–Marg‘ilon–Qo‘qon",
+    "analysis_uz": "N undoshi d/t bilan almashuvchi ko‘rsatkichlar qayd etilgan. Misol va so‘z oxiridagi tovush hisobga olinadi; barcha -ni/-ning uchun qat’iy global almashtirish berilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "уйдъ",
+      "ъшть",
+      "ошть мэзэсъ"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 59,
+        "printed_page": 58,
+        "anchor_extracted": "Andijon, Marg‘ilon, Qo‘qon",
+        "evidence_extracted": "ь тузъ ~ asti tuzi;\n      - tushum kelishigi affiksidagi n undoshi d, t undoshi bilan almashadi.\nBu Andijon, Marg‘ilon, Qo‘qon guruh shevalarida qayd qilinadi. Bunda\njarangsiz undoshdan so‘ng -tb~ti, jarangli undoshdan so‘ng esa -<h>~di\n variantlari  qo‘shiladi: oshning mazasi ~ ошть мэзэсъ  ~asti mazasi,\n толдъ кестъ ~ taldi kesti;",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 34,
+        "printed_page": 33,
+        "anchor_extracted": "uyni-уйдъ",
+        "evidence_extracted": "ъйнэпйкэштъ  ~\nmijnatkasti. -дъ/тъ ~  di/ti  varianti  Farg‘ona  guruh  shevalarida ham\nqo‘llanadi: uyni-уйдъ ~ ujdi, ishni ~ ъшть ~ isti.\n    Aksariyat shevalarda tushum  kelishigi  affiksidagi н ~  n  undoshi\n\nkuchli assimilatsiyaga uchraydi. Bu ayniqsa Toshkent shevasida yaqqol\nko‘rinadi: qo‘lni ~ цоплъ ~ qolli, boshni ~ bossb ~ bassi.\n   Tushum kelishigining belgisiz qo‘llanishi barcha shevalarga xosdir:\nBiz keldik kelin ko‘rgani ~ бъз келлъ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F4",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "oshni-âšti",
+        "evidence_extracted": "in-bøgennen kejin, ishdaišta, qishda-\nqišta, oshga-âška, tushga-čuška, toshdan-tâštan oshdan-âštan, oshni-âšti soʻzlari.\n       2. Metateza hodisasi qayd qilinadi (ya'ni, soʻz tarkibidagi undoshlarning oʻrin\nalmashinuvidir):  yomgʻir-yâymir,  surpa-supra,  tuproq-turpâq,  toʻrgʻa-tøyra,\ntekshir-teškir, bayroq-baryâgʻ, aylan-aynal, aylanma-aynalma, daryo-dayrâ kabi\nsoʻzlar.\n       3. Reduksiya hodisasi qayd qilinadi (yaʼni, soʻz tarkibidagi undosh",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG003",
+    "observation": "Hozirgi davom zamonda -yap",
+    "area": "Qo‘qon–Marg‘ilon va yaqin shahar shevalari",
+    "analysis_uz": "Boryapman, kelayapman asosli. Namangandagi -ut/-vot shakli alohida keltiriladi; u Farg‘ona viloyatining umumiy shakli qilinmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "boryapman",
+      "kelayapman"
+    ],
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 81,
+        "printed_page": null,
+        "anchor_extracted": "–yap qo’shimchasi",
+        "evidence_extracted": "\nqonuniyatlar asosida o’zgargan  bo’lib, u  aslida –vot qo’shimchasiga borib\n\ntaqaladi;\n\n        b) –yap qo’shimchasi Farg`ona vodiysidagi barcha shahar (Andijon,\n\nMarg`ilon, Qo’qon  kabi) hamda  o’sha  shaharlarga  yaqin bo’lgan  qishloq\n\nshevalariga xosdir: boryapman, kelayapman kabi. Farg`ona shevalaridagi bu\n\nqo’shimcha Namangan shevasidan tashqari –yap shakliga borib taqaladi va\n\nSamarqand-Buxoro   shevasidagi  –op   ko’rsatgichiga  ham   yaqinlash",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 60,
+        "printed_page": 59,
+        "anchor_extracted": "Marg‘ulon",
+        "evidence_extracted": "йэп ~ jap\nvariantlarida  qoilanadi:  ketyapti ~ кетутть ~  ketutti (Namangan),\nойнэюптъ ~ ojnampti (Marg‘ulon);\n      -  ш/ыи/уш  ~  s/is/us  affiksi  harakat  nomining  asosiy   affiksi\nhisoblanadi: kelishdi ~ келъштъ ~kelisti, qurishdi ~ курушть ~ qurusti.\n    -пэр ~ lar affiksi ba’zan -нэ ~ na variantida ham qoilanadi: ishinglar\n- ъшъйнэ isijna, богьйна ~ bayijna (Namangan);\n  -  fei tuslanushining I shaxs ko'pligida adabiy tilga xos shakl qo",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG004",
+    "observation": "Ikkinchi shaxs hurmat shakli",
+    "area": "Marg‘ilon",
+    "analysis_uz": "Ketyapsiz misoli -sizning qo‘llanishini ko‘rsatadi; Toshkentdagi -sila barcha Farg‘onaga ko‘chirilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "кетйэпсьг"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 39,
+        "printed_page": 38,
+        "anchor_extracted": "Marg‘ilon",
+        "evidence_extracted": "valarda qoMlanadi: boryapsiz ~\nборвоссъз ~ bdrvassiz (Toshkent), ketyspsiz ~ кетйэпсьг ~ ketjapsiz\n(Marg‘ilon).\n     -съз / съз / с + лэ(р)  / ла(р) ~ siz /siz  / s +  la(r)  / la(r) varianti\nsingarmonizmli shevalarda qo'iianadi: baribsbz - барьпсьз/с ~ bar'ipsiz/s,\nushlabsiz ~ ушлапсьз/с ~  uslapsiz/s,  ko‘ribsizlar ~ квръпсъзлэр ~\nkoripsizlar, oqibsizlar ~ оцьпсьз/слар ~ oqips'iz/slar.\n      -с, -сьлэ ~  s,sila  varianti  esa Toshkent,  Qarshi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG005",
+    "observation": "Birinchi shaxs ko‘plik",
+    "area": "Farg‘ona guruhi",
+    "analysis_uz": "Boramiz/keldik/bordik adabiy tilga yaqin shakllarda berilgan. -vuz/-vuza oldingi Toshkent paragrafida; Farg‘ona qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "boramiz",
+      "keldik",
+      "bordik"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 60,
+        "printed_page": 59,
+        "anchor_extracted": "boramiz",
+        "evidence_extracted": " ~ bayijna (Namangan);\n  -  fei tuslanushining I shaxs ko'pligida adabiy tilga xos shakl qoilanadi:\nboramiz ~ bardmiz, keldik ~ келдък ~ keldik, bordbk ~ бордък ~ bardik;\n      - harakat va paytning chegarasinu ifodalashda -ч овур ~ cavyr (-гача ~\ngacd   affiksi   o‘rnida)  qoilanadi:  bahorgacha  ~  бэх;зргэчовур  ~\nhahargacavur, shahargacha ~ шэ^эргэчзвур ~ sahargcavur;\n      -  tartib  son -нджь  ~  nzi  affiksi  bilan  shakllanadi:birinchi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG006",
+    "observation": "Hurmat ko‘pligi",
+    "area": "Toshkent, Farg‘ona va Xorazm",
+    "analysis_uz": "-lar son ko‘pligidan tashqari hurmatni ham bildirishi mumkin. So‘zlovchi va kim haqida gapirilayotgani aniqlanadi; har bir ismga qo‘shilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 31,
+        "printed_page": 30,
+        "anchor_extracted": "hurmat ma’nosini",
+        "evidence_extracted": ", shu+lar+lar)\n    -лзр ~ lar affiksi va uning variantlari Toshkent, Farg'onu va Xorazm\nshevalarida hurmat ma’nosini ham ifodalaydi.\n    Ayrim  shevalarda  ko‘plikning  jamlik  turinl  ifodttlovchi  maxsus\n affikslar ham bor, masalan, Toshkent dialekti shevalarida -луг ~ lug affiksi\noz ~ 03 ~  oz, uy ~ ой ~  oj kabi  so'zlarga  qo'shilib,  koplik. jamlik\nm a’nolarini anglatgan: o‘zlari ~озлугъ -  oxlugi, uylari - ойлуцъ ~ ojlugi;\n-гъ ~ gi affiksi shaxs",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG007",
+    "observation": "Harakat chegarasi -ga cho‘vur",
+    "area": "Farg‘ona guruhi",
+    "analysis_uz": "Bahorgacha/shahargacha muqobillari manbada berilgan; aniq tuman taqsimoti yo‘q. O‘qishga qulay yozuv transkripsiyaning taxminiy ifodasi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "бэх;зргэчовур",
+      "шэ^эргэчзвур"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 60,
+        "printed_page": 59,
+        "anchor_extracted": "bahorgacha",
+        "evidence_extracted": "va paytning chegarasinu ifodalashda -ч овур ~ cavyr (-гача ~\ngacd   affiksi   o‘rnida)  qoilanadi:  bahorgacha  ~  бэх;зргэчовур  ~\nhahargacavur, shahargacha ~ шэ^эргэчзвур ~ sahargcavur;\n      -  tartib  son -нджь  ~  nzi  affiksi  bilan  shakllanadi:birinchi  ~\nбърънджъ ~ birinzi, beshinchi ~ бешънджь ~ besinzi\\\n    Samarqand-Buxoro  guruh  shevalari.  Bu  guruhga  Samarqand,\nBuxoro, Qarshi, Koson, Chust, Xo‘jand kabi shevalar kiradi.\n    Fonet",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG008",
+    "observation": "Harakat nomi -sh/-ish/-ush",
+    "area": "Farg‘ona guruhi",
+    "analysis_uz": "Harakat nomi affiksi asosiy ko‘rsatkich sifatida beriladi. Matndagi kelishdi/qurishdi butun so‘zini faqat harakat nomi deb izohlashdan saqlanish kerak.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "келъштъ",
+      "курушть"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 60,
+        "printed_page": 59,
+        "anchor_extracted": "harakat  nomining",
+        "evidence_extracted": "утть ~  ketutti (Namangan),\nойнэюптъ ~ ojnampti (Marg‘ulon);\n      -  ш/ыи/уш  ~  s/is/us  affiksi  harakat  nomining  asosiy   affiksi\nhisoblanadi: kelishdi ~ келъштъ ~kelisti, qurishdi ~ курушть ~ qurusti.\n    -пэр ~ lar affiksi ba’zan -нэ ~ na variantida ham qoilanadi: ishinglar\n- ъшъйнэ isijna, богьйна ~ bayijna (Namangan);\n  -  fei tuslanushining I shaxs ko'pligida adabiy tilga xos shakl qoilanadi:\nboramiz ~ bardmiz, keldik ~ келдък ~ keldik, bordb",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG009",
+    "observation": "Aytilgan xabar -mish/-mus shakli",
+    "area": "Farg‘ona (aniq tuman ko‘rsatilmagan)",
+    "analysis_uz": "Aytganmish transkripsiyasi qayd etilgan; bevosita bilish va eshitib xabar berish ma’nosi bir xil qilinmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "эйтгэнъмуш"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 43,
+        "printed_page": 42,
+        "anchor_extracted": "эйтгэнъмуш",
+        "evidence_extracted": " ~ mis/mus  varianti  qo‘llanadi:\nborgsnmish  ~ боргяммъш ~  bargatnmus  (Toshkent),  aytganmish  ~\nэйтгэнъмуш ~ ajtganimus (Farg'ona).\n     -гэн / кэн / ган / цан ~ gan / kdn / yan / qan affiksi. Singarmonizmni\nyo'qotgan shevalarda faqat -гэн  / кэн ~ gan  / kan varianti qoMlanadi:\nqo‘ygan ~ цойгт ~ qojgan, topgan - тъпкян ~ tapkan (Toshkent).\n        Ба:шшьмда *онлэ:пэр ба:йъц цыпьман,\n        Элъмдэ ду:тарьм, *ойьн са:зьман.\n         А:там-э:н",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG010",
+    "observation": "Ko‘katning -mak orqali yasalishi",
+    "area": "Andijon va Farg‘ona",
+    "analysis_uz": "Ko‘kmak lug‘aviy yasama; barcha sifatlardan yangi -makli so‘z chiqarish qoidasi emas.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "к о к м э к"
+    ],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 49,
+        "printed_page": 48,
+        "anchor_extracted": "к о к м э к",
+        "evidence_extracted": "    -мяк ~ т а к  affiksi sifatdan ot yasajdi: ko‘kat ~  к о к м э к  ~ kokmak\n\n(Andijon, Farg'ona).\n    -шуг ~ suy affiksi otdan  sifat yasaydi: yopishqoq ~ йелъмшуг ~\njelimsuy (Toshkent).\n    Xorazm  shevalarida  ba’zi  o'rinlarda  chiqish  kelishigi  affiksi  so‘z\nyasash funksiyasini bajargan: boladek boMdi ~ баладьн болдь ~ baladin\n bold'i, bolamdek  bo‘ldi ~ баламньн болдь ~ balamnin  boldi,  otdek\ny",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG011",
+    "observation": "Oltiariqda shart fe’lida l tushishi",
+    "area": "Oltiariq guruhi",
+    "analysis_uz": "Kelsang/keseng va bo‘lsang/bøseng: shart va ikkinchi shaxs saqlanadi. Talaffuz va morfologiya birgalikda tahlil qilinadi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "keseng",
+      "bøseng"
+    ],
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "kelsang-keseng",
+        "evidence_extracted": "ib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG012",
+    "observation": "Oltiariqda imkoniyat fe’li",
+    "area": "Oltiariq guruhi",
+    "analysis_uz": "Qila oldi/qilaldi kabi birikmalar -a ol- imkoniyat ma’nosini saqlaydi; shunchaki qildi deb o‘zgartirilmaydi.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "qilaldi",
+      "bâraldi",
+      "køraldi"
+    ],
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "qila oldi – qilaldi",
+        "evidence_extracted": ") ikki soʻz ya'ni qoʻshma soʻz talaffuzida oldingi soʻz tarkibidagi unli tovushning\ntushib qolishi: qila oldi – qilaldi, tushuntira oldi – tüšintiraldi, koʻra oldi – køraldi,\nbora oldi – bâraldi, ayta oldi – äytaldi, qaytara oldi – qäytaraldi singari soʻzlarni\neliziyaning birinchi koʻrinishiga misol qilib keltirish mumkin.\n      b) soʻz tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  b",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG013",
+    "observation": "Oltiariqda kel-/bo‘l- davom zamon talaffuzi",
+    "area": "Oltiariq guruhi",
+    "analysis_uz": "Kelyapti/keyapti va bo‘lyapti/bøyapti: -yap zamon ko‘rsatkichi saqlanadi; l tushishi bilan bog‘liq.",
+    "evidence_status": "manbada_qayd_etilgan",
+    "examples_source": [
+      "keyapti",
+      "bøyapti"
+    ],
+    "refs": [
+      {
+        "source": "F4",
+        "pdf_page": 3,
+        "printed_page": null,
+        "anchor_extracted": "kelyapti-keyapti",
+        "evidence_extracted": "tarkibidagi pozitsiyasi kuchsizlangan undoshning tushib qolishi:\nkelsang-keseng,  boʻlsang-bøseng,  kelyapti-keyapti,  boʻlyapti-bøyapti.  Fargʻona\n(Oltiariq) guruhi shevalarida eliziyaning bu koʻrinishida, asosan,  l tovushining\ntushib qolishi kuzatiladi.\n       6. Unlilarning  orttirilishi (proteza) hodisasi uchraydi:  stol-istâl, stakan-\nistakan, stadion-istadiân, stul-istul, stiklo-istiklâ, shtat-ištat kabi. Bu hodisa, asosan,\nchetdan kirgan soʻzla",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FG014",
+    "observation": "Fonema soni va keng unli farqlari",
+    "area": "Qo‘qon–Marg‘ilon; Vodil alohida",
+    "analysis_uz": "F1 a/o farqini, F2 Qo‘qon–Marg‘ilonda yetti fonema va uch keng unli haqidagi tahlilni keltiradi. F2 ro‘yxat grafemalari/soni o‘zaro mos emas; aniq inventar audio va grafik tekshiruvsiz qabul qilinmaydi. Vodil vokalizmi Toshkentga yaqin deb alohida berilgan.",
+    "evidence_status": "inventar_aniqlashtiriladi",
+    "examples_source": [],
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 20,
+        "printed_page": 19,
+        "anchor_extracted": "Qo‘qon,",
+        "evidence_extracted": "э/а,  э/а,  o/o, y/u; Samarqand\n\nshevasida ъ/i, e/e, э/а, a/a, o/o, y/u unlilari qo‘llangan bo isa, Qo‘qon,\n Marg‘ilon,  Chust,  Qarshi,  Sariosiyo  kabi  shevalarda  о  unlisi  bilan\n birgalikda  a   unlisi  ham   qo‘llanadi.  Shimoliy  o ‘zbek  shevalarida\n (Turkiston, Chimkent, Sayram) llta  -  a/a, e/e, э/а, и/i:, ъ/i, ыЛ':, ьЛ‘, о/о,\n\n\n                                             19",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 45,
+        "printed_page": 45,
+        "anchor_extracted": "7 fonema",
+        "evidence_extracted": "qon va Marg’ilon shevalarida sifat jihatidan farq qiladigan, lekin miqdor jihatidan\nfarqlanmaydigan 7 fonema  (e,  u,  o,  e,  a,  e) mavjud. Bu shevalarning  unlilar\nsistemasida Toshkent va Samarqand unlilar sistemasidan farq qiluvchi orqa qator,\nquyi ko’tarilish (a) unlisi saqlangan. Bu shevalarda Toshkent shevasidagi (A,O)\nSamarqand, Buxoro, Qarshi, Xo’jand, Chust shevalaridagi (a, o) va adabiy tildagi a, o\nkabi ikki fonema o’rniga uchta ken",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 46,
+        "printed_page": 46,
+        "anchor_extracted": "Vodil",
+        "evidence_extracted": "unlilar mustaqil fonema\nsifatida ishlatiladi.\n      Territoriya jihatidan Marg’ilonga yaqin bo’lgan Vodil qishlog’ining shevasi\nJizzax va Toshkent oblastining atrof shevalari  Toshkent shahar shevasining unlilar\nsistemasiga o’xshaydi.\n      Andijon,  Shaxrixon,  Farg’ona  vodiysining  bir  qator   qishloq  shevalari,\nTurkiston,  Qoraqalpoq   dialekti  (o’zbek   tilining),  Samarqand,  Surxondaryo,\nQashqadaryo  oblastlarining  j-lovchi o’zbek",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  }
+]

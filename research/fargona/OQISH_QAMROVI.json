@@ -1,0 +1,295 @@
+{
+  "sources": {
+    "F1": {
+      "mode": "Farg‘onaga oid nazariy va leksik bo‘limlar hamda transkripsiya konteksti tanlab o‘qildi",
+      "full_pages_read": [
+        2,
+        3,
+        15,
+        16,
+        17,
+        18,
+        20,
+        31,
+        33,
+        34,
+        37,
+        39,
+        43,
+        49,
+        54,
+        58,
+        59,
+        60,
+        61,
+        81,
+        82,
+        83,
+        84,
+        86,
+        87
+      ]
+    },
+    "F2": {
+      "mode": "Farg‘ona leksikasi, unlilar qiyosi va tasnif konteksti tanlab o‘qildi",
+      "full_pages_read": [
+        1,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        55,
+        56,
+        57
+      ],
+      "context_excerpts_read": [
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        38,
+        51
+      ]
+    },
+    "F3": {
+      "mode": "Farg‘ona tasnifi, leksik jadval va morfologiya tanlab o‘qildi",
+      "full_pages_read": [
+        1,
+        68,
+        80,
+        81,
+        82
+      ],
+      "metadata_or_context_excerpts_read": [
+        2,
+        4,
+        39,
+        52,
+        53,
+        54,
+        67,
+        96
+      ]
+    },
+    "F4": {
+      "mode": "maqola to‘liq o‘qildi",
+      "full_pages_read": [
+        1,
+        2,
+        3
+      ]
+    },
+    "F5": {
+      "mode": "maqola to‘liq o‘qildi, jadvallar va etimologik da’volar ajratildi",
+      "full_pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "F6": {
+      "mode": "maqola to‘liq o‘qildi, barcha 10 izoh va 10 nutq misoli ajratildi",
+      "full_pages_read": [
+        1,
+        2,
+        3
+      ]
+    },
+    "F7": {
+      "mode": "maqola to‘liq o‘qildi; shubhali ma’no va grammatik talqinlar ajratildi",
+      "full_pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "F8": {
+      "mode": "metadata, nazariy kirish to‘liq va Farg‘ona belgilangan lug‘at maqolalari tanlab o‘qildi",
+      "full_pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "dictionary_entries_read": [
+        [
+          "ALAMAZON",
+          58,
+          "O‘t, olovning gurullab yonishi.",
+          "tasviriy; olov",
+          "Olovning kuchli yonish holati; oddiy olovning har qanday nomi emas."
+        ],
+        [
+          "ARRATO‘PON",
+          61,
+          "Qipiq.",
+          "xo‘jalik",
+          "Lug‘at misolida hayvon yotadigan joyga sepiladi."
+        ],
+        [
+          "ARZIQ",
+          62,
+          "Tarkibida ohak, bo‘r bo‘lgan, changsimon oq tuproq.",
+          "tuproq va tabiat",
+          "Oddiy chang yoki barcha tuproqning muqobili emas."
+        ],
+        [
+          "BEDANATUT",
+          68,
+          "Bedona tut.",
+          "meva",
+          "Tut navi; bedana qushiga oid so‘z deb tushunilmaydi. Botanika tafsiloti mustaqil tekshirilmagan."
+        ],
+        [
+          "BEXIT",
+          71,
+          "Xarxashasi kamroq.",
+          "so‘zlashuv",
+          "Misollarda bexitroq yo‘nalish va joy; faqat insonga xos sifat sifatida cheklanmaydi."
+        ],
+        [
+          "BESHLIK",
+          71,
+          "Panshaxa.",
+          "xo‘jalik",
+          "Son, pul yoki baho ma’nolaridan kontekst orqali ajratiladi."
+        ],
+        [
+          "BUVI",
+          81,
+          "Ona.",
+          "qarindoshlik",
+          "Umumadabiy buvi = ota yoki onaning onasi ma’nosidan farq qiluvchi lokal ma’no; murojaat konteksti zarur."
+        ],
+        [
+          "DEPARA",
+          91,
+          "Tuman.",
+          "tarixiy yoki hududiy",
+          "Tarixiy hudud nomlash; hozirgi rasmiy ma’muriy tuman chegarasi deb olinmaydi."
+        ],
+        [
+          "ELCHIMOQ",
+          103,
+          "Ergashmoq.",
+          "badiiy va so‘zlashuv",
+          "Elchi yuborish ma’nosi emas. Metaforik ergashish misoli ham bor."
+        ],
+        [
+          "POYCHO‘KIR",
+          229,
+          "Sodda.",
+          "baholovchi",
+          "Misollarda kamtar/oddiy odam va sodda deb hisoblash ohangi bor. Foydalanuvchiga o‘z-o‘zidan shu sifat bilan murojaat qilinmaydi."
+        ],
+        [
+          "SARIQSO‘FIYON",
+          264,
+          "Sassiq popishak.",
+          "qush nomi",
+          "Kirishda sassiqpopishakning bir turi deb izohlanadi; zoologik tur darajasi tekshirilmagan."
+        ],
+        [
+          "G‘ULG‘ULI",
+          352,
+          "Kurka.",
+          "parranda",
+          "G‘ulig‘uli va quliquli kirishdagi boshqa yozuvlar; mustaqil variant qaydi sifatida saqlanadi."
+        ]
+      ],
+      "regional_context_pages": [
+        58,
+        61,
+        62,
+        68,
+        71,
+        81,
+        91,
+        103,
+        180,
+        214,
+        229,
+        264,
+        352
+      ],
+      "excluded_geographic_mentions": [
+        "Farg‘ona shunchaki badiiy joy nomi bo‘lgan kontekstlar",
+        "Toshloq oddiy toshli yer ma’nosida",
+        "Subhoni va ko‘rsodiq o‘riklarining rayonlashtirish hududi",
+        "Qo‘qon arava asardagi buyum; barcha Qo‘qon nutqiga avtomatik biriktirilmaydi"
+      ]
+    }
+  },
+  "all_pages_text_indexed": 735,
+  "whole_large_books_read_claimed": false,
+  "weights_updated": false,
+  "interpretation": "Matn chiqarish/qidiruv va mazmuniy o‘qish alohida hisoblanadi. Kitobdagi mashq/topshiriqlar foydalanuvchi buyrug‘i sifatida bajarilmagan."
+}

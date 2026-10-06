@@ -1,0 +1,74 @@
+[
+  {
+    "id": "A1",
+    "file_id": "file_000000001aac8210b3ecd3cb1b555421",
+    "pdf_path": "/workspace/attachments/94efd125-02d9-4b02-8aec-9f4e8198fa8d/1669004830.pdf",
+    "pages": 80,
+    "sha256": "d1be14f3ed8ef0ca520753302a542a9286cce7d186d5b48806ccf6b7718e4afe",
+    "characters": 181303
+  },
+  {
+    "id": "A2",
+    "file_id": "file_00000000d3c482108cc4ee886d7b89de",
+    "pdf_path": "/workspace/attachments/99424e2f-32c1-4b9e-8f0f-0ec30b77c9cd/5b015f0357f16.pdf",
+    "pages": 88,
+    "sha256": "f81be6ec75b37e6839dc26462ac9030024d752a2488d67aef47770f663f2d251",
+    "characters": 243755
+  },
+  {
+    "id": "A3",
+    "file_id": "file_000000009f0c821080da13a73cb5c6f9",
+    "pdf_path": "/workspace/attachments/506e35f6-181b-42ed-b883-0f9cfbc2ce22/O‘ZBEK-SHEVALARI-TADQIQOTLARI.pdf",
+    "pages": 216,
+    "sha256": "a27fe57e31b5c79b3ddc19896c59ee135abf358f29ca6b7bb64ff829a7d97e98",
+    "characters": 535293
+  },
+  {
+    "id": "A4",
+    "file_id": "file_0000000064248210bf055e40f4c1eb99",
+    "pdf_path": "/workspace/attachments/c1b1c277-1562-47e5-a25b-1d93448e6c25/MMMS+0504.pdf",
+    "pages": 5,
+    "sha256": "9e2af0c93aafccc01f7586e6aec7f20e82a4bb3470d0cba0ae8f8d45167ac283",
+    "characters": 12096
+  },
+  {
+    "id": "A5",
+    "file_id": "file_00000000d7d482109294388014270718",
+    "pdf_path": "/workspace/attachments/6a64291b-9a95-4ddc-bac5-5360ad4872ce/46.pdf",
+    "pages": 3,
+    "sha256": "4316b00a4afc7297a7b7104dc15f646a55338619399081084c6522ca7e083e0b",
+    "characters": 8357
+  },
+  {
+    "id": "A6",
+    "file_id": "file_00000000270c82109726c0f805d4de28",
+    "pdf_path": "/workspace/attachments/d8969eba-a849-46ae-ba11-c5743e9bc786/1740379786.pdf",
+    "pages": 97,
+    "sha256": "a33bf804d9ab79306563a3774a89e6720faf3e9c7ca3f2b419050c3461c768ae",
+    "characters": 0
+  },
+  {
+    "id": "A7",
+    "file_id": "file_0000000030908210a35db6c978511c89",
+    "pdf_path": "/workspace/attachments/6b3fd263-15b7-496d-9766-c622e7754abf/2024-yil_toplam_18.09_2.pdf",
+    "pages": 640,
+    "sha256": "0ed26c95d50790565639fd10fc27f0fed08bb5f4053173f46cf6c727aa03d59e",
+    "characters": 2302375
+  },
+  {
+    "id": "A8",
+    "file_id": "file_0000000058908210baa6781e0c844819",
+    "pdf_path": "/workspace/attachments/a08c8430-0a81-49be-bdb5-fb1b2b67b463/5b0d28b37ed85.pdf",
+    "pages": 176,
+    "sha256": "1c053ab7dd5a2671649bf3149fb50153a1e528eebd2e1f360550fc167ed61d6f",
+    "characters": 498461
+  },
+  {
+    "id": "A9",
+    "file_id": "file_00000000e2bc8210b04a270f4d30f784",
+    "pdf_path": "/workspace/attachments/9f0a2020-9c63-4d03-a2ee-2f5a4fac7cd9/anjuman_materiallari._19.11._2020.pdf",
+    "pages": 550,
+    "sha256": "effe008279e2fd25b492f8f2756e81868622d9bedd842a6d1d140fbde3d863aa",
+    "characters": 2093191
+  }
+]

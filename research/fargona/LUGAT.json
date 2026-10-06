@@ -1,0 +1,1707 @@
+[
+  {
+    "id": "FL001",
+    "form_source": "Paynob",
+    "meaning_uz": "Dala va uylardagi ariqlardan suvning chiqib ketish joyi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "suv taqsimoti",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ta’rif chiqishni, misol suv kelishini aytadi; chiqish/kirish yo‘nalishi kontekstda tekshiriladi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Paynob",
+        "evidence_extracted": "ib, ayrimlari esa\nboshqa tillardan o‘zlashgan.\nNATIJALAR\nHudud shevasiga oid ayrim so’zlar lug’ati\n Paynob - dala va uylardagi ariqlardan suvning chiqib ketish joyi.\nBugun paynobdan suv kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakn",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL002",
+    "form_source": "Durra",
+    "meaning_uz": "Ro‘mol.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "kiyim-kechak",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Katta ro‘mol misoli bor; barcha ro‘mol turi yoki faqat shu qishloqqa xos deb umumlashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Durra",
+        "evidence_extracted": "va uylardagi ariqlardan suvning chiqib ketish joyi.\nBugun paynobdan suv kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinish",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL003",
+    "form_source": "Cherdak",
+    "meaning_uz": "Tom (maqoladagi izoh).",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "uy-ro‘zg‘or",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy cherdak/chordoq bilan aynanlashtirish uchun qo‘shimcha dalil kerak; o‘rik yoyib quritish konteksti.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Cherdak",
+        "evidence_extracted": " kelsa dalaga suv qo’yamiz.\n Durra – ro’mol.\nBuvimning avvaldan o’rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla k",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL004",
+    "form_source": "Otashkurak",
+    "meaning_uz": "Tandir va o‘choqdagi cho‘g‘larni tortib olish asbobi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "pazandachilik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Oddiy dala kuragi bilan tenglashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Otashkurak",
+        "evidence_extracted": "rab yuradigan katta durrasi bor.\n Cherdak – tom\nBiz har doim o’riklarni cherdakka yoyib quritamiz.\n Otashkurak – tandir va o’choqdagi cho’qlarni tortib olish uchun ishlatiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan id",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL005",
+    "form_source": "Salla",
+    "meaning_uz": "Sallaga o‘xshab o‘ralgan shirinlik turi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "marosim va taom",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Bosh kiyim ma’nosidan farq qiladi; qudaziyopa konteksti.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Salla",
+        "evidence_extracted": "atiladi.\nSardor otashkurakni olib kel tezroq, cho’qni tortib olaylik, ovqat tagiga olib ketyapti.\n  Salla- shirinlikning bir turi. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruc",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL006",
+    "form_source": "Charqi",
+    "meaning_uz": "Quyuq ovqat solish uchun ishlatiladigan idish.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "idish-tovoq",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Osh solish misoli bor; hajm, material, kosaga/tovoqqa aynan muqobilligi berilmagan.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Charqi",
+        "evidence_extracted": "uri. Ko’rinishi sallaga o’xshab o’raladi.\nQudaziyopada har doim qudalarga o’nta salla kirgiziladi.\n Charqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qili",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL007",
+    "form_source": "Yelpishtovoq",
+    "meaning_uz": "Temir idish; don mahsulotlarini kurmakdan tozalashda ishlatiladi.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "xo‘jalik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ta’rif dukkakli mahsulot deydi, misol guruchni tozalash haqida. Don tozalash funksiyasi matndan chiqarilgan umumiy izoh.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Yelpishtovoq",
+        "evidence_extracted": "harqi – quyuq ovqatlarni solish uchun foydalanadigan idish.\nMehmonlarga ikki charqi osh kirgizdik.\n Yelpishtovoq – temirdan qilinadi. Dukkakli mahsulotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham e",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL008",
+    "form_source": "Keli",
+    "meaning_uz": "Mahsulot ezib-maydalash, tolqon qilish uchun ishlatiladigan, ichi o‘yilgan yog‘och buyum.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "xo‘jalik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Maqolada tut daraxtidan ishlanishi va mos sopi aytiladi; bu material barcha kelilar uchun shart deb belgilanmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Keli",
+        "evidence_extracted": "otlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham ezib maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL009",
+    "form_source": "Rumcha",
+    "meaning_uz": "Kamzir, nimcha (manba yozuvi).",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "kiyim-kechak",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kamzir imlosi asl holicha saqlanadi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Rumcha",
+        "evidence_extracted": "a mansulotlarni\nham ezib maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n Uyqozon- qozonning ichiga chini qo’yib, ustiga to’rtta cho’pakni joylashtirib, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.com",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL010",
+    "form_source": "Uyqozon",
+    "meaning_uz": "Qozonda chini va to‘rtta cho‘pak ustiga manti idishi joylashtirib pishirish tuzilmasi/usuli.",
+    "area": "Uchko‘prik atrof qishloqlari; Begmurod annotatsiyada",
+    "register": "pazandachilik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Ma’no izohdan chiqarilgan; misolda uyquzun yozilgan. Bir xil talaffuz deb avtomatik birlashtirilmaydi.",
+    "refs": [
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": "Uyqozon",
+        "evidence_extracted": "o’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n Uyqozon- qozonning ichiga chini qo’yib, ustiga to’rtta cho’pakni joylashtirib, keyin uning ustiga\nidishdagi mantilar qo’yilib, qozonni qopqog’ini yopib pishiriladi.\nBugun ikki uyquzun manti pishirdik.\n\n                                                         worldlyjournals.com",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL011",
+    "form_source": "ALAMAZON",
+    "meaning_uz": "O‘t, olovning gurullab yonishi.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "tasviriy; olov",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Olovning kuchli yonish holati; oddiy olovning har qanday nomi emas.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 58,
+        "printed_page": 58,
+        "anchor_extracted": "ALAMAZON",
+        "evidence_extracted": "hga iymanib turgan Qutlug‘murod tomon sal engashib,\nqo‘lidan tutib tortdi. (Komil Avaz, Sozanda).\n  ALAMAZON (Farg‘ona) O‘t, olovning gurullab yonishi. Laylak o‘tib\ng‘oz keldi, bahor ketib yoz keldi. Jo‘jalar xo‘rozga, kurtaklar charosga\naylandi. Boshoqlarga o‘roq, qovunlarga pichoq tegib, jazlar bir qozon,\ntandirdagi o‘tlar alamazon bo‘ldi. (Anvar Obidjon, Meshpolvonning jan-\nglari). Bu orada qizlar kelinni davra o‘rtasiga boshlab kirishdi, al",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL012",
+    "form_source": "ARRATO‘PON",
+    "meaning_uz": "Qipiq.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "xo‘jalik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Lug‘at misolida hayvon yotadigan joyga sepiladi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 61,
+        "printed_page": 61,
+        "anchor_extracted": "ARRATO‘PON",
+        "evidence_extracted": " na’matak, kiyiko‘t va boshqa giyohlarni\ntabibning oldiga qo‘ydi. (Erkin Samandar, Afsungar gul).\n  ARRATO‘PON (Farg‘ona) Qipiq. Ombor to‘la yem, g‘aram-g‘aram\npichanlar, issiqqina og‘ilxona. Buning ustiga, ular yotgan joylarni o‘z\nvaqtida tozalashib, taglariga yumshoqqina arrato‘pon sepib qo‘yishadi.\n(Anvar Obid­jon, Qo‘ng‘iroq o‘g‘risi).\n  ARVOHKAPALAK Kechasi chiroq yorug‘iga keladigan hajmi nis-\nbatan katta, qo‘ng‘ir rangli kapalak. Namozshom",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL013",
+    "form_source": "ARZIQ",
+    "meaning_uz": "Tarkibida ohak, bo‘r bo‘lgan, changsimon oq tuproq.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "tuproq va tabiat",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Oddiy chang yoki barcha tuproqning muqobili emas.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 62,
+        "printed_page": 62,
+        "anchor_extracted": "ARZIQ",
+        "evidence_extracted": "ning  kallasidan\nchog‘roq arzik kesak turgan ekan. (Oxunjon Hakim, Cho‘chqa mingan\nchavandozlar).\n  ARZIQ (Farg‘ona) Tarkibida ohak, bo‘r bo‘lgan, changsimon oq\ntuproq. Bir vaqtlar qishloq o‘rnida arziq tuproqli tepalik bo‘lgan edi.\n(Mansurxo‘ja Xo‘jayev, Tilsimotli Dang‘ara). Bu tuproqlar allyuvial tar-\ntibotdagi o‘tloqi tuproqlarga nisbatan chirindiga boy, strukturali va “ar-\nziq” hamda “sho‘x” qatlamlari­ning mavjudligi bilan ajralib tura",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL014",
+    "form_source": "BEDANATUT",
+    "meaning_uz": "Bedona tut.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "meva",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tut navi; bedana qushiga oid so‘z deb tushunilmaydi. Botanika tafsiloti mustaqil tekshirilmagan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 68,
+        "printed_page": 68,
+        "anchor_extracted": "BEDANATUT",
+        "evidence_extracted": "mda ko‘zi g‘ilay,\nog‘zini baymoq qilib tashladim. (Anvar Muqimov, “Ne ko‘ylarga tushdim\nmano...”)\n  BEDANATUT (Farg‘ona) Bedona tut. – Manavi shinni bedanatutni-\nkimi deyman? – beparvo turib Mutal-maynavozga savol berdi u. (Anvar\nObidjon, Meshpolvonning janglari). Eng avval oq bedanatut pishib berar-\ndi. Novdalarida oppoq marjondek tizilib turgan tut mevalarini cho‘qilab\nbutoqdan-butoqqa uchib-qo‘nib yurgan chumchuqlar galasi shodiyonasi-\nni ko‘",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL015",
+    "form_source": "BEXIT",
+    "meaning_uz": "Xarxashasi kamroq.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "so‘zlashuv",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Misollarda bexitroq yo‘nalish va joy; faqat insonga xos sifat sifatida cheklanmaydi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 71,
+        "printed_page": 71,
+        "anchor_extracted": "BEXIT",
+        "evidence_extracted": "odachining betkayligida\nOqtirnoq o‘nga yaqin it bilan olishib yotardi. (Anvar Suyunov, Oqtirnoq).\n  BEXIT (Farg‘ona) Xarxashasi kamroq. Shu sababdan Beknazarning\nhamrohlari, aylanish esa-da, bexitroq deb shu yo‘nalishni ma’qul ko‘rish-\ndi. (Qam­chibek Kenja, Palaxmon toshlari). Yerto‘ladagi hojatxonaga tush-\nishgach, qiz­larga shaffof xaltachadagi kukunni berib, Shuhratni erkaklar\nbo‘lmasiga boshladi-da, qulog‘iga qistirilgan papirosni olib ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL016",
+    "form_source": "BESHLIK",
+    "meaning_uz": "Panshaxa.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "xo‘jalik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Son, pul yoki baho ma’nolaridan kontekst orqali ajratiladi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 71,
+        "printed_page": 71,
+        "anchor_extracted": "BESHLIK",
+        "evidence_extracted": "unli. (Topishmoq. Javobi – bulut). Ayg‘ir qochsa, uyurdan top, Biya qoch-\nsa – beshadan. (Maqol).\n  BESHLIK (Farg‘ona) Panshaxa. – Ketamiz, faqat sen boshlaysan, –\ndedi Sotvoldi. Shartta beshlikni go‘ngga sanchib ketvorsa-chi. Lekin bu\ntili uzunlarga bir umrga gap topiladi-da. (Adham Damin, Hayot va o‘lim).\n  BESHOX (Samarqand) Benamoz. Xudoning kunini Bismillo bilan\nboshlamagan, kech bo‘ganda boshini yostiqqa bir-u-borsan deb top-\nshirmaganni",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL017",
+    "form_source": "BUVI",
+    "meaning_uz": "Ona.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "qarindoshlik",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Umumadabiy buvi = ota yoki onaning onasi ma’nosidan farq qiluvchi lokal ma’no; murojaat konteksti zarur.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 81,
+        "printed_page": 81,
+        "anchor_extracted": "BUVI",
+        "evidence_extracted": "jigaring so‘xta\nbo‘libdir, Nasling shajarasi butrashga tushdi. (Omon Matjon, Turg‘unlik\nyillari).\n  BUVI (Farg‘ona) Ona. Akmal Katta hovliga qaytarkan buvisiga ko‘zi\ntushdi. – Buvi, nima gap? Moshin ko‘rinmaydi? Tolib qayoqqa ketdi? –\ndedi u xovliqib. (Adham Damin, Hayot va o‘lim).\n  BUVRIL Burul; xoldor, ko‘kish otning tusi va shu tusdagi ot. – Hey,\nmardi maydon! Go‘dakniyam urasanmi, meni qamchila­sang bo‘lmaydimi!\n\n\n\n                    ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 54,
+        "printed_page": 53,
+        "anchor_extracted": "Farg‘onada ona",
+        "evidence_extracted": "Toshkentda arava qismi nomi, Farg‘onada narvon;\n    byvb ~ buvi  - Toshkentda ota va onaning onasi, Farg‘onada ona\n ma’nosida.\n   пэшшэ ~ passa  - Toshkentda chaqmaydigan hashorat, Farg‘ona va\n shimoliy o‘zbek shevalarida chaqadigan hashorat.\n\n\n\n                                             53",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL018",
+    "form_source": "DEPARA",
+    "meaning_uz": "Tuman.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "tarixiy yoki hududiy",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tarixiy hudud nomlash; hozirgi rasmiy ma’muriy tuman chegarasi deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 91,
+        "printed_page": 91,
+        "anchor_extracted": "DEPARA",
+        "evidence_extracted": "“u bu yerda nima qilib yuribdi”, deganday Abduboriga\nqaradi. (Soyim Is’hoq, Qabrdan chiqqan qul).\n  DEPARA (Farg‘ona) Tuman. Devona pirim Qipchoq to‘qayi dep-\narasidagi o‘z kapalarida bir yuz ikki yoshda vafot etadilar. (Mansurxo‘ja\nXo‘jayev, Tilsimotli Dang‘ara). O‘rmon xo‘jaligi deparasidagi g‘aroyib\nva muqaddas go‘shalardan biri “Egizak ota” mozoridir. (Mansurxo‘ja\nXo‘jayev, Tilsimotli Dang‘ara).\n  DERAVERSIN (Xorazm) Joyi jannatda bo‘lsin",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL019",
+    "form_source": "ELCHIMOQ",
+    "meaning_uz": "Ergashmoq.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "badiiy va so‘zlashuv",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Elchi yuborish ma’nosi emas. Metaforik ergashish misoli ham bor.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 103,
+        "printed_page": 103,
+        "anchor_extracted": "ELCHIMOQ",
+        "evidence_extracted": "ek ishlarini elyotar paytiga boribgina zo‘rg‘a tugatishdi. (Soy-\nim Is’hoq, Qabrdan chiqqan qul).\n  ELCHIMOQ (Farg‘ona) Ergashmoq. Onaning rozilik so‘zlariga bu\nbirgina “lekin” elchib kelganidan, bechora qizlar sevinish to‘lqinlarini\nyana bir qur ko‘tarishga fursat topolmadilar. (Abdulhamid Cho‘lpon, Ke-\ncha va kunduz). Axir, Miryoqub amaldor bo‘lmasa, loaqal mingboshiga\nmirza yo tilmoch bo‘lmasa, o‘zi o‘rus tilini tuzuk-quruq bilmasa... nega\nm",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL020",
+    "form_source": "POYCHO‘KIR",
+    "meaning_uz": "Sodda.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "baholovchi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Misollarda kamtar/oddiy odam va sodda deb hisoblash ohangi bor. Foydalanuvchiga o‘z-o‘zidan shu sifat bilan murojaat qilinmaydi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 229,
+        "printed_page": 229,
+        "anchor_extracted": "POYCHO‘KIR",
+        "evidence_extracted": "ing ipidan o‘tkar-\nib yuborsang, qo‘lingga madad bo‘ladi”  derdilar. (Hakim  Sattoriy,\nSog‘inch).\n  POYCHO‘KIR (Farg‘ona) Sodda. – Baribir, bir narsani tushun-\nmayapman, boyaqish o‘qituvchidan nima gunoh  o‘tibdiki, bu qadar\ndag‘dag‘a? – Muallim, siz o‘ylaganday, ja-a unaqa poycho‘kir emas-da.\nU: “Farg‘onada kadrlarni tanlash va joyiga qo‘yish noxolis, partiya Us-\ntaviga zid usulda amalga oshiril­moqda”, deb Moskvaga yozmoqchi. Qa-\nmchining bir u",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL021",
+    "form_source": "SARIQSO‘FIYON",
+    "meaning_uz": "Sassiq popishak.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "qush nomi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishda sassiqpopishakning bir turi deb izohlanadi; zoologik tur darajasi tekshirilmagan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 264,
+        "printed_page": 264,
+        "anchor_extracted": "SARIQSO‘FIYON",
+        "evidence_extracted": "hiptasifat to‘qilgan g‘ishsha o‘ramini bir\narava qilib olib keldi. (Matyoqub Qo‘shjonov, Dagish).\n  SARIQSO‘FIYON (Farg‘ona) Sassiq popishak. Gohida yashilliklar-\nga burkangan ma’volar orasidan sariqso‘fiyon tovushi kelib qolsa, qayer-\ndaligini aniq bilardi. (Isajon Sulton, Oftob chiqdi olamga...)\n  SARI(Q)TOL Barglari sariq tol turi. Sariqtol ko‘ringanga sarg‘aygan-\ncha yelkasi qisilib, kim nima desa og‘ziga qaraydi. Undan gap chiqqa-\nndayam  birov",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL022",
+    "form_source": "G‘ULG‘ULI",
+    "meaning_uz": "Kurka.",
+    "area": "Farg‘ona (lug‘at belgisi, aniq tuman ko‘rsatilmagan)",
+    "register": "parranda",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "G‘ulig‘uli va quliquli kirishdagi boshqa yozuvlar; mustaqil variant qaydi sifatida saqlanadi.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 352,
+        "printed_page": 352,
+        "anchor_extracted": "G‘ULG‘ULI",
+        "evidence_extracted": "Maynagulni o‘zidan nari itarib, oshxonadan chiqib ketdi… (Hamid Elxon,\nMaynagul).\n  G‘ULG‘ULI (Farg‘ona) Kurka. – Parrandadan tovusdayam toj bo‘la-\ndi. Keyin, g‘ulg‘ulidayam… (Iqbol Mirzo, Zarb).\n  G‘UMBARAK Chambarak. Atrofi yam-yashil maysazor, ko‘p qirrali\nqizil ipak chodir yuqoriroqdagi tepalikdan qaralsa, ko‘k baxmal choyshab-\nga qizil g‘umbarak gul tikilgandek ko‘rinadi. (Mannop Egamberdiyev, Sa-\nriq ajdar hamlasi). Ulardan",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL023",
+    "form_source": "lappak",
+    "meaning_uz": "Sun’iy yo‘ldosh antennasi.",
+    "area": "Farg‘ona shevalaridan biri",
+    "register": "shakl asosida nomlash",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_extracted": "lappak",
+        "evidence_extracted": "da predmetning dumaloqligi\nbelgisi mujassam, Farg‘ona shevalaridan birida sun’iy yo‘ldosh antennasi\nlappak deb atalishida ham uning yassi shakli muhim rol o‘ynagan. Ayrim\npredmetlar boshqa predmet shakli bilan assotsiatsiya qilinishi natijasida\nnomlanishi mumkin. Xususan, Surxondaryo shevasida ilon evfemik tarz-\nda arg‘amchi nomi bilan yuritiladiki, bunda ilonning uzun ingichka shakli\narg‘amchi bilan assotsiatsiya qilinadi, Qo‘shrabotda aloe ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 180,
+        "printed_page": 180,
+        "anchor_extracted": "LAPPAK",
+        "evidence_extracted": "ning nomi bor. Darmon opangga oborsang, berib yuboradi! (Fay-\nzulla Salayev, Qamish qayiqchalar).\n  LAPPAK Sun’iy yo‘ldosh antennasi. Uzun terak yog‘ochini uchiga\nmahkamlangan ikkita katta mis lappak lopillaydi. – E, bugun kino bo‘la-\ndi! – deb iljayishadi kishilar. (Isajon Sulton, Bo‘ri).\n  LATTATIKAN q. paxtatikan. Jarko‘cha yoqasida bo‘yniga dor os-\nmagan qolmaydi. Bo‘riguldan tortib pochaqirqar, dilikaptar, ilonquyruq,\narslonquyruq, itbod",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL024",
+    "form_source": "shoxilon",
+    "meaning_uz": "Shoxilon — shilliqqurt; nom boshidagi o‘simta asosida izohlangan.",
+    "area": "Farg‘ona (Farg‘. belgisi)",
+    "register": "jonivor nomi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 43,
+        "printed_page": 43,
+        "anchor_extracted": "shox-",
+        "evidence_extracted": "an dialektal zoonimlar qatori-\nda oqshoq (shoxining joyi oq tuk, jun bilan qoplangan qo‘y – Surx.), shox-\nilon (shilliqqurt – nom boshidagi o‘simta asosida hosil bo‘lgan, Farg‘.),\nburnoch (burnida olasi bor ot – Surx.), mirzaboshi (qirqoyoq – Olot),\nmingtomir (otquloq – Chortoq) kabilarni keltirish mumkin.\n  Hajm motivemasi asosida shakllangan nomlar o‘simliklarda deyar-\nli uchramaydi, bu motivema hayvon, hasharot, qurt-qumursqa nomlari-\nda ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL025",
+    "form_source": "ot ninachi",
+    "meaning_uz": "Katta ko‘k tusli ninachi.",
+    "area": "Farg‘ona",
+    "register": "hasharot nomi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 44,
+        "printed_page": 44,
+        "anchor_extracted": "ot ninachi",
+        "evidence_extracted": " kurka), tuyaqumursqa, tuyachumoli, otmo‘rcha (Jizzax, Surxond-\naryo, Qashqadaryo – yirik chumoli), ot ninachi (Farg‘ona – katta ninachi),\ntevona (Vobkent – juvoldiz (teva igna, ya’ni katta igna): Tirnalgan tupro-\nqda turli-tuman hasharotlar, lo‘kanglagan tuyaqumirsqalar yuguriklab\nqoladi. Issiqning zo‘ridan sarg‘ayib, mo‘rtilib turgan munchoqgullarga\ntemirtishlar tegishi bilan omonat turgan donlari to‘kilib, poyasi g‘aram-\nlar orasiga qo‘shilib ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F8",
+        "pdf_page": 214,
+        "printed_page": 214,
+        "anchor_extracted": "OT NINACHI",
+        "evidence_extracted": "o‘rinib turibdiku, – otjallob kalta\nkuzalgan, oq oralagan soqolini qashladi. (Hamid Alp, Zuryod).\n  OT NINACHI Katta ko‘k tusli ninachi. Qishloq tomorqalari aro olin-\ngan sarg‘ish guvalak devor ustiga quyosh chiqmasidan ninachilar qo‘nib\nolishgan. Ular turli-tuman. Masalan, kichkina sariq ninachi zaif bo‘la-\ndi, tez charchab qoladi. Qizg‘ish tusli yana bir turi ham bor. Eng katta-\nsini, ko‘k ranglisini ot ninachi deymiz, u sira toliqmaydi. (Isajo",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL026",
+    "form_source": "vala-vala",
+    "meaning_uz": "Vala-vala — vaysaqi odam.",
+    "area": "Qo‘qon",
+    "register": "salbiy baholovchi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 48,
+        "printed_page": 48,
+        "anchor_extracted": "vala-va-",
+        "evidence_extracted": "ikalizatsiyasi sodir bo‘ladi. Masalan,\nOlot shevasida “vag‘ir” shovqin-suron, Qo‘qon shevasida esa “vala-va-\nla” vaysaqi odamni ifodalaydi. Bu hollarda tovushga taqlid “vag‘ir” so‘zi\nnafaqat shovqinga taqlid qiladi, balki uni ifodalaydi ham, vala-vala vay-\nsaqining so‘zlariga taqlid qilibgina qolmasdan, vaysaqining o‘zini ham\nifodalaydi. O‘tgan asr boshlarida xalqimiz traktorni u chiqaradigan “pot-\npot” tovushi asosida “potpot” deb nomlaganini ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL027",
+    "form_source": "shapshak",
+    "meaning_uz": "Bezori.",
+    "area": "Qo‘qon",
+    "register": "salbiy baholovchi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 49,
+        "printed_page": 49,
+        "anchor_extracted": "shapshak",
+        "evidence_extracted": ", “musiqa asboblari” semantik maydonlariga man-\nsub quyidagi shevaga xos so‘zlarni kiritish mumkin: shapshak (Qo‘qon,\nbezori, shap-shap tovushidan), chuqchuq (g‘iybatchi, Urganch, chuq-chuq\ntovushidan); vojji (Xorazm, ko‘p gapiradigan odam, voj-voj tovushidan);\nduduk (nay, Xorazm, du-du tovushidan). O‘g‘uz lahjasida kuzatiladigan\nduduk onomatopi o‘zbek adabiy tiliga kirmagan bo‘lsa-da, Kavkaz tillar-\niga o‘zlashgan va faol qo‘llanadi. Hozirgi a",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL028",
+    "form_source": "g‘ulig‘uli",
+    "meaning_uz": "Kurka.",
+    "area": "Farg‘ona",
+    "register": "parranda nomi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 49,
+        "printed_page": 49,
+        "anchor_extracted": "g‘ulig‘uli",
+        "evidence_extracted": "axmin qi­lish mumkin.\n   “Qush, hasharot” semantik maydoniga quyidagi dialektal onomatoplar\nkiradi: g‘ulig‘uli, quliquli (kurka, Farg‘ona – g‘ul-g‘ul, qul-qul tovushlari-\ndan), jigjikka (chittak, Olot – jik-jik tovushidan), chakchak (chigirtka, Xo-\nrazm – chak-chak tovushidan). “Ro‘zg‘or buyumlari” semantik maydonida\nquyidagi dialektal ono­matoplar kuzatiladi: duki (chekich, Iqon – duk-duk\ntovushidan), cho‘lpi (chovli, Buxoro – cho‘lp-cho‘lp tovu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL029",
+    "form_source": "quliquli",
+    "meaning_uz": "Kurka.",
+    "area": "Farg‘ona",
+    "register": "parranda nomi",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Kirishdagi qayd; nomning etimologik izohi muallif talqini. Satrdagi bo‘linish alohida tiklangan.",
+    "refs": [
+      {
+        "source": "F8",
+        "pdf_page": 49,
+        "printed_page": 49,
+        "anchor_extracted": "quliquli",
+        "evidence_extracted": "h mumkin.\n   “Qush, hasharot” semantik maydoniga quyidagi dialektal onomatoplar\nkiradi: g‘ulig‘uli, quliquli (kurka, Farg‘ona – g‘ul-g‘ul, qul-qul tovushlari-\ndan), jigjikka (chittak, Olot – jik-jik tovushidan), chakchak (chigirtka, Xo-\nrazm – chak-chak tovushidan). “Ro‘zg‘or buyumlari” semantik maydonida\nquyidagi dialektal ono­matoplar kuzatiladi: duki (chekich, Iqon – duk-duk\ntovushidan), cho‘lpi (chovli, Buxoro – cho‘lp-cho‘lp tovushidan), t",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL030",
+    "form_source": "buvak",
+    "meaning_uz": "Chaqaloq.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "O‘qishga qulay lotin shakli; asl transkripsiya havolada.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 54,
+        "printed_page": 53,
+        "anchor_extracted": "бувэк",
+        "evidence_extracted": "met va tushunchalar shevalarda turli so'zlar bilan\nyuritiladi:\n    чзцэлэ: ~ caqala: (Toshkent)  // бувэк ~ buvak (Fargona) I! бала ~\nbala (shim. o‘zb.sh.);\n   тухум ~ tyxym (Toshkent) // мэйэк ~ majak (qipchoq) 11 йьмьрта ~\njimirta (Xorazm);\n    огър ~ oyir (Toshkent) // кэлъ ~ kali (shim.o‘zb.sh.) // сок,ъ ~ so.qi\n(Xorfzm);\n    чумолъ ~ cumali (Toshkent)  // морчэ ~ morca (Samarqand)  -\nцарьнджа ~ qarinza (Xorazm);\n    чорчэй ~ copcaj (Tos",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_extracted": "buvək",
+        "evidence_extracted": "vasida    Samarqand shevasida   Farg’ona shevasida\nchəqələ:                 chaqaloq                buvək\nmuch(ъ)chə            musъcha               mъsъəchə\ngərъmdorъ             qalampur                  qalampъr\no’gъr                        o’g’ur                       kelъ\nNazorat topshiriqlari\n1.Lahjaning leksik xususiyatlari haqida fikr yuritishga harakat qiling (kategoriya-\nidrok).\n2.Qavm-qarindoshlik atamalarini o’z shevangiz va ada",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL031",
+    "form_source": "shoti",
+    "meaning_uz": "Narvon.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "F2 57-betda narvon va arava qismi ma’nolari birga berilgan; kontekst muhim.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 54,
+        "printed_page": 53,
+        "anchor_extracted": "шоть",
+        "evidence_extracted": "nd) // ертэй\n~ ertaj (Xorazm).\n     b) ayni bir so ‘z shevalarda turlicha та ’noga ega bo ‘ladi:\n   шоть ~ sati - Toshkentda arava qismi nomi, Farg‘onada narvon;\n    byvb ~ buvi  - Toshkentda ota va onaning onasi, Farg‘onada ona\n ma’nosida.\n   пэшшэ ~ passa  - Toshkentda chaqmaydigan hashorat, Farg‘ona va\n shimoliy o‘zbek shevalarida chaqadigan hashorat.\n\n\n\n                                             53",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_extracted": "narvon, b)arava qismi",
+        "evidence_extracted": "qa ma’nolarni anglatadi.\n              Toshkent - aravaning qismi\nShet\n               Farg’ona – a) narvon, b)arava qismi;\n\n              Toshkent pashsha (muxa)\nPashsha\n               Farg’ona chivin (komar).\n\n                 Nazorat topshiriqlari:\n2.1.O’zbek  lahjashunosligiga  tegishli o’quv  darsliklari va  qo’llanmalarda keng\nqatlamga mansub so’zlarni aniqlash va uni dalillar asosida isbotlash.\n2.2.Amaliy mashg’ulotlar uchun keng qatlamga aloqador so’",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL032",
+    "form_source": "pashsha",
+    "meaning_uz": "Chivin; chaqadigan hasharot.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Toshkentdagi pashsha bilan muqobili bir xil emas.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 57,
+        "printed_page": 57,
+        "anchor_extracted": "Farg’ona chivin",
+        "evidence_extracted": " Farg’ona – a) narvon, b)arava qismi;\n\n              Toshkent pashsha (muxa)\nPashsha\n               Farg’ona chivin (komar).\n\n                 Nazorat topshiriqlari:\n2.1.O’zbek  lahjashunosligiga  tegishli o’quv  darsliklari va  qo’llanmalarda keng\nqatlamga mansub so’zlarni aniqlash va uni dalillar asosida isbotlash.\n2.2.Amaliy mashg’ulotlar uchun keng qatlamga aloqador so’zlar kartotekasini (100)\nso’zdan iborat) tuzib ko’rsatish.\n2.3.O’rta  qatlam  v",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F1",
+        "pdf_page": 54,
+        "printed_page": 53,
+        "anchor_extracted": "chaqadigan hashorat",
+        "evidence_extracted": "ida.\n   пэшшэ ~ passa  - Toshkentda chaqmaydigan hashorat, Farg‘ona va\n shimoliy o‘zbek shevalarida chaqadigan hashorat.\n\n\n\n                                             53",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL033",
+    "form_source": "ayya",
+    "meaning_uz": "Ona.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Buvi bilan yonma-yon variant sifatida berilgan.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 82,
+        "printed_page": null,
+        "anchor_extracted": "ayya",
+        "evidence_extracted": "bu darajada uchraydi.\n\nMisol: adabiy tildagi ona so’zi Toshkent shevasida oyi, Farg`ona, shevasida\n\nayya,  buvi  shaklida  faol  qo’llaniladi. Yoki adabiy  tildagi qalampir  so’zi\n\nToshkent shevasida garmdori, Buxoro shevasida qalampur; adabiy tildagi o’rik\n\nso’zi Samarqand-Buxoro shevasida zardoli tarzida ifodalanadi. Shevalarning\n\nlug`at tarkibi juda boy bo’lib, ular o’zbek adabiy tili boyligini ta‘min etuvchi\n\neng muhim manba hisoblanadi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL034",
+    "form_source": "mardak",
+    "meaning_uz": "So‘ta.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Adabiy imloga yaqin ko‘rsatish; manbada o‘simlik turi ochilmagan.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 61,
+        "printed_page": 60,
+        "anchor_extracted": "мэрдэк",
+        "evidence_extracted": "q (Andijon), sopol idish ~ крцэчэ ~ qoqdca (Andijon),\n janjalkash ~ лолъ ~ loli (Farg‘ona), so‘ta ~ мэрдэк ~ mardak (Farg‘ona),\n qoiqop ~ мъйэлэк ~ mijalak ( 0 ‘sh), holat ~ элпоз ~ alpaz (Toshkent) ва\n бошхалар.\n     Buxoro guruh shevalarida quyidagi kabi so‘zlar qoMlanadi: belanchak\n ~ элвшдж ~  alvanz, kekirdak~ qрук ~ aruk, bexostan~ бэнэхос ~\n banaxas, agar ~ бэлле ~ balle, salomlashmoq ~ еохордъ ~ vaxordi, beshik\n\n\n                     ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL035",
+    "form_source": "ko‘kmak",
+    "meaning_uz": "Ko‘kat.",
+    "area": "Andijon va Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "-mak affiksli yasalish; o‘qishga qulay shakl, asl transkripsiya saqlanadi.",
+    "refs": [
+      {
+        "source": "F1",
+        "pdf_page": 49,
+        "printed_page": 48,
+        "anchor_extracted": "к о к м э к",
+        "evidence_extracted": "    -мяк ~ т а к  affiksi sifatdan ot yasajdi: ko‘kat ~  к о к м э к  ~ kokmak\n\n(Andijon, Farg'ona).\n    -шуг ~ suy affiksi otdan  sifat yasaydi: yopishqoq ~ йелъмшуг ~\njelimsuy (Toshkent).\n    Xorazm  shevalarida  ba’zi  o'rinlarda  chiqish  kelishigi  affiksi  so‘z\nyasash funksiyasini bajargan: boladek boMdi ~ баладьн болдь ~ baladin\n bold'i, bolamdek  bo‘ldi ~ баламньн болдь ~ balamnin  boldi,  otdek\ny",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL036",
+    "form_source": "misilcha",
+    "meaning_uz": "Musicha.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "F2da m’s’lchə, boshqa jadvalda mъsъəchə; yozuvlar majburan bir shaklga keltirilmaydi.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_extracted": "misilcha",
+        "evidence_extracted": "    O’g`uz    Qipchoq\n\nToshkent   Samarqand  Buxoro    Farg`ona\n\nmuchicha    musicha     musicha    misilcha     qumri       musichi\n\narg`imchoq  arg`unchoq   alvonch    hayunchak   sarindjaq    qalgancha\n\nduxoba      baxmal      baxmal      barqit       baxmal     baxmal\n\nchumoli     mo’rcha     mo’rcha    chumalik     qarindja     chumali\n\nasalari        asalari         asalari       asalari      zambir       asalari\n\ntuxum      tuxum      tu",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "m’s’lchə",
+        "evidence_extracted": "Tuxum          yimirtə        məyək\n                            /məyək\nmuch’chə      mus’cha        m’s’lchə       qumri         mΥsichi\n                                                          //mΥchchi\ngər’mdorъ      qalampur       qalampъr       burch          qalampъr\ndovuchchə     davuchcha      g’ora         dΥvchə        dəvchə\nqələmchə      qalamcha       ch’kəldək      qalamcha      qalamcha\nch’ttəy            -               Dj’nqarc",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL037",
+    "form_source": "hayunchak",
+    "meaning_uz": "Arg‘imchoq.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Qiyosiy jadval qatori; aniq tuman berilmagan.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_extracted": "hayunchak",
+        "evidence_extracted": "cha    musicha     musicha    misilcha     qumri       musichi\n\narg`imchoq  arg`unchoq   alvonch    hayunchak   sarindjaq    qalgancha\n\nduxoba      baxmal      baxmal      barqit       baxmal     baxmal\n\nchumoli     mo’rcha     mo’rcha    chumalik     qarindja     chumali\n\nasalari        asalari         asalari       asalari      zambir       asalari\n\ntuxum      tuxum      tuxum     tuxum       yumo’rta   mayak\n\nyuray        yurak        yurak  ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL038",
+    "form_source": "barqit",
+    "meaning_uz": "Baxmal.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "F2da Barqt yozuvi; tovush aniqligi tekshirishga muhtoj.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_extracted": "barqit",
+        "evidence_extracted": "oq  arg`unchoq   alvonch    hayunchak   sarindjaq    qalgancha\n\nduxoba      baxmal      baxmal      barqit       baxmal     baxmal\n\nchumoli     mo’rcha     mo’rcha    chumalik     qarindja     chumali\n\nasalari        asalari         asalari       asalari      zambir       asalari\n\ntuxum      tuxum      tuxum     tuxum       yumo’rta   mayak\n\nyuray        yurak        yurak      yurak       yurak       jurak\n\nchoch       soch         chach    ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "Barqt",
+        "evidence_extracted": "    qapqaq-\n                                                    qaqmaq\nduxobə        baxmal         Barqt         baxmal        baxmal\nchəchvon       Chashpan(t)    ch’mmət          -             chimmət\n\n\nDialektal so’zlarning semantik gruppalari juda ko’p bo’lib ulardan ayrimlarinigina\nkeltiramiz:\nDehqonchilikka xos atamalar: oq arъq, shaq arъq, paxta, korek, kosek, levlegъ,\nqъzъlcha, erpe, bug’doy //biydey.\nChorvochilikka xos atamalar: et",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL039",
+    "form_source": "chumalik",
+    "meaning_uz": "Chumoli.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Qiyosiy jadval materiali.",
+    "refs": [
+      {
+        "source": "F3",
+        "pdf_page": 68,
+        "printed_page": null,
+        "anchor_extracted": "chumalik",
+        "evidence_extracted": "oba      baxmal      baxmal      barqit       baxmal     baxmal\n\nchumoli     mo’rcha     mo’rcha    chumalik     qarindja     chumali\n\nasalari        asalari         asalari       asalari      zambir       asalari\n\ntuxum      tuxum      tuxum     tuxum       yumo’rta   mayak\n\nyuray        yurak        yurak      yurak       yurak       jurak\n\nchoch       soch         chach      chach       sach        sach\n\n\n\n    U yoki bu ma’nodoshlar qatoriga",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL040",
+    "form_source": "g‘ora",
+    "meaning_uz": "Dovuchcha.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Qiyosiy jadval; mevaning turi va pishish bosqichi mustaqil aniqlanmagan.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "g’ora",
+        "evidence_extracted": "i\ngər’mdorъ      qalampur       qalampъr       burch          qalampъr\ndovuchchə     davuchcha      g’ora         dΥvchə        dəvchə\nqələmchə      qalamcha       ch’kəldək      qalamcha      qalamcha\nch’ttəy            -               Dj’nqarchə      Chitlo’q           -\nTuvog’        qapqoq        qapqaq       Duvaq         qapqaq-\n                                                    qaqmaq\nduxobə        baxmal         Barqt         baxmal",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL041",
+    "form_source": "chikaldak",
+    "meaning_uz": "Qalamcha.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Taxminiy o‘qish, asl aralash transkripsiya havolada; tayyor talaffuz qoidasi emas.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "ch’kəldək",
+        "evidence_extracted": "lampъr\ndovuchchə     davuchcha      g’ora         dΥvchə        dəvchə\nqələmchə      qalamcha       ch’kəldək      qalamcha      qalamcha\nch’ttəy            -               Dj’nqarchə      Chitlo’q           -\nTuvog’        qapqoq        qapqaq       Duvaq         qapqaq-\n                                                    qaqmaq\nduxobə        baxmal         Barqt         baxmal        baxmal\nchəchvon       Chashpan(t)    ch’mmət          -     ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL042",
+    "form_source": "Dj’nqarchə",
+    "meaning_uz": "Chittak ma’nosiga qiyoslangan jadval birligi.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Toshkent ustunidagi ch’ttey bilan qiyos; zoologik identifikatsiya va soddalashtirilgan lotin o‘qish berilmaydi.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "Dj’nqarchə",
+        "evidence_extracted": "ləmchə      qalamcha       ch’kəldək      qalamcha      qalamcha\nch’ttəy            -               Dj’nqarchə      Chitlo’q           -\nTuvog’        qapqoq        qapqaq       Duvaq         qapqaq-\n                                                    qaqmaq\nduxobə        baxmal         Barqt         baxmal        baxmal\nchəchvon       Chashpan(t)    ch’mmət          -             chimmət\n\n\nDialektal so’zlarning semantik gruppalari juda ko’p bo’l",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL043",
+    "form_source": "chimmət",
+    "meaning_uz": "Chachvon/chashpan(t) bilan qiyoslangan yopinchiq.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Tarixiy kiyim atamasi; buyumlarning mutlaq bir xilligi tasdiqlanmagan.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "anchor_extracted": "ch’mmət",
+        "evidence_extracted": "aqmaq\nduxobə        baxmal         Barqt         baxmal        baxmal\nchəchvon       Chashpan(t)    ch’mmət          -             chimmət\n\n\nDialektal so’zlarning semantik gruppalari juda ko’p bo’lib ulardan ayrimlarinigina\nkeltiramiz:\nDehqonchilikka xos atamalar: oq arъq, shaq arъq, paxta, korek, kosek, levlegъ,\nqъzъlcha, erpe, bug’doy //biydey.\nChorvochilikka xos atamalar: et-at, sъgъr-siyir-ъnek-ъney-uy, bъzogъ-gosele,  qoy,\nechkъ-gech, qul",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL044",
+    "form_source": "kelъ",
+    "meaning_uz": "O‘g‘ir/hovon bilan qiyoslangan birlik.",
+    "area": "Farg‘ona",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "manbada_qayd_etilgan",
+    "notes": "Uchko‘prik maqolasidagi Keli izohi ma’noni qo‘llab-quvvatlaydi; transkripsiya va aniq fonetika alohida.",
+    "refs": [
+      {
+        "source": "F2",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "anchor_extracted": "kelъ",
+        "evidence_extracted": "       qalampur                  qalampъr\no’gъr                        o’g’ur                       kelъ\nNazorat topshiriqlari\n1.Lahjaning leksik xususiyatlari haqida fikr yuritishga harakat qiling (kategoriya-\nidrok).\n2.Qavm-qarindoshlik atamalarini o’z shevangiz va adabiy til bilan qiyoslab sharhlang\n(kategoriya-idrok).\n3.Kasb-hunar  leksikasini  o’z  shevangiz  va  adabiy   til  bilan  qiyosan  izohlang\n(kategoriya-idrok).\n4.Lahjadagi o’",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      },
+      {
+        "source": "F6",
+        "pdf_page": 2,
+        "printed_page": null,
+        "anchor_extracted": " Keli",
+        "evidence_extracted": "lotlarni kurmaklarini tozalash uchun ishlatiladi.\nBuvim har doim guruchni yelpishtovoqda tozalaydi.\n Keli – tut daraxtidan qilinadi. Ichi chuqur qilib o’yilgan bo’ladi. Sopi ham tut daraxtidan qilinadi.\nKelining ichiga moslangan bo’ladi. Asosan tolqon qilishda foydalaniladi va boshqa mansulotlarni\nham ezib maydalashda ishlatiladi.\nOnam bizga ko’pincha kelida tolqon qilib beradi.\n Rumcha – kamzir, nimcha.\nOnam menga yangi rumcha olib berdi.\n ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL045",
+    "form_source": "Amaki, Katta dada, Amak",
+    "meaning_uz": "Otaning akasi/ukasi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Amak",
+        "evidence_extracted": "           varianti               varianti            muqobili\n  1.   Otaning akasi / ukasi         Amaki,  Katta  dada,  Ağa (Agha), Katta  Amaki\n                         Amak                aka\n  2.   Onaning akasi / ukasi          Togʻa, Togʻay        Dayi (Dayı)         Togʻa\n  3.   Otaning opasi / singlisi      Amma, Ammaki       Eje (Eje), Appa    Amma\n  4.   Onaning opasi / singlisi        Xola, Xolapo          Xala, Teta, Bibi      ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL046",
+    "form_source": "Tog‘a, Tog‘ay",
+    "meaning_uz": "Onaning akasi/ukasi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Togʻay",
+        "evidence_extracted": "Amaki\n                         Amak                aka\n  2.   Onaning akasi / ukasi          Togʻa, Togʻay        Dayi (Dayı)         Togʻa\n  3.   Otaning opasi / singlisi      Amma, Ammaki       Eje (Eje), Appa    Amma\n  4.   Onaning opasi / singlisi        Xola, Xolapo          Xala, Teta, Bibi      Xola\n  5.  Turmush   oʻrtogʻi  (Ayolga   Er,         Xoʻjayin,   Er, Adaxasi          Er / Turmush oʻrtoq\n      nisbatan)                   Dad",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL047",
+    "form_source": "Amma, Ammaki",
+    "meaning_uz": "Otaning opasi/singlisi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Ammaki",
+        "evidence_extracted": "          Togʻa, Togʻay        Dayi (Dayı)         Togʻa\n  3.   Otaning opasi / singlisi      Amma, Ammaki       Eje (Eje), Appa    Amma\n  4.   Onaning opasi / singlisi        Xola, Xolapo          Xala, Teta, Bibi      Xola\n  5.  Turmush   oʻrtogʻi  (Ayolga   Er,         Xoʻjayin,   Er, Adaxasi          Er / Turmush oʻrtoq\n      nisbatan)                   Dadamlar\n  6.  Turmush  oʻrtogʻi  (Erkakka  Xotin,         Ayol,  Xatin,        Avrat,",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL048",
+    "form_source": "Xola, Xolapo",
+    "meaning_uz": "Onaning opasi/singlisi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Xolapo",
+        "evidence_extracted": "nglisi      Amma, Ammaki       Eje (Eje), Appa    Amma\n  4.   Onaning opasi / singlisi        Xola, Xolapo          Xala, Teta, Bibi      Xola\n  5.  Turmush   oʻrtogʻi  (Ayolga   Er,         Xoʻjayin,   Er, Adaxasi          Er / Turmush oʻrtoq\n      nisbatan)                   Dadamlar\n  6.  Turmush  oʻrtogʻi  (Erkakka  Xotin,         Ayol,  Xatin,        Avrat,  Xotin / Ayol\n      nisbatan)                    Kelinchak           Kamina\n     ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL049",
+    "form_source": "Er, Xo‘jayin, Dadamlar",
+    "meaning_uz": "Ayolning turmush o‘rtog‘i",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Dadamlar",
+        "evidence_extracted": " Er,         Xoʻjayin,   Er, Adaxasi          Er / Turmush oʻrtoq\n      nisbatan)                   Dadamlar\n  6.  Turmush  oʻrtogʻi  (Erkakka  Xotin,         Ayol,  Xatin,        Avrat,  Xotin / Ayol\n      nisbatan)                    Kelinchak           Kamina\n     Jadval 1. Qarindoshlik terminlarining hududiy-leksik variantlari tizimi.\n    Fargʻona shevasida qoʻllaniladigan amaki, togʻa, amma, xola kabi birliklar asosan\narabiy oʻzlashmalar t",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL050",
+    "form_source": "Xotin, Ayol, Kelinchak",
+    "meaning_uz": "Erkakning turmush o‘rtog‘i",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 3,
+        "printed_page": 27,
+        "anchor_extracted": "Kelinchak",
+        "evidence_extracted": "rkakka  Xotin,         Ayol,  Xatin,        Avrat,  Xotin / Ayol\n      nisbatan)                    Kelinchak           Kamina\n     Jadval 1. Qarindoshlik terminlarining hududiy-leksik variantlari tizimi.\n    Fargʻona shevasida qoʻllaniladigan amaki, togʻa, amma, xola kabi birliklar asosan\narabiy oʻzlashmalar taʼsirida adabiy til normasi bilan bir xillikni tashkil etadi. Ammo Xorazm\nshevasida saqlanib qolgan dayi (onaning akasi/ukasi) va eje yok",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL051",
+    "form_source": "Patir, Yupqa, Qatlama",
+    "meaning_uz": "Non turlari",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Qatlama",
+        "evidence_extracted": "                                   holati\n 1.  Nonning bir turi (yupqa)        Patir,       Yupqa,  Qatlama,    Chovrek,  Patir / Yupqa\n                               Qatlama           Yupqa\n 2.   Qovurilgan yoki dimlangan  Qovurdoq, Jizza      Qovurdoq, Sho‘rkabob  Qovurdoq\n      goʻsht\n 3.  Suyuq osh (Mosh bilan)      Moshxoʻrda,         Moshova, Moʻshshaba  Moshxoʻrda\n                             Moshaba\n 4.   Oshpazlik pichogʻi           P",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL052",
+    "form_source": "Qovurdoq, Jizza",
+    "meaning_uz": "Qovurilgan yoki dimlangan go‘sht sifatida qiyoslangan",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Jizza",
+        "evidence_extracted": "a\n                               Qatlama           Yupqa\n 2.   Qovurilgan yoki dimlangan  Qovurdoq, Jizza      Qovurdoq, Sho‘rkabob  Qovurdoq\n      goʻsht\n 3.  Suyuq osh (Mosh bilan)      Moshxoʻrda,         Moshova, Moʻshshaba  Moshxoʻrda\n                             Moshaba\n 4.   Oshpazlik pichogʻi           Pichoq, Oshpichoq    Biçaq (Bichaq)         Pichoq\n 5.  Qozonni       tozalaydigan  Qozonqirgʻich,       Qozonqirqish           Qozon",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL053",
+    "form_source": "Moshxo‘rda, Moshaba",
+    "meaning_uz": "Moshli suyuq osh sifatida qiyoslangan",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Moshaba",
+        "evidence_extracted": " (Mosh bilan)      Moshxoʻrda,         Moshova, Moʻshshaba  Moshxoʻrda\n                             Moshaba\n 4.   Oshpazlik pichogʻi           Pichoq, Oshpichoq    Biçaq (Bichaq)         Pichoq\n 5.  Qozonni       tozalaydigan  Qozonqirgʻich,       Qozonqirqish           Qozonqirgʻich\n    buyum                       Qirqich\n 6.   Qatiq va suv aralashmasi     Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL054",
+    "form_source": "Pichoq, Oshpichoq",
+    "meaning_uz": "Oshpazlik pichog‘i",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Oshpichoq",
+        "evidence_extracted": "shshaba  Moshxoʻrda\n                             Moshaba\n 4.   Oshpazlik pichogʻi           Pichoq, Oshpichoq    Biçaq (Bichaq)         Pichoq\n 5.  Qozonni       tozalaydigan  Qozonqirgʻich,       Qozonqirqish           Qozonqirgʻich\n    buyum                       Qirqich\n 6.   Qatiq va suv aralashmasi     Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopish  Rapida, Nonpar        Yastiq, Rapida         Rapi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL055",
+    "form_source": "Qozonqirg‘ich, Qirqich",
+    "meaning_uz": "Qozonni tozalaydigan buyum",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Qirqich",
+        "evidence_extracted": "laydigan  Qozonqirgʻich,       Qozonqirqish           Qozonqirgʻich\n    buyum                       Qirqich\n 6.   Qatiq va suv aralashmasi     Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopish  Rapida, Nonpar        Yastiq, Rapida         Rapida\n     moslamasi\n     Jadval 2. Pazandachilik va maishiy leksika muqobillari.\n    Ushbu guruhda oʻzaro farqlanish darajasi juda qiziqarli manzarani yuzaga keltiris",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL056",
+    "form_source": "Ayron, Chalop",
+    "meaning_uz": "Qatiq va suv aralashmasi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Chalop",
+        "evidence_extracted": "    Qozonqirgʻich\n    buyum                       Qirqich\n 6.   Qatiq va suv aralashmasi     Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopish  Rapida, Nonpar        Yastiq, Rapida         Rapida\n     moslamasi\n     Jadval 2. Pazandachilik va maishiy leksika muqobillari.\n    Ushbu guruhda oʻzaro farqlanish darajasi juda qiziqarli manzarani yuzaga keltirishi\nma'lum bo'ldi. Masalan, Xorazm shevasidagi cho",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL057",
+    "form_source": "Rapida, Nonpar",
+    "meaning_uz": "Tandirda non yopish moslamasi deb qiyoslangan",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Nonpar",
+        "evidence_extracted": " Ayron, Chalop        Ayran, Dogʻ (Doğ)     Chalap / Ayron\n 7.   Tandirda    non    yopish  Rapida, Nonpar        Yastiq, Rapida         Rapida\n     moslamasi\n     Jadval 2. Pazandachilik va maishiy leksika muqobillari.\n    Ushbu guruhda oʻzaro farqlanish darajasi juda qiziqarli manzarani yuzaga keltirishi\nma'lum bo'ldi. Masalan, Xorazm shevasidagi chovrek (non) soʻzi sof turkiy-oʻgʻuzcha\nxarakterga ega boʻlib, turkman tilidagi çörek soʻzi bi",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL058",
+    "form_source": "Dalan, Supa, Ayvon",
+    "meaning_uz": "Hovlidagi eshik oldi ayvoni deb qiyoslangan",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 4,
+        "printed_page": 28,
+        "anchor_extracted": "Dalan",
+        "evidence_extracted": "   Fargʻona provinsiyasida  Xorazm provinsiyasida  Adabiy tilda\n  1.   Hovlidagi eshik oldi ayvoni  Dalan, Supa, Ayvon       Dalan, Taloq, Guldasta   Ayvon / Supa\n\n\n                                             28",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL059",
+    "form_source": "Sandiq",
+    "meaning_uz": "Kiyim soladigan sandiq",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Sandiq",
+        "evidence_extracted": "‘qon DPI. Ilmiy xabarlar 2026-yil 8-son ________________ B seriya\n  2.  Kiyim soladigan sandiq      Sandiq                  Yashiq (Yashiq)         Sandiq\n  3.  Suv tashiydigan chelak      Chelak, Paqir             Vedra, Paqir, Goʻgʻon    Chelak / Paqir\n  4.   Supurgi                     Supurgi, Sidirgʻich         Pipik, Supurga           Supurgi\n  5.   Hovli darvozasi / eshigi      Darvoza, Katta eshik      Qapi (Qapı), Darvaza     Darvoza",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL060",
+    "form_source": "Chelak, Paqir",
+    "meaning_uz": "Suv tashiydigan chelak",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Chelak",
+        "evidence_extracted": "andiq      Sandiq                  Yashiq (Yashiq)         Sandiq\n  3.  Suv tashiydigan chelak      Chelak, Paqir             Vedra, Paqir, Goʻgʻon    Chelak / Paqir\n  4.   Supurgi                     Supurgi, Sidirgʻich         Pipik, Supurga           Supurgi\n  5.   Hovli darvozasi / eshigi      Darvoza, Katta eshik      Qapi (Qapı), Darvaza     Darvoza\n  6.   Chiroq, yoritgich            Chiroq, Lampa           Lampochka, Shira        Chir",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL061",
+    "form_source": "Supurgi, Sidirg‘ich",
+    "meaning_uz": "Supurgi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Sidirgʻich",
+        "evidence_extracted": "qir             Vedra, Paqir, Goʻgʻon    Chelak / Paqir\n  4.   Supurgi                     Supurgi, Sidirgʻich         Pipik, Supurga           Supurgi\n  5.   Hovli darvozasi / eshigi      Darvoza, Katta eshik      Qapi (Qapı), Darvaza     Darvoza\n  6.   Chiroq, yoritgich            Chiroq, Lampa           Lampochka, Shira        Chiroq\n  7.    Latiri, kir yuvish togʻorasi    Togʻora, Tos               Tas, Legen              Togʻora\n     Jadval ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL062",
+    "form_source": "Darvoza, Katta eshik",
+    "meaning_uz": "Hovli darvozasi/eshigi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Katta eshik",
+        "evidence_extracted": ", Sidirgʻich         Pipik, Supurga           Supurgi\n  5.   Hovli darvozasi / eshigi      Darvoza, Katta eshik      Qapi (Qapı), Darvaza     Darvoza\n  6.   Chiroq, yoritgich            Chiroq, Lampa           Lampochka, Shira        Chiroq\n  7.    Latiri, kir yuvish togʻorasi    Togʻora, Tos               Tas, Legen              Togʻora\n     Jadval 3. Uy-roʻzgʻor va qurilish leksikasidagi tafovvutlar.\n    Ushbu guruhda eng yorqin misollardan biri",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL063",
+    "form_source": "Chiroq, Lampa",
+    "meaning_uz": "Yoritgich",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Lampa",
+        "evidence_extracted": "voza, Katta eshik      Qapi (Qapı), Darvaza     Darvoza\n  6.   Chiroq, yoritgich            Chiroq, Lampa           Lampochka, Shira        Chiroq\n  7.    Latiri, kir yuvish togʻorasi    Togʻora, Tos               Tas, Legen              Togʻora\n     Jadval 3. Uy-roʻzgʻor va qurilish leksikasidagi tafovvutlar.\n    Ushbu guruhda eng yorqin misollardan biri Xorazmdagi qapi soʻzidir. Adabiy tildagi va\nFargʻona shevasidagi darvoza yoki eshik soʻ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL064",
+    "form_source": "Tog‘ora, Tos",
+    "meaning_uz": "Kir yuvish tog‘orasi",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Togʻora",
+        "evidence_extracted": "     Chiroq, Lampa           Lampochka, Shira        Chiroq\n  7.    Latiri, kir yuvish togʻorasi    Togʻora, Tos               Tas, Legen              Togʻora\n     Jadval 3. Uy-roʻzgʻor va qurilish leksikasidagi tafovvutlar.\n    Ushbu guruhda eng yorqin misollardan biri Xorazmdagi qapi soʻzidir. Adabiy tildagi va\nFargʻona shevasidagi darvoza yoki eshik soʻzlari oʻrniga Xorazmda (ayniqsa, xonlik davri\nmadaniy areali saqlangan tumanlarda) qapi s",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL065",
+    "form_source": "Pomidor, Lopqa",
+    "meaning_uz": "Pomidor",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Lopqa",
+        "evidence_extracted": "     varianti                varianti             muqobili\n 1.  Pomidor (mahalliy tilda)   Pomidor, Lopqa         Tamatis, Pomidor     Pomidor\n 2.  Qovoq (oshqovoq)        Oshqovoq, Qovoq       Xayti, Palovqovoq     Oshqovoq\n 3.  Tarvuz                  Tarvuz                 Qarpiz (Qarpız)       Tarvuz\n 4.   Choʻp,   xazon,  mayda  Xazon, Paxal, Choʻp     Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      A",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL066",
+    "form_source": "Oshqovoq, Qovoq",
+    "meaning_uz": "Oshqovoq",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Oshqovoq",
+        "evidence_extracted": "(mahalliy tilda)   Pomidor, Lopqa         Tamatis, Pomidor     Pomidor\n 2.  Qovoq (oshqovoq)        Oshqovoq, Qovoq       Xayti, Palovqovoq     Oshqovoq\n 3.  Tarvuz                  Tarvuz                 Qarpiz (Qarpız)       Tarvuz\n 4.   Choʻp,   xazon,  mayda  Xazon, Paxal, Choʻp     Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      Ariq, Shox, Salariq     Yop (Yap), Ariq       Ariq\n 6.   Baqa, qurbaqa      ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL067",
+    "form_source": "Tarvuz",
+    "meaning_uz": "Tarvuz",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Tarvuz",
+        "evidence_extracted": "     Pomidor\n 2.  Qovoq (oshqovoq)        Oshqovoq, Qovoq       Xayti, Palovqovoq     Oshqovoq\n 3.  Tarvuz                  Tarvuz                 Qarpiz (Qarpız)       Tarvuz\n 4.   Choʻp,   xazon,  mayda  Xazon, Paxal, Choʻp     Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      Ariq, Shox, Salariq     Yop (Yap), Ariq       Ariq\n 6.   Baqa, qurbaqa            Baqa, Qurbaqa          Baqa, Jabin           Qurba",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL068",
+    "form_source": "Xazon, Paxal, Cho‘p",
+    "meaning_uz": "Xazon, cho‘p, mayda shoxlar deb qiyoslangan",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Paxal",
+        "evidence_extracted": "           Tarvuz                 Qarpiz (Qarpız)       Tarvuz\n 4.   Choʻp,   xazon,  mayda  Xazon, Paxal, Choʻp     Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      Ariq, Shox, Salariq     Yop (Yap), Ariq       Ariq\n 6.   Baqa, qurbaqa            Baqa, Qurbaqa          Baqa, Jabin           Qurbaqa\n 7.  Molxona, ogʻil           Molxona, Ogʻilxona     Kete (Kete), Molxona  Ogʻil / Molxona\n\n    Ushbu lingvis",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL069",
+    "form_source": "Ariq, Shox, Salariq",
+    "meaning_uz": "Kichik suv yo‘li",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Salariq",
+        "evidence_extracted": "    Xazal, Chala, Choʻp   Xazon / Choʻp\n      shoxlar\n 5.   Ariq, kichik suv yoʻli      Ariq, Shox, Salariq     Yop (Yap), Ariq       Ariq\n 6.   Baqa, qurbaqa            Baqa, Qurbaqa          Baqa, Jabin           Qurbaqa\n 7.  Molxona, ogʻil           Molxona, Ogʻilxona     Kete (Kete), Molxona  Ogʻil / Molxona\n\n    Ushbu lingvistik guruh ham jiddiy semantik kashfiyotlarni taqdim etadi. Xorazm\nshevasidagi tamatis (pomidor) soʻzi rus  tili yok",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL070",
+    "form_source": "Baqa, Qurbaqa",
+    "meaning_uz": "Qurbaqa",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Qurbaqa",
+        "evidence_extracted": " yoʻli      Ariq, Shox, Salariq     Yop (Yap), Ariq       Ariq\n 6.   Baqa, qurbaqa            Baqa, Qurbaqa          Baqa, Jabin           Qurbaqa\n 7.  Molxona, ogʻil           Molxona, Ogʻilxona     Kete (Kete), Molxona  Ogʻil / Molxona\n\n    Ushbu lingvistik guruh ham jiddiy semantik kashfiyotlarni taqdim etadi. Xorazm\nshevasidagi tamatis (pomidor) soʻzi rus  tili yoki bevosita gʻarb tillari (lotincha solanum\nlycopersicum) orqali emas, balki ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "id": "FL071",
+    "form_source": "Molxona, Og‘ilxona",
+    "meaning_uz": "Og‘il/molxona",
+    "area": "Farg‘ona areali; maqolada vodiy/viloyat ajratilmagan",
+    "register": "maishiy yoki neytral",
+    "evidence_status": "muallif_davosi_qoshimcha_tekshiriladi",
+    "notes": "Aniq joy, respondent, yig‘ish sanasi va birlik bo‘yicha lug‘at sahifasi berilmagan. Sinxron faol ishlatilishi tekshirilmagan. Guruhlangan birliklar mutlaq sinonim deb olinmaydi.",
+    "refs": [
+      {
+        "source": "F5",
+        "pdf_page": 5,
+        "printed_page": 29,
+        "anchor_extracted": "Ogʻilxona",
+        "evidence_extracted": "        Baqa, Qurbaqa          Baqa, Jabin           Qurbaqa\n 7.  Molxona, ogʻil           Molxona, Ogʻilxona     Kete (Kete), Molxona  Ogʻil / Molxona\n\n    Ushbu lingvistik guruh ham jiddiy semantik kashfiyotlarni taqdim etadi. Xorazm\nshevasidagi tamatis (pomidor) soʻzi rus  tili yoki bevosita gʻarb tillari (lotincha solanum\nlycopersicum) orqali emas, balki qadimgi savdo yoʻllari va Kaspiy orti aloqalari natijasida\noʻgʻuz lahjalariga kirib kelg",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  }
+]

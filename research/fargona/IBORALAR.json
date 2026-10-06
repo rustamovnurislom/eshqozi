@@ -1,0 +1,102 @@
+[
+  {
+    "form_source": "yuragim g‘o‘ldiradi",
+    "meaning_claimed_uz": "Hayajonlanaman.",
+    "area": "F7 umumiy Farg‘ona da’vosi",
+    "evidence_status": "qo‘shimcha mahalliy tasdiq talab qilinadi",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "yuragim g‘o‘ldiradi",
+        "evidence_extracted": "shevaning obrazli ifoda  vositalari ekanini\n\n    ko‘rsatadi.\n\n    4. Qo‘shma so‘zlar va birikmalar: yuragim g‘o‘ldiradi - hayajonlanaman, ko‘nglim\n\n   yomon bo‘ldi - g‘ashim keldi, yuragim po‘st bo‘ldi - qo‘rqdim, titradim; duv-duv\n\n   yurmoq shoshilinch yurmoq, tilim chiqmay qoldi - hayratdan so‘zsiz qoldim. Bu\n\n    iboralar Farg‘ona shevasining ifoda imkoniyatlarini kengaytiradi.\n\n    5. Shevada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saq",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "form_source": "ko‘nglim\n\n   yomon bo‘ldi",
+    "meaning_claimed_uz": "G‘ashim keldi.",
+    "area": "F7 umumiy Farg‘ona da’vosi",
+    "evidence_status": "qo‘shimcha mahalliy tasdiq talab qilinadi",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "ko‘nglim\n\n   yomon bo‘ldi",
+        "evidence_extracted": "anini\n\n    ko‘rsatadi.\n\n    4. Qo‘shma so‘zlar va birikmalar: yuragim g‘o‘ldiradi - hayajonlanaman, ko‘nglim\n\n   yomon bo‘ldi - g‘ashim keldi, yuragim po‘st bo‘ldi - qo‘rqdim, titradim; duv-duv\n\n   yurmoq shoshilinch yurmoq, tilim chiqmay qoldi - hayratdan so‘zsiz qoldim. Bu\n\n    iboralar Farg‘ona shevasining ifoda imkoniyatlarini kengaytiradi.\n\n    5. Shevada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saqlanib qolgan:\n\n    yigitlik, yoshlik, balog‘",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "form_source": "yuragim po‘st bo‘ldi",
+    "meaning_claimed_uz": "Qo‘rqdim, titradim.",
+    "area": "F7 umumiy Farg‘ona da’vosi",
+    "evidence_status": "qo‘shimcha mahalliy tasdiq talab qilinadi",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "yuragim po‘st bo‘ldi",
+        "evidence_extracted": "lar va birikmalar: yuragim g‘o‘ldiradi - hayajonlanaman, ko‘nglim\n\n   yomon bo‘ldi - g‘ashim keldi, yuragim po‘st bo‘ldi - qo‘rqdim, titradim; duv-duv\n\n   yurmoq shoshilinch yurmoq, tilim chiqmay qoldi - hayratdan so‘zsiz qoldim. Bu\n\n    iboralar Farg‘ona shevasining ifoda imkoniyatlarini kengaytiradi.\n\n    5. Shevada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saqlanib qolgan:\n\n    yigitlik, yoshlik, balog‘at arxaik so‘z, zarda, ranjish hozir k",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "form_source": "duv-duv",
+    "meaning_claimed_uz": "Shoshilinch yurmoq (maqola izohi).",
+    "area": "F7 umumiy Farg‘ona da’vosi",
+    "evidence_status": "qo‘shimcha mahalliy tasdiq talab qilinadi",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "duv-duv",
+        "evidence_extracted": "yajonlanaman, ko‘nglim\n\n   yomon bo‘ldi - g‘ashim keldi, yuragim po‘st bo‘ldi - qo‘rqdim, titradim; duv-duv\n\n   yurmoq shoshilinch yurmoq, tilim chiqmay qoldi - hayratdan so‘zsiz qoldim. Bu\n\n    iboralar Farg‘ona shevasining ifoda imkoniyatlarini kengaytiradi.\n\n    5. Shevada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saqlanib qolgan:\n\n    yigitlik, yoshlik, balog‘at arxaik so‘z, zarda, ranjish hozir kam ishlatiladi, badtar\n\n    ba",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  },
+  {
+    "form_source": "tilim chiqmay qoldi",
+    "meaning_claimed_uz": "Hayratdan so‘zsiz qoldim.",
+    "area": "F7 umumiy Farg‘ona da’vosi",
+    "evidence_status": "qo‘shimcha mahalliy tasdiq talab qilinadi",
+    "refs": [
+      {
+        "source": "F7",
+        "pdf_page": 5,
+        "printed_page": 151,
+        "anchor_extracted": "tilim chiqmay qoldi",
+        "evidence_extracted": " - g‘ashim keldi, yuragim po‘st bo‘ldi - qo‘rqdim, titradim; duv-duv\n\n   yurmoq shoshilinch yurmoq, tilim chiqmay qoldi - hayratdan so‘zsiz qoldim. Bu\n\n    iboralar Farg‘ona shevasining ifoda imkoniyatlarini kengaytiradi.\n\n    5. Shevada hozirgi adabiy tilda ishlatilmaydigan leksik birliklar saqlanib qolgan:\n\n    yigitlik, yoshlik, balog‘at arxaik so‘z, zarda, ranjish hozir kam ishlatiladi, badtar\n\n    battar eski talaffuz, qo‘rim - do‘stlar to‘dasi xalq ",
+        "extraction": "PDF matn qatlami; asl sahifa alohida tekshiriladi"
+      }
+    ],
+    "exclusive_to_region": null,
+    "independent_modern_usage_verified": false,
+    "audio_verified": false,
+    "model_training_performed": false
+  }
+]
