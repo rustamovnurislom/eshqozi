@@ -1,0 +1,23 @@
+{
+  "profiles": 13,
+  "cards": 1204,
+  "by_dialect": {
+    "surxondaryo": 61,
+    "qashqadaryo": 79,
+    "samarqand": 72,
+    "buxoro": 88,
+    "jizzax": 35,
+    "andijon": 122,
+    "fargona": 85,
+    "namangan": 214,
+    "toshkent": 94,
+    "xorazm": 233,
+    "toshkent_kocha": 101,
+    "xorazm_kocha": 20
+  },
+  "by_kind": {
+    "lexicon": 1017,
+    "grammar": 187
+  },
+  "bundle_sha256": "248534509cf9dd5e49246ba73a43d1d046cb88ef53ba42826331c22956f3a9bb"
+}

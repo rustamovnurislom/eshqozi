@@ -1,0 +1,69 @@
+services:
+  bot:
+    build: .
+    image: eshqozi:local
+    restart: unless-stopped
+    init: true
+    environment:
+      ESHQOZI_MODE: ${ESHQOZI_MODE:-demo}
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
+      ESHQOZI_AI_KEY: ${ESHQOZI_AI_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4.1-mini}
+      OPENAI_BASE_URL: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+      ESHQOZI_WORKERS: ${ESHQOZI_WORKERS:-4}
+      ESHQOZI_RETENTION_HOURS: ${ESHQOZI_RETENTION_HOURS:-72}
+      ESHQOZI_PER_MINUTE: ${ESHQOZI_PER_MINUTE:-8}
+      ESHQOZI_PER_DAY: ${ESHQOZI_PER_DAY:-100}
+      ESHQOZI_GLOBAL_PER_DAY: ${ESHQOZI_GLOBAL_PER_DAY:-2000}
+      ESHQOZI_BACKUP_DAYS: ${ESHQOZI_BACKUP_DAYS:-7}
+    ports:
+      - "127.0.0.1:${ESHQOZI_PORT:-8000}:8000"
+    volumes:
+      - bot-data:/app/var
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    mem_limit: 512m
+    cpus: 1.0
+    stop_grace_period: 15s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+  backup:
+    image: eshqozi:local
+    restart: unless-stopped
+    init: true
+    command: ["python", "-m", "eshqozi", "scheduled-backup"]
+    environment:
+      ESHQOZI_MODE: demo
+      ESHQOZI_BACKUP_DAYS: ${ESHQOZI_BACKUP_DAYS:-7}
+    volumes:
+      - bot-data:/app/var
+    depends_on:
+      bot:
+        condition: service_healthy
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    mem_limit: 128m
+    cpus: 0.25
+    # Backup jarayoni HTTP servis emas; bot tasvirining healthcheckini meros olmasin.
+    healthcheck:
+      disable: true
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "2"
+volumes:
+  bot-data:

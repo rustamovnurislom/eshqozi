@@ -1,0 +1,15 @@
+[project]
+name = "eshqozi"
+version = "0.1.0"
+description = "Manbali o‘zbek shevalarida suhbatlashadigan Telegram bot"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+  "fastapi==0.115.12",
+  "httpx==0.28.1",
+  "pydantic==2.11.7",
+  "uvicorn==0.34.2",
+]
+
+[tool.uv]
+package = false
+

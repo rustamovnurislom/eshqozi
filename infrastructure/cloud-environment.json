@@ -1,0 +1,35 @@
+{
+  "format": "eshqozi-environment-reference-v1",
+  "install_script": "set -eu\ncd /workspace/eshqozi\nuv sync --frozen --cache-dir /tmp/eshqozi-uv-cache --link-mode copy\nESHQOZI_MODE=demo .venv/bin/python -m eshqozi init\n.venv/bin/python -m unittest discover -s tests -v\n",
+  "start_skill": "Use the existing /workspace/eshqozi checkout; do not create a Git worktree unless the user asks.\nThe committed data/knowledge.json is sufficient; /workspace/research and uploaded PDFs are not runtime requirements.\nRun `uv sync --frozen --cache-dir /tmp/eshqozi-uv-cache --link-mode copy` if .venv is missing, then `ESHQOZI_MODE=demo .venv/bin/python -m eshqozi init`.\nInspect only names/presence of TELEGRAM_BOT_TOKEN and ESHQOZI_AI_KEY (OPENAI_API_KEY is a local fallback); never print values.\nIf both credentials are securely supplied and the runtime network permits api.telegram.org and api.openai.com, run `ESHQOZI_MODE=production .venv/bin/python -m eshqozi serve` from /workspace/eshqozi. Otherwise run `ESHQOZI_MODE=demo .venv/bin/python -m eshqozi serve` and state that live AI/Telegram are not connected.\nFor a retained running service, check /healthz, /readyz and /api/dialects with internal localhost requests before starting another copy. The default port is 8000. Do not kill services you did not start, create user-facing loopback preview links, or run multiple Uvicorn workers on this SQLite database.\nProduction readiness requires an actual private Telegram /start, selection and AI response after credentials are supplied. Automated tests use mocked external APIs and do not establish live provider access.\nDocker is optional for development. On this cloud machine, Docker build containers cannot resolve package hosts; use `sh scripts/build_offline.sh` (verified hashes) and DOCKER_CONFIG=/tmp/eshqozi-docker. Compose runs bot and daily backup with persistent volume, no root privileges, and a loopback-only health port.\nRetained files survive snapshots; processes must restart. Saving the draft does not apply the runtime network policy or create credentials. Review/save settings and publish when required by the platform.\n",
+  "network": {
+    "type": "restricted",
+    "presets": [
+      "package_managers"
+    ],
+    "egress_rules": [
+      {
+        "host": "api.openai.com"
+      },
+      {
+        "host": "api.telegram.org"
+      }
+    ]
+  },
+  "secret_requirements": [
+    {
+      "name": "TELEGRAM_BOT_TOKEN",
+      "environment_variable": "TELEGRAM_BOT_TOKEN",
+      "allowed_domains": [
+        "api.telegram.org"
+      ]
+    },
+    {
+      "name": "ESHQOZI_AI_KEY",
+      "environment_variable": "ESHQOZI_AI_KEY",
+      "allowed_domains": [
+        "api.openai.com"
+      ]
+    }
+  ]
+}

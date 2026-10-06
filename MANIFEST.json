@@ -1,0 +1,195 @@
+{
+  "created_at_utc": "2026-10-06T16:17:35.136311+00:00",
+  "package": "eshqozi-source.zip",
+  "files": [
+    {
+      "path": "eshqozi/.dockerignore",
+      "bytes": 85,
+      "sha256": "955e4d784f0743c3e67ad0366686939284d8fbb768f3c46158f05e80a4536b67"
+    },
+    {
+      "path": "eshqozi/.env.example",
+      "bytes": 423,
+      "sha256": "f756ac825e673dec6102e9698afaccbb22ee142c9e47b1c76d6f2681a7f81d42"
+    },
+    {
+      "path": "eshqozi/.github/workflows/ci.yml",
+      "bytes": 568,
+      "sha256": "8e4b1ba39d4bcbd2d2038fd452b1543904d11e00ea644913a155e87515c81c5c"
+    },
+    {
+      "path": "eshqozi/.gitignore",
+      "bytes": 99,
+      "sha256": "a628c0f5927e10bd6d15d22049fe30d82e3ca86f07fa3d2fad10f8dec73d0c11"
+    },
+    {
+      "path": "eshqozi/Dockerfile",
+      "bytes": 1522,
+      "sha256": "67c7baaaa40eb7eede507584d163ffc149e6a694ff6c6dc476756d2f00d223e8"
+    },
+    {
+      "path": "eshqozi/Makefile",
+      "bytes": 413,
+      "sha256": "e54587d71f34d7a570ebf48343de82ad20d4635462ae6ba2cd08631272c59ef7"
+    },
+    {
+      "path": "eshqozi/README.md",
+      "bytes": 4472,
+      "sha256": "75804f78f6390d092c5f1cc3761b652f9eb44f58691501ca25f5bb48bb4b474a"
+    },
+    {
+      "path": "eshqozi/compose.yaml",
+      "bytes": 1811,
+      "sha256": "010934beba15796bda23ea22c76834e4ca9807795a1a25d2ba90f875302000f9"
+    },
+    {
+      "path": "eshqozi/data/import-report.json",
+      "bytes": 460,
+      "sha256": "0732f61ff0dea90902a83c8fc4fb80f598afc668d7e78cb2b023ebb348794dd1"
+    },
+    {
+      "path": "eshqozi/data/knowledge.json",
+      "bytes": 1062507,
+      "sha256": "248534509cf9dd5e49246ba73a43d1d046cb88ef53ba42826331c22956f3a9bb"
+    },
+    {
+      "path": "eshqozi/docs/ARCHITECTURE.md",
+      "bytes": 6375,
+      "sha256": "d5fe77cb543cdba739f41425789bcf647b542bb445599dbce559bf913e24ba52"
+    },
+    {
+      "path": "eshqozi/docs/HANDOFF.md",
+      "bytes": 4611,
+      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+    },
+    {
+      "path": "eshqozi/docs/KNOWLEDGE.md",
+      "bytes": 2652,
+      "sha256": "eb69a741d2118b93581541796c85adf1c026d2d2af7312c934b55340c6bf498e"
+    },
+    {
+      "path": "eshqozi/docs/OPERATIONS.md",
+      "bytes": 4286,
+      "sha256": "20eb640f361a02851c2240cfe469bd94e169e804df2140306df81bc78ee0278d"
+    },
+    {
+      "path": "eshqozi/docs/VALIDATION.md",
+      "bytes": 5803,
+      "sha256": "14bca4d17deb4ca14ed9f2967cde10cc07fd7520461b9a5d70e2fa021529fc43"
+    },
+    {
+      "path": "eshqozi/eshqozi/__init__.py",
+      "bytes": 73,
+      "sha256": "86a09e41394c52e2bcd29dc14d8b3ea083c68bdbd06a54593517711e359d7538"
+    },
+    {
+      "path": "eshqozi/eshqozi/__main__.py",
+      "bytes": 1798,
+      "sha256": "229da4bf939ed00a4ef63a60ee421584dec81390a501008987b22021e935d586"
+    },
+    {
+      "path": "eshqozi/eshqozi/app.py",
+      "bytes": 4805,
+      "sha256": "5834a6ea1f315d5156777a1f15c27f620655f8bbae2fd7762a964b8bd3c30c13"
+    },
+    {
+      "path": "eshqozi/eshqozi/backup.py",
+      "bytes": 1121,
+      "sha256": "12f8db1ef7519f2bf4bdd70887b2bc3883a6c096f73826ba76336005a4bb62c7"
+    },
+    {
+      "path": "eshqozi/eshqozi/config.py",
+      "bytes": 3661,
+      "sha256": "dbb245990eaae54117bd3e0c2ec6cd6fba78a8d706329f5f781837498470e682"
+    },
+    {
+      "path": "eshqozi/eshqozi/engine.py",
+      "bytes": 7119,
+      "sha256": "3f473b93f4a8b72b3f422f3807420e53d31b5ae2398043e0aa80026c295afa7e"
+    },
+    {
+      "path": "eshqozi/eshqozi/knowledge.py",
+      "bytes": 4486,
+      "sha256": "d6399a0f458c1c41ca715aa2ee30cd2034a5e1999bb338efcc633f059a25785c"
+    },
+    {
+      "path": "eshqozi/eshqozi/migrations/001_initial.sql",
+      "bytes": 2653,
+      "sha256": "76c442ba9f884b4c0a8ac4c2173c1f0fc00ab84384fa3cbdd985834b2c2e4021"
+    },
+    {
+      "path": "eshqozi/eshqozi/providers.py",
+      "bytes": 4877,
+      "sha256": "63e3024e3b59a7b58c84fa40e55bfc0dc3a6e9b508a387d4aa70c2c289856e9e"
+    },
+    {
+      "path": "eshqozi/eshqozi/runtime.py",
+      "bytes": 5681,
+      "sha256": "dcb8475d8bc14a5154a3396b543ae6df11aef8d7639d182d0a39fd97fb56e2ba"
+    },
+    {
+      "path": "eshqozi/eshqozi/static/index.html",
+      "bytes": 4131,
+      "sha256": "21d331e05c63da8beab2c1d823394d621305fd9567f4851e2ca727d6c07d7617"
+    },
+    {
+      "path": "eshqozi/eshqozi/storage.py",
+      "bytes": 10890,
+      "sha256": "2bbb66c7773335e086b68f9adb8b389bd466a89281d12c80943473d3ee841903"
+    },
+    {
+      "path": "eshqozi/eshqozi/telegram.py",
+      "bytes": 4119,
+      "sha256": "f84f431a72cecfdb0f3ecdac1a5d2c9ef01c9f1aa065a87f9952dc846ee28bb1"
+    },
+    {
+      "path": "eshqozi/pyproject.toml",
+      "bytes": 285,
+      "sha256": "47833c6828f4ea454604c94d0a2dbc9b15207ea5265d35f8384ea127b51ad241"
+    },
+    {
+      "path": "eshqozi/requirements.lock",
+      "bytes": 6044,
+      "sha256": "03f36ead88fe314988c270b770934c469171d078e1ad706dd8ed4aaa92efbd18"
+    },
+    {
+      "path": "eshqozi/scripts/build_offline.sh",
+      "bytes": 535,
+      "sha256": "bf85e5e4c656e3281afc2691bec8b7090d3cc51904bcfa75e81d6cf38b817f25"
+    },
+    {
+      "path": "eshqozi/scripts/import_research.py",
+      "bytes": 7006,
+      "sha256": "17319a506e85335c7b333cc11f125a86b7d477cd8ce103b7fb17d23ae624650e"
+    },
+    {
+      "path": "eshqozi/tests/test_bot.py",
+      "bytes": 19966,
+      "sha256": "66c4847f789ecacd0fe2182bd906e812378cca4588d8e0e046378bdad24b35d9"
+    },
+    {
+      "path": "eshqozi/uv.lock",
+      "bytes": 21587,
+      "sha256": "adc4f40b1317fd5154e2e3d550c502f4f9cb1069b943dfee73f3cc4c3982df5b"
+    },
+    {
+      "path": "database/eshqozi-initial.sqlite3",
+      "bytes": 1134592,
+      "sha256": "7284dd59a2a63bdd807e4b33d6bfa315f960b34d2852e2db70ee1a318a1477b8"
+    },
+    {
+      "path": "infrastructure/cloud-environment.json",
+      "bytes": 2723,
+      "sha256": "2872d945c211456661253c3c1474568136b1f5a052f3924d5a088251d52d0784"
+    },
+    {
+      "path": "TOPSHIRISH.md",
+      "bytes": 4611,
+      "sha256": "7d2b0ce1f56cd8fe876e3d4ff3b3734e1dd646ec48a4950482ec006da51c6733"
+    }
+  ],
+  "profiles": 13,
+  "knowledge_cards": 1204,
+  "user_records_in_initial_database": 0,
+  "live_secrets_included": false
+}
